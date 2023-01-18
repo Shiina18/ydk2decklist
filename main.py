@@ -17,10 +17,18 @@ LUA_SCRIPT_DIR = './script'
 CARD_DATABASE_PATH = './cards.cdb'
 # source: https://ygocdb.com/about
 DOVE_DATABASE_PATH = './cards.json'
-_DICT_DATA_RAW = json.loads(pathlib.Path(DOVE_DATABASE_PATH).read_text(encoding='utf8'))
-DICT_DATA = {}
-for cid, d in _DICT_DATA_RAW.items():
-    DICT_DATA[d['id']] = d
+
+
+@st.cache
+def read_dict_data():
+    _DICT_DATA_RAW = json.loads(pathlib.Path(DOVE_DATABASE_PATH).read_text(encoding='utf8'))
+    DICT_DATA = {}
+    for cid, d in _DICT_DATA_RAW.items():
+        DICT_DATA[d['id']] = d
+    return DICT_DATA
+
+
+DICT_DATA = read_dict_data()
 
 
 class Section(StrEnum):
@@ -188,8 +196,6 @@ def fetch_name_cn(row) -> str:
 INTRODUCTION = pathlib.Path('README.md').read_text(encoding='utf8')
 st.markdown(INTRODUCTION)
 
-connection = sqlite3.connect(CARD_DATABASE_PATH)
-
 uploaded_file = st.file_uploader("上传 ydk 文件")
 if uploaded_file is not None:
     bytes_data = uploaded_file.getvalue()
@@ -199,13 +205,14 @@ if uploaded_file is not None:
     deck = ydk2deck(lines)
     unique_ids = get_unique_ids(deck)
 
-    df_data = pd.read_sql(
-        f'SELECT datas.id, datas.alias, datas.type, texts.name AS name_cn '
-        f'FROM datas JOIN texts ON datas.id = texts.id '
-        f'WHERE datas.id IN {tuple(unique_ids)} '
-        f'OR datas.alias IN {tuple(unique_ids)}',
-        connection,
-    )
+    with sqlite3.connect(CARD_DATABASE_PATH) as connection:
+        df_data = pd.read_sql(
+            f'SELECT datas.id, datas.alias, datas.type, texts.name AS name_cn '
+            f'FROM datas JOIN texts ON datas.id = texts.id '
+            f'WHERE datas.id IN {tuple(unique_ids)} '
+            f'OR datas.alias IN {tuple(unique_ids)}',
+            connection,
+        )
 
     df_data['type'] = df_data['type'].apply(parse_type)
     df_data['name_jp'] = df_data.apply(fetch_name_jp, axis=1)
