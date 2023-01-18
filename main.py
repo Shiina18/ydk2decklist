@@ -2,6 +2,7 @@ import collections
 import dataclasses
 import datetime
 import io
+import json
 import pathlib
 import sqlite3
 from typing import List, Optional, Dict, Set, Tuple
@@ -11,10 +12,15 @@ import pypdf
 import streamlit as st
 from strenum import StrEnum
 
-YDK_PATH = r'E:\MyCardLibrary\ygopro\deck\2023-01-14\礼堂顶针-龙虾.ydk'
 PDF_TEMPLATE_PATH = './KDE_DeckList.pdf'
 LUA_SCRIPT_DIR = './script'
 CARD_DATABASE_PATH = './cards.cdb'
+# source: https://ygocdb.com/about
+DOVE_DATABASE_PATH = './cards.json'
+_DICT_DATA_RAW = json.loads(pathlib.Path(DOVE_DATABASE_PATH).read_text(encoding='utf8'))
+DICT_DATA = {}
+for cid, d in _DICT_DATA_RAW.items():
+    DICT_DATA[d['id']] = d
 
 
 class Section(StrEnum):
@@ -137,7 +143,7 @@ def deck2kvs(deck: Deck, lang='jp') -> Tuple[Dict, Dict[CardType, List[Record]]]
     return final_dict, main_type_overflow
 
 
-def make_pdf(kvs: Dict, output_path=None):
+def make_pdf(kvs: Dict):
     now = datetime.datetime.now()
     kvs.update(
         {
@@ -168,6 +174,17 @@ def fetch_name_jp(row) -> str:
     return line[len('--'):]
 
 
+def fetch_name_cn(row) -> str:
+    card_id = row.id if row.alias == 0 else row.alias
+    d = DICT_DATA.get(card_id)
+    if d is None:
+        return f'card_id {row.id} not found'
+    name_cn = d.get('sc_name')
+    if name_cn is not None:
+        return name_cn
+    return '(旧译) ' + d.get('cn_name')
+
+
 INTRODUCTION = pathlib.Path('README.md').read_text(encoding='utf8')
 st.markdown(INTRODUCTION)
 
@@ -192,6 +209,7 @@ if uploaded_file is not None:
 
     df_data['type'] = df_data['type'].apply(parse_type)
     df_data['name_jp'] = df_data.apply(fetch_name_jp, axis=1)
+    df_data['name_cn'] = df_data.apply(fetch_name_cn, axis=1)
     for section in Section:
         for record in getattr(deck, section):
             row = df_data[df_data['id'] == record.card_id].iloc[0]
@@ -210,7 +228,7 @@ if uploaded_file is not None:
 
     final_dict, main_type_overflow = deck2kvs(deck, lang='cn')
     content = make_pdf(final_dict)
-    st.download_button('下载中文卡表', content, file_name='中文_' + pdf_name)
+    st.download_button('下载简中卡表', content, file_name='简中_' + pdf_name)
 
     if any(records for t, records in main_type_overflow.items()):
         st.markdown('**写不下的卡片**')
