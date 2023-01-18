@@ -1,0 +1,1 @@
+--アルカナフォースEX－THE LIGHT RULER
