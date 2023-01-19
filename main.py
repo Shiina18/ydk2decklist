@@ -4,8 +4,8 @@ import json
 import logging
 import pathlib
 import time
-from typing import List, Optional, Dict, Tuple
 import uuid
+from typing import List, Optional, Dict, Tuple
 
 import pypdf
 import requests
@@ -152,9 +152,14 @@ def make_pdf(kvs: Dict) -> io.BytesIO:
     return content
 
 
+@st.cache(max_entries=100)
+def text2uuid(text):
+    return uuid.uuid1().hex
+
+
+# note that streamlit will rerun the script when the user clicks the download button
 uploaded_file = st.file_uploader('**拖拽上传 ydk 文件**', type='ydk')
 if uploaded_file is not None:
-    uuid = uuid.uuid1().hex
     start_time = time.perf_counter()
 
     text = io.StringIO(uploaded_file.getvalue().decode("utf-8")).read(1000)
@@ -162,6 +167,7 @@ if uploaded_file is not None:
         '[filename] %s [uuid] %s [content] %s',
         uploaded_file.name, uuid, json.dumps(text),
     )
+    uuid = text2uuid(text)
 
     deck = ydk2deck(text.split('\n'))
 
