@@ -1,1 +1,0 @@
---Garura, Wings of Resonant Life

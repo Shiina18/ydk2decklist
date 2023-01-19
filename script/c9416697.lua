@@ -1,1 +1,0 @@
---Eanoc, Sentry of the Ghoti

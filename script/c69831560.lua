@@ -1,1 +1,0 @@
---アルカナフォースEX－THE DARK RULER

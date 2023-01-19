@@ -1,62 +1,43 @@
 import collections
-import dataclasses
-import datetime
 import io
 import json
+import logging
 import pathlib
-import sqlite3
-from typing import List, Optional, Dict, Set, Tuple
+from typing import List, Optional, Dict, Tuple
 
-import pandas as pd
 import pypdf
+import requests
 import streamlit as st
-from strenum import StrEnum
+
+import utils
+from utils import (
+    ALIAS2ID_PATH, ID2DATA_PATH,
+    Section, CardType, Language, CardData,
+    Record, Deck,
+)
+
+logger = logging.getLogger(__name__)
+
+
+@st.experimental_singleton
+def read_db() -> Dict[str, CardData]:
+    return json.loads(ID2DATA_PATH.read_text(encoding='utf8'))
+
+
+@st.experimental_singleton
+def read_alias_db() -> Dict[str, int]:
+    return json.loads(ALIAS2ID_PATH.read_text(encoding='utf8'))
+
 
 PDF_TEMPLATE_PATH = './KDE_DeckList.pdf'
-LUA_SCRIPT_DIR = './script'
-CARD_DATABASE_PATH = './cards.cdb'
-# source: https://ygocdb.com/about
-DOVE_DATABASE_PATH = './cards.json'
 
+README = pathlib.Path('README.md').read_text(encoding='utf8')
+section2text = utils.sec_md(README.split('\n'))
+st.markdown(section2text['foreword'])
+print(section2text)
 
-@st.cache
-def read_dict_data():
-    _DICT_DATA_RAW = json.loads(pathlib.Path(DOVE_DATABASE_PATH).read_text(encoding='utf8'))
-    DICT_DATA = {}
-    for cid, d in _DICT_DATA_RAW.items():
-        DICT_DATA[d['id']] = d
-    return DICT_DATA
-
-
-DICT_DATA = read_dict_data()
-
-
-class Section(StrEnum):
-    MAIN = 'main'
-    EXTRA = 'extra'
-    SIDE = 'side'
-
-
-class CardType(StrEnum):
-    MONSTER = 'Monster'
-    SPELL = 'Spell'
-    TRAP = 'Trap'
-
-
-@dataclasses.dataclass
-class Record:
-    card_id: int
-    name_jp: Optional[str] = None
-    name_cn: Optional[str] = None
-    count: int = 0
-    type: Optional[CardType] = None
-
-
-@dataclasses.dataclass
-class Deck:
-    main: List[Record] = dataclasses.field(default_factory=list)
-    extra: List[Record] = dataclasses.field(default_factory=list)
-    side: List[Record] = dataclasses.field(default_factory=list)
+ID2DATA = read_db()
+ALIAS2ID = read_alias_db()
 
 
 def ydk2deck(lines: List[str]) -> Deck:
@@ -84,33 +65,41 @@ def ydk2deck(lines: List[str]) -> Deck:
     return deck
 
 
-def get_unique_ids(deck: Deck) -> Set[int]:
-    unique_ids = set()
-    for section in Section:
-        unique_ids = unique_ids | set(record.card_id for record in getattr(deck, section))
-    return unique_ids
+@st.cache(max_entries=500)
+def fetch_new_card(card_id: int) -> Optional[CardData]:
+    # it is currently single-threaded, but should be enough
+    url = f'https://ygocdb.com/api/v0/?search={card_id}'
+    response = requests.get(url, timeout=10)
+    logger.info('Getting new card %s', card_id)
+    if response.status_code != 200:
+        # No retry
+        logger.error('Failed getting %s: %s', url, response.text)
+        return
+    for d in json.loads(response.text).get('result', []):
+        if d['id'] == card_id:
+            return utils.adapt_dict(d)
 
 
-def parse_type(num: int) -> CardType:
-    """https://github.com/KittyTrouble/Ygopro-Card-Creation#step-4b-choosing-a-cards-type"""
-    binary = bin(num)
-    if binary[-1] == '1':
-        return CardType.MONSTER
-    if binary[-2] == '1':
-        return CardType.SPELL
-    if binary[-3] == '1':
-        return CardType.TRAP
+def fetch_card_data(card_id: int) -> Optional[CardData]:
+    card_id = ALIAS2ID.get(str(card_id), card_id)
+    data = ID2DATA.get(str(card_id))
+    if data is None:
+        data = fetch_new_card(card_id)
+    return data
 
 
-def deck2kvs(deck: Deck, lang='jp') -> Tuple[Dict, Dict[CardType, List[Record]]]:
-    name = f'name_{lang}'
+def deck2kvs(deck: Deck, lang: Language) -> Tuple[Dict, Dict[str, List[Record]]]:
     final_dict = {}
 
     main_type_idx = {t: 0 for t in CardType}
     main_type_count = {t: 0 for t in CardType}
-    main_type_overflow: Dict[CardType, List[Record]] = {t: [] for t in CardType}
+    main_type_overflow: Dict[str, List[Record]] = {t: [] for t in CardType}
+    main_type_overflow.update({'Unknown': []})
     for record in deck.main:
         card_type = record.type
+        if card_type is None:
+            main_type_overflow['Unknown'].append(record)
+            continue
         main_type_idx[card_type] += 1
         idx = main_type_idx[card_type]
         main_type_count[card_type] += record.count
@@ -118,7 +107,7 @@ def deck2kvs(deck: Deck, lang='jp') -> Tuple[Dict, Dict[CardType, List[Record]]]
             main_type_overflow[card_type].append(record)
         final_dict.update(
             {
-                f'{card_type} {idx}': getattr(record, name),
+                f'{card_type} {idx}': getattr(record, lang),
                 f'{card_type} Card {idx} Count': record.count,
             }
         )
@@ -130,7 +119,7 @@ def deck2kvs(deck: Deck, lang='jp') -> Tuple[Dict, Dict[CardType, List[Record]]]
     for idx, record in enumerate(deck.extra, start=1):
         final_dict.update(
             {
-                f'Extra Deck {idx}': getattr(record, name),
+                f'Extra Deck {idx}': getattr(record, lang),
                 f'Extra Deck {idx} Count': record.count,
             }
         )
@@ -141,7 +130,7 @@ def deck2kvs(deck: Deck, lang='jp') -> Tuple[Dict, Dict[CardType, List[Record]]]
     for idx, record in enumerate(deck.side, start=1):
         final_dict.update(
             {
-                f'Side Deck {idx}': getattr(record, name),
+                f'Side Deck {idx}': getattr(record, lang),
                 f'Side Deck {idx} Count': record.count,
             }
         )
@@ -151,16 +140,7 @@ def deck2kvs(deck: Deck, lang='jp') -> Tuple[Dict, Dict[CardType, List[Record]]]
     return final_dict, main_type_overflow
 
 
-def make_pdf(kvs: Dict):
-    now = datetime.datetime.now()
-    kvs.update(
-        {
-            'Event Date - Year': now.year,
-            'Event Date - Month': f'{now.month:0>2}',
-            'Event Date - Day': f'{now.day:0>2}',
-        }
-    )
-
+def make_pdf(kvs: Dict) -> io.BytesIO:
     reader = pypdf.PdfReader(PDF_TEMPLATE_PATH)
     writer = pypdf.PdfWriter()
     writer.add_page(reader.pages[0])
@@ -171,74 +151,52 @@ def make_pdf(kvs: Dict):
     return content
 
 
-def fetch_name_jp(row) -> str:
-    card_id = row.id if row.alias == 0 else row.alias
-    path = pathlib.Path(LUA_SCRIPT_DIR) / f'c{card_id}.lua'
-    if not path.exists():
-        return f'card_id {row.id} not found'
-    with open(path, encoding='utf8') as f:
-        line = f.readline().strip()
-    assert line.startswith('--')
-    return line[len('--'):]
-
-
-def fetch_name_cn(row) -> str:
-    card_id = row.id if row.alias == 0 else row.alias
-    d = DICT_DATA.get(card_id)
-    if d is None:
-        return f'card_id {row.id} not found'
-    name_cn = d.get('sc_name')
-    if name_cn is not None:
-        return name_cn
-    return '(旧译) ' + d.get('cn_name')
-
-
-INTRODUCTION = pathlib.Path('README.md').read_text(encoding='utf8')
-st.markdown(INTRODUCTION)
-
-uploaded_file = st.file_uploader("上传 ydk 文件")
+uploaded_file = st.file_uploader('**拖拽上传 ydk 文件**', type='ydk')
 if uploaded_file is not None:
-    bytes_data = uploaded_file.getvalue()
+    logger.info('ydk filename: %s', uploaded_file.name)
     lines = io.StringIO(uploaded_file.getvalue().decode("utf-8")).readlines()
     assert len(lines) < 100
 
     deck = ydk2deck(lines)
-    unique_ids = get_unique_ids(deck)
 
-    with sqlite3.connect(CARD_DATABASE_PATH) as connection:
-        df_data = pd.read_sql(
-            f'SELECT datas.id, datas.alias, datas.type, texts.name AS name_cn '
-            f'FROM datas JOIN texts ON datas.id = texts.id '
-            f'WHERE datas.id IN {tuple(unique_ids)} '
-            f'OR datas.alias IN {tuple(unique_ids)}',
-            connection,
-        )
-
-    df_data['type'] = df_data['type'].apply(parse_type)
-    df_data['name_jp'] = df_data.apply(fetch_name_jp, axis=1)
-    df_data['name_cn'] = df_data.apply(fetch_name_cn, axis=1)
     for section in Section:
         for record in getattr(deck, section):
-            row = df_data[df_data['id'] == record.card_id].iloc[0]
-            record.type = row.type
-            record.name_cn = row.name_cn
-            record.name_jp = row.name_jp
+            card_data = fetch_card_data(record.card_id)
+            if card_data is None:
+                record.name_cn = '未找到该卡'
+                continue
+            record.type = card_data['type']
+            if name_cn := card_data.get('sc_name'):
+                record.name_cn = name_cn  # 简中
+            else:
+                if name_cn := card_data.get('cn_name'):
+                    record.name_cn = '(旧译) ' + name_cn
+                else:
+                    record.name_cn = '(没找到中文译名)'
+            record.name_jp = card_data.get('jp_name', '(没找到日文译名)')
+            record.name_en = card_data.get('en_name', '(没找到英文译名)')
 
     pdf_name = uploaded_file.name
     if pdf_name.endswith('.ydk'):
         pdf_name = pdf_name[:-len('.ydk')]
     pdf_name = pdf_name + '.pdf'
 
-    final_dict, _ = deck2kvs(deck, lang='jp')
-    content = make_pdf(final_dict)
-    st.download_button('下载日文卡表', content, file_name='日文_' + pdf_name)
+    final_dict, _ = deck2kvs(deck, lang=Language.JAPANESE)
+    with make_pdf(final_dict) as content:
+        st.download_button('下载日文卡表 JP', content, file_name='日文@' + pdf_name)
 
-    final_dict, main_type_overflow = deck2kvs(deck, lang='cn')
-    content = make_pdf(final_dict)
-    st.download_button('下载简中卡表', content, file_name='简中_' + pdf_name)
+    final_dict, _ = deck2kvs(deck, lang=Language.CHINESE)
+    with make_pdf(final_dict) as content:
+        st.download_button('下载简中卡表 CN', content, file_name='简中@' + pdf_name)
+
+    final_dict, main_type_overflow = deck2kvs(deck, lang=Language.ENGLISH)
+    with make_pdf(final_dict) as content:
+        st.download_button('下载英文卡表 EN', content, file_name='英文@' + pdf_name)
 
     if any(records for t, records in main_type_overflow.items()):
-        st.markdown('**写不下的卡片**')
+        st.markdown('**写不下或无法识别的卡片**')
         for t in main_type_overflow:
             main_type_overflow[t] = [record.__dict__ for record in main_type_overflow[t]]
         st.write(main_type_overflow)
+
+st.markdown(section2text['说明'])

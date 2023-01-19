@@ -1,1 +1,0 @@
---Destructive Daruma Karma Cannon

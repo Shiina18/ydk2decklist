@@ -1,1 +1,0 @@
---Vanguard of the Underground Emperor

@@ -1,1 +1,0 @@
---CNo.101 S・H・Dark Knight
