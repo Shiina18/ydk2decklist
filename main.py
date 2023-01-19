@@ -167,7 +167,7 @@ if uploaded_file is not None:
         '[filename] %s [uuid] %s [content] %s',
         uploaded_file.name, uuid, json.dumps(text),
     )
-    uuid = text2uuid(text)
+    trace_id = text2uuid(text)
 
     deck = ydk2deck(text.split('\n'))
 
@@ -211,7 +211,7 @@ if uploaded_file is not None:
     else:
         elapsed = f'{elapsed:.3f} s'
     st.write(f'Elapsed {elapsed}')
-    logger.info('[uuid] %s [elapsed] %s', uuid, elapsed)
+    logger.info('[uuid] %s [elapsed] %s', trace_id, elapsed)
 
     if any(records for t, records in main_type_overflow.items()):
         st.markdown('**写不下或无法识别的卡片**')
