@@ -3,6 +3,7 @@ import io
 import json
 import logging
 import pathlib
+import time
 from typing import List, Optional, Dict, Tuple
 
 import pypdf
@@ -152,6 +153,8 @@ def make_pdf(kvs: Dict) -> io.BytesIO:
 
 uploaded_file = st.file_uploader('**拖拽上传 ydk 文件**', type='ydk')
 if uploaded_file is not None:
+    start_time = time.perf_counter()
+
     text = io.StringIO(uploaded_file.getvalue().decode("utf-8")).read(1000)
     logger.info(
         '[filename]: %s | [content]: %s',
@@ -193,6 +196,13 @@ if uploaded_file is not None:
     final_dict, main_type_overflow = deck2kvs(deck, lang=Language.ENGLISH)
     with make_pdf(final_dict) as content:
         st.download_button('下载英文卡表 EN', content, file_name='英文@' + pdf_name)
+
+    elapsed = time.perf_counter() - start_time
+    if elapsed < 1:
+        elapsed = f'{elapsed * 100:.1f} ms'
+    else:
+        elapsed = f'{elapsed:.3f} s'
+    st.write(f'Elapsed {elapsed}')
 
     if any(records for t, records in main_type_overflow.items()):
         st.markdown('**写不下或无法识别的卡片**')
