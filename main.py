@@ -5,6 +5,7 @@ import logging
 import pathlib
 import time
 from typing import List, Optional, Dict, Tuple
+import uuid
 
 import pypdf
 import requests
@@ -73,7 +74,7 @@ def fetch_new_card(card_id: int) -> Optional[CardData]:
     logger.info('Getting new card %s', card_id)
     if response.status_code != 200:
         # No retry
-        logger.error('Failed getting %s: %s', url, response.text)
+        logger.error('Failed getting %s: %s', card_id, response.text)
         return
     for d in json.loads(response.text).get('result', []):
         if d['id'] == card_id:
@@ -153,12 +154,13 @@ def make_pdf(kvs: Dict) -> io.BytesIO:
 
 uploaded_file = st.file_uploader('**拖拽上传 ydk 文件**', type='ydk')
 if uploaded_file is not None:
+    uuid = uuid.uuid1().hex
     start_time = time.perf_counter()
 
     text = io.StringIO(uploaded_file.getvalue().decode("utf-8")).read(1000)
     logger.info(
-        '[filename]: %s | [content]: %s',
-        uploaded_file.name, json.dumps(text),
+        '[filename] %s [uuid] %s [content] %s',
+        uploaded_file.name, uuid, json.dumps(text),
     )
 
     deck = ydk2deck(text.split('\n'))
@@ -203,6 +205,7 @@ if uploaded_file is not None:
     else:
         elapsed = f'{elapsed:.3f} s'
     st.write(f'Elapsed {elapsed}')
+    logger.info('[uuid] %s [elapsed] %s', uuid, elapsed)
 
     if any(records for t, records in main_type_overflow.items()):
         st.markdown('**写不下或无法识别的卡片**')
