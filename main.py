@@ -141,10 +141,15 @@ def deck2kvs(deck: Deck, lang: Language) -> Tuple[Dict, Dict[str, List[Record]]]
     return final_dict, main_type_overflow
 
 
-def make_pdf(kvs: Dict) -> io.BytesIO:
+@st.experimental_singleton
+def read_template_pdf():
     reader = pypdf.PdfReader(PDF_TEMPLATE_PATH)
+    return reader.pages[0]
+
+
+def make_pdf(kvs: Dict) -> io.BytesIO:
     writer = pypdf.PdfWriter()
-    writer.add_page(reader.pages[0])
+    writer.add_page(read_template_pdf())
     writer.update_page_form_field_values(writer.pages[0], kvs)
 
     content = io.BytesIO()
