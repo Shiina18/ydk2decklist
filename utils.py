@@ -80,7 +80,3 @@ def sec_md(lines: List[str]) -> Dict[str, str]:
     if buffer:
         section2text[section] = '\n'.join(buffer)
     return section2text
-
-
-README = pathlib.Path('README.md').read_text(encoding='utf8')
-section2text = sec_md(README.split('\n'))
