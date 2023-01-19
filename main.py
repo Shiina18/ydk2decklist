@@ -34,7 +34,6 @@ PDF_TEMPLATE_PATH = './KDE_DeckList.pdf'
 README = pathlib.Path('README.md').read_text(encoding='utf8')
 section2text = utils.sec_md(README.split('\n'))
 st.markdown(section2text['foreword'])
-print(section2text)
 
 ID2DATA = read_db()
 ALIAS2ID = read_alias_db()
@@ -153,11 +152,13 @@ def make_pdf(kvs: Dict) -> io.BytesIO:
 
 uploaded_file = st.file_uploader('**拖拽上传 ydk 文件**', type='ydk')
 if uploaded_file is not None:
-    logger.info('ydk filename: %s', uploaded_file.name)
-    lines = io.StringIO(uploaded_file.getvalue().decode("utf-8")).readlines()
-    assert len(lines) < 100
+    text = io.StringIO(uploaded_file.getvalue().decode("utf-8")).read(1000)
+    logger.info(
+        '[filename]: %s | [content]: %s',
+        uploaded_file.name, json.dumps(text),
+    )
 
-    deck = ydk2deck(lines)
+    deck = ydk2deck(text.split('\n'))
 
     for section in Section:
         for record in getattr(deck, section):
