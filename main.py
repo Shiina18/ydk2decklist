@@ -207,7 +207,7 @@ if uploaded_file is not None:
 
     elapsed = time.perf_counter() - start_time
     if elapsed < 1:
-        elapsed = f'{elapsed * 100:.1f} ms'
+        elapsed = f'{elapsed * 1000:.1f} ms'
     else:
         elapsed = f'{elapsed:.3f} s'
     st.write(f'Elapsed {elapsed}')
