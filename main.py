@@ -163,11 +163,11 @@ if uploaded_file is not None:
     start_time = time.perf_counter()
 
     text = io.StringIO(uploaded_file.getvalue().decode("utf-8")).read(1000)
+    trace_id = text2uuid(text)
     logger.info(
         '[filename] %s [uuid] %s [content] %s',
-        uploaded_file.name, uuid, json.dumps(text),
+        uploaded_file.name, trace_id, json.dumps(text),
     )
-    trace_id = text2uuid(text)
 
     deck = ydk2deck(text.split('\n'))
 
@@ -210,7 +210,6 @@ if uploaded_file is not None:
         elapsed = f'{elapsed * 1000:.1f} ms'
     else:
         elapsed = f'{elapsed:.3f} s'
-    st.write(f'Elapsed {elapsed}')
     logger.info('[uuid] %s [elapsed] %s', trace_id, elapsed)
 
     if any(records for t, records in main_type_overflow.items()):
