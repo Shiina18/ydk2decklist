@@ -31,11 +31,30 @@ def read_alias_db() -> Dict[str, int]:
     return json.loads(ALIAS2ID_PATH.read_text(encoding='utf8'))
 
 
-PDF_TEMPLATE_PATH = './KDE_DeckList.pdf'
+@st.experimental_singleton
+def read_adapter() -> Dict[str, int]:
+    return json.loads(pathlib.Path('adapter.json').read_text(encoding='utf8'))
+
+
+@st.experimental_singleton
+def read_adapter_en() -> Dict[str, int]:
+    return json.loads(pathlib.Path('adapter_en.json').read_text(encoding='utf8'))
+
 
 README = pathlib.Path('README.md').read_text(encoding='utf8')
 section2text = utils.sec_md(README.split('\n'))
 st.markdown(section2text['foreword'])
+
+USE_CHINESE = st.checkbox('使用中文 PDF 模板')
+st.info('中文模板常常显示不全卡名, 英文模板几乎没有这个问题')
+
+TEMPLATE = Language.CHINESE if USE_CHINESE else Language.ENGLISH
+if TEMPLATE == Language.ENGLISH:
+    EN_PDF_TEMPLATE_PATH = './KDE_DeckList.pdf'  # 上限 18 条, 自动放缩文字
+    ADAPTER = read_adapter_en()
+else:
+    CN_PDF_TEMPLATE_PATH = './中文卡表模板.pdf'  # 上限 20 条, 不放缩文字, 经常显示不全
+    ADAPTER = read_adapter()
 
 ID2DATA = read_db()
 ALIAS2ID = read_alias_db()
@@ -108,52 +127,64 @@ def deck2kvs(deck: Deck, lang: Language) -> Tuple[Dict, Dict[str, List[Record]]]
         main_type_idx[card_type] += 1
         idx = main_type_idx[card_type]
         main_type_count[card_type] += record.count
-        if idx > 18:
+        limit = 18 if TEMPLATE == lang.ENGLISH else 20
+        if idx > limit:
             main_type_overflow[card_type].append(record)
         final_dict.update(
             {
-                f'{card_type} {idx}': getattr(record, lang),
-                f'{card_type} Card {idx} Count': record.count,
+                ADAPTER.get(f'{card_type} {idx}', 'null'): getattr(record, lang),
+                ADAPTER.get(f'{card_type} Card {idx} Count', 'null'): record.count,
             }
         )
     for t in CardType:
-        final_dict[f'Total {t} Cards'] = main_type_count[t]
-    final_dict['Main Deck Total'] = sum(main_type_count[t] for t in CardType)
+        final_dict[ADAPTER[f'Total {t} Cards']] = main_type_count[t]
+    final_dict[ADAPTER['Main Deck Total']] = sum(main_type_count[t] for t in CardType)
 
     count = 0
     for idx, record in enumerate(deck.extra, start=1):
         final_dict.update(
             {
-                f'Extra Deck {idx}': getattr(record, lang),
-                f'Extra Deck {idx} Count': record.count,
+                ADAPTER.get(f'Extra Deck {idx}', 'null'): getattr(record, lang),
+                ADAPTER.get(f'Extra Deck {idx} Count', 'null'): record.count,
             }
         )
         count += record.count
-    final_dict['Total Extra Deck'] = count
+    final_dict[ADAPTER['Total Extra Deck']] = count
+    final_dict[ADAPTER['Extra Deck Total']] = count
 
     count = 0
     for idx, record in enumerate(deck.side, start=1):
         final_dict.update(
             {
-                f'Side Deck {idx}': getattr(record, lang),
-                f'Side Deck {idx} Count': record.count,
+                ADAPTER.get(f'Side Deck {idx}', 'null'): getattr(record, lang),
+                ADAPTER.get(f'Side Deck {idx} Count', 'null'): record.count,
             }
         )
         count += record.count
-    final_dict['Total Side Deck'] = count
+    final_dict[ADAPTER['Total Side Deck']] = count
+    final_dict[ADAPTER['Side Deck Total']] = count
 
     return final_dict, main_type_overflow
 
 
 @st.experimental_singleton
 def read_template_pdf():
-    reader = pypdf.PdfReader(PDF_TEMPLATE_PATH)
+    reader = pypdf.PdfReader(CN_PDF_TEMPLATE_PATH)
     return reader.pages[0]
 
 
-def make_pdf(kvs: Dict) -> io.BytesIO:
+@st.experimental_singleton
+def read_template_pdf_en():
+    reader = pypdf.PdfReader(EN_PDF_TEMPLATE_PATH)
+    return reader.pages[0]
+
+
+def make_pdf(kvs: Dict, lang: Language) -> io.BytesIO:
     writer = pypdf.PdfWriter()
-    writer.add_page(read_template_pdf())
+    if lang == Language.ENGLISH:
+        writer.add_page(read_template_pdf_en())
+    elif lang == Language.CHINESE:
+        writer.add_page(read_template_pdf())
     writer.update_page_form_field_values(writer.pages[0], kvs)
 
     content = io.BytesIO()
@@ -202,15 +233,15 @@ if uploaded_file is not None:
     pdf_name = pdf_name + '.pdf'
 
     final_dict, _ = deck2kvs(deck, lang=Language.JAPANESE)
-    with make_pdf(final_dict) as content:
+    with make_pdf(final_dict, TEMPLATE) as content:
         st.download_button('下载日文卡表 JP', content, file_name='日文@' + pdf_name)
 
     final_dict, _ = deck2kvs(deck, lang=Language.CHINESE)
-    with make_pdf(final_dict) as content:
+    with make_pdf(final_dict, TEMPLATE) as content:
         st.download_button('下载简中卡表 CN', content, file_name='简中@' + pdf_name)
 
     final_dict, main_type_overflow = deck2kvs(deck, lang=Language.ENGLISH)
-    with make_pdf(final_dict) as content:
+    with make_pdf(final_dict, TEMPLATE) as content:
         st.download_button('下载英文卡表 EN', content, file_name='英文@' + pdf_name)
 
     elapsed = time.perf_counter() - start_time
