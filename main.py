@@ -46,7 +46,7 @@ section2text = utils.sec_md(README.split('\n'))
 st.markdown(section2text['foreword'])
 
 USE_CHINESE = st.checkbox('使用中文 PDF 模板')
-st.info('中文模板常常显示不全卡名, 英文模板几乎没有这个问题')
+NOTE = '**中文模板常常显示不全卡名, 英文模板几乎没有这个问题**'
 
 TEMPLATE = Language.CHINESE if USE_CHINESE else Language.ENGLISH
 if TEMPLATE == Language.ENGLISH:
@@ -193,11 +193,7 @@ def make_pdf(kvs: Dict, lang: Language) -> io.BytesIO:
 
 
 # note that streamlit will rerun the script when the user clicks the download button
-uploaded_file = st.file_uploader(
-    '**拖拽上传 ydk 文件**',
-    type='ydk',
-    label_visibility='hidden',
-)
+uploaded_file = st.file_uploader(NOTE, type='ydk')
 if uploaded_file is not None:
     start_time = time.perf_counter()
 
