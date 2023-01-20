@@ -197,7 +197,7 @@ uploaded_file = st.file_uploader(NOTE, type='ydk')
 if uploaded_file is not None:
     start_time = time.perf_counter()
 
-    text = io.StringIO(uploaded_file.getvalue().decode("utf-8")).read(1000)
+    text = io.StringIO(uploaded_file.getvalue().decode("utf-8")).read(2000)
     md5 = hashlib.md5(text.encode()).hexdigest()
     logger.info(
         '[filename] %s [md5] %s [content] %s',
