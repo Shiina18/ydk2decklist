@@ -99,9 +99,21 @@ def fetch_new_card(card_id: int) -> Optional[CardData]:
     if response.status_code != 200:
         logger.error('Failed getting %s: %s', card_id, response.text)
         return
-    for d in json.loads(response.text).get('result', []):
+
+    results = response.json().get('result', [])
+    if len(results) == 1:
+        d = results[0]
+        if d['id'] != card_id:
+            # TODO: 不清楚这些卡 id 怎么关联上的
+            logger.warning('Different id for %s: %s', card_id, utils.adapt_dict(d))
+        return utils.adapt_dict(d)
+
+    logger.info('Fetched %s: %s', card_id, results)
+    for d in results:
         if d['id'] == card_id:
             return utils.adapt_dict(d)
+
+    logger.error('%s not found', card_id)
 
 
 def fetch_card_data(card_id: int) -> Optional[CardData]:
