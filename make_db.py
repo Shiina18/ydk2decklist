@@ -62,11 +62,13 @@ with sqlite3.connect(CARDS_CDB_PATH) as connection:
         connection,
     )
 
-alias2id = dict(zip(df_data['alias'], df_data['id']))
 alias2id_small = {}
-for alias, id_ in alias2id.items():
+for _, row in df_data.iterrows():
+    alias = row['alias']
+    id_ = row['id']
     if id_ in dict_small:
         alias2id_small[alias] = id_
     if alias in dict_small:
         alias2id_small[id_] = alias
+
 utils.ALIAS2ID_PATH.write_text(json.dumps(alias2id_small, indent=2))
