@@ -254,3 +254,13 @@ if uploaded_file is not None:
         st.write(main_type_overflow)
 
 st.markdown(section2text['说明'])
+
+with st.expander('Changelog'):
+    st.markdown(utils.remove_title(section2text['Changlog']))
+
+
+FOOTER = 'Made with dove by <a href="https://mp.weixin.qq.com/s/VCS4aBVqPKbDwCcGf9RpXQ">C7</a>'
+st.markdown(
+    f"<div style='text-align: center;'><font color='lightgrey'>{FOOTER}</font></div>",
+    unsafe_allow_html=True,
+)

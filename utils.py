@@ -80,3 +80,7 @@ def sec_md(lines: List[str]) -> Dict[str, str]:
     if buffer:
         section2text[section] = '\n'.join(buffer)
     return section2text
+
+
+def remove_title(md):
+    return ''.join(md.split('\n', 1)[1:])
