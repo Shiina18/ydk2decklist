@@ -1,10 +1,10 @@
 import collections
+import hashlib
 import io
 import json
 import logging
 import pathlib
 import time
-import uuid
 from typing import List, Optional, Dict, Tuple
 
 import pypdf
@@ -70,10 +70,14 @@ def ydk2deck(lines: List[str]) -> Deck:
 def fetch_new_card(card_id: int) -> Optional[CardData]:
     # it is currently single-threaded, but should be enough
     url = f'https://ygocdb.com/api/v0/?search={card_id}'
-    response = requests.get(url, timeout=10)
+    try:
+        # TODO: No retry now
+        response = requests.get(url, timeout=10)
+    except:
+        logger.exception('')
+        return
     logger.info('Getting new card %s', card_id)
     if response.status_code != 200:
-        # No retry
         logger.error('Failed getting %s: %s', card_id, response.text)
         return
     for d in json.loads(response.text).get('result', []):
@@ -157,21 +161,20 @@ def make_pdf(kvs: Dict) -> io.BytesIO:
     return content
 
 
-@st.cache(max_entries=100)
-def text2uuid(text):
-    return uuid.uuid1().hex
-
-
 # note that streamlit will rerun the script when the user clicks the download button
-uploaded_file = st.file_uploader('**拖拽上传 ydk 文件**', type='ydk')
+uploaded_file = st.file_uploader(
+    '**拖拽上传 ydk 文件**',
+    type='ydk',
+    label_visibility='hidden',
+)
 if uploaded_file is not None:
     start_time = time.perf_counter()
 
     text = io.StringIO(uploaded_file.getvalue().decode("utf-8")).read(1000)
-    trace_id = text2uuid(text)
+    md5 = hashlib.md5(text.encode()).hexdigest()
     logger.info(
-        '[filename] %s [uuid] %s [content] %s',
-        uploaded_file.name, trace_id, json.dumps(text),
+        '[filename] %s [md5] %s [content] %s',
+        uploaded_file.name, md5, json.dumps(text),
     )
 
     deck = ydk2deck(text.split('\n'))
@@ -180,7 +183,7 @@ if uploaded_file is not None:
         for record in getattr(deck, section):
             card_data = fetch_card_data(record.card_id)
             if card_data is None:
-                record.name_cn = '未找到该卡'
+                record.name_cn = f'{record.card_id} 未找到该卡'
                 continue
             record.type = card_data['type']
             if name_cn := card_data.get('sc_name'):
@@ -189,9 +192,9 @@ if uploaded_file is not None:
                 if name_cn := card_data.get('cn_name'):
                     record.name_cn = '(旧译) ' + name_cn
                 else:
-                    record.name_cn = '(没找到中文译名)'
-            record.name_jp = card_data.get('jp_name', '(没找到日文译名)')
-            record.name_en = card_data.get('en_name', '(没找到英文译名)')
+                    record.name_cn = f'({record.card_id} 没找到中文译名)'
+            record.name_jp = card_data.get('jp_name', f'({record.card_id} 没找到日文译名)')
+            record.name_en = card_data.get('en_name', f'({record.card_id} 没找到英文译名)')
 
     pdf_name = uploaded_file.name
     if pdf_name.endswith('.ydk'):
@@ -215,7 +218,7 @@ if uploaded_file is not None:
         elapsed = f'{elapsed * 1000:.1f} ms'
     else:
         elapsed = f'{elapsed:.3f} s'
-    logger.info('[uuid] %s [elapsed] %s', trace_id, elapsed)
+    logger.info('[md5] %s [elapsed] %s', md5, elapsed)
 
     if any(records for t, records in main_type_overflow.items()):
         st.markdown('**写不下或无法识别的卡片**')
