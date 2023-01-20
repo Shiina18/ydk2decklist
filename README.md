@@ -21,3 +21,7 @@
 
 - [简中官方数据库](https://db.yugioh-card-cn.com/)
 - [百鸽游戏王卡查](https://ygocdb.com/)
+
+## Changlog
+
+- 修正异画卡关联问题 (2023-01-20 15:21)
