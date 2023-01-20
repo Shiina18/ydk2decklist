@@ -17,5 +17,3 @@
 
 - [简中官方数据库](https://db.yugioh-card-cn.com/)
 - [百鸽游戏王卡查](https://ygocdb.com/)
-
-
