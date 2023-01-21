@@ -47,6 +47,11 @@ st.markdown(section2text['foreword'])
 
 USE_CHINESE = st.checkbox('使用中文 PDF 模板')
 NOTE = '**中文模板常常显示不全卡名, 英文模板几乎没有这个问题**'
+FILL_MONSTER_IN_SPELL = st.checkbox(
+    '写不下的怪兽自动填到魔法栏底部',
+    value=True,
+    help='不勾选则输出到页面; 勾选了但魔法栏也写不下亦输出到页面',
+)
 
 TEMPLATE = Language.CHINESE if USE_CHINESE else Language.ENGLISH
 if TEMPLATE == Language.ENGLISH:
@@ -124,13 +129,16 @@ def fetch_card_data(card_id: int) -> Optional[CardData]:
     return data
 
 
-def deck2kvs(deck: Deck, lang: Language) -> Tuple[Dict, Dict[str, List[Record]]]:
+def deck2kvs(
+    deck: Deck, lang: Language, fill_monster_in_spell: bool = False,
+) -> Tuple[Dict, Dict[str, List[Record]]]:
     final_dict = {}
 
     main_type_idx = {t: 0 for t in CardType}
     main_type_count = {t: 0 for t in CardType}
     main_type_overflow: Dict[str, List[Record]] = {t: [] for t in CardType}
     main_type_overflow.update({'Unknown': []})
+    max_rows = 18 if TEMPLATE == lang.ENGLISH else 20
     for record in deck.main:
         card_type = record.type
         if card_type is None:
@@ -139,8 +147,7 @@ def deck2kvs(deck: Deck, lang: Language) -> Tuple[Dict, Dict[str, List[Record]]]
         main_type_idx[card_type] += 1
         idx = main_type_idx[card_type]
         main_type_count[card_type] += record.count
-        limit = 18 if TEMPLATE == lang.ENGLISH else 20
-        if idx > limit:
+        if idx > max_rows:
             main_type_overflow[card_type].append(record)
         final_dict.update(
             {
@@ -151,6 +158,36 @@ def deck2kvs(deck: Deck, lang: Language) -> Tuple[Dict, Dict[str, List[Record]]]
     for t in CardType:
         final_dict[ADAPTER[f'Total {t} Cards']] = main_type_count[t]
     final_dict[ADAPTER['Main Deck Total']] = sum(main_type_count[t] for t in CardType)
+
+    # 怪兽太多时填到魔法栏, 从底部往上填, 和最后一张魔法卡至少空两行, 还有多余的怪兽输出到页面
+    if fill_monster_in_spell and main_type_overflow[CardType.MONSTER]:
+        num_filled_monsters = 0
+        num_unique_spells = main_type_idx[CardType.SPELL]
+
+        for minus_idx in range(len(main_type_overflow[CardType.MONSTER])):
+            # 魔法栏也填满了
+            if minus_idx + num_unique_spells + 2 >= max_rows:
+                continue
+
+            num_filled_monsters += 1
+            record = main_type_overflow[CardType.MONSTER].pop()
+            final_dict.update(
+                {
+                    ADAPTER.get(f'{CardType.SPELL} {max_rows - minus_idx}', 'null'):
+                        getattr(record, lang),
+                    ADAPTER.get(f'{CardType.SPELL} Card {max_rows - minus_idx} Count', 'null'):
+                        record.count,
+                }
+            )
+
+        if num_filled_monsters > 0:
+            final_dict.update(
+                {
+                    ADAPTER.get(
+                        f'{CardType.SPELL} {max_rows - num_filled_monsters}', 'null'
+                    ): '===以下怪兽===以上魔法===',
+                }
+            )
 
     count = 0
     for idx, record in enumerate(deck.extra, start=1):
@@ -240,15 +277,15 @@ if uploaded_file is not None:
         pdf_name = pdf_name[:-len('.ydk')]
     pdf_name = pdf_name + '.pdf'
 
-    final_dict, _ = deck2kvs(deck, lang=Language.JAPANESE)
+    final_dict, _ = deck2kvs(deck, lang=Language.JAPANESE, fill_monster_in_spell=FILL_MONSTER_IN_SPELL)
     with make_pdf(final_dict, TEMPLATE) as content:
         st.download_button('下载日文卡表 JP', content, file_name='日文@' + pdf_name)
 
-    final_dict, _ = deck2kvs(deck, lang=Language.CHINESE)
+    final_dict, _ = deck2kvs(deck, lang=Language.CHINESE, fill_monster_in_spell=FILL_MONSTER_IN_SPELL)
     with make_pdf(final_dict, TEMPLATE) as content:
         st.download_button('下载简中卡表 CN', content, file_name='简中@' + pdf_name)
 
-    final_dict, main_type_overflow = deck2kvs(deck, lang=Language.ENGLISH)
+    final_dict, main_type_overflow = deck2kvs(deck, lang=Language.ENGLISH, fill_monster_in_spell=FILL_MONSTER_IN_SPELL)
     with make_pdf(final_dict, TEMPLATE) as content:
         st.download_button('下载英文卡表 EN', content, file_name='英文@' + pdf_name)
 
@@ -266,6 +303,8 @@ if uploaded_file is not None:
         st.write(main_type_overflow)
 
 st.markdown(section2text['说明'])
+
+st.warning('打印卡表后建议自己卡检一遍——只有你能为自己负责')
 
 with st.expander('Changelog'):
     st.markdown(utils.remove_title(section2text['Changlog']))
