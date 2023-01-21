@@ -45,13 +45,13 @@ README = pathlib.Path('README.md').read_text(encoding='utf8')
 section2text = utils.sec_md(README.split('\n'))
 st.markdown(section2text['foreword'])
 
-USE_CHINESE = st.checkbox('使用中文 PDF 模板')
-NOTE = '**中文模板常常显示不全卡名, 英文模板几乎没有这个问题**'
 FILL_MONSTER_IN_SPELL = st.checkbox(
     '写不下的怪兽自动填到魔法栏底部',
     value=True,
     help='不勾选则输出到页面; 勾选了但魔法栏也写不下亦输出到页面',
 )
+USE_CHINESE = st.checkbox('使用中文 PDF 模板')
+NOTE = '**中文模板常常显示不全卡名, 英文模板几乎没有这个问题**'
 
 TEMPLATE = Language.CHINESE if USE_CHINESE else Language.ENGLISH
 if TEMPLATE == Language.ENGLISH:
