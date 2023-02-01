@@ -122,6 +122,13 @@ def fetch_new_card(card_id: int) -> Optional[CardData]:
 
 
 def fetch_card_data(card_id: int) -> Optional[CardData]:
+    """alias 会关联到 这张卡的卡名在规则上当作 xx 使用, 比如置换融合和融合"""
+    data = ID2DATA.get(str(card_id))
+    if data is None:
+        data = fetch_new_card(card_id)
+    if data is not None:
+        return data
+
     card_id = ALIAS2ID.get(str(card_id), card_id)
     data = ID2DATA.get(str(card_id))
     if data is None:
@@ -301,6 +308,11 @@ if uploaded_file is not None:
         for t in main_type_overflow:
             main_type_overflow[t] = [record.__dict__ for record in main_type_overflow[t]]
         st.write(main_type_overflow)
+
+st.markdown("""\
+**通知**: 修复部分卡名关联错误问题, 感谢 "蛋" 反馈 (2023-02-01 14:40)
+  - 影响范围: 此前, "这张卡的卡名在规则上当作「xx」使用" 这类卡卡名关联错误, 比如《融合》会错误写为《置换融合》
+""")
 
 st.markdown(section2text['说明'])
 
