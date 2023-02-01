@@ -125,14 +125,15 @@ def fetch_card_data(card_id: int) -> Optional[CardData]:
     """alias 会关联到 这张卡的卡名在规则上当作 xx 使用, 比如置换融合和融合"""
     data = ID2DATA.get(str(card_id))
     if data is None:
-        data = fetch_new_card(card_id)
+        # 关联异画卡
+        norm_card_id = ALIAS2ID.get(str(card_id), card_id)
+        data = ID2DATA.get(str(norm_card_id))
     if data is not None:
         return data
 
-    card_id = ALIAS2ID.get(str(card_id), card_id)
-    data = ID2DATA.get(str(card_id))
-    if data is None:
-        data = fetch_new_card(card_id)
+    data = fetch_new_card(card_id)
+    # if data is None:
+    #     data = fetch_new_card(norm_card_id)
     return data
 
 
