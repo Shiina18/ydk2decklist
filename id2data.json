@@ -73782,182 +73782,218 @@
   "38339996": {
     "type": "Monster",
     "cn_name": "救援ACE队 脉冲灭火员",
-    "jp_name": "R－ACEインパルス"
+    "jp_name": "R－ACEインパルス",
+    "en_name": "Rescue-ACE Impulse"
   },
   "65734501": {
     "type": "Monster",
     "cn_name": "救援ACE队 空中起吊员",
-    "jp_name": "R－ACEエアホイスター"
+    "jp_name": "R－ACEエアホイスター",
+    "en_name": "Rescue-ACE Air Lifter"
   },
   "91222209": {
     "type": "Monster",
     "cn_name": "救援ACE队 双脉冲炮灭火员",
-    "jp_name": "R－ACEイントルーダー"
+    "jp_name": "R－ACEイントルーダー",
+    "en_name": "Rescue-ACE Monitor"
   },
   "37617348": {
     "type": "Monster",
     "cn_name": "救援ACE队 消防栓",
-    "jp_name": "R－ACEハイドラント"
+    "jp_name": "R－ACEハイドラント",
+    "en_name": "Rescue-ACE Hydrant"
   },
   "64612053": {
     "type": "Monster",
     "cn_name": "救援ACE队 空中灭火机",
-    "jp_name": "R－ACEファイア・アタッカー"
+    "jp_name": "R－ACEファイア・アタッカー",
+    "en_name": "Rescue-ACE Fire Attacker"
   },
   "90000652": {
     "type": "Monster",
     "cn_name": "救援ACE队 消防战车人",
-    "jp_name": "R－ACEファイア・エンジン"
+    "jp_name": "R－ACEファイア・エンジン",
+    "en_name": "Rescue-ACE Fire Engine"
   },
   "37495766": {
     "type": "Monster",
     "cn_name": "救援ACE队 涡轮湍流消防战车",
-    "jp_name": "R－ACEタービュランス"
+    "jp_name": "R－ACEタービュランス",
+    "en_name": "Rescue-ACE Turbulence"
   },
   "63899465": {
     "type": "Spell",
     "cn_name": "救援ACE队总部",
-    "jp_name": "R－ACEヘッドクオーター"
+    "jp_name": "R－ACEヘッドクオーター",
+    "en_name": "Rescue-ACE HQ"
   },
   "99984170": {
     "type": "Spell",
     "cn_name": "R救援！",
-    "jp_name": "RESCUE！"
+    "jp_name": "RESCUE！",
+    "en_name": "RESCUE!"
   },
   "26372118": {
     "type": "Spell",
     "cn_name": "A警报！",
-    "jp_name": "ALERT！"
+    "jp_name": "ALERT！",
+    "en_name": "ALERT!"
   },
   "62777823": {
     "type": "Trap",
     "cn_name": "C控制！",
-    "jp_name": "CONTAIN！"
+    "jp_name": "CONTAIN！",
+    "en_name": "CONTAIN!"
   },
   "99162522": {
     "type": "Trap",
     "cn_name": "E扑灭！",
-    "jp_name": "EXTINGUISH！"
+    "jp_name": "EXTINGUISH！",
+    "en_name": "EXTINGUISH!"
   },
   "25550531": {
     "type": "Monster",
     "cn_name": "纯爱妖精",
-    "jp_name": "ピュアリィ"
+    "jp_name": "ピュアリィ",
+    "en_name": "Purrely"
   },
   "52645235": {
     "type": "Monster",
     "cn_name": "亲历纯爱妖精·幸福妖精",
-    "jp_name": "エピュアリィ・ハピネス"
+    "jp_name": "エピュアリィ・ハピネス",
+    "en_name": "Epurrely Happiness"
   },
   "98049934": {
     "type": "Monster",
     "cn_name": "亲历纯爱妖精·美丽妖精",
-    "jp_name": "エピュアリィ・ビューティ"
+    "jp_name": "エピュアリィ・ビューティ",
+    "en_name": "Epurrely Beauty"
   },
   "24434049": {
     "type": "Monster",
     "cn_name": "亲历纯爱妖精·丰满妖精",
-    "jp_name": "エピュアリィ・プランプ"
+    "jp_name": "エピュアリィ・プランプ",
+    "en_name": "Epurrely Plump"
   },
   "51822687": {
     "type": "Monster",
     "cn_name": "历练纯爱妖精·幸福妖精",
-    "jp_name": "エクスピュアリィ・ハピネス"
+    "jp_name": "エクスピュアリィ・ハピネス",
+    "en_name": "Expurrely Happiness"
   },
   "83827392": {
     "type": "Monster",
     "cn_name": "历练纯爱妖精·黑暗妖精",
-    "jp_name": "エクスピュアリィ・ノアール"
+    "jp_name": "エクスピュアリィ・ノアール",
+    "en_name": "Expurrely Noir"
   },
   "20212491": {
     "type": "Spell",
     "cn_name": "流浪纯爱妖精街道",
-    "jp_name": "ストレイ・ピュアリィ・ストリート"
+    "jp_name": "ストレイ・ピュアリィ・ストリート",
+    "en_name": "Stray Purrely Street"
   },
   "56700100": {
     "type": "Spell",
     "cn_name": "我的纯爱妖精朋友",
-    "jp_name": "ピュアリィ・マイフレンド"
+    "jp_name": "ピュアリィ・マイフレンド",
+    "en_name": "My Friend Purrely"
   },
   "82105704": {
     "type": "Spell",
     "cn_name": "纯爱妖精快乐回忆",
-    "jp_name": "ピュアリィ・ハッピーメモリー"
+    "jp_name": "ピュアリィ・ハッピーメモリー",
+    "en_name": "Purrely Happy Memory"
   },
   "29599813": {
     "type": "Spell",
     "cn_name": "纯爱妖精可爱回忆",
-    "jp_name": "ピュアリィ・プリティメモリー"
+    "jp_name": "ピュアリィ・プリティメモリー",
+    "en_name": "Purrely Pretty Memory"
   },
   "55584558": {
     "type": "Spell",
     "cn_name": "纯爱妖精美味回忆",
-    "jp_name": "ピュアリィ・デリシャスメモリー"
+    "jp_name": "ピュアリィ・デリシャスメモリー",
+    "en_name": "Purrely Delicious Memory"
   },
   "82983267": {
     "type": "Trap",
     "cn_name": "纯爱妖精跳越！？",
-    "jp_name": "ピュアリィープ！？"
+    "jp_name": "ピュアリィープ！？",
+    "en_name": "Purrelyeap!?"
   },
   "18377261": {
     "type": "Monster",
     "cn_name": "剑之御巫 波礼",
-    "jp_name": "剣の御巫ハレ"
+    "jp_name": "剣の御巫ハレ",
+    "en_name": "Ha-Re the Sword Mikanko"
   },
   "54862960": {
     "type": "Monster",
     "cn_name": "镜之御巫 迩迩",
-    "jp_name": "鏡の御巫ニニ"
+    "jp_name": "鏡の御巫ニニ",
+    "en_name": "Ni-Ni the Mirror Mikanko"
   },
   "81260679": {
     "type": "Monster",
     "cn_name": "大日女之御巫",
-    "jp_name": "オオヒメの御巫"
+    "jp_name": "オオヒメの御巫",
+    "en_name": "Ohime the Manifested Mikanko"
   },
   "17255673": {
     "type": "Spell",
     "cn_name": "天御巫之阖",
-    "jp_name": "天御巫の闔"
+    "jp_name": "天御巫の闔",
+    "en_name": "Heavenly Gate of the Mikanko"
   },
   "44649322": {
     "type": "Spell",
     "cn_name": "传承的大御巫",
-    "jp_name": "伝承の大御巫"
+    "jp_name": "伝承の大御巫",
+    "en_name": "The Great Mikanko Ceremony"
   },
   "80044027": {
     "type": "Spell",
     "cn_name": "御巫的火丛舞",
-    "jp_name": "御巫の火叢舞"
+    "jp_name": "御巫の火叢舞",
+    "en_name": "Mikanko Fire Dance"
   },
   "16433136": {
     "type": "Spell",
     "cn_name": "御巫的祓舞",
-    "jp_name": "御巫の祓舞"
+    "jp_name": "御巫の祓舞",
+    "en_name": "Mikanko Purification Dance"
   },
   "43527730": {
     "type": "Spell",
     "cn_name": "御巫的水舞蹈",
-    "jp_name": "御巫の水舞踏"
+    "jp_name": "御巫の水舞踏",
+    "en_name": "Mikanko Water Arabesque"
   },
   "79912449": {
     "type": "Spell",
     "cn_name": "御巫的诱轮舞",
-    "jp_name": "御巫の誘い輪舞"
+    "jp_name": "御巫の誘い輪舞",
+    "en_name": "Mikanko Reflection Rondo"
   },
   "16310544": {
     "type": "Spell",
     "cn_name": "御巫神乐",
-    "jp_name": "御巫神楽"
+    "jp_name": "御巫神楽",
+    "en_name": "Mikanko Kagura"
   },
   "42705243": {
     "type": "Trap",
     "cn_name": "御巫之契",
-    "jp_name": "御巫の契り"
+    "jp_name": "御巫の契り",
+    "en_name": "Mikanko Promise"
   },
   "78199891": {
     "type": "Trap",
     "cn_name": "御巫神较",
-    "jp_name": "御巫かみくらべ"
+    "jp_name": "御巫かみくらべ",
+    "en_name": "Mikanko Rivalry"
   },
   "15198996": {
     "type": "Monster",

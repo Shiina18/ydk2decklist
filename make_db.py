@@ -66,9 +66,9 @@ alias2id_small = {}
 for _, row in df_data.iterrows():
     alias = row['alias']
     id_ = row['id']
-    if id_ in dict_small:
+    if id_ in dict_small and alias not in dict_small:
         alias2id_small[alias] = id_
-    if alias in dict_small:
+    if alias in dict_small and id_ not in dict_small:
         alias2id_small[id_] = alias
 
 utils.ALIAS2ID_PATH.write_text(json.dumps(alias2id_small, indent=2))
