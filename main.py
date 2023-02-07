@@ -310,10 +310,7 @@ if uploaded_file is not None:
             main_type_overflow[t] = [record.__dict__ for record in main_type_overflow[t]]
         st.write(main_type_overflow)
 
-st.markdown("""\
-**通知**: 修复部分卡名关联错误问题, 感谢 "蛋" 反馈 (2023-02-01 14:40)
-  - 影响范围: 此前, "这张卡的卡名在规则上当作「xx」使用" 这类卡卡名关联错误, 比如《融合》会错误写为《置换融合》
-""")
+st.markdown("""向开发者反馈点 [这里](https://www.wjx.cn/vm/Q0KmBoa.aspx#)""")
 
 st.markdown(section2text['说明'])
 
