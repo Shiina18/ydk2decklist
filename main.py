@@ -90,7 +90,7 @@ def ydk2deck(lines: List[str]) -> Deck:
     return deck
 
 
-@st.cache(max_entries=500)
+@st.cache(ttl=60*60*24)
 def fetch_new_card(card_id: int) -> Optional[CardData]:
     # it is currently single-threaded, but should be enough
     url = f'https://ygocdb.com/api/v0/?search={card_id}'
@@ -311,6 +311,7 @@ if uploaded_file is not None:
         st.write(main_type_overflow)
 
 st.markdown("""向开发者反馈点 [这里](https://www.wjx.cn/vm/Q0KmBoa.aspx#)""")
+st.info('收到反馈, 已更新新卡, 预计本周末优化更新逻辑 (2023-02-14)')
 
 st.markdown(section2text['说明'])
 
