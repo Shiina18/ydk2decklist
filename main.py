@@ -311,7 +311,9 @@ if uploaded_file is not None:
         st.write(main_type_overflow)
 
 st.markdown("""向开发者反馈点 [这里](https://www.wjx.cn/vm/Q0KmBoa.aspx#)""")
-st.info('收到反馈, 已更新新卡, 预计本周末优化更新逻辑 (2023-02-14)')
+st.info(
+    '收到反馈, 已更新新卡, ~~预计本周末优化更新逻辑~~ (2023-02-14) 之前忙鸽了, 这周末一定, 顺便处理可能存在的并发问题 (2023-02-28)'
+)
 
 st.markdown(section2text['说明'])
 
