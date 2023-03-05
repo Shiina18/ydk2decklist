@@ -59,11 +59,11 @@ USE_CHINESE = st.checkbox('使用中文 PDF 模板')
 NOTE = '**中文模板常常显示不全卡名, 英文模板几乎没有这个问题**'
 
 TEMPLATE = Language.CHINESE if USE_CHINESE else Language.ENGLISH
+EN_PDF_TEMPLATE_PATH = './KDE_DeckList.pdf'  # 上限 18 条, 自动放缩文字
+CN_PDF_TEMPLATE_PATH = './中文卡表模板.pdf'  # 上限 20 条, 不放缩文字, 经常显示不全
 if TEMPLATE == Language.ENGLISH:
-    EN_PDF_TEMPLATE_PATH = './KDE_DeckList.pdf'  # 上限 18 条, 自动放缩文字
     ADAPTER = read_adapter_en()
 else:
-    CN_PDF_TEMPLATE_PATH = './中文卡表模板.pdf'  # 上限 20 条, 不放缩文字, 经常显示不全
     ADAPTER = read_adapter()
 
 ID2DATA = read_db()
@@ -96,7 +96,7 @@ def ydk2deck(lines: List[str]) -> Deck:
     return deck
 
 
-@st.cache_data(ttl=60*60*24)
+@st.cache_data(ttl=60*60*8)
 def fetch_new_card(card_id: int) -> Optional[CardData]:
     # it is currently single-threaded, but should be enough
     url = f'https://ygocdb.com/api/v0/?search={card_id}'
