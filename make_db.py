@@ -4,12 +4,12 @@ import pathlib
 import sqlite3
 import zipfile
 
-import pandas as pd
 import requests
 
 import utils
 
 RAW_DB_DIR = pathlib.Path('.db')
+RAW_DB_DIR.mkdir(exist_ok=True, parents=True)
 
 # download automatically; should update regularly
 # https://ygocdb.com/about
@@ -53,22 +53,32 @@ utils.ID2DATA_PATH.write_text(
 # https://github.com/mycard/ygopro-database/raw/master/locales/zh-CN/cards.cdb
 CARDS_CDB_PATH = RAW_DB_DIR / 'cards.cdb'
 
-# normalize card id for cards with alternate artworks
-with sqlite3.connect(CARDS_CDB_PATH) as connection:
-    df_data = pd.read_sql(
-        'SELECT texts.name, datas.id, datas.alias '
-        'FROM datas JOIN texts ON datas.id = texts.id '
-        'WHERE datas.alias != 0',
-        connection,
-    )
+if CARDS_CDB_PATH.exists():
+    import pandas as pd
+    # normalize card id for cards with alternate artworks
+    with sqlite3.connect(CARDS_CDB_PATH) as connection:
+        df_data = pd.read_sql(
+            'SELECT texts.name, datas.id, datas.alias '
+            'FROM datas JOIN texts ON datas.id = texts.id '
+            'WHERE datas.alias != 0',
+            connection,
+        )
 
-alias2id_small = {}
-for _, row in df_data.iterrows():
-    alias = row['alias']
-    id_ = row['id']
-    if id_ in dict_small and alias not in dict_small:
-        alias2id_small[alias] = id_
-    if alias in dict_small and id_ not in dict_small:
-        alias2id_small[id_] = alias
+    alias2id_small = {}
+    for _, row in df_data.iterrows():
+        alias = row['alias']
+        id_ = row['id']
+        if id_ in dict_small and alias not in dict_small:
+            alias2id_small[alias] = id_
+        if alias in dict_small and id_ not in dict_small:
+            alias2id_small[id_] = alias
 
-utils.ALIAS2ID_PATH.write_text(json.dumps(alias2id_small, indent=2))
+    utils.ALIAS2ID_PATH.write_text(json.dumps(alias2id_small, indent=2))
+
+
+OLD2ID_URL = 'https://ygocdb.com/api/v0/idChangelog.jsonp'
+response = requests.get(OLD2ID_URL)
+if response.status_code == 200:
+    utils.OLD2ID_PATH.write_text(json.dumps(response.json(), indent=2))
+else:
+    raise Exception(response.text)

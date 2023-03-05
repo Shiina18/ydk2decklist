@@ -13,7 +13,7 @@ import streamlit as st
 
 import utils
 from utils import (
-    ALIAS2ID_PATH, ID2DATA_PATH,
+    ALIAS2ID_PATH, ID2DATA_PATH, OLD2ID_PATH,
     Section, CardType, Language, CardData,
     Record, Deck,
 )
@@ -21,22 +21,27 @@ from utils import (
 logger = logging.getLogger(__name__)
 
 
-@st.experimental_singleton
+@st.cache_resource
 def read_db() -> Dict[str, CardData]:
     return json.loads(ID2DATA_PATH.read_text(encoding='utf8'))
 
 
-@st.experimental_singleton
+@st.cache_resource
 def read_alias_db() -> Dict[str, int]:
     return json.loads(ALIAS2ID_PATH.read_text(encoding='utf8'))
 
 
-@st.experimental_singleton
+@st.cache_resource
+def read_old_db() -> Dict[str, int]:
+    return json.loads(OLD2ID_PATH.read_text(encoding='utf8'))
+
+
+@st.cache_resource
 def read_adapter() -> Dict[str, int]:
     return json.loads(pathlib.Path('adapter.json').read_text(encoding='utf8'))
 
 
-@st.experimental_singleton
+@st.cache_resource
 def read_adapter_en() -> Dict[str, int]:
     return json.loads(pathlib.Path('adapter_en.json').read_text(encoding='utf8'))
 
@@ -63,6 +68,7 @@ else:
 
 ID2DATA = read_db()
 ALIAS2ID = read_alias_db()
+OLD2ID = read_old_db()
 
 
 def ydk2deck(lines: List[str]) -> Deck:
@@ -90,7 +96,7 @@ def ydk2deck(lines: List[str]) -> Deck:
     return deck
 
 
-@st.cache(ttl=60*60*24)
+@st.cache_data(ttl=60*60*24)
 def fetch_new_card(card_id: int) -> Optional[CardData]:
     # it is currently single-threaded, but should be enough
     url = f'https://ygocdb.com/api/v0/?search={card_id}'
@@ -124,10 +130,17 @@ def fetch_new_card(card_id: int) -> Optional[CardData]:
 def fetch_card_data(card_id: int) -> Optional[CardData]:
     """alias 会关联到 这张卡的卡名在规则上当作 xx 使用, 比如置换融合和融合"""
     data = ID2DATA.get(str(card_id))
+
+    if data is None:
+        # 老 id 转换
+        card_id = OLD2ID.get(str(card_id), card_id)
+        data = ID2DATA.get(str(card_id))
+
     if data is None:
         # 关联异画卡
         norm_card_id = ALIAS2ID.get(str(card_id), card_id)
         data = ID2DATA.get(str(norm_card_id))
+
     if data is not None:
         return data
 
@@ -224,13 +237,13 @@ def deck2kvs(
     return final_dict, main_type_overflow
 
 
-@st.experimental_singleton
+@st.cache_data
 def read_template_pdf():
     reader = pypdf.PdfReader(CN_PDF_TEMPLATE_PATH)
     return reader.pages[0]
 
 
-@st.experimental_singleton
+@st.cache_data
 def read_template_pdf_en():
     reader = pypdf.PdfReader(EN_PDF_TEMPLATE_PATH)
     return reader.pages[0]
@@ -311,16 +324,13 @@ if uploaded_file is not None:
         st.write(main_type_overflow)
 
 st.markdown("""向开发者反馈点 [这里](https://www.wjx.cn/vm/Q0KmBoa.aspx#)""")
-st.info(
-    '收到反馈, 已更新新卡, ~~预计本周末优化更新逻辑~~ (2023-02-14) 之前忙鸽了, 这周末一定, 顺便处理可能存在的并发问题 (2023-02-28)'
-)
 
 st.markdown(section2text['说明'])
 
 st.warning('打印卡表后建议自己卡检一遍——只有你能为自己负责')
 
 with st.expander('Changelog'):
-    st.markdown(utils.remove_title(section2text['Changlog']))
+    st.markdown(utils.remove_title(section2text['Changelog']))
 
 
 FOOTER = 'Made with dove by <a href="https://mp.weixin.qq.com/s/VCS4aBVqPKbDwCcGf9RpXQ">C7</a>'
