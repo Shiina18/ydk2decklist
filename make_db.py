@@ -29,16 +29,21 @@ if response.status_code == 200:
 else:
     raise Exception(response.text)
 
-if should_update:
+if should_update or not CARDS_JSON_PATH.exists():
     response = requests.get(SOURCE_CARDS_JSON_URL)
     if response.status_code == 200:
         with zipfile.ZipFile(io.BytesIO(response.content)) as z:
-            z.extractall(RAW_DB_DIR)
+            with z.open('cards.json') as f:
+                text = f.read()
+                dict_raw = json.loads(text)
+                CARDS_JSON_PATH.write_text(text.decode('utf8'), encoding='utf8')
+            # z.extractall(RAW_DB_DIR)
         VERSION_PATH.write_text(version)
     else:
         raise Exception(response.text)
+else:
+    dict_raw = json.loads(CARDS_JSON_PATH.read_text(encoding='utf8'))
 
-dict_raw = json.loads(CARDS_JSON_PATH.read_text(encoding='utf8'))
 dict_small = {}
 for cid, d in dict_raw.items():
     if 'data' not in d:
