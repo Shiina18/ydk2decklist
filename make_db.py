@@ -7,6 +7,7 @@ import zipfile
 import requests
 
 import utils
+from utils import VERSION_PATH
 
 RAW_DB_DIR = pathlib.Path('.db')
 RAW_DB_DIR.mkdir(exist_ok=True, parents=True)
@@ -15,7 +16,6 @@ RAW_DB_DIR.mkdir(exist_ok=True, parents=True)
 # https://ygocdb.com/about
 CARDS_JSON_PATH = RAW_DB_DIR / 'cards.json'
 SOURCE_CARDS_JSON_URL = 'https://ygocdb.com/api/v0/cards.zip'
-VERSION_PATH = RAW_DB_DIR / 'cards.json.version'
 VERSION_URL = 'https://ygocdb.com/api/v0/cards.zip.md5?callback=gu'
 
 version = None

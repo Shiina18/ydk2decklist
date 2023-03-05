@@ -6,6 +6,7 @@ from typing import List, Optional, Dict, Union
 OLD2ID_PATH = pathlib.Path('old2id.json')
 ALIAS2ID_PATH = pathlib.Path('alias2id.json')
 ID2DATA_PATH = pathlib.Path('id2data.json')
+VERSION_PATH = pathlib.Path('cards.json.version')
 
 CardData = Dict[str, Union[Optional[str]]]
 
