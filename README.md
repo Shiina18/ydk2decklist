@@ -1,5 +1,8 @@
 # YGOPRO ydk to decklist PDF
 
+[![feedback badge](https://img.shields.io/badge/点我反馈-lightgrey?style=flat-square&logo=coveralls)](https://www.wjx.cn/vm/Q0KmBoa.aspx#)
+
+
 拖拽上传 YDK 文件, 生成多语种 **可编辑** PDF 卡表
 
 - 支持语种: 日文, 简中, 英文

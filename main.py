@@ -324,7 +324,6 @@ if uploaded_file is not None:
         st.write(main_type_overflow)
 
 st.warning('打印卡表后建议自己卡检一遍——只有你能为自己负责')
-st.markdown("""向开发者反馈点 [这里](https://www.wjx.cn/vm/Q0KmBoa.aspx#)""")
 st.markdown(section2text['说明'])
 
 with st.expander('Changelog'):
