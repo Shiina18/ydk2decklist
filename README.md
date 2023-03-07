@@ -5,7 +5,7 @@
 
 拖拽上传 YDK 文件, 生成多语种 **可编辑** PDF 卡表
 
-- 支持语种: 日文, 简中, 英文
+- 支持卡名语种: 日文, 简中, 英文
 - 支持 PDF 模板 (布局): [简中](https://db.yugioh-card-cn.com/%E6%B8%B8%E6%88%8F%E7%8E%8B%E7%89%8C%E8%A1%A8-%E7%AE%80%E4%B8%AD.pdf), [英文](https://img.yugioh-card.com/en/downloads/forms/KDE_DeckList.pdf)
 
 ## 说明
