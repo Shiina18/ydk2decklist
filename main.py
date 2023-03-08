@@ -46,8 +46,13 @@ def read_adapter_en() -> Dict[str, int]:
     return json.loads(pathlib.Path('adapter_en.json').read_text(encoding='utf8'))
 
 
-README = pathlib.Path('README.md').read_text(encoding='utf8')
-section2text = utils.sec_md(README.split('\n'))
+@st.cache_resource
+def read_readme():
+    README = pathlib.Path('README.md').read_text(encoding='utf8')
+    return utils.sec_md(README.split('\n'))
+
+
+section2text = read_readme()
 st.markdown(section2text['foreword'])
 
 FILL_MONSTER_IN_SPELL = st.checkbox(
@@ -128,7 +133,6 @@ def fetch_new_card(card_id: int) -> Optional[CardData]:
 
 
 def fetch_card_data(card_id: int) -> Optional[CardData]:
-    """alias 会关联到 这张卡的卡名在规则上当作 xx 使用, 比如置换融合和融合"""
     data = ID2DATA.get(str(card_id))
 
     if data is None:
@@ -145,8 +149,6 @@ def fetch_card_data(card_id: int) -> Optional[CardData]:
         return data
 
     data = fetch_new_card(card_id)
-    # if data is None:
-    #     data = fetch_new_card(norm_card_id)
     return data
 
 
@@ -237,13 +239,13 @@ def deck2kvs(
     return final_dict, main_type_overflow
 
 
-@st.cache_data
+@st.cache_resource
 def read_template_pdf():
     reader = pypdf.PdfReader(CN_PDF_TEMPLATE_PATH)
     return reader.pages[0]
 
 
-@st.cache_data
+@st.cache_resource
 def read_template_pdf_en():
     reader = pypdf.PdfReader(EN_PDF_TEMPLATE_PATH)
     return reader.pages[0]

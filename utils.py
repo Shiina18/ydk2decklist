@@ -75,6 +75,7 @@ EXCLUDES = [
     '[![Update database](https://github.com/Shiina18/ydk2decklist/actions/workflows/update-database.yml/badge.svg)](https://github.com/Shiina18/ydk2decklist/actions/workflows/update-database.yml)',
 ]
 
+
 def sec_md(lines: List[str]) -> Dict[str, str]:
     section2text = {}
     section = 'foreword'
