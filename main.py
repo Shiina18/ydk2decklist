@@ -22,6 +22,14 @@ logger = logging.getLogger(__name__)
 
 TTL = 60 * 60 * 12
 
+hide_streamlit_style = """
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    </style>
+"""
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+
 
 @st.cache_resource(ttl=TTL)
 def read_db() -> Dict[str, CardData]:
