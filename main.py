@@ -20,18 +20,20 @@ from utils import (
 
 logger = logging.getLogger(__name__)
 
+TTL = 60 * 60 * 12
 
-@st.cache_resource
+
+@st.cache_resource(ttl=TTL)
 def read_db() -> Dict[str, CardData]:
     return json.loads(ID2DATA_PATH.read_text(encoding='utf8'))
 
 
-@st.cache_resource
+@st.cache_resource(ttl=TTL)
 def read_alias_db() -> Dict[str, int]:
     return json.loads(ALIAS2ID_PATH.read_text(encoding='utf8'))
 
 
-@st.cache_resource
+@st.cache_resource(ttl=TTL)
 def read_old_db() -> Dict[str, int]:
     return json.loads(OLD2ID_PATH.read_text(encoding='utf8'))
 
@@ -46,7 +48,7 @@ def read_adapter_en() -> Dict[str, int]:
     return json.loads(pathlib.Path('adapter_en.json').read_text(encoding='utf8'))
 
 
-@st.cache_resource
+@st.cache_resource(ttl=TTL)
 def read_readme():
     README = pathlib.Path('README.md').read_text(encoding='utf8')
     return utils.sec_md(README.split('\n'))
@@ -101,7 +103,7 @@ def ydk2deck(lines: List[str]) -> Deck:
     return deck
 
 
-@st.cache_data(ttl=60*60*8)
+@st.cache_data(ttl=TTL)
 def fetch_new_card(card_id: int) -> Optional[CardData]:
     # it is currently single-threaded, but should be enough
     url = f'https://ygocdb.com/api/v0/?search={card_id}'

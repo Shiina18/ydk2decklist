@@ -71,7 +71,6 @@ def adapt_dict(d: dict) -> dict:
 
 EXCLUDES = [
     '[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ydk2decklist.streamlit.app)',
-    '![last commit badge](https://img.shields.io/github/last-commit/shiina18/ydk2decklist?label=更新时间)',
     '[![Update database](https://github.com/Shiina18/ydk2decklist/actions/workflows/update-database.yml/badge.svg)](https://github.com/Shiina18/ydk2decklist/actions/workflows/update-database.yml)',
 ]
 
