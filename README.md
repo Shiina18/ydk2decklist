@@ -1,7 +1,9 @@
 # YGOPRO ydk to decklist PDF
 
-[![feedback badge](https://img.shields.io/badge/点我反馈-lightgrey?style=flat-square&logo=coveralls)](https://www.wjx.cn/vm/Q0KmBoa.aspx#)
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ydk2decklist.streamlit.app)
+[![feedback badge](https://img.shields.io/badge/feedback-点我反馈-blue?logo=coveralls)](https://www.wjx.cn/vm/Q0KmBoa.aspx)
+![last commit badge](https://img.shields.io/github/last-commit/shiina18/ydk2decklist?label=更新时间)
+[![Update database](https://github.com/Shiina18/ydk2decklist/actions/workflows/update-database.yml/badge.svg)](https://github.com/Shiina18/ydk2decklist/actions/workflows/update-database.yml)
 
 拖拽上传 YDK 文件, 生成多语种 **可编辑** PDF 卡表
 

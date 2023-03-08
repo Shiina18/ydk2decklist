@@ -69,6 +69,12 @@ def adapt_dict(d: dict) -> dict:
     return tmp
 
 
+EXCLUDES = [
+    '[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ydk2decklist.streamlit.app)',
+    '![last commit badge](https://img.shields.io/github/last-commit/shiina18/ydk2decklist?label=更新时间)',
+    '[![Update database](https://github.com/Shiina18/ydk2decklist/actions/workflows/update-database.yml/badge.svg)](https://github.com/Shiina18/ydk2decklist/actions/workflows/update-database.yml)',
+]
+
 def sec_md(lines: List[str]) -> Dict[str, str]:
     section2text = {}
     section = 'foreword'
@@ -78,6 +84,8 @@ def sec_md(lines: List[str]) -> Dict[str, str]:
             section2text[section] = '\n'.join(buffer)
             buffer = []
             section = line[len('## '):]
+        for exclude_str in EXCLUDES:
+            line = line.replace(exclude_str, '')
         buffer.append(line)
     if buffer:
         section2text[section] = '\n'.join(buffer)
