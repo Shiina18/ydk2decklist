@@ -54178,7 +54178,7 @@
   },
   "15844566": {
     "type": "Monster",
-    "cn_name": "电源代码语者",
+    "cn_name": "力码语者",
     "sc_name": "力码语者",
     "jp_name": "パワーコード・トーカー",
     "en_name": "Powercode Talker"
@@ -68232,7 +68232,7 @@
   },
   "27923575": {
     "type": "Trap",
-    "cn_name": "通关简单模式",
+    "cn_name": "蠢贼游戏",
     "jp_name": "ブービーゲーム",
     "en_name": "Boo-Boo Game"
   },
@@ -72018,12 +72018,14 @@
     "type": "Monster",
     "cn_name": "传说的剑斗士 混沌战士",
     "sc_name": "传说之剑斗士 混沌士兵",
-    "jp_name": "伝説の剣闘士 カオス・ソルジャー"
+    "jp_name": "伝説の剣闘士 カオス・ソルジャー",
+    "en_name": "Black Luster Soldier - Legendary Swordsman"
   },
   "6556909": {
     "type": "Monster",
     "cn_name": "真红之魂",
-    "jp_name": "真紅き魂"
+    "jp_name": "真紅き魂",
+    "en_name": "Red-Eyes Soul"
   },
   "43940008": {
     "type": "Spell",
@@ -72040,17 +72042,20 @@
   "5833312": {
     "type": "Spell",
     "cn_name": "决斗学园",
-    "jp_name": "デュエル・アカデミア"
+    "jp_name": "デュエル・アカデミア",
+    "en_name": "Duel Academy"
   },
   "32828466": {
     "type": "Monster",
     "cn_name": "唤醒你沉睡的元素英雄",
-    "jp_name": "Wake Up Your E・HERO"
+    "jp_name": "Wake Up Your E・HERO",
+    "en_name": "Wake Up Your Elemental HERO"
   },
   "78217065": {
     "type": "Spell",
     "cn_name": "进化结末光焰",
-    "jp_name": "エヴォリューション・レザルト・バースト"
+    "jp_name": "エヴォリューション・レザルト・バースト",
+    "en_name": "Evolution End Burst"
   },
   "5611760": {
     "type": "Trap",
@@ -72061,65 +72066,77 @@
   "31006879": {
     "type": "Spell",
     "cn_name": "疾走决斗！加速！",
-    "jp_name": "ライディング・デュエル！アクセラレーション！"
+    "jp_name": "ライディング・デュエル！アクセラレーション！",
+    "en_name": "On Your Mark, Get Set, DUEL!"
   },
   "68490573": {
     "type": "Trap",
     "cn_name": "伟大之魂",
-    "jp_name": "大いなる魂"
+    "jp_name": "大いなる魂",
+    "en_name": "Time to Stand Up"
   },
   "4599182": {
     "type": "Spell",
     "cn_name": "归来的死神",
-    "jp_name": "舞い戻った死神"
+    "jp_name": "舞い戻った死神",
+    "en_name": "This Creepy Little Punk"
   },
   "30983281": {
     "type": "Monster",
     "cn_name": "加速同调星尘龙",
-    "jp_name": "アクセルシンクロ・スターダスト・ドラゴン"
+    "jp_name": "アクセルシンクロ・スターダスト・ドラゴン",
+    "en_name": "Accel Synchro Stardust Dragon"
   },
   "67378935": {
     "type": "Spell",
     "cn_name": "叠光网络",
     "sc_name": "叠放网络",
-    "jp_name": "オーバーレイ・ネットワーク"
+    "jp_name": "オーバーレイ・ネットワーク",
+    "en_name": "Overlay Network"
   },
   "93777634": {
     "type": "Monster",
     "cn_name": "No.39 希望皇 霍普·升腾",
-    "jp_name": "No.39 希望皇ホープ・ライジング"
+    "jp_name": "No.39 希望皇ホープ・ライジング",
+    "en_name": "Number 39: Utopia Rising"
   },
   "30761649": {
     "type": "Spell",
     "cn_name": "冀望乡-异晶人界-",
-    "jp_name": "冀望郷－バリアン－"
+    "jp_name": "冀望郷－バリアン－",
+    "en_name": "Barian Untopia"
   },
   "66156348": {
     "type": "Spell",
     "cn_name": "龙皇神话",
     "sc_name": "龙皇神话",
-    "jp_name": "竜皇神話"
+    "jp_name": "竜皇神話",
+    "en_name": "Saga of the Dragon Emperor"
   },
   "92644052": {
     "type": "Monster",
     "cn_name": "娱乐伙伴 绝代决斗者",
-    "jp_name": "EM稀代の決闘者"
+    "jp_name": "EM稀代の決闘者",
+    "en_name": "Performapal Duelist Extraordinaire"
   },
   "39049051": {
     "type": "Spell",
     "cn_name": "歌冰丽月",
-    "jp_name": "歌氷麗月"
+    "jp_name": "歌氷麗月",
+    "en_name": "Kahyoreigetsu"
   },
   "65433790": {
     "type": "Spell",
     "cn_name": "大混战模式-加入",
-    "jp_name": "Battle Royal Mode－Joining"
+    "jp_name": "Battle Royal Mode－Joining",
+    "en_name": "Battle Royal Mode - Joining"
   },
   "92428405": {
     "type": "Trap",
     "cn_name": "霸王龙之魂",
     "sc_name": "霸王龙之魂",
-    "jp_name": "覇王龍の魂"
+    "jp_name": "覇王龍の魂",
+    "en_name": "Soul of the Supreme King"
   },
   "28827503": {
     "type": "Spell",
@@ -72130,17 +72147,20 @@
   "64211118": {
     "type": "Monster",
     "cn_name": "防火龙·暗流体-新电磁泄密风",
-    "jp_name": "ファイアウォール・ドラゴン・ダークフルード－ネオテンペスト"
+    "jp_name": "ファイアウォール・ドラゴン・ダークフルード－ネオテンペスト",
+    "en_name": "Firewall Dragon Darkfluid - Neo Tempest Terahertz"
   },
   "91706817": {
     "type": "Spell",
     "cn_name": "蓝泪的天使",
-    "jp_name": "青い涙の天使"
+    "jp_name": "青い涙の天使",
+    "en_name": "Angel of Blue Tears"
   },
   "27104921": {
     "type": "Trap",
     "cn_name": "命运的囚人",
-    "jp_name": "運命の囚人"
+    "jp_name": "運命の囚人",
+    "en_name": "Forge a New Future"
   },
   "90583279": {
     "type": "Monster",
