@@ -74956,6 +74956,56 @@
     "jp_name": "甲虫合体ゼクスタッガー",
     "en_name": "Humongous Hive Hegemon - Zexstagger"
   },
+  "100206001": {
+    "type": "Monster",
+    "cn_name": "迷宫的重战车",
+    "en_name": "Labyrinth Heavy Tank"
+  },
+  "100206002": {
+    "type": "Monster",
+    "cn_name": "迷宫的影之食尸鬼",
+    "en_name": "Shadow Ghoul of the Labyrinth"
+  },
+  "100206003": {
+    "type": "Monster",
+    "cn_name": "合体魔神 门之守护神",
+    "en_name": "Gate Guardians Combined"
+  },
+  "100206004": {
+    "type": "Monster",
+    "cn_name": "雷风魔神 门之守护神",
+    "en_name": "Gate Guardian of Thunder and Wind"
+  },
+  "100206005": {
+    "type": "Monster",
+    "cn_name": "风水魔神 门之守护神",
+    "en_name": "Gate Guardian of Wind and Water"
+  },
+  "100206006": {
+    "type": "Monster",
+    "cn_name": "水雷魔神 门之守护神",
+    "en_name": "Gate Guardian of Water and Thunder"
+  },
+  "100206007": {
+    "type": "Spell",
+    "cn_name": "迷宫壁之影",
+    "en_name": "Labyrinth Wall Shadow"
+  },
+  "100206008": {
+    "type": "Spell",
+    "cn_name": "魔风冲击波",
+    "en_name": "Double Attack! Wind and Thunder!!"
+  },
+  "100206009": {
+    "type": "Spell",
+    "cn_name": "守护者原力",
+    "en_name": "Riryoku Guardian"
+  },
+  "100206010": {
+    "type": "Trap",
+    "cn_name": "地雷蜘蛛的饵食",
+    "en_name": "Prey of the Jirai Gumo"
+  },
   "5829717": {
     "type": "Monster",
     "cn_name": "龙魔导骑士 黑魔术师",
