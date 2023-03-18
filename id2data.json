@@ -75610,5 +75610,160 @@
     "type": "Monster",
     "cn_name": "连接解码员",
     "jp_name": "リンク・デコーダー"
+  },
+  "100420001": {
+    "type": "Monster",
+    "cn_name": "异界流星衔尾龙",
+    "jp_name": "ゼノ・メテオロス"
+  },
+  "100420002": {
+    "type": "Monster",
+    "cn_name": "超越龙 流星衔尾龙",
+    "jp_name": "超越竜メテオロス"
+  },
+  "100420003": {
+    "type": "Monster",
+    "cn_name": "超越龙 巨灵多角龙",
+    "jp_name": "超越竜ギガントザウラー"
+  },
+  "100420004": {
+    "type": "Monster",
+    "cn_name": "超越龙 冰封腕龙",
+    "jp_name": "超越竜グレイスザウルス"
+  },
+  "100420005": {
+    "type": "Monster",
+    "cn_name": "超越龙 钻头矛颌翼龙",
+    "jp_name": "超越竜ドリルグナトゥス"
+  },
+  "100420006": {
+    "type": "Spell",
+    "cn_name": "地面异临点",
+    "jp_name": "グラウンド・ゼノ"
+  },
+  "100420007": {
+    "type": "Trap",
+    "cn_name": "超越天翔",
+    "jp_name": "超越天翔"
+  },
+  "100420016": {
+    "type": "Monster",
+    "cn_name": "征服斗魂 螺禅",
+    "jp_name": "VS ラゼン"
+  },
+  "100420017": {
+    "type": "Monster",
+    "cn_name": "征服斗魂 潘特拉",
+    "jp_name": "VS パンテラ"
+  },
+  "100420018": {
+    "type": "Monster",
+    "cn_name": "征服斗魂 重型电子人",
+    "jp_name": "VS ヘヴィ・ボーガー"
+  },
+  "100420019": {
+    "type": "Monster",
+    "cn_name": "征服斗魂 狂爱博士",
+    "jp_name": "VS Dr.マッドラヴ"
+  },
+  "100420020": {
+    "type": "Monster",
+    "cn_name": "征服斗魂 普鲁同HG",
+    "jp_name": "VS プルトンHG"
+  },
+  "100420021": {
+    "type": "Monster",
+    "cn_name": "征服斗魂 龙帝 瓦利乌斯",
+    "jp_name": "VS 龍帝ヴァリウス"
+  },
+  "100420022": {
+    "type": "Monster",
+    "cn_name": "斗神的虚像",
+    "jp_name": "闘神の虚像"
+  },
+  "100420023": {
+    "type": "Spell",
+    "cn_name": "赌上你的灵魂！",
+    "jp_name": "Stake Your Soul！"
+  },
+  "100420024": {
+    "type": "Spell",
+    "cn_name": "征服斗魂 螺旋流辻风",
+    "jp_name": "VS 螺旋流辻風"
+  },
+  "100420025": {
+    "type": "Spell",
+    "cn_name": "征服斗魂 继续",
+    "jp_name": "VS コンティニュー"
+  },
+  "100420026": {
+    "type": "Trap",
+    "cn_name": "征服斗魂 三一爆发",
+    "jp_name": "VS トリニティ・バースト"
+  },
+  "100420027": {
+    "type": "Trap",
+    "cn_name": "征服斗魂 龙帝之枪",
+    "jp_name": "VS 龍帝ノ槍"
+  },
+  "100420029": {
+    "type": "Monster",
+    "cn_name": "新式魔厨的马赛鱼汤布耶尔",
+    "jp_name": "ブエリヤベース・ド・ヌーベルズ"
+  },
+  "100420030": {
+    "type": "Monster",
+    "cn_name": "新式魔厨的油封佛拉斯",
+    "jp_name": "コンフィラス・ド・ヌーベルズ"
+  },
+  "100420031": {
+    "type": "Monster",
+    "cn_name": "新式魔厨的生煎布提斯",
+    "jp_name": "ポワレティス・ド・ヌーベルズ"
+  },
+  "100420032": {
+    "type": "Monster",
+    "cn_name": "新式魔厨的肥肝格剌希亚",
+    "jp_name": "フォアグラシャ・ド・ヌーベルズ"
+  },
+  "100420033": {
+    "type": "Monster",
+    "cn_name": "新式魔厨的黄油香煎巴拉姆",
+    "jp_name": "バラムニエル・ド・ヌーベルズ"
+  },
+  "100420034": {
+    "type": "Monster",
+    "cn_name": "新式魔厨的烧烤巴力",
+    "jp_name": "バグリエル・ド・ヌーベルズ"
+  },
+  "100420035": {
+    "type": "Spell",
+    "cn_name": "新式魔厨客栈餐厅『开饭啦』",
+    "jp_name": "Nouvellez Auberge 『À Table』"
+  },
+  "100420036": {
+    "type": "Spell",
+    "cn_name": "这是菜单",
+    "jp_name": "Voici la Carte～メニューはこちら～"
+  },
+  "100420037": {
+    "type": "Spell",
+    "cn_name": "鱼料理的食谱",
+    "jp_name": "Recette de Poisson～魚料理のレシピ～"
+  },
+  "100420038": {
+    "type": "Spell",
+    "cn_name": "肉料理的食谱",
+    "jp_name": "Recette de Viande～肉料理のレシピ～"
+  },
+  "100420039": {
+    "type": "Trap",
+    "cn_name": "员工餐的食谱",
+    "jp_name": "Recette de Personnel～賄いのレシピ～"
+  },
+  "100420040": {
+    "type": "Trap",
+    "cn_name": "料理长自豪的食谱",
+    "jp_name": "Recette de Spécialité～料理長自慢のレシピ～"
   }
 }
