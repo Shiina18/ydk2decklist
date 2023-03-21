@@ -26401,6 +26401,11 @@
     "cn_name": "大太郎法师",
     "jp_name": "ダイダラボッチ"
   },
+  "100200233": {
+    "type": "Monster",
+    "cn_name": "蔷薇蝴蝶",
+    "jp_name": "ローズ・パピヨン"
+  },
   "34293667": {
     "type": "Trap",
     "cn_name": "冰结界",
@@ -26598,6 +26603,11 @@
     "cn_name": "炎热旋风壁",
     "jp_name": "炎熱旋風壁",
     "en_name": "Molten Whirlwind Wall"
+  },
+  "100200231": {
+    "type": "Monster",
+    "cn_name": "燃烧龙",
+    "jp_name": "バーニング・ドラゴン"
   },
   "34479658": {
     "type": "Monster",
@@ -75596,6 +75606,11 @@
     "cn_name": "球骑士三人娘",
     "jp_name": "球騎士の三人娘"
   },
+  "100200232": {
+    "type": "Monster",
+    "cn_name": "三眼死灵",
+    "jp_name": "三眼の死霊"
+  },
   "100200230": {
     "type": "Monster",
     "cn_name": "神圣魔术师",
@@ -75765,5 +75780,10 @@
     "type": "Trap",
     "cn_name": "料理长自豪的食谱",
     "jp_name": "Recette de Spécialité～料理長自慢のレシピ～"
+  },
+  "100200234": {
+    "type": "Trap",
+    "cn_name": "血肉之代偿",
+    "jp_name": "血肉の代償"
   }
 }
