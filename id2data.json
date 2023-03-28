@@ -26490,7 +26490,7 @@
     "cn_name": "大太郎法师",
     "jp_name": "ダイダラボッチ"
   },
-  "100200233": {
+  "8910240": {
     "type": "Monster",
     "cn_name": "蔷薇蝴蝶",
     "jp_name": "ローズ・パピヨン"
@@ -26693,7 +26693,7 @@
     "jp_name": "炎熱旋風壁",
     "en_name": "Molten Whirlwind Wall"
   },
-  "100200231": {
+  "8085950": {
     "type": "Monster",
     "cn_name": "燃烧龙",
     "jp_name": "バーニング・ドラゴン"
@@ -75251,52 +75251,52 @@
     "jp_name": "甲虫合体ゼクスタッガー",
     "en_name": "Humongous Hive Hegemon - Zexstagger"
   },
-  "100206001": {
+  "35026117": {
     "type": "Monster",
     "cn_name": "迷宫的重战车",
     "en_name": "Labyrinth Heavy Tank"
   },
-  "100206002": {
+  "62411811": {
     "type": "Monster",
     "cn_name": "迷宫的影之食尸鬼",
     "en_name": "Shadow Ghoul of the Labyrinth"
   },
-  "100206003": {
+  "8505920": {
     "type": "Monster",
     "cn_name": "合体魔神 门之守护神",
     "en_name": "Gate Guardians Combined"
   },
-  "100206004": {
+  "34904525": {
     "type": "Monster",
     "cn_name": "雷风魔神 门之守护神",
     "en_name": "Gate Guardian of Thunder and Wind"
   },
-  "100206005": {
+  "61398234": {
     "type": "Monster",
     "cn_name": "风水魔神 门之守护神",
     "en_name": "Gate Guardian of Wind and Water"
   },
-  "100206006": {
+  "97783338": {
     "type": "Monster",
     "cn_name": "水雷魔神 门之守护神",
     "en_name": "Gate Guardian of Water and Thunder"
   },
-  "100206007": {
+  "34771947": {
     "type": "Spell",
     "cn_name": "迷宫壁之影",
     "en_name": "Labyrinth Wall Shadow"
   },
-  "100206008": {
+  "60176682": {
     "type": "Spell",
     "cn_name": "魔风冲击波",
     "en_name": "Double Attack! Wind and Thunder!!"
   },
-  "100206009": {
+  "96661780": {
     "type": "Spell",
     "cn_name": "守护者原力",
     "en_name": "Riryoku Guardian"
   },
-  "100206010": {
+  "33055499": {
     "type": "Trap",
     "cn_name": "地雷蜘蛛的饵食",
     "en_name": "Prey of the Jirai Gumo"
@@ -75416,62 +75416,62 @@
     "cn_name": "慈爱之贤者-西埃拉",
     "jp_name": "慈愛の賢者－シエラ"
   },
-  "101111081": {
+  "61845881": {
     "type": "Monster",
     "cn_name": "寻我海豚",
     "en_name": "Minairuka"
   },
-  "101111082": {
+  "97240499": {
     "type": "Monster",
     "cn_name": "吟游公牛战士 奥菲布尔",
     "en_name": "Orphebull the Harmonious Bullfighter Bard"
   },
-  "101111083": {
+  "24634594": {
     "type": "Monster",
     "cn_name": "魔花螳螂 迪亚波兰提斯",
     "en_name": "Diabolantis the Menacing Mantis"
   },
-  "101111084": {
+  "60623203": {
     "type": "Spell",
     "cn_name": "超量对齐",
     "en_name": "Xyz Align"
   },
-  "101111085": {
+  "96127902": {
     "type": "Spell",
     "cn_name": "人鱼女仆装定制设计师",
     "en_name": "Made to Order Mermaid Outfit Outfitter"
   },
-  "101111201": {
+  "23512906": {
     "type": "Monster",
     "cn_name": "黄金荣耀-里昂",
     "en_name": "Gold Pride - Leon"
   },
-  "101111087": {
+  "59900655": {
     "type": "Monster",
     "cn_name": "黄金荣耀-氮气头",
     "en_name": "Gold Pride - Nytro Head"
   },
-  "101111088": {
+  "96305350": {
     "type": "Monster",
     "cn_name": "黄金荣耀-卡莉船长",
     "en_name": "Gold Pride - Captain Carrie"
   },
-  "101111089": {
+  "22390469": {
     "type": "Monster",
     "cn_name": "黄金荣耀-明星里昂",
     "en_name": "Gold Pride - Star Leon"
   },
-  "101111090": {
+  "58884063": {
     "type": "Monster",
     "cn_name": "黄金荣耀-氮气爆破者",
     "en_name": "Gold Pride - Nytro Blaster"
   },
-  "101111091": {
+  "95283172": {
     "type": "Spell",
     "cn_name": "黄金荣耀-观众欢呼！",
     "en_name": "Gold Pride - The Crowd Goes Wild!"
   },
-  "101111092": {
+  "21677871": {
     "type": "Trap",
     "cn_name": "黄金荣耀-发动引擎！",
     "en_name": "Gold Pride - Start Your Engines!"
@@ -75891,182 +75891,182 @@
     "cn_name": "球骑士三人娘",
     "jp_name": "球騎士の三人娘"
   },
-  "100200232": {
+  "31464658": {
     "type": "Monster",
     "cn_name": "三眼死灵",
     "jp_name": "三眼の死霊"
   },
-  "100200230": {
+  "67853262": {
     "type": "Monster",
     "cn_name": "神圣魔术师",
     "jp_name": "神聖なる魔術師"
   },
-  "100205001": {
+  "93347961": {
     "type": "Monster",
     "cn_name": "元素英雄 火焰翼侠-火焰一击",
     "jp_name": "E・HERO フレイム・ウィングマン－フレイム・シュート"
   },
-  "100205002": {
+  "30342076": {
     "type": "Monster",
     "cn_name": "连接解码员",
     "jp_name": "リンク・デコーダー"
   },
-  "100420001": {
+  "5852388": {
     "type": "Monster",
     "cn_name": "异界流星衔尾龙",
     "jp_name": "ゼノ・メテオロス"
   },
-  "100420002": {
+  "31241087": {
     "type": "Monster",
     "cn_name": "超越龙 流星衔尾龙",
     "jp_name": "超越竜メテオロス"
   },
-  "100420003": {
+  "67745632": {
     "type": "Monster",
     "cn_name": "超越龙 巨灵多角龙",
     "jp_name": "超越竜ギガントザウラー"
   },
-  "100420004": {
+  "94130731": {
     "type": "Monster",
     "cn_name": "超越龙 冰封腕龙",
     "jp_name": "超越竜グレイスザウルス"
   },
-  "100420005": {
+  "30128445": {
     "type": "Monster",
     "cn_name": "超越龙 钻头矛颌翼龙",
     "jp_name": "超越竜ドリルグナトゥス"
   },
-  "100420006": {
+  "67523044": {
     "type": "Spell",
     "cn_name": "地面异临点",
     "jp_name": "グラウンド・ゼノ"
   },
-  "100420007": {
+  "93918159": {
     "type": "Trap",
     "cn_name": "超越天翔",
     "jp_name": "超越天翔"
   },
-  "100420016": {
+  "29302858": {
     "type": "Monster",
     "cn_name": "征服斗魂 螺禅",
     "jp_name": "VS ラゼン"
   },
-  "100420017": {
+  "66401502": {
     "type": "Monster",
     "cn_name": "征服斗魂 潘特拉",
     "jp_name": "VS パンテラ"
   },
-  "100420018": {
+  "92895501": {
     "type": "Monster",
     "cn_name": "征服斗魂 重型电子人",
     "jp_name": "VS ヘヴィ・ボーガー"
   },
-  "100420019": {
+  "29280200": {
     "type": "Monster",
     "cn_name": "征服斗魂 狂爱博士",
     "jp_name": "VS Dr.マッドラヴ"
   },
-  "100420020": {
+  "55688914": {
     "type": "Monster",
     "cn_name": "征服斗魂 普鲁同HG",
     "jp_name": "VS プルトンHG"
   },
-  "100420021": {
+  "91073013": {
     "type": "Monster",
     "cn_name": "征服斗魂 龙帝 瓦利乌斯",
     "jp_name": "VS 龍帝ヴァリウス"
   },
-  "100420022": {
+  "28168628": {
     "type": "Monster",
     "cn_name": "斗神的虚像",
     "jp_name": "闘神の虚像"
   },
-  "100420023": {
+  "54562327": {
     "type": "Spell",
     "cn_name": "赌上你的灵魂！",
     "jp_name": "Stake Your Soul！"
   },
-  "100420024": {
+  "91951471": {
     "type": "Spell",
     "cn_name": "征服斗魂 螺旋流辻风",
     "jp_name": "VS 螺旋流辻風"
   },
-  "100420025": {
+  "27345070": {
     "type": "Spell",
     "cn_name": "征服斗魂 继续",
     "jp_name": "VS コンティニュー"
   },
-  "100420026": {
+  "53330789": {
     "type": "Trap",
     "cn_name": "征服斗魂 三一爆发",
     "jp_name": "VS トリニティ・バースト"
   },
-  "100420027": {
+  "80738884": {
     "type": "Trap",
     "cn_name": "征服斗魂 龙帝之枪",
     "jp_name": "VS 龍帝ノ槍"
   },
-  "100420029": {
+  "26223582": {
     "type": "Monster",
     "cn_name": "新式魔厨的马赛鱼汤布耶尔",
     "jp_name": "ブエリヤベース・ド・ヌーベルズ"
   },
-  "100420030": {
+  "53618197": {
     "type": "Monster",
     "cn_name": "新式魔厨的油封佛拉斯",
     "jp_name": "コンフィラス・ド・ヌーベルズ"
   },
-  "100420031": {
+  "89016236": {
     "type": "Monster",
     "cn_name": "新式魔厨的生煎布提斯",
     "jp_name": "ポワレティス・ド・ヌーベルズ"
   },
-  "100420032": {
+  "15001940": {
     "type": "Monster",
     "cn_name": "新式魔厨的肥肝格剌希亚",
     "jp_name": "フォアグラシャ・ド・ヌーベルズ"
   },
-  "100420033": {
+  "52495649": {
     "type": "Monster",
     "cn_name": "新式魔厨的黄油香煎巴拉姆",
     "jp_name": "バラムニエル・ド・ヌーベルズ"
   },
-  "100420034": {
+  "88890658": {
     "type": "Monster",
     "cn_name": "新式魔厨的烧烤巴力",
     "jp_name": "バグリエル・ド・ヌーベルズ"
   },
-  "100420035": {
+  "15388353": {
     "type": "Spell",
     "cn_name": "新式魔厨客栈餐厅『开饭啦』",
     "jp_name": "Nouvellez Auberge 『À Table』"
   },
-  "100420036": {
+  "41773061": {
     "type": "Spell",
     "cn_name": "这是菜单",
     "jp_name": "Voici la Carte～メニューはこちら～"
   },
-  "100420037": {
+  "87778106": {
     "type": "Spell",
     "cn_name": "鱼料理的食谱",
     "jp_name": "Recette de Poisson～魚料理のレシピ～"
   },
-  "100420038": {
+  "14166715": {
     "type": "Spell",
     "cn_name": "肉料理的食谱",
     "jp_name": "Recette de Viande～肉料理のレシピ～"
   },
-  "100420039": {
+  "40551410": {
     "type": "Trap",
     "cn_name": "员工餐的食谱",
     "jp_name": "Recette de Personnel～賄いのレシピ～"
   },
-  "100420040": {
+  "87955518": {
     "type": "Trap",
     "cn_name": "料理长自豪的食谱",
     "jp_name": "Recette de Spécialité～料理長自慢のレシピ～"
   },
-  "100200234": {
+  "76823930": {
     "type": "Trap",
     "cn_name": "血肉之代偿",
     "jp_name": "血肉の代償"
