@@ -9538,6 +9538,7 @@
   "11548522": {
     "type": "Monster",
     "cn_name": "迷犬 小栗子",
+    "sc_name": "迷犬玛隆",
     "jp_name": "迷犬マロン",
     "en_name": "Outstanding Dog Marron"
   },
@@ -11283,6 +11284,7 @@
   "86652646": {
     "type": "Monster",
     "cn_name": "骨犬 小栗子",
+    "sc_name": "骨犬玛隆",
     "jp_name": "骨犬マロン",
     "en_name": "Skull Dog Marron"
   },
@@ -11485,6 +11487,7 @@
   "53539634": {
     "type": "Monster",
     "cn_name": "三眼小巫师",
+    "sc_name": "三眼巫",
     "jp_name": "クリッチー",
     "en_name": "Sanwitch"
   },
@@ -14307,6 +14310,7 @@
   "41436536": {
     "type": "Monster",
     "cn_name": "元素英雄 凤凰人",
+    "sc_name": "元素－英雄 不死鸟魔侠",
     "jp_name": "E・HERO フェニックスガイ",
     "en_name": "Elemental HERO Phoenix Enforcer"
   },
@@ -26096,6 +26100,7 @@
   "74952447": {
     "type": "Monster",
     "cn_name": "曾被称为神的龟",
+    "sc_name": "曾被称为神的龟",
     "jp_name": "かつて神と呼ばれた亀",
     "en_name": "Testudo erat Numen"
   },
@@ -27169,6 +27174,7 @@
   "57355219": {
     "type": "Trap",
     "cn_name": "悖论融合",
+    "sc_name": "悖论结合",
     "jp_name": "パラドックス・フュージョン",
     "en_name": "Paradox Fusion"
   },
@@ -35193,6 +35199,7 @@
   "23998625": {
     "type": "Monster",
     "cn_name": "No.53 伪骸神 心地心",
+    "sc_name": "编号53 伪骸神 心地心",
     "jp_name": "No.53 偽骸神 Heart－eartH",
     "en_name": "Number 53: Heart-eartH"
   },
@@ -38414,6 +38421,7 @@
   "84124261": {
     "type": "Monster",
     "cn_name": "No.39 希望皇 霍普·源望",
+    "sc_name": "编号39 希望皇霍普起源",
     "jp_name": "No.39 希望皇ホープ・ルーツ",
     "en_name": "Number 39: Utopia Roots"
   },
@@ -38492,6 +38500,7 @@
   "71345905": {
     "type": "Spell",
     "cn_name": "降阶魔法-源数之落",
+    "sc_name": "降阶魔法－源数之落",
     "jp_name": "RDM－ヌメロン・フォール",
     "en_name": "Rank-Down-Magic Numeron Fall"
   },
@@ -39954,6 +39963,7 @@
   "68812773": {
     "type": "Monster",
     "cn_name": "吉器美",
+    "sc_name": "奥波美",
     "jp_name": "オボミ",
     "en_name": "Lillybot"
   },
@@ -40312,6 +40322,7 @@
   "69327790": {
     "type": "Monster",
     "cn_name": "烈风帝 莱扎",
+    "sc_name": "烈风帝莱萨",
     "jp_name": "烈風帝ライザー",
     "en_name": "Raiza the Mega Monarch"
   },
@@ -44832,6 +44843,7 @@
   "27873305": {
     "type": "Monster",
     "cn_name": "DDD 怒涛坏薙王 恺撒末日神",
+    "sc_name": "DDD 怒涛坏薙王凯撒诸神黄昏",
     "jp_name": "DDD怒濤壊薙王カエサル・ラグナロク",
     "en_name": "D/D/D Wave Oblivion King Caesar Ragnarok"
   },
@@ -45455,6 +45467,7 @@
   "50185950": {
     "type": "Monster",
     "cn_name": "牲祭栗子球",
+    "sc_name": "纳祭库里波",
     "jp_name": "サクリボー",
     "en_name": "Relinkuriboh"
   },
@@ -45987,6 +46000,7 @@
   "16278116": {
     "type": "Trap",
     "cn_name": "龙之束缚",
+    "sc_name": "龙之束缚",
     "jp_name": "竜の束縛",
     "en_name": "Dragon's Bind"
   },
@@ -49460,6 +49474,7 @@
   "30539496": {
     "type": "Monster",
     "cn_name": "真龙皇 利托斯阿齐姆·灾祸",
+    "sc_name": "真龙皇 威岩真主 灾厄",
     "jp_name": "真竜皇リトスアジムD",
     "en_name": "True King Lithosagym, the Disaster"
   },
@@ -52255,6 +52270,7 @@
   "70950698": {
     "type": "Monster",
     "cn_name": "引导交错鹿",
+    "sc_name": "引导交错鹿",
     "jp_name": "ブート・スタッガード",
     "en_name": "Boot Staggered"
   },
@@ -55938,6 +55954,7 @@
   "20862918": {
     "type": "Spell",
     "cn_name": "杂交种",
+    "sc_name": "交叉混种",
     "jp_name": "クロス・ブリード",
     "en_name": "Cross Breed"
   },
@@ -57657,7 +57674,7 @@
   },
   "38363525": {
     "type": "Spell",
-    "cn_name": "不死尸同调化",
+    "cn_name": "不死尸化",
     "jp_name": "アンデット・ネクロナイズ",
     "en_name": "Zombie Necronize"
   },
