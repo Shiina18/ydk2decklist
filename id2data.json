@@ -2547,7 +2547,7 @@
   },
   "20848593": {
     "type": "Monster",
-    "cn_name": "冰水",
+    "cn_name": "冻水",
     "jp_name": "氷水"
   },
   "66836598": {
@@ -6659,7 +6659,7 @@
   },
   "67105242": {
     "type": "Monster",
-    "cn_name": "地缚灵",
+    "cn_name": "束缚于土地的亡灵",
     "jp_name": "地縛霊",
     "en_name": "Earthbound Spirit"
   },
