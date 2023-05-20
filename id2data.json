@@ -3594,7 +3594,7 @@
   },
   "55875323": {
     "type": "Monster",
-    "cn_name": "电气蜥蜴",
+    "cn_name": "电蜥蜴",
     "jp_name": "でんきトカゲ",
     "en_name": "Electric Lizard"
   },
@@ -11808,7 +11808,7 @@
   },
   "28143906": {
     "type": "Monster",
-    "cn_name": "霞之谷的大怪鸟",
+    "cn_name": "霞谷的大怪鸟",
     "jp_name": "霞の谷の大怪鳥",
     "en_name": "Roc from the Valley of Haze"
   },
@@ -76755,5 +76755,10 @@
     "type": "Monster",
     "cn_name": "杀人马铃薯",
     "jp_name": "キラー・ポテト"
+  },
+  "100200236": {
+    "type": "Monster",
+    "cn_name": "蒲公英白狮",
+    "jp_name": "ダンディ・ホワイトライオン"
   }
 }
