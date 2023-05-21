@@ -134,6 +134,7 @@
   "70781052": {
     "type": "Monster",
     "cn_name": "恶魔召唤",
+    "sc_name": "恶魔的召唤",
     "jp_name": "デーモンの召喚",
     "en_name": "Summoned Skull"
   },
@@ -503,6 +504,7 @@
   "74677422": {
     "type": "Monster",
     "cn_name": "真红眼黑龙",
+    "sc_name": "真红眼黑龙",
     "jp_name": "真紅眼の黒竜",
     "en_name": "Red-Eyes Black Dragon"
   },
@@ -1278,6 +1280,7 @@
   "11901678": {
     "type": "Monster",
     "cn_name": "暗黑魔龙",
+    "sc_name": "黑恶魔龙",
     "jp_name": "ブラック・デーモンズ・ドラゴン",
     "en_name": "Black Skull Dragon"
   },
@@ -4127,12 +4130,14 @@
   "64271667": {
     "type": "Monster",
     "cn_name": "流星之龙",
+    "sc_name": "陨星龙",
     "jp_name": "メテオ・ドラゴン",
     "en_name": "Meteor Dragon"
   },
   "90660762": {
     "type": "Monster",
     "cn_name": "流星黑龙",
+    "sc_name": "陨星黑龙",
     "jp_name": "メテオ・ブラック・ドラゴン",
     "en_name": "Meteor Black Dragon"
   },
@@ -11532,6 +11537,7 @@
   "52684508": {
     "type": "Spell",
     "cn_name": "黑炎弹",
+    "sc_name": "黑炎弹",
     "jp_name": "黒炎弾",
     "en_name": "Inferno Fire Blast"
   },
@@ -14551,12 +14557,14 @@
   "94689635": {
     "type": "Monster",
     "cn_name": "紫光之宣告者",
+    "sc_name": "紫光之宣告者",
     "jp_name": "紫光の宣告者",
     "en_name": "Herald of Purple Light"
   },
   "21074344": {
     "type": "Monster",
     "cn_name": "绿光之宣告者",
+    "sc_name": "绿光之宣告者",
     "jp_name": "緑光の宣告者",
     "en_name": "Herald of Green Light"
   },
@@ -19805,12 +19813,14 @@
   "17266660": {
     "type": "Monster",
     "cn_name": "朱光之宣告者",
+    "sc_name": "朱光之宣告者",
     "jp_name": "朱光の宣告者",
     "en_name": "Herald of Orange Light"
   },
   "44665365": {
     "type": "Monster",
     "cn_name": "神光之宣告者",
+    "sc_name": "神光之宣告者",
     "jp_name": "神光の宣告者",
     "en_name": "Herald of Perfection"
   },
@@ -21309,6 +21319,7 @@
   "16940215": {
     "type": "Monster",
     "cn_name": "自然叶脉",
+    "sc_name": "大植然叶脉",
     "jp_name": "ナチュル・ナーブ",
     "en_name": "Naturia Vein"
   },
@@ -21629,7 +21640,7 @@
   "2009101": {
     "type": "Monster",
     "cn_name": "黑羽-疾风之盖尔",
-    "sc_name": "黑羽-疾风之盖尔",
+    "sc_name": "黑羽－疾风之盖尔",
     "jp_name": "BF－疾風のゲイル",
     "en_name": "Blackwing - Gale the Whirlwind"
   },
@@ -21643,6 +21654,7 @@
   "75498415": {
     "type": "Monster",
     "cn_name": "黑羽-晓之希洛克",
+    "sc_name": "黑羽－晓之西洛可",
     "jp_name": "BF－暁のシロッコ",
     "en_name": "Blackwing - Sirocco the Dawn"
   },
@@ -21785,6 +21797,7 @@
   "69031175": {
     "type": "Monster",
     "cn_name": "黑羽-铠翼鸦",
+    "sc_name": "黑羽－装甲之翼",
     "jp_name": "BF－アーマード・ウィング",
     "en_name": "Blackwing Armor Master"
   },
@@ -22177,6 +22190,7 @@
   "99150062": {
     "type": "Monster",
     "cn_name": "自然蚂蚁颚",
+    "sc_name": "大植然蚂蚁颚",
     "jp_name": "ナチュル・アントジョー",
     "en_name": "Naturia Antjaw"
   },
@@ -22189,6 +22203,7 @@
   "61049315": {
     "type": "Monster",
     "cn_name": "自然蔷薇鞭",
+    "sc_name": "大植然蔷薇鞭",
     "jp_name": "ナチュル・ローズウィップ",
     "en_name": "Naturia Rosewhip"
   },
@@ -22293,6 +22308,7 @@
   "16527176": {
     "type": "Monster",
     "cn_name": "自然狮面草",
+    "sc_name": "大植然狮面草",
     "jp_name": "ナチュル・ガオドレイク",
     "en_name": "Naturia Leodrake"
   },
@@ -22482,18 +22498,21 @@
   "22835145": {
     "type": "Monster",
     "cn_name": "黑羽-极北之布利扎德",
+    "sc_name": "黑羽－极北之暴冽扎德",
     "jp_name": "BF－極北のブリザード",
     "en_name": "Blackwing - Blizzard the Far North"
   },
   "58820853": {
     "type": "Monster",
     "cn_name": "黑羽-苍炎之修罗",
+    "sc_name": "黑羽－苍炎之修罗",
     "jp_name": "BF－蒼炎のシュラ",
     "en_name": "Blackwing - Shura the Blue Flame"
   },
   "85215458": {
     "type": "Monster",
     "cn_name": "黑羽-月影之卡鲁特",
+    "sc_name": "黑羽－月影之卡鲁特",
     "jp_name": "BF－月影のカルート",
     "en_name": "Blackwing - Kalut the Moon Shadow"
   },
@@ -22669,6 +22688,7 @@
   "76913983": {
     "type": "Monster",
     "cn_name": "黑羽-兵翼鸦",
+    "sc_name": "黑羽－武装之翼",
     "jp_name": "BF－アームズ・ウィング",
     "en_name": "Blackwing Armed Wing"
   },
@@ -22973,6 +22993,7 @@
   "7478431": {
     "type": "Monster",
     "cn_name": "自然向日葵",
+    "sc_name": "大植然向日葵",
     "jp_name": "ナチュル・サンフラワー",
     "en_name": "Naturia Sunflower"
   },
@@ -23256,6 +23277,7 @@
   "72714392": {
     "type": "Monster",
     "cn_name": "黑羽-大旆之伐由",
+    "sc_name": "黑羽－大旆之伐由",
     "jp_name": "BF－大旆のヴァーユ",
     "en_name": "Blackwing - Vayu the Emblem of Honor"
   },
@@ -23857,6 +23879,7 @@
   "84905691": {
     "type": "Monster",
     "cn_name": "自然黄蜂针",
+    "sc_name": "大植然蜂针",
     "jp_name": "ナチュル・ホーストニードル",
     "en_name": "Naturia Horneedle"
   },
@@ -23869,6 +23892,7 @@
   "47795344": {
     "type": "Monster",
     "cn_name": "自然绣球花",
+    "sc_name": "大植然绣球花",
     "jp_name": "ナチュル・ハイドランジー",
     "en_name": "Naturia Hydrangea"
   },
@@ -24307,6 +24331,7 @@
   "33236860": {
     "type": "Monster",
     "cn_name": "黑羽-孤高之银风鸦",
+    "sc_name": "黑羽－孤高之银风",
     "jp_name": "BF－孤高のシルバー・ウィンド",
     "en_name": "Blackwing - Silverwind the Ascendant"
   },
@@ -24817,12 +24842,14 @@
   "42110434": {
     "type": "Monster",
     "cn_name": "自然蝴蝶",
+    "sc_name": "大植然蝴蝶",
     "jp_name": "ナチュル・バタフライ",
     "en_name": "Naturia Butterfly"
   },
   "19605133": {
     "type": "Monster",
     "cn_name": "自然瓢虫",
+    "sc_name": "大植然瓢虫",
     "jp_name": "ナチュル・レディバグ",
     "en_name": "Naturia Ladybug"
   },
@@ -24884,6 +24911,7 @@
   "43932460": {
     "type": "Monster",
     "cn_name": "自然地龟",
+    "sc_name": "大植然陆龟",
     "jp_name": "ナチュル・ランドオルス",
     "en_name": "Naturia Landoise"
   },
@@ -25700,18 +25728,21 @@
   "25866285": {
     "type": "Monster",
     "cn_name": "自然椿象",
+    "sc_name": "大植然椿象",
     "jp_name": "ナチュル・スティンクバグ",
     "en_name": "Naturia Stinkbug"
   },
   "51254980": {
     "type": "Monster",
     "cn_name": "自然螳螂",
+    "sc_name": "大植然螳螂",
     "jp_name": "ナチュル・マンティス",
     "en_name": "Naturia Mantis"
   },
   "87649699": {
     "type": "Monster",
     "cn_name": "自然豚草",
+    "sc_name": "大植然豚草",
     "jp_name": "ナチュル・ラグウィード",
     "en_name": "Naturia Ragweed"
   },
@@ -25946,6 +25977,7 @@
   "52869807": {
     "type": "Monster",
     "cn_name": "黑羽-逆风之加斯特",
+    "sc_name": "黑羽－逆风之加斯特",
     "jp_name": "BF－逆風のガスト",
     "en_name": "Blackwing - Gust the Backblast"
   },
@@ -26285,6 +26317,7 @@
   "27383110": {
     "type": "Spell",
     "cn_name": "宣告者的预言",
+    "sc_name": "宣告者之预言",
     "jp_name": "宣告者の預言",
     "en_name": "Dawn of the Herald"
   },
@@ -26916,6 +26949,7 @@
   "20174189": {
     "type": "Monster",
     "cn_name": "自然竹笋",
+    "sc_name": "大植然竹笋",
     "jp_name": "ナチュル・バンブーシュート",
     "en_name": "Naturia Bamboo Shoot"
   },
@@ -27052,6 +27086,7 @@
   "37322745": {
     "type": "Spell",
     "cn_name": "自然之森",
+    "sc_name": "大植然森林",
     "jp_name": "ナチュルの森",
     "en_name": "Naturia Forest"
   },
@@ -27685,6 +27720,7 @@
   "60668166": {
     "type": "Monster",
     "cn_name": "自然樱桃",
+    "sc_name": "大植然樱桃",
     "jp_name": "ナチュル・チェリー",
     "en_name": "Naturia Cherries"
   },
@@ -28273,6 +28309,7 @@
   "7304544": {
     "type": "Monster",
     "cn_name": "自然菠萝",
+    "sc_name": "大植然菠萝",
     "jp_name": "ナチュル・パイナポー",
     "en_name": "Naturia Pineapple"
   },
@@ -29514,13 +29551,14 @@
   "55610595": {
     "type": "Monster",
     "cn_name": "黑羽-上弦之灭弓鸟",
+    "sc_name": "黑羽－上弦之比那卡",
     "jp_name": "BF－上弦のピナーカ",
     "en_name": "Blackwing - Pinaki the Waxing Moon"
   },
   "81105204": {
     "type": "Monster",
     "cn_name": "黑羽-残夜之波刃剑鸟",
-    "sc_name": "黑羽-残夜之酷利斯",
+    "sc_name": "黑羽－残夜之酷利斯",
     "jp_name": "BF－残夜のクリス",
     "en_name": "Blackwing - Kris the Crack of Dawn"
   },
@@ -29538,12 +29576,14 @@
   "81983656": {
     "type": "Monster",
     "cn_name": "黑羽驯鸟师-漆黑之鹰匠·乔",
+    "sc_name": "黑羽驯鸟师－漆黑之鹰匠",
     "jp_name": "BF T－漆黒のホーク・ジョー",
     "en_name": "Blackwing Tamer - Obsidian Hawk Joe"
   },
   "17377751": {
     "type": "Monster",
     "cn_name": "黑羽-煌星之怒剑鸟",
+    "sc_name": "黑羽－煌星之格拉墨",
     "jp_name": "BF－煌星のグラム",
     "en_name": "Blackwing - Gram the Shining Star"
   },
@@ -31199,6 +31239,7 @@
   "24694698": {
     "type": "Monster",
     "cn_name": "自然栗子",
+    "sc_name": "大植然栗子",
     "jp_name": "ナチュル・マロン",
     "en_name": "Naturia Marron"
   },
@@ -36804,6 +36845,7 @@
   "1249315": {
     "type": "Monster",
     "cn_name": "圣光之宣告者",
+    "sc_name": "圣光之宣告者",
     "jp_name": "聖光の宣告者",
     "en_name": "Herald of Pure Light"
   },
@@ -37324,36 +37366,42 @@
   "54512827": {
     "type": "Monster",
     "cn_name": "鬼计南瓜灯",
+    "sc_name": "鬼计・南瓜灯",
     "jp_name": "ゴーストリック・ランタン",
     "en_name": "Ghostrick Lantern"
   },
   "81907872": {
     "type": "Monster",
     "cn_name": "鬼计亡灵",
+    "sc_name": "鬼计・幽灵",
     "jp_name": "ゴーストリック・スペクター",
     "en_name": "Ghostrick Specter"
   },
   "27491571": {
     "type": "Monster",
     "cn_name": "鬼计魔女",
+    "sc_name": "鬼计的魔女",
     "jp_name": "ゴーストリックの魔女",
     "en_name": "Ghostrick Witch"
   },
   "54490275": {
     "type": "Monster",
     "cn_name": "鬼计雪女",
+    "sc_name": "鬼计的雪女",
     "jp_name": "ゴーストリックの雪女",
     "en_name": "Ghostrick Yuki-onna"
   },
   "80885284": {
     "type": "Monster",
     "cn_name": "鬼计僵尸",
+    "sc_name": "鬼计・跳尸",
     "jp_name": "ゴーストリック・キョンシー",
     "en_name": "Ghostrick Jiangshi"
   },
   "16279989": {
     "type": "Monster",
     "cn_name": "鬼计科学怪人",
+    "sc_name": "鬼计・科学怪人",
     "jp_name": "ゴーストリック・シュタイン",
     "en_name": "Ghostrick Stein"
   },
@@ -37547,6 +37595,7 @@
   "75367227": {
     "type": "Monster",
     "cn_name": "鬼计妖魔·阿鲁卡德",
+    "sc_name": "鬼计・阿尔卡德",
     "jp_name": "ゴーストリック・アルカード",
     "en_name": "Ghostrick Alucard"
   },
@@ -37609,6 +37658,7 @@
   "99795159": {
     "type": "Spell",
     "cn_name": "鬼计之馆",
+    "sc_name": "鬼计屋",
     "jp_name": "ゴーストリック・ハウス",
     "en_name": "Ghostrick Mansion"
   },
@@ -37682,6 +37732,7 @@
   "86516889": {
     "type": "Trap",
     "cn_name": "鬼计惊魂",
+    "sc_name": "鬼计恐慌",
     "jp_name": "ゴーストリック・パニック",
     "en_name": "Ghostrick Scare"
   },
@@ -38295,18 +38346,21 @@
   "61318483": {
     "type": "Monster",
     "cn_name": "鬼计霜精",
+    "sc_name": "鬼计・霜精",
     "jp_name": "ゴーストリック・フロスト",
     "en_name": "Ghostrick Jackfrost"
   },
   "98707192": {
     "type": "Monster",
     "cn_name": "鬼计妖魔·玛丽",
+    "sc_name": "鬼计・玛丽",
     "jp_name": "ゴーストリック・マリー",
     "en_name": "Ghostrick Mary"
   },
   "24101897": {
     "type": "Monster",
     "cn_name": "鬼计猫娘",
+    "sc_name": "鬼计的猫娘",
     "jp_name": "ゴーストリックの猫娘",
     "en_name": "Ghostrick Nekomusume"
   },
@@ -38319,6 +38373,7 @@
   "97584500": {
     "type": "Monster",
     "cn_name": "鬼计木乃伊",
+    "sc_name": "鬼计・木乃伊",
     "jp_name": "ゴーストリック・マミー",
     "en_name": "Ghostrick Mummy"
   },
@@ -38565,6 +38620,7 @@
   "7617062": {
     "type": "Spell",
     "cn_name": "鬼计博物馆",
+    "sc_name": "鬼计博物馆",
     "jp_name": "ゴーストリック・ミュージアム",
     "en_name": "Ghostrick Museum"
   },
@@ -38627,6 +38683,7 @@
   "37055344": {
     "type": "Trap",
     "cn_name": "鬼计天旋地转",
+    "sc_name": "鬼计天旋地转",
     "jp_name": "ゴーストリック・ロールシフト",
     "en_name": "Ghostrick-Go-Round"
   },
@@ -39066,42 +39123,49 @@
   "85103922": {
     "type": "Monster",
     "cn_name": "古遗物-巨怒剑",
+    "sc_name": "古遗物－魔拉尔挞",
     "jp_name": "アーティファクト－モラルタ",
     "en_name": "Artifact Moralltach"
   },
   "12697630": {
     "type": "Monster",
     "cn_name": "古遗物-微怒剑",
+    "sc_name": "古遗物－贝加尔挞",
     "jp_name": "アーティファクト－ベガルタ",
     "en_name": "Artifact Beagalltach"
   },
   "48086335": {
     "type": "Monster",
     "cn_name": "古遗物-百中弓",
+    "sc_name": "古遗物－菲尔诺特",
     "jp_name": "アーティファクト－フェイルノート",
     "en_name": "Artifact Failnaught"
   },
   "85080444": {
     "type": "Monster",
     "cn_name": "古遗物-神盾",
+    "sc_name": "古遗物－埃癸斯",
     "jp_name": "アーティファクト－アイギス",
     "en_name": "Artifact Aegis"
   },
   "11475049": {
     "type": "Monster",
     "cn_name": "古遗物-勇士盾",
+    "sc_name": "古遗物－阿基里斯",
     "jp_name": "アーティファクト－アキレウス",
     "en_name": "Artifact Achilleshield"
   },
   "47863787": {
     "type": "Monster",
     "cn_name": "古遗物-双刃斧",
+    "sc_name": "古遗物－拉布留斯",
     "jp_name": "アーティファクト－ラブリュス",
     "en_name": "Artifact Labrys"
   },
   "84268896": {
     "type": "Monster",
     "cn_name": "古遗物-商神杖",
+    "sc_name": "古遗物－卡多克乌斯",
     "jp_name": "アーティファクト－カドケウス",
     "en_name": "Artifact Caduceus"
   },
@@ -39132,6 +39196,7 @@
   "46925518": {
     "type": "Monster",
     "cn_name": "鬼计人偶",
+    "sc_name": "鬼计的人偶",
     "jp_name": "ゴーストリックの人形",
     "en_name": "Ghostrick Doll"
   },
@@ -39304,6 +39369,7 @@
   "69840739": {
     "type": "Monster",
     "cn_name": "古遗物-恒常剑",
+    "sc_name": "古遗物－杜兰德尔",
     "jp_name": "アーティファクト－デュランダル",
     "en_name": "Artifact Durendal"
   },
@@ -39316,6 +39382,7 @@
   "32224143": {
     "type": "Monster",
     "cn_name": "鬼计女夜魔",
+    "sc_name": "鬼计・梦魔",
     "jp_name": "ゴーストリック・サキュバス",
     "en_name": "Ghostrick Socuteboss"
   },
@@ -39373,12 +39440,14 @@
   "29223325": {
     "type": "Spell",
     "cn_name": "古遗物运动机构",
+    "sc_name": "古遗物动力机芯",
     "jp_name": "アーティファクト・ムーブメント",
     "en_name": "Artifact Ignition"
   },
   "56611470": {
     "type": "Spell",
     "cn_name": "古遗物的解放",
+    "sc_name": "古遗物之解放",
     "jp_name": "アーティファクトの解放",
     "en_name": "Artifacts Unleashed"
   },
@@ -39391,6 +39460,7 @@
   "29400787": {
     "type": "Spell",
     "cn_name": "鬼计游行",
+    "sc_name": "鬼计游行",
     "jp_name": "ゴーストリック・パレード",
     "en_name": "Ghostrick Parade"
   },
@@ -39447,6 +39517,7 @@
   "12444060": {
     "type": "Trap",
     "cn_name": "古遗物的神智",
+    "sc_name": "古遗物之神智",
     "jp_name": "アーティファクトの神智",
     "en_name": "Artifact Sanctum"
   },
@@ -39459,6 +39530,7 @@
   "85827713": {
     "type": "Trap",
     "cn_name": "鬼计之夜",
+    "sc_name": "鬼计之夜",
     "jp_name": "ゴーストリック・ナイト",
     "en_name": "Ghostrick Night"
   },
@@ -40182,6 +40254,7 @@
   "3117804": {
     "type": "Monster",
     "cn_name": "超重武者 大弁庆-K",
+    "sc_name": "超重武者 大弁庆－K",
     "jp_name": "超重武者ビッグベン－K",
     "en_name": "Superheavy Samurai Big Benkei"
   },
@@ -40212,30 +40285,35 @@
   "75878039": {
     "type": "Monster",
     "cn_name": "星因士 天津四",
+    "sc_name": "卫星骑士 天鹅德奈普",
     "jp_name": "星因士 デネブ",
     "en_name": "Satellarknight Deneb"
   },
   "2273734": {
     "type": "Monster",
     "cn_name": "星因士 河鼓二",
+    "sc_name": "卫星骑士 天鹰阿尔泰尔",
     "jp_name": "星因士 アルタイル",
     "en_name": "Satellarknight Altair"
   },
   "38667773": {
     "type": "Monster",
     "cn_name": "星因士 织女一",
+    "sc_name": "卫星骑士 天琴维嘉",
     "jp_name": "星因士 ベガ",
     "en_name": "Satellarknight Vega"
   },
   "65056481": {
     "type": "Monster",
     "cn_name": "星因士 左旗一",
+    "sc_name": "卫星骑士 天箭夏姆",
     "jp_name": "星因士 シャム",
     "en_name": "Satellarknight Alsahm"
   },
   "1050186": {
     "type": "Monster",
     "cn_name": "星因士 天市右垣七",
+    "sc_name": "卫星骑士 巨蛇乌努克",
     "jp_name": "星因士 ウヌク",
     "en_name": "Satellarknight Unukalhai"
   },
@@ -40312,6 +40390,7 @@
   "8873112": {
     "type": "Monster",
     "cn_name": "古遗物-环刃",
+    "sc_name": "古遗物－查克拉姆",
     "jp_name": "アーティファクト－チャクラム",
     "en_name": "Artifact Chakram"
   },
@@ -40442,6 +40521,7 @@
   "56638325": {
     "type": "Monster",
     "cn_name": "星辉士 夏三角",
+    "sc_name": "辉星骑士 德塔特洛斯",
     "jp_name": "星輝士 デルタテロス",
     "en_name": "Stellarknight Delteros"
   },
@@ -40467,12 +40547,14 @@
   "81810441": {
     "type": "Spell",
     "cn_name": "星辉士的因子",
+    "sc_name": "辉星骑士的因子",
     "jp_name": "星輝士の因子",
     "en_name": "Stellarknight Alpha"
   },
   "18205590": {
     "type": "Spell",
     "cn_name": "架天桥的星因士",
+    "sc_name": "架天桥的卫星骑士",
     "jp_name": "天架ける星因士",
     "en_name": "Satellarknight Skybridge"
   },
@@ -40550,12 +40632,14 @@
   "5026221": {
     "type": "Trap",
     "cn_name": "神星波动",
+    "sc_name": "神星之波动",
     "jp_name": "神星なる波動",
     "en_name": "Stellarnova Wave"
   },
   "41510920": {
     "type": "Trap",
     "cn_name": "神星因子",
+    "sc_name": "神星之因子",
     "jp_name": "神星なる因子",
     "en_name": "Stellarnova Alpha"
   },
@@ -40917,12 +41001,14 @@
   "78391364": {
     "type": "Monster",
     "cn_name": "超重武者 天秤B-N",
+    "sc_name": "超重武者 天平B－N",
     "jp_name": "超重武者テンB－N",
     "en_name": "Superheavy Samurai Scales"
   },
   "4786063": {
     "type": "Monster",
     "cn_name": "超重武者装留 火焰铠",
+    "sc_name": "超重武者装魂 火焰铠甲",
     "jp_name": "超重武者装留ファイヤー・アーマー",
     "en_name": "Superheavy Samurai Soulfire Suit"
   },
@@ -40941,6 +41027,7 @@
   "3064425": {
     "type": "Monster",
     "cn_name": "超重武者装留 爆炎",
+    "sc_name": "超重武者装魂 大爆炸",
     "jp_name": "超重武者装留ビッグバン",
     "en_name": "Superheavy Samurai Soulbang Cannon"
   },
@@ -41030,18 +41117,21 @@
   "63274863": {
     "type": "Monster",
     "cn_name": "星因士 天狼星",
+    "sc_name": "卫星骑士 大犬西利乌斯",
     "jp_name": "星因士 シリウス",
     "en_name": "Satellarknight Sirius"
   },
   "99668578": {
     "type": "Monster",
     "cn_name": "星因士 南河三",
+    "sc_name": "卫星骑士 小犬普罗席翁",
     "jp_name": "星因士 プロキオン",
     "en_name": "Satellarknight Procyon"
   },
   "26057276": {
     "type": "Monster",
     "cn_name": "星因士 参宿四",
+    "sc_name": "卫星骑士 猎户贝忒基乌斯",
     "jp_name": "星因士 ベテルギウス",
     "en_name": "Satellarknight Betelgeuse"
   },
@@ -41148,6 +41238,7 @@
   "48546368": {
     "type": "Monster",
     "cn_name": "崇光之宣告者",
+    "sc_name": "崇光之宣告者",
     "jp_name": "崇光なる宣告者",
     "en_name": "Herald of Ultimateness"
   },
@@ -41210,6 +41301,7 @@
   "42589641": {
     "type": "Monster",
     "cn_name": "星辉士 冬三角",
+    "sc_name": "辉星骑士 特莱维尔",
     "jp_name": "星輝士 トライヴェール",
     "en_name": "Stellarknight Triverr"
   },
@@ -41265,6 +41357,7 @@
   "70422863": {
     "type": "Spell",
     "cn_name": "星守之结界",
+    "sc_name": "守星骑士六角结界",
     "jp_name": "星守る結界",
     "en_name": "Hexatellarknight"
   },
@@ -41284,6 +41377,7 @@
   "79306385": {
     "type": "Spell",
     "cn_name": "宣告者的神托",
+    "sc_name": "宣告者之神讬",
     "jp_name": "宣告者の神託",
     "en_name": "Oracle of the Herald"
   },
@@ -41345,6 +41439,7 @@
   "3734202": {
     "type": "Trap",
     "cn_name": "自然的神星树",
+    "sc_name": "大植然神星树",
     "jp_name": "ナチュルの神星樹",
     "en_name": "Naturia Sacred Tree"
   },
@@ -41424,6 +41519,7 @@
   "90555947": {
     "type": "Monster",
     "cn_name": "自然地星狮",
+    "sc_name": "大植然盖亚星狮",
     "jp_name": "ナチュル・ガイアストライオ",
     "en_name": "Naturia Gaiastrio"
   },
@@ -41436,6 +41532,7 @@
   "53334641": {
     "type": "Monster",
     "cn_name": "鬼计惰天使",
+    "sc_name": "鬼计的惰天使",
     "jp_name": "ゴーストリックの駄天使",
     "en_name": "Ghostrick Angel of Mischief"
   },
@@ -42046,18 +42143,21 @@
   "27978707": {
     "type": "Monster",
     "cn_name": "超重武者 影法师-C",
+    "sc_name": "超重武者 影法师－C",
     "jp_name": "超重武者カゲボウ－C",
     "en_name": "Superheavy Samurai Flutist"
   },
   "64373401": {
     "type": "Monster",
     "cn_name": "超重武者 法螺贝-E",
+    "sc_name": "超重武者 法螺贝－E",
     "jp_name": "超重武者ホラガ－E",
     "en_name": "Superheavy Samurai Trumpeter"
   },
   "90361010": {
     "type": "Monster",
     "cn_name": "超重武者装留 岩融",
+    "sc_name": "超重武者装魂 岩融",
     "jp_name": "超重武者装留イワトオシ",
     "en_name": "Superheavy Samurai Soulpiercer"
   },
@@ -42149,12 +42249,14 @@
   "86466163": {
     "type": "Monster",
     "cn_name": "星因士 五车二",
+    "sc_name": "卫星骑士 御夫卡培拉",
     "jp_name": "星因士 カペラ",
     "en_name": "Satellarknight Capella"
   },
   "13851202": {
     "type": "Monster",
     "cn_name": "星因士 参宿七",
+    "sc_name": "卫星骑士 猎户里格尔",
     "jp_name": "星因士 リゲル",
     "en_name": "Satellarknight Rigel"
   },
@@ -42298,6 +42400,7 @@
   "494922": {
     "type": "Monster",
     "cn_name": "超重荒神 须佐之男-O",
+    "sc_name": "超重荒神 须佐之男－O",
     "jp_name": "超重荒神スサノ－O",
     "en_name": "Superheavy Samurai Warlord Susanowo"
   },
@@ -42317,6 +42420,7 @@
   "9272381": {
     "type": "Monster",
     "cn_name": "星辉士 星圣冬钻龙",
+    "sc_name": "辉星骑士 星圣 璨钻",
     "jp_name": "星輝士 セイクリッド・ダイヤ",
     "en_name": "Stellarknight Constellar Diamond"
   },
@@ -42597,6 +42701,7 @@
   "36953371": {
     "type": "Monster",
     "cn_name": "超重神鬼 酒吞童子-G",
+    "sc_name": "超重神鬼 酒吞童子－G",
     "jp_name": "超重神鬼シュテンドウ－G",
     "en_name": "Superheavy Samurai Ogre Shutendoji"
   },
@@ -42806,6 +42911,7 @@
   "95040215": {
     "type": "Monster",
     "cn_name": "黑羽-星影之苦剑鸟",
+    "sc_name": "黑羽－星影之诺顿克",
     "jp_name": "BF－星影のノートゥング",
     "en_name": "Blackwing - Nothung the Starlight"
   },
@@ -42987,24 +43093,28 @@
   "36523152": {
     "type": "Monster",
     "cn_name": "超重武者 大草鞋-G",
+    "sc_name": "超重武者 大草屦－G",
     "jp_name": "超重武者ビッグワラ－G",
     "en_name": "Superheavy Samurai Big Waraji"
   },
   "62017867": {
     "type": "Monster",
     "cn_name": "超重武者 手套-V",
+    "sc_name": "超重武者 手套－V",
     "jp_name": "超重武者グロウ－V",
     "en_name": "Superheavy Samurai Gigagloves"
   },
   "9402966": {
     "type": "Monster",
     "cn_name": "超重武者 魂-C",
+    "sc_name": "超重武者 球魂－C",
     "jp_name": "超重武者タマ－C",
     "en_name": "Superheavy Samurai Battleball"
   },
   "35800511": {
     "type": "Monster",
     "cn_name": "超重武者装留 爆裂手甲",
+    "sc_name": "超重武者装魂 爆裂手甲",
     "jp_name": "超重武者装留バスター・ガントレット",
     "en_name": "Superheavy Samurai Soulbuster Gauntlet"
   },
@@ -43074,12 +43184,14 @@
   "96223501": {
     "type": "Monster",
     "cn_name": "龙星因士-神数右枢",
+    "sc_name": "光卫星骑士－源质图邦",
     "jp_name": "竜星因士－セフィラツバーン",
     "en_name": "Satellarknight Zefrathuban"
   },
   "22617205": {
     "type": "Monster",
     "cn_name": "觉星辉士-神数蝇王",
+    "sc_name": "觉辉星骑士－源质西卜",
     "jp_name": "覚星輝士－セフィラビュート",
     "en_name": "Stellarknight Zefraxciton"
   },
@@ -43267,6 +43379,7 @@
   "18326736": {
     "type": "Monster",
     "cn_name": "星守之骑士 托勒密",
+    "sc_name": "守星骑士 托勒密",
     "jp_name": "星守の騎士 プトレマイオス",
     "en_name": "Tellarknight Ptolemaeus"
   },
@@ -43752,24 +43865,28 @@
   "30079770": {
     "type": "Monster",
     "cn_name": "真红眼黑炎龙",
+    "sc_name": "真红眼黑炎龙",
     "jp_name": "真紅眼の黒炎竜",
     "en_name": "Red-Eyes Black Flare Dragon"
   },
   "66574418": {
     "type": "Monster",
     "cn_name": "传说的黑石",
+    "sc_name": "传说的黑石",
     "jp_name": "伝説の黒石",
     "en_name": "The Black Stone of Legend"
   },
   "93969023": {
     "type": "Monster",
     "cn_name": "黑钢龙",
+    "sc_name": "黑钢龙",
     "jp_name": "黒鋼竜",
     "en_name": "Black Metal Dragon"
   },
   "39357122": {
     "type": "Monster",
     "cn_name": "真红眼凶雷皇-邪性恶魔",
+    "sc_name": "真红眼凶雷皇－邪性恶魔",
     "jp_name": "真紅眼の凶雷皇－エビル・デーモン",
     "en_name": "Red-Eyes Archfiend of Lightning"
   },
@@ -43922,6 +44039,7 @@
   "45349196": {
     "type": "Monster",
     "cn_name": "恶魔龙 暗黑魔龙",
+    "sc_name": "凶魔龙 黑恶魔龙",
     "jp_name": "悪魔竜ブラック・デーモンズ・ドラゴン",
     "en_name": "Archfiend Black Skull Dragon"
   },
@@ -43961,6 +44079,7 @@
   "44405066": {
     "type": "Monster",
     "cn_name": "真红眼钢炎龙",
+    "sc_name": "真红眼钢炎龙",
     "jp_name": "真紅眼の鋼炎竜",
     "en_name": "Red-Eyes Flare Metal Dragon"
   },
@@ -43991,12 +44110,14 @@
   "6172122": {
     "type": "Spell",
     "cn_name": "真红眼融合",
+    "sc_name": "真红眼结合",
     "jp_name": "真紅眼融合",
     "en_name": "Red-Eyes Fusion"
   },
   "32566831": {
     "type": "Spell",
     "cn_name": "红玉之宝札",
+    "sc_name": "红玉的宝牌",
     "jp_name": "紅玉の宝札",
     "en_name": "Cards of the Red Stone"
   },
@@ -44073,6 +44194,7 @@
   "39387565": {
     "type": "Trap",
     "cn_name": "真红眼的铠旋",
+    "sc_name": "真红眼之铠旋",
     "jp_name": "真紅眼の鎧旋",
     "en_name": "Return of the Red-Eyes"
   },
@@ -44512,6 +44634,7 @@
   "53485634": {
     "type": "Monster",
     "cn_name": "真红眼溯刻龙",
+    "sc_name": "真红眼溯刻龙",
     "jp_name": "真紅眼の遡刻竜",
     "en_name": "Red-Eyes Retro Dragon"
   },
@@ -44641,30 +44764,35 @@
   "14756848": {
     "type": "Monster",
     "cn_name": "超重武者 盗人-10",
+    "sc_name": "超重武者 盗人－１０",
     "jp_name": "超重武者ヌス－１０",
     "en_name": "Superheavy Samurai Thief"
   },
   "41141943": {
     "type": "Monster",
     "cn_name": "超重武者 飞脚-Q",
+    "sc_name": "超重武者 飞脚－Q",
     "jp_name": "超重武者ヒキャ－Q",
     "en_name": "Superheavy Samurai Transporter"
   },
   "87535691": {
     "type": "Monster",
     "cn_name": "超重武者 鼓-3",
+    "sc_name": "超重武者 鼓－３",
     "jp_name": "超重武者ツヅ－３",
     "en_name": "Superheavy Samurai Drum"
   },
   "14624296": {
     "type": "Monster",
     "cn_name": "超重武者装留 双角",
+    "sc_name": "超重武者装魂 双角",
     "jp_name": "超重武者装留ダブル・ホーン",
     "en_name": "Superheavy Samurai Soulhorns"
   },
   "40028305": {
     "type": "Monster",
     "cn_name": "超重武者装留 光爪",
+    "sc_name": "超重武者装魂 光爪",
     "jp_name": "超重武者装留シャイン・クロー",
     "en_name": "Superheavy Samurai Soulclaw"
   },
@@ -44913,7 +45041,7 @@
   "16051717": {
     "type": "Monster",
     "cn_name": "强袭黑羽-骤雨之雷切刀鸟",
-    "sc_name": "强袭黑羽-骤雨之雷切",
+    "sc_name": "强袭黑羽－骤雨之雷切",
     "jp_name": "A BF－驟雨のライキリ",
     "en_name": "Assault Blackwing - Raikiri the Rain Shower"
   },
@@ -45146,6 +45274,7 @@
   "69304426": {
     "type": "Monster",
     "cn_name": "古遗物-金刚杵",
+    "sc_name": "古遗物－伐折罗",
     "jp_name": "アーティファクト－ヴァジュラ",
     "en_name": "Artifact Vajra"
   },
@@ -45678,6 +45807,7 @@
   "89091772": {
     "type": "Monster",
     "cn_name": "超重武者 磁石-Q",
+    "sc_name": "超重武者 磁石－Q",
     "jp_name": "超重武者ジシャ－Q",
     "en_name": "Superheavy Samurai Magnet"
   },
@@ -45714,6 +45844,7 @@
   "77152542": {
     "type": "Monster",
     "cn_name": "黑羽-沙尘之哈麦丹",
+    "sc_name": "黑羽－沙尘之哈马丹",
     "jp_name": "BF－砂塵のハルマッタン",
     "en_name": "Blackwing - Harmattan the Dust"
   },
@@ -45926,6 +46057,7 @@
   "85528209": {
     "type": "Monster",
     "cn_name": "超重魔兽 九尾-B",
+    "sc_name": "超重魔兽 九尾－B",
     "jp_name": "超重魔獣キュウ－B",
     "en_name": "Superheavy Samurai Beast Kyubi"
   },
@@ -46138,6 +46270,7 @@
   "75988594": {
     "type": "Monster",
     "cn_name": "超重剑圣 武藏-C",
+    "sc_name": "超重剑圣 武藏－C",
     "jp_name": "超重剣聖ムサ－C",
     "en_name": "Superheavy Samurai Swordmaster Musashi"
   },
@@ -46986,6 +47119,7 @@
   "23338098": {
     "type": "Monster",
     "cn_name": "强袭黑羽-泪雨之千鸟刀鸟",
+    "sc_name": "强袭黑羽－泪雨之千鸟",
     "jp_name": "A BF－涙雨のチドリ",
     "en_name": "Assault Blackwing - Chidori the Rain Sprinkling"
   },
@@ -47700,18 +47834,21 @@
   "17994645": {
     "type": "Monster",
     "cn_name": "强袭黑羽-雨隐之小夜刀鸟",
+    "sc_name": "强袭黑羽－雨隐之小夜",
     "jp_name": "A BF－雨隠れのサヨ",
     "en_name": "Assault Blackwing - Sayo the Rain Hider"
   },
   "53389254": {
     "type": "Monster",
     "cn_name": "强袭黑羽-五月雨之骚速刀鸟",
+    "sc_name": "强袭黑羽－五月雨之骚速",
     "jp_name": "A BF－五月雨のソハヤ",
     "en_name": "Assault Blackwing - Sohaya the Rain Storm"
   },
   "80773359": {
     "type": "Monster",
     "cn_name": "强袭黑羽-神立之鬼丸刀鸟",
+    "sc_name": "强袭黑羽－神立之鬼丸",
     "jp_name": "A BF－神立のオニマル",
     "en_name": "Assault Blackwing - Onimaru the Divine Thunder"
   },
@@ -48307,12 +48444,14 @@
   "81974607": {
     "type": "Monster",
     "cn_name": "光波翼机",
+    "sc_name": "光波翼机",
     "jp_name": "光波翼機",
     "en_name": "Cipher Wing"
   },
   "18963306": {
     "type": "Monster",
     "cn_name": "银河眼光波龙",
+    "sc_name": "银河眼光波龙",
     "jp_name": "銀河眼の光波竜",
     "en_name": "Galaxy-Eyes Cipher Dragon"
   },
@@ -48602,18 +48741,21 @@
   "95500396": {
     "type": "Monster",
     "cn_name": "超重武者装留 仲裁",
+    "sc_name": "超重武者装魂 仲裁",
     "jp_name": "超重武者装留チュウサイ",
     "en_name": "Superheavy Samurai Soulpeacemaker"
   },
   "21999001": {
     "type": "Monster",
     "cn_name": "光波双颚机",
+    "sc_name": "光波双颚机",
     "jp_name": "光波双顎機",
     "en_name": "Cipher Twin Raptor"
   },
   "58383100": {
     "type": "Monster",
     "cn_name": "光波镜骑士",
+    "sc_name": "光波镜骑士",
     "jp_name": "光波鏡騎士",
     "en_name": "Cipher Mirror Knight"
   },
@@ -48716,6 +48858,7 @@
   "17871506": {
     "type": "Monster",
     "cn_name": "真红眼的凶星龙-流星之龙",
+    "sc_name": "真红眼凶星龙－陨星龙",
     "jp_name": "真紅眼の凶星竜－メテオ・ドラゴン",
     "en_name": "Meteor Dragon Red-Eyes Impact"
   },
@@ -48799,12 +48942,14 @@
   "30086349": {
     "type": "Monster",
     "cn_name": "流星龙 流星黑龙",
+    "sc_name": "凶星龙 陨星黑龙",
     "jp_name": "流星竜メテオ・ブラック・ドラゴン",
     "en_name": "Meteor Black Comet Dragon"
   },
   "76471944": {
     "type": "Monster",
     "cn_name": "超重忍者 猿飞-B",
+    "sc_name": "超重忍者 猿飞－B",
     "jp_name": "超重忍者サルト－B",
     "en_name": "Superheavy Samurai Ninja Sarutobi"
   },
@@ -48861,6 +49006,7 @@
   "64414267": {
     "type": "Monster",
     "cn_name": "炼狱之骑士 多禄某",
+    "sc_name": "炼星骑士 多禄姆",
     "jp_name": "煉獄の騎士 ヴァトライムス",
     "en_name": "Darktellarknight Batlamyus"
   },
@@ -48916,6 +49062,7 @@
   "92353449": {
     "type": "Spell",
     "cn_name": "真红眼看破",
+    "sc_name": "真红眼洞悉",
     "jp_name": "レッドアイズ・インサイト",
     "en_name": "Red-Eyes Insight"
   },
@@ -48928,6 +49075,7 @@
   "65236257": {
     "type": "Spell",
     "cn_name": "创星的因子",
+    "sc_name": "创星骑士的因子",
     "jp_name": "創星の因子",
     "en_name": "Tellarknight Genesis"
   },
@@ -48964,12 +49112,14 @@
   "63992027": {
     "type": "Trap",
     "cn_name": "二重光波",
+    "sc_name": "双重光波",
     "jp_name": "二重光波",
     "en_name": "Double Cipher"
   },
   "99397762": {
     "type": "Trap",
     "cn_name": "光波防轮",
+    "sc_name": "光波防轮",
     "jp_name": "光波防輪",
     "en_name": "Cipher Bit"
   },
@@ -49197,6 +49347,7 @@
   "2530830": {
     "type": "Monster",
     "cn_name": "银河眼光波刃龙",
+    "sc_name": "银河眼光波刃龙",
     "jp_name": "銀河眼の光波刃竜",
     "en_name": "Galaxy-Eyes Cipher Blade Dragon"
   },
@@ -49277,12 +49428,14 @@
   "52240819": {
     "type": "Monster",
     "cn_name": "魔界剧团-恶魔反派",
+    "sc_name": "魔界剧团－魔鬼反派",
     "jp_name": "魔界劇団－デビル・ヒール",
     "en_name": "Abyss Actor - Evil Heel"
   },
   "99634927": {
     "type": "Monster",
     "cn_name": "魔界剧团-时髦笑星",
+    "sc_name": "魔界剧团－时髦谐星",
     "jp_name": "魔界劇団－ファンキー・コメディアン",
     "en_name": "Abyss Actor - Funky Comedian"
   },
@@ -49296,13 +49449,14 @@
   "51028231": {
     "type": "Monster",
     "cn_name": "魔界剧团-莽撞新人",
+    "sc_name": "魔界剧团－莽撞新人",
     "jp_name": "魔界劇団－サッシー・ルーキー",
     "en_name": "Abyss Actor - Sassy Rookie"
   },
   "88412339": {
     "type": "Monster",
     "cn_name": "魔界剧团-临时演员",
-    "sc_name": "魔界剧团-群演",
+    "sc_name": "魔界剧团－群演",
     "jp_name": "魔界劇団－エキストラ",
     "en_name": "Abyss Actor - Extras"
   },
@@ -49323,6 +49477,7 @@
   "87390798": {
     "type": "Spell",
     "cn_name": "魔界台本「幻想魔法」",
+    "sc_name": "魔界剧本“幻想魔法”",
     "jp_name": "魔界台本「ファンタジー・マジック」",
     "en_name": "Abyss Script - Fantasy Magic"
   },
@@ -49336,12 +49491,14 @@
   "50179591": {
     "type": "Spell",
     "cn_name": "魔界台本「火龙的住处」",
+    "sc_name": "魔界剧本“火龙的住处”",
     "jp_name": "魔界台本「火竜の住処」",
     "en_name": "Abyss Script - Fire Dragon's Lair"
   },
   "86578200": {
     "type": "Spell",
     "cn_name": "魔界大道具「逃命马车」",
+    "sc_name": "魔界大道具“逃跑马车”",
     "jp_name": "魔界大道具「ニゲ馬車」",
     "en_name": "Abyss Prop - Wild Wagon"
   },
@@ -49486,6 +49643,7 @@
   "79094383": {
     "type": "Monster",
     "cn_name": "光波异邦臣",
+    "sc_name": "光波异邦臣",
     "jp_name": "光波異邦臣",
     "en_name": "Cipher Etranger"
   },
@@ -49695,6 +49853,7 @@
   "50065971": {
     "type": "Monster",
     "cn_name": "超重忍者 忍足-A·C",
+    "sc_name": "超重忍者 忍足－A・C",
     "jp_name": "超重忍者シノビ－A・C",
     "en_name": "Superheavy Samurai Stealth Ninja"
   },
@@ -49727,6 +49886,7 @@
   "12632096": {
     "type": "Monster",
     "cn_name": "超银河眼光波龙",
+    "sc_name": "超银河眼光波龙",
     "jp_name": "超銀河眼の光波龍",
     "en_name": "Neo Galaxy-Eyes Cipher Dragon"
   },
@@ -49771,6 +49931,7 @@
   "47882565": {
     "type": "Spell",
     "cn_name": "升阶魔法-光波升华",
+    "sc_name": "升阶魔法－光波升华",
     "jp_name": "RUM－光波昇華",
     "en_name": "Rank-Up-Magic Cipher Ascension"
   },
@@ -49853,6 +50014,7 @@
   "98905": {
     "type": "Trap",
     "cn_name": "光波分光",
+    "sc_name": "光波分光",
     "jp_name": "光波分光",
     "en_name": "Cipher Spectrum"
   },
@@ -50236,6 +50398,7 @@
   "34496660": {
     "type": "Monster",
     "cn_name": "超重武者 大八-8",
+    "sc_name": "超重武者 大八－８",
     "jp_name": "超重武者ダイ－８",
     "en_name": "Superheavy Samurai Wagon"
   },
@@ -50248,6 +50411,7 @@
   "7279373": {
     "type": "Monster",
     "cn_name": "魔界剧团-闪烁小明星",
+    "sc_name": "魔界剧团－闪烁小明星",
     "jp_name": "魔界劇団－ティンクル・リトルスター",
     "en_name": "Abyss Actor - Twinkle Little Star"
   },
@@ -51958,18 +52122,21 @@
   "17775525": {
     "type": "Monster",
     "cn_name": "超重蒸鬼 铁道王-O",
+    "sc_name": "超重蒸鬼 铁道王－O",
     "jp_name": "超重蒸鬼テツドウ－O",
     "en_name": "Superheavy Samurai Steam Train King"
   },
   "44179224": {
     "type": "Monster",
     "cn_name": "魔界剧团 启幕人",
+    "sc_name": "魔界剧团－启幕人",
     "jp_name": "魔界劇団カーテン・ライザー",
     "en_name": "Abyss Actor - Curtain Raiser"
   },
   "70564929": {
     "type": "Spell",
     "cn_name": "魔界台本「魔界的宴咜女」",
+    "sc_name": "魔界剧本“魔界的宴娱”",
     "jp_name": "魔界台本「魔界の宴咜女」",
     "en_name": "Abyss Script - Abysstainment"
   },
@@ -52152,24 +52319,28 @@
   "58257569": {
     "type": "Monster",
     "cn_name": "真红眼幼龙",
+    "sc_name": "真红眼幼龙",
     "jp_name": "真紅眼の幼竜",
     "en_name": "Red-Eyes Baby Dragon"
   },
   "85651167": {
     "type": "Monster",
     "cn_name": "真红眼铁骑士-基亚·弗里德",
+    "sc_name": "真红眼铁骑士－机亚弗里德",
     "jp_name": "真紅眼の鉄騎士－ギア・フリード",
     "en_name": "Gearfried the Red-Eyes Iron Knight"
   },
   "21140872": {
     "type": "Monster",
     "cn_name": "真红眼黑刃龙",
+    "sc_name": "真红眼黑刃龙",
     "jp_name": "真紅眼の黒刃竜",
     "en_name": "Red-Eyes Slash Dragon"
   },
   "57135971": {
     "type": "Trap",
     "cn_name": "附锁链的真红眼牙",
+    "sc_name": "带锁链的真红眼牙",
     "jp_name": "鎖付き真紅眼牙",
     "en_name": "Red-Eyes Fang with Chain"
   },
@@ -53569,6 +53740,7 @@
   "80237445": {
     "type": "Monster",
     "cn_name": "古遗物-雷神锤",
+    "sc_name": "古遗物－妙尔尼尔",
     "jp_name": "アーティファクト－ミョルニル",
     "en_name": "Artifact Mjollnir"
   },
@@ -53880,6 +54052,7 @@
   "61818176": {
     "type": "Trap",
     "cn_name": "鬼计装修",
+    "sc_name": "鬼计翻修",
     "jp_name": "ゴーストリック・リフォーム",
     "en_name": "Ghostrick Renovation"
   },
@@ -59497,6 +59670,7 @@
   "33918636": {
     "type": "Monster",
     "cn_name": "超重武者 案山子-C",
+    "sc_name": "超重武者 稻草人－C",
     "jp_name": "超重武者カカ－C",
     "en_name": "Superheavy Samurai Scarecrow"
   },
@@ -62652,6 +62826,7 @@
   "36239585": {
     "type": "Monster",
     "cn_name": "鬼计妖精",
+    "sc_name": "鬼计的妖精",
     "jp_name": "ゴーストリックの妖精",
     "en_name": "Ghostrick Fairy"
   },
@@ -63332,6 +63507,7 @@
   "46935289": {
     "type": "Monster",
     "cn_name": "虚光之宣告者",
+    "sc_name": "虚光之宣告者",
     "jp_name": "虚光の宣告者",
     "en_name": "Herald of Mirage Lights"
   },
@@ -63386,6 +63562,7 @@
   "7480763": {
     "type": "Monster",
     "cn_name": "古遗物-父神棒",
+    "sc_name": "古遗物－达格达",
     "jp_name": "アーティファクト－ダグザ",
     "en_name": "Artifact Dagda"
   },
@@ -63404,7 +63581,7 @@
   "2368215": {
     "type": "Monster",
     "cn_name": "魔界剧团-高超导演",
-    "sc_name": "魔界剧团-超群导演",
+    "sc_name": "魔界剧团－超群导演",
     "jp_name": "魔界劇団－ハイパー・ディレクター",
     "en_name": "Abyss Actor - Hyper Director"
   },
@@ -64296,6 +64473,7 @@
   "92919429": {
     "type": "Monster",
     "cn_name": "宣告者的神巫",
+    "sc_name": "宣告者之神巫",
     "jp_name": "宣告者の神巫",
     "en_name": "Diviner of the Herald"
   },
@@ -67649,6 +67827,7 @@
   "28346136": {
     "type": "Monster",
     "cn_name": "银河眼极光波龙",
+    "sc_name": "银河眼光波极龙",
     "jp_name": "銀河眼の極光波竜",
     "en_name": "Galaxy-Eyes Cipher X Dragon"
   },
@@ -69901,12 +70080,14 @@
   "29092121": {
     "type": "Monster",
     "cn_name": "光波复叶机",
+    "sc_name": "光波复叶机",
     "jp_name": "光波複葉機",
     "en_name": "Cipher Biplane"
   },
   "55496220": {
     "type": "Spell",
     "cn_name": "光波干涉",
+    "sc_name": "光波干涉",
     "jp_name": "光波干渉",
     "en_name": "Cipher Interference"
   },
@@ -72447,6 +72628,7 @@
   "6556909": {
     "type": "Monster",
     "cn_name": "真红之魂",
+    "sc_name": "真红眼之魂",
     "jp_name": "真紅き魂",
     "en_name": "Red-Eyes Soul"
   },
@@ -72897,6 +73079,7 @@
   "27657173": {
     "type": "Monster",
     "cn_name": "真红眼黑星龙",
+    "sc_name": "真红眼黑星龙",
     "jp_name": "真紅眼の黒星竜"
   },
   "54656181": {
