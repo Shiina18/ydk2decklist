@@ -76372,157 +76372,188 @@
   "5852388": {
     "type": "Monster",
     "cn_name": "异界流星衔尾龙",
-    "jp_name": "ゼノ・メテオロス"
+    "jp_name": "ゼノ・メテオロス",
+    "en_name": "Xeno Meteorus"
   },
   "31241087": {
     "type": "Monster",
     "cn_name": "超越龙 流星衔尾龙",
-    "jp_name": "超越竜メテオロス"
+    "jp_name": "超越竜メテオロス",
+    "en_name": "Transcendosaurus Meteorus"
   },
   "67745632": {
     "type": "Monster",
     "cn_name": "超越龙 巨灵多角龙",
-    "jp_name": "超越竜ギガントザウラー"
+    "jp_name": "超越竜ギガントザウラー",
+    "en_name": "Transcendosaurus Gigantozowler"
   },
   "94130731": {
     "type": "Monster",
     "cn_name": "超越龙 冰封腕龙",
-    "jp_name": "超越竜グレイスザウルス"
+    "jp_name": "超越竜グレイスザウルス",
+    "en_name": "Transcendosaurus Glaciasaurus"
   },
   "30128445": {
     "type": "Monster",
     "cn_name": "超越龙 钻头矛颌翼龙",
-    "jp_name": "超越竜ドリルグナトゥス"
+    "jp_name": "超越竜ドリルグナトゥス",
+    "en_name": "Transcendosaurus Drillygnathus"
   },
   "67523044": {
     "type": "Spell",
     "cn_name": "地面异临点",
-    "jp_name": "グラウンド・ゼノ"
+    "jp_name": "グラウンド・ゼノ",
+    "en_name": "Ground Xeno"
   },
   "93918159": {
     "type": "Trap",
     "cn_name": "超越天翔",
-    "jp_name": "超越天翔"
+    "jp_name": "超越天翔",
+    "en_name": "Supersoaring"
   },
   "29302858": {
     "type": "Monster",
     "cn_name": "征服斗魂 螺禅",
-    "jp_name": "VS ラゼン"
+    "jp_name": "VS ラゼン",
+    "en_name": "Vanquish Soul Razen"
   },
   "66401502": {
     "type": "Monster",
     "cn_name": "征服斗魂 潘特拉",
-    "jp_name": "VS パンテラ"
+    "jp_name": "VS パンテラ",
+    "en_name": "Vanquish Soul Pantera"
   },
   "92895501": {
     "type": "Monster",
     "cn_name": "征服斗魂 重型电子人",
-    "jp_name": "VS ヘヴィ・ボーガー"
+    "jp_name": "VS ヘヴィ・ボーガー",
+    "en_name": "Vanquish Soul Heavy Borger"
   },
   "29280200": {
     "type": "Monster",
     "cn_name": "征服斗魂 狂爱博士",
-    "jp_name": "VS Dr.マッドラヴ"
+    "jp_name": "VS Dr.マッドラヴ",
+    "en_name": "Vanquish Soul Dr. Mad Love"
   },
   "55688914": {
     "type": "Monster",
     "cn_name": "征服斗魂 普鲁同HG",
-    "jp_name": "VS プルトンHG"
+    "jp_name": "VS プルトンHG",
+    "en_name": "Vanquish Soul Pluton HG"
   },
   "91073013": {
     "type": "Monster",
     "cn_name": "征服斗魂 龙帝 瓦利乌斯",
-    "jp_name": "VS 龍帝ヴァリウス"
+    "jp_name": "VS 龍帝ヴァリウス",
+    "en_name": "Vanquish Soul Caesar Valius"
   },
   "28168628": {
     "type": "Monster",
     "cn_name": "斗神的虚像",
-    "jp_name": "闘神の虚像"
+    "jp_name": "闘神の虚像",
+    "en_name": "Rock of the Vanquisher"
   },
   "54562327": {
     "type": "Spell",
     "cn_name": "赌上你的灵魂！",
-    "jp_name": "Stake Your Soul！"
+    "jp_name": "Stake Your Soul！",
+    "en_name": "Stake your Soul!"
   },
   "91951471": {
     "type": "Spell",
     "cn_name": "征服斗魂 螺旋流辻风",
-    "jp_name": "VS 螺旋流辻風"
+    "jp_name": "VS 螺旋流辻風",
+    "en_name": "Vanquish Soul Dust Devil"
   },
   "27345070": {
     "type": "Spell",
     "cn_name": "征服斗魂 继续",
-    "jp_name": "VS コンティニュー"
+    "jp_name": "VS コンティニュー",
+    "en_name": "Vanquish Soul - Continue?"
   },
   "53330789": {
     "type": "Trap",
     "cn_name": "征服斗魂 三一爆发",
-    "jp_name": "VS トリニティ・バースト"
+    "jp_name": "VS トリニティ・バースト",
+    "en_name": "Vanquish Soul Trinity Burst"
   },
   "80738884": {
     "type": "Trap",
     "cn_name": "征服斗魂 龙帝之枪",
-    "jp_name": "VS 龍帝ノ槍"
+    "jp_name": "VS 龍帝ノ槍",
+    "en_name": "Vanquish Soul Calamity Caesar"
   },
   "26223582": {
     "type": "Monster",
     "cn_name": "新式魔厨的马赛鱼汤布耶尔",
-    "jp_name": "ブエリヤベース・ド・ヌーベルズ"
+    "jp_name": "ブエリヤベース・ド・ヌーベルズ",
+    "en_name": "Buerillabaisse de Nouvelles"
   },
   "53618197": {
     "type": "Monster",
     "cn_name": "新式魔厨的油封佛拉斯",
-    "jp_name": "コンフィラス・ド・ヌーベルズ"
+    "jp_name": "コンフィラス・ド・ヌーベルズ",
+    "en_name": "Confiras de Nouvelles"
   },
   "89016236": {
     "type": "Monster",
     "cn_name": "新式魔厨的生煎布提斯",
-    "jp_name": "ポワレティス・ド・ヌーベルズ"
+    "jp_name": "ポワレティス・ド・ヌーベルズ",
+    "en_name": "Poeltis de Nouvelles"
   },
   "15001940": {
     "type": "Monster",
     "cn_name": "新式魔厨的肥肝格剌希亚",
-    "jp_name": "フォアグラシャ・ド・ヌーベルズ"
+    "jp_name": "フォアグラシャ・ド・ヌーベルズ",
+    "en_name": "Foie Glasya de Nouvelles"
   },
   "52495649": {
     "type": "Monster",
     "cn_name": "新式魔厨的黄油香煎巴拉姆",
-    "jp_name": "バラムニエル・ド・ヌーベルズ"
+    "jp_name": "バラムニエル・ド・ヌーベルズ",
+    "en_name": "Balameuniere de Nouvelles"
   },
   "88890658": {
     "type": "Monster",
     "cn_name": "新式魔厨的烧烤巴力",
-    "jp_name": "バグリエル・ド・ヌーベルズ"
+    "jp_name": "バグリエル・ド・ヌーベルズ",
+    "en_name": "Baelgrill de Nouvelles"
   },
   "15388353": {
     "type": "Spell",
     "cn_name": "新式魔厨客栈餐厅『开饭啦』",
-    "jp_name": "Nouvellez Auberge 『À Table』"
+    "jp_name": "Nouvellez Auberge 『À Table』",
+    "en_name": "Nouvelles Restaurant \"At Table\""
   },
   "41773061": {
     "type": "Spell",
     "cn_name": "这是菜单",
-    "jp_name": "Voici la Carte～メニューはこちら～"
+    "jp_name": "Voici la Carte～メニューはこちら～",
+    "en_name": "Voici la Carte (Today's Menu)"
   },
   "87778106": {
     "type": "Spell",
     "cn_name": "鱼料理的食谱",
-    "jp_name": "Recette de Poisson～魚料理のレシピ～"
+    "jp_name": "Recette de Poisson～魚料理のレシピ～",
+    "en_name": "Recette de Poisson (Fish Recipe)"
   },
   "14166715": {
     "type": "Spell",
     "cn_name": "肉料理的食谱",
-    "jp_name": "Recette de Viande～肉料理のレシピ～"
+    "jp_name": "Recette de Viande～肉料理のレシピ～",
+    "en_name": "Recette de Viande (Meat Recipe)"
   },
   "40551410": {
     "type": "Trap",
     "cn_name": "员工餐的食谱",
-    "jp_name": "Recette de Personnel～賄いのレシピ～"
+    "jp_name": "Recette de Personnel～賄いのレシピ～",
+    "en_name": "Recette de Personnel (Staff Recipe)"
   },
   "87955518": {
     "type": "Trap",
     "cn_name": "料理长自豪的食谱",
-    "jp_name": "Recette de Spécialité～料理長自慢のレシピ～"
+    "jp_name": "Recette de Spécialité～料理長自慢のレシピ～",
+    "en_name": "Chef's Special Recipe"
   },
   "76823930": {
     "type": "Trap",
@@ -77048,5 +77079,10 @@
     "type": "Monster",
     "cn_name": "蒲公英白狮",
     "jp_name": "ダンディ・ホワイトライオン"
+  },
+  "100296002": {
+    "type": "Monster",
+    "cn_name": "闪刀姬-卡米丽娅",
+    "jp_name": "閃刀姫－カメリア"
   }
 }
