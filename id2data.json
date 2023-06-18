@@ -8726,6 +8726,7 @@
   "33114323": {
     "type": "Spell",
     "cn_name": "罕银铠甲",
+    "sc_name": "金属银铠甲",
     "jp_name": "メタルシルバー・アーマー",
     "en_name": "Metalsilver Armor"
   },
@@ -18364,7 +18365,7 @@
   },
   "66214679": {
     "type": "Monster",
-    "cn_name": "暗黑黑炎龙",
+    "cn_name": "暗黑黑炎龙 荷鲁斯",
     "jp_name": "ダーク・ホルス・ドラゴン",
     "en_name": "Dark Horus"
   },
@@ -20155,6 +20156,7 @@
   "45452224": {
     "type": "Monster",
     "cn_name": "金华猫",
+    "sc_name": "金华猫",
     "jp_name": "金華猫",
     "en_name": "Kinka-byo"
   },
@@ -27900,6 +27902,7 @@
   "19578592": {
     "type": "Spell",
     "cn_name": "愚钝之斧",
+    "sc_name": "愚钝之斧",
     "jp_name": "愚鈍の斧",
     "en_name": "Axe of Fools"
   },
@@ -33912,6 +33915,7 @@
   "27068117": {
     "type": "Spell",
     "cn_name": "叠光再生",
+    "sc_name": "叠放再生",
     "jp_name": "オーバーレイ・リジェネレート",
     "en_name": "Overlay Regen"
   },
@@ -34347,6 +34351,7 @@
   "88686573": {
     "type": "Monster",
     "cn_name": "迅捷鮟鱇",
+    "sc_name": "迅捷鮟鱇",
     "jp_name": "素早いアンコウ",
     "en_name": "Nimble Angler"
   },
@@ -35466,6 +35471,7 @@
   "32086564": {
     "type": "Trap",
     "cn_name": "超量纷争对手",
+    "sc_name": "超量同门对手",
     "jp_name": "エクシーズ・トライバル",
     "en_name": "Xyz Tribalrivals"
   },
@@ -37342,6 +37348,7 @@
   "29330706": {
     "type": "Monster",
     "cn_name": "武装神龙 护甲龙",
+    "sc_name": "武装神龙 护甲龙",
     "jp_name": "武装神竜プロテクト・ドラゴン",
     "en_name": "Armed Protector Dragon"
   },
@@ -42406,7 +42413,7 @@
   },
   "36898537": {
     "type": "Monster",
-    "cn_name": "玄化黑炎龙",
+    "cn_name": "玄化黑炎龙 荷鲁斯",
     "sc_name": "玄化荷鲁斯龙",
     "jp_name": "メタファイズ・ホルス・ドラゴン",
     "en_name": "Metaphys Horus"
@@ -48917,6 +48924,7 @@
   "4810828": {
     "type": "Monster",
     "cn_name": "古圣戴 始龙",
+    "sc_name": "古圣戴 萨拉维思",
     "jp_name": "古聖戴サウラヴィス",
     "en_name": "Sauravis, the Ancient and Ascended"
   },
@@ -49088,6 +49096,7 @@
   "37626500": {
     "type": "Spell",
     "cn_name": "精灵的祝福",
+    "sc_name": "精灵的祝福",
     "jp_name": "精霊の祝福",
     "en_name": "Sprite's Blessing"
   },
@@ -60578,7 +60587,7 @@
   "71197066": {
     "type": "Monster",
     "cn_name": "机巧蛇-丛云远吕智",
-    "sc_name": "机巧蛇-丛云远吕智",
+    "sc_name": "机巧蛇－丛云远吕智",
     "jp_name": "機巧蛇－叢雲遠呂智",
     "en_name": "Gizmek Orochi, the Serpentron Sky Slasher"
   },
@@ -62650,6 +62659,7 @@
   "53363708": {
     "type": "Spell",
     "cn_name": "拉普提诺斯之超魔剑",
+    "sc_name": "拉普帝诺斯的超魔剑",
     "jp_name": "ラプテノスの超魔剣",
     "en_name": "Supermagic Sword of Raptinus"
   },
@@ -65888,6 +65898,7 @@
   "42052439": {
     "type": "Monster",
     "cn_name": "切火女郎",
+    "sc_name": "取火女郎",
     "jp_name": "キリビ・レディ",
     "en_name": "Fire Flint Lady"
   },
@@ -66541,6 +66552,7 @@
   "14602126": {
     "type": "Spell",
     "cn_name": "超量输入",
+    "sc_name": "超量输入",
     "jp_name": "エクシーズ・インポート",
     "en_name": "Xyz Import"
   },
@@ -69985,6 +69997,7 @@
   "33907039": {
     "type": "Spell",
     "cn_name": "皮里·雷斯地图",
+    "sc_name": "皮瑞雷斯的地图",
     "jp_name": "ピリ・レイスの地図",
     "en_name": "Piri Reis Map"
   },
@@ -74708,216 +74721,252 @@
   "38339996": {
     "type": "Monster",
     "cn_name": "救援ACE队 脉冲灭火员",
+    "sc_name": "救援王牌 脉冲消防员",
     "jp_name": "R－ACEインパルス",
     "en_name": "Rescue-ACE Impulse"
   },
   "65734501": {
     "type": "Monster",
     "cn_name": "救援ACE队 空中起吊员",
+    "sc_name": "救援王牌 空中吊挂者",
     "jp_name": "R－ACEエアホイスター",
     "en_name": "Rescue-ACE Air Lifter"
   },
   "91222209": {
     "type": "Monster",
     "cn_name": "救援ACE队 双脉冲炮灭火员",
+    "sc_name": "救援王牌 水炮灭火者",
     "jp_name": "R－ACEイントルーダー",
     "en_name": "Rescue-ACE Monitor"
   },
   "37617348": {
     "type": "Monster",
     "cn_name": "救援ACE队 消防栓",
+    "sc_name": "救援王牌 消防栓",
     "jp_name": "R－ACEハイドラント",
     "en_name": "Rescue-ACE Hydrant"
   },
   "64612053": {
     "type": "Monster",
     "cn_name": "救援ACE队 空中灭火机",
+    "sc_name": "救援王牌 火焰攻击机",
     "jp_name": "R－ACEファイア・アタッカー",
     "en_name": "Rescue-ACE Fire Attacker"
   },
   "90000652": {
     "type": "Monster",
     "cn_name": "救援ACE队 消防战车人",
+    "sc_name": "救援王牌 火焰驱动机",
     "jp_name": "R－ACEファイア・エンジン",
     "en_name": "Rescue-ACE Fire Engine"
   },
   "37495766": {
     "type": "Monster",
     "cn_name": "救援ACE队 涡轮湍流消防战车",
+    "sc_name": "救援王牌 爆流涡轮机",
     "jp_name": "R－ACEタービュランス",
     "en_name": "Rescue-ACE Turbulence"
   },
   "63899465": {
     "type": "Spell",
     "cn_name": "救援ACE队总部",
+    "sc_name": "救援王牌总司令部",
     "jp_name": "R－ACEヘッドクオーター",
     "en_name": "Rescue-ACE HQ"
   },
   "99984170": {
     "type": "Spell",
     "cn_name": "R救援！",
+    "sc_name": "救援！",
     "jp_name": "RESCUE！",
     "en_name": "RESCUE!"
   },
   "26372118": {
     "type": "Spell",
     "cn_name": "A警报！",
+    "sc_name": "警报！",
     "jp_name": "ALERT！",
     "en_name": "ALERT!"
   },
   "62777823": {
     "type": "Trap",
     "cn_name": "C控制！",
+    "sc_name": "遏制！",
     "jp_name": "CONTAIN！",
     "en_name": "CONTAIN!"
   },
   "99162522": {
     "type": "Trap",
     "cn_name": "E扑灭！",
+    "sc_name": "扑灭！",
     "jp_name": "EXTINGUISH！",
     "en_name": "EXTINGUISH!"
   },
   "25550531": {
     "type": "Monster",
     "cn_name": "纯爱妖精",
+    "sc_name": "皮尔莉",
     "jp_name": "ピュアリィ",
     "en_name": "Purrely"
   },
   "52645235": {
     "type": "Monster",
     "cn_name": "亲历纯爱妖精·幸福妖精",
+    "sc_name": "爱皮尔莉・幸福",
     "jp_name": "エピュアリィ・ハピネス",
     "en_name": "Epurrely Happiness"
   },
   "98049934": {
     "type": "Monster",
     "cn_name": "亲历纯爱妖精·美丽妖精",
+    "sc_name": "爱皮尔莉・美丽",
     "jp_name": "エピュアリィ・ビューティ",
     "en_name": "Epurrely Beauty"
   },
   "24434049": {
     "type": "Monster",
     "cn_name": "亲历纯爱妖精·丰满妖精",
+    "sc_name": "爱皮尔莉・圆满",
     "jp_name": "エピュアリィ・プランプ",
     "en_name": "Epurrely Plump"
   },
   "51822687": {
     "type": "Monster",
     "cn_name": "历练纯爱妖精·幸福妖精",
+    "sc_name": "爱克斯皮尔莉・幸福",
     "jp_name": "エクスピュアリィ・ハピネス",
     "en_name": "Expurrely Happiness"
   },
   "83827392": {
     "type": "Monster",
     "cn_name": "历练纯爱妖精·黑暗妖精",
+    "sc_name": "爱克斯皮尔莉・黑夜",
     "jp_name": "エクスピュアリィ・ノアール",
     "en_name": "Expurrely Noir"
   },
   "20212491": {
     "type": "Spell",
     "cn_name": "流浪纯爱妖精街道",
+    "sc_name": "皮尔莉流浪之街",
     "jp_name": "ストレイ・ピュアリィ・ストリート",
     "en_name": "Stray Purrely Street"
   },
   "56700100": {
     "type": "Spell",
     "cn_name": "我的纯爱妖精朋友",
+    "sc_name": "我的朋友・皮尔莉",
     "jp_name": "ピュアリィ・マイフレンド",
     "en_name": "My Friend Purrely"
   },
   "82105704": {
     "type": "Spell",
     "cn_name": "纯爱妖精快乐回忆",
+    "sc_name": "皮尔莉・快乐回忆",
     "jp_name": "ピュアリィ・ハッピーメモリー",
     "en_name": "Purrely Happy Memory"
   },
   "29599813": {
     "type": "Spell",
     "cn_name": "纯爱妖精可爱回忆",
+    "sc_name": "皮尔莉・漂亮回忆",
     "jp_name": "ピュアリィ・プリティメモリー",
     "en_name": "Purrely Pretty Memory"
   },
   "55584558": {
     "type": "Spell",
     "cn_name": "纯爱妖精美味回忆",
+    "sc_name": "皮尔莉・美味回忆",
     "jp_name": "ピュアリィ・デリシャスメモリー",
     "en_name": "Purrely Delicious Memory"
   },
   "82983267": {
     "type": "Trap",
     "cn_name": "纯爱妖精跳越！？",
+    "sc_name": "皮尔莉穿越！？",
     "jp_name": "ピュアリィープ！？",
     "en_name": "Purrelyeap!?"
   },
   "18377261": {
     "type": "Monster",
     "cn_name": "剑之御巫 波礼",
+    "sc_name": "剑之御巫 波礼",
     "jp_name": "剣の御巫ハレ",
     "en_name": "Ha-Re the Sword Mikanko"
   },
   "54862960": {
     "type": "Monster",
     "cn_name": "镜之御巫 迩迩",
+    "sc_name": "镜之御巫 琼琼",
     "jp_name": "鏡の御巫ニニ",
     "en_name": "Ni-Ni the Mirror Mikanko"
   },
   "81260679": {
     "type": "Monster",
     "cn_name": "大日女之御巫",
+    "sc_name": "大日女之御巫",
     "jp_name": "オオヒメの御巫",
     "en_name": "Ohime the Manifested Mikanko"
   },
   "17255673": {
     "type": "Spell",
     "cn_name": "天御巫之阖",
+    "sc_name": "天御巫之阖",
     "jp_name": "天御巫の闔",
     "en_name": "Heavenly Gate of the Mikanko"
   },
   "44649322": {
     "type": "Spell",
     "cn_name": "传承的大御巫",
+    "sc_name": "传承之大御巫",
     "jp_name": "伝承の大御巫",
     "en_name": "The Great Mikanko Ceremony"
   },
   "80044027": {
     "type": "Spell",
     "cn_name": "御巫的火丛舞",
+    "sc_name": "御巫之火丛舞",
     "jp_name": "御巫の火叢舞",
     "en_name": "Mikanko Fire Dance"
   },
   "16433136": {
     "type": "Spell",
     "cn_name": "御巫的祓舞",
+    "sc_name": "御巫之祓舞",
     "jp_name": "御巫の祓舞",
     "en_name": "Mikanko Purification Dance"
   },
   "43527730": {
     "type": "Spell",
     "cn_name": "御巫的水舞蹈",
+    "sc_name": "御巫之展翅水舞",
     "jp_name": "御巫の水舞踏",
     "en_name": "Mikanko Water Arabesque"
   },
   "79912449": {
     "type": "Spell",
     "cn_name": "御巫的诱轮舞",
+    "sc_name": "御巫之幻惑轮舞",
     "jp_name": "御巫の誘い輪舞",
     "en_name": "Mikanko Reflection Rondo"
   },
   "16310544": {
     "type": "Spell",
     "cn_name": "御巫神乐",
+    "sc_name": "御巫神乐",
     "jp_name": "御巫神楽",
     "en_name": "Mikanko Kagura"
   },
   "42705243": {
     "type": "Trap",
     "cn_name": "御巫之契",
+    "sc_name": "御巫之契",
     "jp_name": "御巫の契り",
     "en_name": "Mikanko Promise"
   },
   "78199891": {
     "type": "Trap",
     "cn_name": "御巫神较",
+    "sc_name": "御巫神比",
     "jp_name": "御巫かみくらべ",
     "en_name": "Mikanko Rivalry"
   },
