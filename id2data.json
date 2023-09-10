@@ -78119,6 +78119,21 @@
     "cn_name": "混沌战士",
     "jp_name": "カオス・ソルジャー"
   },
+  "100209281": {
+    "type": "Spell",
+    "cn_name": "圣骑士与圣剑之城 卡美洛",
+    "en_name": "Camelot, Realm of Noble Knights and Noble Arms"
+  },
+  "100209282": {
+    "type": "Trap",
+    "cn_name": "时间潜行者动力储存",
+    "en_name": "Time Thief Power Reserve"
+  },
+  "100209283": {
+    "type": "Monster",
+    "cn_name": "秘旋谍 双面特工",
+    "en_name": "SPYRAL Double Agent"
+  },
   "101202001": {
     "type": "Monster",
     "cn_name": "霸王门之魔术师",
@@ -78529,6 +78544,11 @@
     "cn_name": "冰魔龙 光枪龙",
     "jp_name": "氷魔龍 ブリューナク"
   },
+  "100210014": {
+    "type": "Monster",
+    "cn_name": "异宇宙暴食魔",
+    "en_name": "Anotherverse Gluttonia"
+  },
   "100421001": {
     "type": "Monster",
     "cn_name": "冥骸合龙-莫忘冥地王龙",
@@ -78683,6 +78703,46 @@
     "type": "Trap",
     "cn_name": "选律之异响鸣",
     "jp_name": "選律のヴァルモニカ"
+  },
+  "100314001": {
+    "type": "Monster",
+    "cn_name": "圣炎王 大鹏不死鸟",
+    "jp_name": "聖炎王 ガルドニクス"
+  },
+  "100314002": {
+    "type": "Monster",
+    "cn_name": "炎王神兽 麒麟",
+    "jp_name": "炎王神獣 キリン"
+  },
+  "100314003": {
+    "type": "Monster",
+    "cn_name": "炎王兽 哈奴曼",
+    "jp_name": "炎王獣 ハヌマーン"
+  },
+  "100314024": {
+    "type": "Spell",
+    "cn_name": "炎王的圣域",
+    "jp_name": "炎王の聖域"
+  },
+  "100314025": {
+    "type": "Spell",
+    "cn_name": "炎王神天烧",
+    "jp_name": "炎王神天焼"
+  },
+  "100314033": {
+    "type": "Trap",
+    "cn_name": "炎王的结袭",
+    "jp_name": "炎王の結襲"
+  },
+  "100314051": {
+    "type": "Monster",
+    "cn_name": "炎王神 大鹏不死鸟·永炎",
+    "jp_name": "炎王神 ガルドニクス・エタニティ"
+  },
+  "100314052": {
+    "type": "Monster",
+    "cn_name": "真炎王 凤凰不死鸟",
+    "jp_name": "真炎王 ポニクス"
   },
   "100200242": {
     "type": "Monster",
