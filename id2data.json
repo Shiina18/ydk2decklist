@@ -18381,7 +18381,7 @@
   },
   "66214679": {
     "type": "Monster",
-    "cn_name": "暗黑黑炎龙 荷鲁斯",
+    "cn_name": "暗黑荷鲁斯龙",
     "jp_name": "ダーク・ホルス・ドラゴン",
     "en_name": "Dark Horus"
   },
@@ -18394,7 +18394,7 @@
   },
   "38107923": {
     "type": "Monster",
-    "cn_name": "暗黑凤凰神 奈芙提斯",
+    "cn_name": "暗黑奈芙提斯",
     "jp_name": "ダーク・ネフティス",
     "en_name": "Dark Nephthys"
   },
@@ -32875,7 +32875,7 @@
   },
   "91279700": {
     "type": "Monster",
-    "cn_name": "入魔龙祖 俄菲翁",
+    "cn_name": "入魔龙主 俄菲翁",
     "jp_name": "ヴェルズ・オピオン",
     "en_name": "Evilswarm Ophion"
   },
@@ -42475,7 +42475,7 @@
   },
   "36898537": {
     "type": "Monster",
-    "cn_name": "玄化黑炎龙 荷鲁斯",
+    "cn_name": "玄化荷鲁斯龙",
     "sc_name": "玄化荷鲁斯龙",
     "jp_name": "メタファイズ・ホルス・ドラゴン",
     "en_name": "Metaphys Horus"
@@ -52865,19 +52865,19 @@
   },
   "19476824": {
     "type": "Monster",
-    "cn_name": "玄化神龙 末日龙",
+    "cn_name": "玄化末日龙",
     "jp_name": "メタファイズ・ラグナロク",
     "en_name": "Metaphys Ragnarok"
   },
   "45960523": {
     "type": "Monster",
-    "cn_name": "玄化海龙 泰达路斯",
+    "cn_name": "玄化泰达路斯",
     "jp_name": "メタファイズ・ダイダロス",
     "en_name": "Metaphys Daedalus"
   },
   "72355272": {
     "type": "Monster",
-    "cn_name": "玄化凤凰神 奈芙提斯",
+    "cn_name": "玄化奈芙提斯",
     "jp_name": "メタファイズ・ネフティス",
     "en_name": "Metaphys Nephthys"
   },
@@ -66179,7 +66179,7 @@
   },
   "26873574": {
     "type": "Monster",
-    "cn_name": "混沌海龙 泰达路斯",
+    "cn_name": "混沌泰达路斯",
     "sc_name": "混沌代达罗斯",
     "jp_name": "カオス・ダイダロス",
     "en_name": "Chaos Daedalus"
@@ -71488,7 +71488,7 @@
   },
   "24226942": {
     "type": "Monster",
-    "cn_name": "混沌凤凰神 奈芙提斯",
+    "cn_name": "混沌奈芙提斯",
     "sc_name": "混沌奈芙蒂斯",
     "jp_name": "カオス・ネフティス",
     "en_name": "Chaos Nephthys"
@@ -78121,7 +78121,7 @@
   },
   "100209281": {
     "type": "Spell",
-    "cn_name": "圣骑士与圣剑之城 卡美洛",
+    "cn_name": "圣骑士与圣剑之巨城",
     "en_name": "Camelot, Realm of Noble Knights and Noble Arms"
   },
   "100209282": {
@@ -78186,7 +78186,7 @@
   },
   "101202011": {
     "type": "Monster",
-    "cn_name": "荷鲁斯的光荣-艾姆谢特",
+    "cn_name": "荷鲁斯的荣光-伊姆塞特",
     "jp_name": "ホルスの栄光－イムセティ"
   },
   "101202012": {
