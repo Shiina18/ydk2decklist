@@ -66143,6 +66143,7 @@
   "91323605": {
     "type": "Trap",
     "cn_name": "粗人乍到",
+    "jp_name": "奇異界開",
     "en_name": "How Did Dai Get Here?"
   },
   "28711704": {
@@ -74434,61 +74435,73 @@
   "84366728": {
     "type": "Monster",
     "cn_name": "地底皇帝的先锋",
+    "jp_name": "地底王の尖兵",
     "en_name": "Vanguard of the Underground Emperor"
   },
   "11765832": {
     "type": "Monster",
     "cn_name": "双生之翼 迦楼拉",
+    "jp_name": "共命の翼ガルーラ",
     "en_name": "Garura, Wings of Resonant Life"
   },
   "47759571": {
     "type": "Monster",
     "cn_name": "维修骑士 厄莉",
+    "jp_name": "ピットナイト・アーリィ",
     "en_name": "Pitknight Earlie"
   },
   "73244186": {
     "type": "Spell",
     "cn_name": "贪欲之海鳝壶",
+    "jp_name": "貪欲なウツボ",
     "en_name": "Moray of Avarice"
   },
   "10632284": {
     "type": "Trap",
     "cn_name": "模仿象",
+    "jp_name": "ミメシスエレファント",
     "en_name": "Mimesis Elephant"
   },
   "46037983": {
     "type": "Monster",
     "cn_name": "魊影宇宙光 佩赛斯",
+    "jp_name": "ゴーティスの灯ペイシス",
     "en_name": "Paces, Light of the Ghoti"
   },
   "73421698": {
     "type": "Monster",
     "cn_name": "魊影精灵 西弗",
+    "jp_name": "ゴーティスの妖精シフ",
     "en_name": "Shif, Fairy of the Ghoti"
   },
   "9416697": {
     "type": "Monster",
     "cn_name": "魊影海哨兵 伊诺克",
+    "jp_name": "ゴーティスの守人イーノック",
     "en_name": "Eanoc, Sentry of the Ghoti"
   },
   "46815301": {
     "type": "Monster",
     "cn_name": "双角魊影 阿斯坎",
+    "jp_name": "ゴーティスの双角アスカーン",
     "en_name": "Askaan, the Bicorned Ghoti"
   },
   "72309040": {
     "type": "Monster",
     "cn_name": "深远魊影",
+    "jp_name": "最果てのゴーティス",
     "en_name": "Ghoti of the Deep Beyond"
   },
   "8794055": {
     "type": "Spell",
     "cn_name": "深远而深邃的最深处",
+    "jp_name": "最果ての宇宙",
     "en_name": "The Most Distant, Deepest Depths"
   },
   "45792753": {
     "type": "Trap",
     "cn_name": "魊影食物链",
+    "jp_name": "ゴーティス・チェイン",
     "en_name": "Ghoti Chain"
   },
   "71187462": {
@@ -75341,61 +75354,73 @@
   "4472318": {
     "type": "Monster",
     "cn_name": "黄霾岩龙",
+    "jp_name": "岩竜ベアロック",
     "en_name": "Bayerock Dragon"
   },
   "40460013": {
     "type": "Monster",
     "cn_name": "炎魔催化师",
+    "jp_name": "炎魔の触媒",
     "en_name": "Zalamander Catalyzer"
   },
   "77855162": {
     "type": "Monster",
     "cn_name": "共同摆动的火车",
+    "jp_name": "振子特急エントレインメント",
     "en_name": "Tilting Entrainment"
   },
   "3259760": {
     "type": "Spell",
     "cn_name": "魔力咒缚",
+    "jp_name": "呪縛衆",
     "en_name": "Spellbound"
   },
   "30748475": {
     "type": "Trap",
     "cn_name": "达磨业力毁灭大炮",
+    "jp_name": "魔砲戦機ダルマ・カルマ",
     "en_name": "Destructive Daruma Karma Cannon"
   },
   "76133574": {
     "type": "Monster",
     "cn_name": "魊影红玉 泽普",
+    "jp_name": "ゴーティスの紅玉ゼップ",
     "en_name": "Zep, Ruby of the Ghoti"
   },
   "3137279": {
     "type": "Monster",
     "cn_name": "魊影预言 伊克西普",
+    "jp_name": "ゴーティスの兆イグジープ",
     "en_name": "Ixeep, Omen of the Ghoti"
   },
   "39522887": {
     "type": "Monster",
     "cn_name": "魊影阴暗 斯诺皮乌斯",
+    "jp_name": "ゴーティスの陰影スノーピオス",
     "en_name": "Snopios, Shade of the Ghoti"
   },
   "65910922": {
     "type": "Monster",
     "cn_name": "魊影巨蛇 阿里翁波斯",
+    "jp_name": "ゴーティスの大蛇アリオンポス",
     "en_name": "Arionpos, Serpent of the Ghoti"
   },
   "2405631": {
     "type": "Monster",
     "cn_name": "魊影巨矛 高格利姆",
+    "jp_name": "ゴーティスの死棘グオグリム",
     "en_name": "Guoglim, Spear of the Ghoti"
   },
   "38409239": {
     "type": "Trap",
     "cn_name": "魊影宇宙",
+    "jp_name": "ゴーティス・コスモス",
     "en_name": "Ghoti Cosmos"
   },
   "65898344": {
     "type": "Trap",
     "cn_name": "魊影狂怒",
+    "jp_name": "ゴーティス・フューリー",
     "en_name": "Ghoti Fury"
   },
   "47484352": {
@@ -76041,51 +76066,61 @@
   "35026117": {
     "type": "Monster",
     "cn_name": "迷宫的重战车",
+    "jp_name": "迷宮の重魔戦車",
     "en_name": "Labyrinth Heavy Tank"
   },
   "62411811": {
     "type": "Monster",
     "cn_name": "迷宫的影之食尸鬼",
+    "jp_name": "迷宮に潜むシャドウ・グール",
     "en_name": "Shadow Ghoul of the Labyrinth"
   },
   "8505920": {
     "type": "Monster",
     "cn_name": "合体魔神 门之守护神",
+    "jp_name": "合体魔神－ゲート・ガーディアン",
     "en_name": "Gate Guardians Combined"
   },
   "34904525": {
     "type": "Monster",
     "cn_name": "雷风魔神 门之守护神",
+    "jp_name": "雷風魔神－ゲート・ガーディアン",
     "en_name": "Gate Guardian of Thunder and Wind"
   },
   "61398234": {
     "type": "Monster",
     "cn_name": "风水魔神 门之守护神",
+    "jp_name": "風水魔神－ゲート・ガーディアン",
     "en_name": "Gate Guardian of Wind and Water"
   },
   "97783338": {
     "type": "Monster",
     "cn_name": "水雷魔神 门之守护神",
+    "jp_name": "水雷魔神－ゲート・ガーディアン",
     "en_name": "Gate Guardian of Water and Thunder"
   },
   "34771947": {
     "type": "Spell",
     "cn_name": "迷宫壁之影",
+    "jp_name": "ラビリンス・ウォール・シャドウ",
     "en_name": "Labyrinth Wall Shadow"
   },
   "60176682": {
     "type": "Spell",
     "cn_name": "魔风冲击波",
+    "jp_name": "魔風衝撃波",
     "en_name": "Double Attack! Wind and Thunder!!"
   },
   "96661780": {
     "type": "Spell",
     "cn_name": "守护者原力",
+    "jp_name": "フォース・オブ・ガーディアン",
     "en_name": "Riryoku Guardian"
   },
   "33055499": {
     "type": "Trap",
     "cn_name": "地雷蜘蛛的饵食",
+    "jp_name": "地雷蜘蛛の餌食",
     "en_name": "Prey of the Jirai Gumo"
   },
   "5829717": {
@@ -76230,61 +76265,73 @@
   "61845881": {
     "type": "Monster",
     "cn_name": "寻我海豚",
+    "jp_name": "ミナイルカ",
     "en_name": "Minairuka"
   },
   "97240499": {
     "type": "Monster",
     "cn_name": "吟游公牛战士 奥菲布尔",
+    "jp_name": "渾然たる闘牛詩－オルフェブル",
     "en_name": "Orphebull the Harmonious Bullfighter Bard"
   },
   "24634594": {
     "type": "Monster",
     "cn_name": "魔花螳螂 迪亚波兰提斯",
+    "jp_name": "魔螂ディアボランティス",
     "en_name": "Diabolantis the Menacing Mantis"
   },
   "60623203": {
     "type": "Spell",
     "cn_name": "超量对齐",
+    "jp_name": "エクシーズ・アライン",
     "en_name": "Xyz Align"
   },
   "96127902": {
     "type": "Spell",
     "cn_name": "人鱼女仆装定制设计师",
+    "jp_name": "かなり魅湧な受注水産",
     "en_name": "Made to Order Mermaid Outfit Outfitter"
   },
   "23512906": {
     "type": "Monster",
     "cn_name": "黄金荣耀-里昂",
+    "jp_name": "GP－リオン",
     "en_name": "Gold Pride - Leon"
   },
   "59900655": {
     "type": "Monster",
     "cn_name": "黄金荣耀-氮气头",
+    "jp_name": "GP－Nヘッド",
     "en_name": "Gold Pride - Nytro Head"
   },
   "96305350": {
     "type": "Monster",
     "cn_name": "黄金荣耀-卡莉船长",
+    "jp_name": "GP－キャプテン・キャリー",
     "en_name": "Gold Pride - Captain Carrie"
   },
   "22390469": {
     "type": "Monster",
     "cn_name": "黄金荣耀-明星里昂",
+    "jp_name": "GP－スター・リオン",
     "en_name": "Gold Pride - Star Leon"
   },
   "58884063": {
     "type": "Monster",
     "cn_name": "黄金荣耀-氮气爆破者",
+    "jp_name": "GP－Nブラスター",
     "en_name": "Gold Pride - Nytro Blaster"
   },
   "95283172": {
     "type": "Spell",
     "cn_name": "黄金荣耀-观众欢呼！",
+    "jp_name": "GP－ゴー・ワイルド",
     "en_name": "Gold Pride - The Crowd Goes Wild!"
   },
   "21677871": {
     "type": "Trap",
     "cn_name": "黄金荣耀-发动引擎！",
+    "jp_name": "GP－スタート・エンジン",
     "en_name": "Gold Pride - Start Your Engines!"
   },
   "20455229": {
@@ -76881,56 +76928,67 @@
   "66736715": {
     "type": "Monster",
     "cn_name": "彗星将军 莫桑钻士",
+    "jp_name": "彗聖の将－ワンモア・ザ・ナイト",
     "en_name": "Moissa Knight, the Comet General"
   },
   "93125329": {
     "type": "Monster",
     "cn_name": "金云兽-龙马",
+    "jp_name": "金雲獣－馬龍",
     "en_name": "Golden Cloud Beast - Malong"
   },
   "29510428": {
     "type": "Monster",
     "cn_name": "帝国五公主 查询奎因",
+    "jp_name": "召煌女クインクエリ",
     "en_name": "Imperial Princess Quinquery"
   },
   "65914127": {
     "type": "Spell",
     "cn_name": "灵摆吊坠",
+    "jp_name": "ペンデュラム・ペンダント",
     "en_name": "Pendulum Pendant"
   },
   "92003832": {
     "type": "Monster",
     "cn_name": "黄金荣耀-滚球手",
+    "jp_name": "GP－RB",
     "en_name": "Gold Pride - Roller Baller"
   },
   "28497830": {
     "type": "Monster",
     "cn_name": "黄金荣耀-弹珠滚球手",
+    "jp_name": "GP－PB",
     "en_name": "Gold Pride - Pin Baller"
   },
   "65892585": {
     "type": "Monster",
     "cn_name": "黄金荣耀-卡莉战车",
+    "jp_name": "GP－チャリオット・キャリー号",
     "en_name": "Gold Pride - Chariot Carrie"
   },
   "91286284": {
     "type": "Spell",
     "cn_name": "黄金荣耀-神出鬼没！",
+    "jp_name": "GP－アウト・オブ・ノーウェア",
     "en_name": "Gold Pride - That Came Out of Nowhere!"
   },
   "27275398": {
     "type": "Spell",
     "cn_name": "黄金荣耀-猛踩油门！",
+    "jp_name": "GP－ペダル・トゥ・メタル",
     "en_name": "Gold Pride - Pedal to the Metal!"
   },
   "54670997": {
     "type": "Spell",
     "cn_name": "黄金荣耀-再接再厉！",
+    "jp_name": "GP－ベター・ラック",
     "en_name": "Gold Pride - Better Luck Next Time!"
   },
   "90164606": {
     "type": "Trap",
     "cn_name": "黄金荣耀-奋起直追！",
+    "jp_name": "GP－ネック・アンド・ネック",
     "en_name": "Gold Pride - It's Neck and Neck!"
   },
   "27553701": {
@@ -77865,49 +77923,57 @@
     "type": "Monster",
     "cn_name": "灵魂共鸣者",
     "sc_name": "魂灵共鸣者",
-    "jp_name": "ソウル・リゾネーター"
+    "jp_name": "ソウル・リゾネーター",
+    "en_name": "Soul Resonator"
   },
   "98396890": {
     "type": "Monster",
     "cn_name": "视界共鸣者",
     "sc_name": "视界共鸣者",
-    "jp_name": "ヴィジョン・リゾネーター"
+    "jp_name": "ヴィジョン・リゾネーター",
+    "en_name": "Vision Resonator"
   },
   "25784595": {
     "type": "Monster",
     "cn_name": "白骨恶魔",
     "sc_name": "骸骨恶魔",
-    "jp_name": "ボーン・デーモン"
+    "jp_name": "ボーン・デーモン",
+    "en_name": "Bone Archfiend"
   },
   "51779204": {
     "type": "Spell",
     "cn_name": "绝对权力强要",
     "sc_name": "绝对力量威压",
-    "jp_name": "アブソリュート・パワーフォース"
+    "jp_name": "アブソリュート・パワーフォース",
+    "en_name": "Absolute Powerforce"
   },
   "98173209": {
     "type": "Spell",
     "cn_name": "深红狱大地",
     "sc_name": "深红地狱盖亚",
-    "jp_name": "クリムゾン・ヘルガイア"
+    "jp_name": "クリムゾン・ヘルガイア",
+    "en_name": "Crimson Gaia"
   },
   "24662957": {
     "type": "Trap",
     "cn_name": "魔族石人",
     "sc_name": "噩魔魔像",
-    "jp_name": "デモンズ・ゴーレム"
+    "jp_name": "デモンズ・ゴーレム",
+    "en_name": "Fiendish Golem"
   },
   "50056656": {
     "type": "Trap",
     "cn_name": "真红莲区域",
     "sc_name": "绯暗红区域",
-    "jp_name": "スカーレッド・ゾーン"
+    "jp_name": "スカーレッド・ゾーン",
+    "en_name": "Red Zone"
   },
   "87451661": {
     "type": "Monster",
     "cn_name": "真红莲魔",
     "sc_name": "绯暗红恶魔",
-    "jp_name": "スカーレッド・デーモン"
+    "jp_name": "スカーレッド・デーモン",
+    "en_name": "Scarred Dragon Archfiend"
   },
   "23446369": {
     "type": "Spell",
@@ -78127,16 +78193,19 @@
   "100209281": {
     "type": "Spell",
     "cn_name": "圣骑士与圣剑之巨城",
+    "jp_name": "聖騎士と聖剣の巨城",
     "en_name": "Camelot, Realm of Noble Knights and Noble Arms"
   },
   "100209282": {
     "type": "Trap",
     "cn_name": "时间潜行者动力储存",
+    "jp_name": "クロノダイバー・パワーリザーブ",
     "en_name": "Time Thief Power Reserve"
   },
   "100209283": {
     "type": "Monster",
     "cn_name": "秘旋谍 双面特工",
+    "jp_name": "SPYRAL－ダブルフェイク",
     "en_name": "SPYRAL Double Agent"
   },
   "101202001": {
