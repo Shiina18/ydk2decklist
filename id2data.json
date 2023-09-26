@@ -29401,7 +29401,7 @@
     "jp_name": "天啓の薔薇の鐘",
     "en_name": "Rose Bell of Revelation"
   },
-  "100200240": {
+  "89974735": {
     "type": "Monster",
     "cn_name": "魔法妖精 勃艮第",
     "jp_name": "魔法妖精 バーガンディ"
@@ -66142,7 +66142,7 @@
   },
   "91323605": {
     "type": "Trap",
-    "cn_name": "粗人乍到",
+    "cn_name": "奇异界开",
     "jp_name": "奇異界開",
     "en_name": "How Did Dai Get Here?"
   },
@@ -74434,19 +74434,19 @@
   },
   "84366728": {
     "type": "Monster",
-    "cn_name": "地底皇帝的先锋",
+    "cn_name": "地底王的尖兵",
     "jp_name": "地底王の尖兵",
     "en_name": "Vanguard of the Underground Emperor"
   },
   "11765832": {
     "type": "Monster",
-    "cn_name": "双生之翼 迦楼拉",
+    "cn_name": "共命之翼 迦楼罗",
     "jp_name": "共命の翼ガルーラ",
     "en_name": "Garura, Wings of Resonant Life"
   },
   "47759571": {
     "type": "Monster",
-    "cn_name": "维修骑士 厄莉",
+    "cn_name": "维修区骑士·阿莉",
     "jp_name": "ピットナイト・アーリィ",
     "en_name": "Pitknight Earlie"
   },
@@ -74458,49 +74458,49 @@
   },
   "10632284": {
     "type": "Trap",
-    "cn_name": "模仿象",
+    "cn_name": "拟态象",
     "jp_name": "ミメシスエレファント",
     "en_name": "Mimesis Elephant"
   },
   "46037983": {
     "type": "Monster",
-    "cn_name": "魊影宇宙光 佩赛斯",
+    "cn_name": "魊影之灯 佩西斯",
     "jp_name": "ゴーティスの灯ペイシス",
     "en_name": "Paces, Light of the Ghoti"
   },
   "73421698": {
     "type": "Monster",
-    "cn_name": "魊影精灵 西弗",
+    "cn_name": "魊影的妖精 希夫",
     "jp_name": "ゴーティスの妖精シフ",
     "en_name": "Shif, Fairy of the Ghoti"
   },
   "9416697": {
     "type": "Monster",
-    "cn_name": "魊影海哨兵 伊诺克",
+    "cn_name": "魊影的守人 伊诺克",
     "jp_name": "ゴーティスの守人イーノック",
     "en_name": "Eanoc, Sentry of the Ghoti"
   },
   "46815301": {
     "type": "Monster",
-    "cn_name": "双角魊影 阿斯坎",
+    "cn_name": "魊影的双角 阿斯坎",
     "jp_name": "ゴーティスの双角アスカーン",
     "en_name": "Askaan, the Bicorned Ghoti"
   },
   "72309040": {
     "type": "Monster",
-    "cn_name": "深远魊影",
+    "cn_name": "最远方的魊影",
     "jp_name": "最果てのゴーティス",
     "en_name": "Ghoti of the Deep Beyond"
   },
   "8794055": {
     "type": "Spell",
-    "cn_name": "深远而深邃的最深处",
+    "cn_name": "最远方的宇宙",
     "jp_name": "最果ての宇宙",
     "en_name": "The Most Distant, Deepest Depths"
   },
   "45792753": {
     "type": "Trap",
-    "cn_name": "魊影食物链",
+    "cn_name": "魊影之链",
     "jp_name": "ゴーティス・チェイン",
     "en_name": "Ghoti Chain"
   },
@@ -75353,61 +75353,61 @@
   },
   "4472318": {
     "type": "Monster",
-    "cn_name": "黄霾岩龙",
+    "cn_name": "岩龙 裸岩甲龙",
     "jp_name": "岩竜ベアロック",
     "en_name": "Bayerock Dragon"
   },
   "40460013": {
     "type": "Monster",
-    "cn_name": "炎魔催化师",
+    "cn_name": "炎魔触媒",
     "jp_name": "炎魔の触媒",
     "en_name": "Zalamander Catalyzer"
   },
   "77855162": {
     "type": "Monster",
-    "cn_name": "共同摆动的火车",
+    "cn_name": "摆式特急 同行列车",
     "jp_name": "振子特急エントレインメント",
     "en_name": "Tilting Entrainment"
   },
   "3259760": {
     "type": "Spell",
-    "cn_name": "魔力咒缚",
+    "cn_name": "咒缚众",
     "jp_name": "呪縛衆",
     "en_name": "Spellbound"
   },
   "30748475": {
     "type": "Trap",
-    "cn_name": "达磨业力毁灭大炮",
+    "cn_name": "魔炮战机 达磨羯磨",
     "jp_name": "魔砲戦機ダルマ・カルマ",
     "en_name": "Destructive Daruma Karma Cannon"
   },
   "76133574": {
     "type": "Monster",
-    "cn_name": "魊影红玉 泽普",
+    "cn_name": "魊影的红玉 泽普",
     "jp_name": "ゴーティスの紅玉ゼップ",
     "en_name": "Zep, Ruby of the Ghoti"
   },
   "3137279": {
     "type": "Monster",
-    "cn_name": "魊影预言 伊克西普",
+    "cn_name": "魊影之兆 伊克西普",
     "jp_name": "ゴーティスの兆イグジープ",
     "en_name": "Ixeep, Omen of the Ghoti"
   },
   "39522887": {
     "type": "Monster",
-    "cn_name": "魊影阴暗 斯诺皮乌斯",
+    "cn_name": "魊影的阴影 斯诺皮奥斯",
     "jp_name": "ゴーティスの陰影スノーピオス",
     "en_name": "Snopios, Shade of the Ghoti"
   },
   "65910922": {
     "type": "Monster",
-    "cn_name": "魊影巨蛇 阿里翁波斯",
+    "cn_name": "魊影的大蛇 阿里翁波斯",
     "jp_name": "ゴーティスの大蛇アリオンポス",
     "en_name": "Arionpos, Serpent of the Ghoti"
   },
   "2405631": {
     "type": "Monster",
-    "cn_name": "魊影巨矛 高格利姆",
+    "cn_name": "魊影的死棘 古奥格利姆",
     "jp_name": "ゴーティスの死棘グオグリム",
     "en_name": "Guoglim, Spear of the Ghoti"
   },
@@ -76065,37 +76065,37 @@
   },
   "35026117": {
     "type": "Monster",
-    "cn_name": "迷宫的重战车",
+    "cn_name": "迷宫的重魔战车",
     "jp_name": "迷宮の重魔戦車",
     "en_name": "Labyrinth Heavy Tank"
   },
   "62411811": {
     "type": "Monster",
-    "cn_name": "迷宫的影之食尸鬼",
+    "cn_name": "潜伏迷宫的影之食尸鬼",
     "jp_name": "迷宮に潜むシャドウ・グール",
     "en_name": "Shadow Ghoul of the Labyrinth"
   },
   "8505920": {
     "type": "Monster",
-    "cn_name": "合体魔神 门之守护神",
+    "cn_name": "合体魔神-门之守护神",
     "jp_name": "合体魔神－ゲート・ガーディアン",
     "en_name": "Gate Guardians Combined"
   },
   "34904525": {
     "type": "Monster",
-    "cn_name": "雷风魔神 门之守护神",
+    "cn_name": "雷风魔神-门之守护神",
     "jp_name": "雷風魔神－ゲート・ガーディアン",
     "en_name": "Gate Guardian of Thunder and Wind"
   },
   "61398234": {
     "type": "Monster",
-    "cn_name": "风水魔神 门之守护神",
+    "cn_name": "风水魔神-门之守护神",
     "jp_name": "風水魔神－ゲート・ガーディアン",
     "en_name": "Gate Guardian of Wind and Water"
   },
   "97783338": {
     "type": "Monster",
-    "cn_name": "水雷魔神 门之守护神",
+    "cn_name": "水雷魔神-门之守护神",
     "jp_name": "水雷魔神－ゲート・ガーディアン",
     "en_name": "Gate Guardian of Water and Thunder"
   },
@@ -76113,7 +76113,7 @@
   },
   "96661780": {
     "type": "Spell",
-    "cn_name": "守护者原力",
+    "cn_name": "守护神的原力",
     "jp_name": "フォース・オブ・ガーディアン",
     "en_name": "Riryoku Guardian"
   },
@@ -76264,73 +76264,73 @@
   },
   "61845881": {
     "type": "Monster",
-    "cn_name": "寻我海豚",
+    "cn_name": "寻众海豚",
     "jp_name": "ミナイルカ",
     "en_name": "Minairuka"
   },
   "97240499": {
     "type": "Monster",
-    "cn_name": "吟游公牛战士 奥菲布尔",
+    "cn_name": "浑然的斗牛诗-俄耳甫斯金公牛",
     "jp_name": "渾然たる闘牛詩－オルフェブル",
     "en_name": "Orphebull the Harmonious Bullfighter Bard"
   },
   "24634594": {
     "type": "Monster",
-    "cn_name": "魔花螳螂 迪亚波兰提斯",
+    "cn_name": "魔螂 魔花螳螂",
     "jp_name": "魔螂ディアボランティス",
     "en_name": "Diabolantis the Menacing Mantis"
   },
   "60623203": {
     "type": "Spell",
-    "cn_name": "超量对齐",
+    "cn_name": "超量排列",
     "jp_name": "エクシーズ・アライン",
     "en_name": "Xyz Align"
   },
   "96127902": {
     "type": "Spell",
-    "cn_name": "人鱼女仆装定制设计师",
+    "cn_name": "相当魅涌的接单水产",
     "jp_name": "かなり魅湧な受注水産",
     "en_name": "Made to Order Mermaid Outfit Outfitter"
   },
   "23512906": {
     "type": "Monster",
-    "cn_name": "黄金荣耀-里昂",
+    "cn_name": "金傲大奖赛-马狮利昂",
     "jp_name": "GP－リオン",
     "en_name": "Gold Pride - Leon"
   },
   "59900655": {
     "type": "Monster",
-    "cn_name": "黄金荣耀-氮气头",
+    "cn_name": "金傲大奖赛-氮氧头领",
     "jp_name": "GP－Nヘッド",
     "en_name": "Gold Pride - Nytro Head"
   },
   "96305350": {
     "type": "Monster",
-    "cn_name": "黄金荣耀-卡莉船长",
+    "cn_name": "金傲大奖赛-卡丽船长",
     "jp_name": "GP－キャプテン・キャリー",
     "en_name": "Gold Pride - Captain Carrie"
   },
   "22390469": {
     "type": "Monster",
-    "cn_name": "黄金荣耀-明星里昂",
+    "cn_name": "金傲大奖赛-星马狮利昂",
     "jp_name": "GP－スター・リオン",
     "en_name": "Gold Pride - Star Leon"
   },
   "58884063": {
     "type": "Monster",
-    "cn_name": "黄金荣耀-氮气爆破者",
+    "cn_name": "金傲大奖赛-氮氧爆破手",
     "jp_name": "GP－Nブラスター",
     "en_name": "Gold Pride - Nytro Blaster"
   },
   "95283172": {
     "type": "Spell",
-    "cn_name": "黄金荣耀-观众欢呼！",
+    "cn_name": "金傲大奖赛-金情狂欢",
     "jp_name": "GP－ゴー・ワイルド",
     "en_name": "Gold Pride - The Crowd Goes Wild!"
   },
   "21677871": {
     "type": "Trap",
-    "cn_name": "黄金荣耀-发动引擎！",
+    "cn_name": "金傲大奖赛-开启引擎",
     "jp_name": "GP－スタート・エンジン",
     "en_name": "Gold Pride - Start Your Engines!"
   },
@@ -76927,19 +76927,19 @@
   },
   "66736715": {
     "type": "Monster",
-    "cn_name": "彗星将军 莫桑钻士",
+    "cn_name": "彗圣之将-翌夜之莫桑石骑士",
     "jp_name": "彗聖の将－ワンモア・ザ・ナイト",
     "en_name": "Moissa Knight, the Comet General"
   },
   "93125329": {
     "type": "Monster",
-    "cn_name": "金云兽-龙马",
+    "cn_name": "金云兽-马龙",
     "jp_name": "金雲獣－馬龍",
     "en_name": "Golden Cloud Beast - Malong"
   },
   "29510428": {
     "type": "Monster",
-    "cn_name": "帝国五公主 查询奎因",
+    "cn_name": "召煌女 五型查询姬",
     "jp_name": "召煌女クインクエリ",
     "en_name": "Imperial Princess Quinquery"
   },
@@ -76951,43 +76951,43 @@
   },
   "92003832": {
     "type": "Monster",
-    "cn_name": "黄金荣耀-滚球手",
+    "cn_name": "金傲大奖赛-滚球手",
     "jp_name": "GP－RB",
     "en_name": "Gold Pride - Roller Baller"
   },
   "28497830": {
     "type": "Monster",
-    "cn_name": "黄金荣耀-弹珠滚球手",
+    "cn_name": "金傲大奖赛-弹球手",
     "jp_name": "GP－PB",
     "en_name": "Gold Pride - Pin Baller"
   },
   "65892585": {
     "type": "Monster",
-    "cn_name": "黄金荣耀-卡莉战车",
+    "cn_name": "金傲大奖赛-卡丽战车号",
     "jp_name": "GP－チャリオット・キャリー号",
     "en_name": "Gold Pride - Chariot Carrie"
   },
   "91286284": {
     "type": "Spell",
-    "cn_name": "黄金荣耀-神出鬼没！",
+    "cn_name": "金傲大奖赛-突如其来",
     "jp_name": "GP－アウト・オブ・ノーウェア",
     "en_name": "Gold Pride - That Came Out of Nowhere!"
   },
   "27275398": {
     "type": "Spell",
-    "cn_name": "黄金荣耀-猛踩油门！",
+    "cn_name": "金傲大奖赛-全力以赴",
     "jp_name": "GP－ペダル・トゥ・メタル",
     "en_name": "Gold Pride - Pedal to the Metal!"
   },
   "54670997": {
     "type": "Spell",
-    "cn_name": "黄金荣耀-再接再厉！",
+    "cn_name": "金傲大奖赛-下次好运",
     "jp_name": "GP－ベター・ラック",
     "en_name": "Gold Pride - Better Luck Next Time!"
   },
   "90164606": {
     "type": "Trap",
-    "cn_name": "黄金荣耀-奋起直追！",
+    "cn_name": "金傲大奖赛-并驾齐驱",
     "jp_name": "GP－ネック・アンド・ネック",
     "en_name": "Gold Pride - It's Neck and Neck!"
   },
@@ -78120,67 +78120,67 @@
     "cn_name": "代码入侵",
     "jp_name": "コード・ハック"
   },
-  "100208001": {
+  "25577965": {
     "type": "Monster",
     "cn_name": "炎魔刃 火舌",
     "jp_name": "炎魔刃フレイムタン"
   },
-  "101201081": {
+  "24454387": {
     "type": "Monster",
     "cn_name": "挚友恐龙",
     "en_name": "Zuttomozaurus"
   },
-  "101201082": {
+  "51849482": {
     "type": "Monster",
     "cn_name": "尸界塔 菲尼斯特拉雷",
     "en_name": "Finis Terrae, Tower of the Necroworld"
   },
-  "101201083": {
+  "87837090": {
     "type": "Monster",
     "cn_name": "柯伊伯带之刃龙",
     "en_name": "Kuibelt the Blade Dragon"
   },
-  "101201084": {
+  "24232799": {
     "type": "Monster",
     "cn_name": "装甲列龙 存储蜥脚龙",
     "en_name": "Storagepod"
   },
-  "101201085": {
+  "50727844": {
     "type": "Trap",
     "cn_name": "同调迫退",
     "en_name": "Synchro Forceback"
   },
-  "101201086": {
+  "86111442": {
     "type": "Monster",
     "cn_name": "蒂斯蒂娜之卫士",
     "en_name": "Sentinel of the Tistina"
   },
-  "101201087": {
+  "13510157": {
     "type": "Monster",
     "cn_name": "蒂斯蒂娜之猎犬",
     "en_name": "Hound of the Tistina"
   },
-  "101201088": {
+  "59504256": {
     "type": "Monster",
     "cn_name": "蒂斯蒂娜之半神",
     "en_name": "Demigod of the Tistina"
   },
-  "101201089": {
+  "86999951": {
     "type": "Monster",
     "cn_name": "水晶神 蒂斯蒂娜",
     "en_name": "Crystal God Tistina"
   },
-  "101201090": {
+  "12397569": {
     "type": "Spell",
     "cn_name": "神域 巴蒂斯蒂娜",
     "en_name": "Divine Domain Baatistina"
   },
-  "101201091": {
+  "58882608": {
     "type": "Spell",
     "cn_name": "蒂斯蒂娜之气息",
     "en_name": "Breath of the Tistina"
   },
-  "101201092": {
+  "85277313": {
     "type": "Trap",
     "cn_name": "蒂斯蒂娜之神迹",
     "en_name": "Signs of the Tistina"
@@ -78190,420 +78190,420 @@
     "cn_name": "混沌战士",
     "jp_name": "カオス・ソルジャー"
   },
-  "100209281": {
+  "15635751": {
     "type": "Spell",
-    "cn_name": "圣骑士与圣剑之巨城",
+    "cn_name": "圣骑士与圣剑的巨城",
     "jp_name": "聖騎士と聖剣の巨城",
     "en_name": "Camelot, Realm of Noble Knights and Noble Arms"
   },
-  "100209282": {
+  "42620460": {
     "type": "Trap",
     "cn_name": "时间潜行者动力储存",
     "jp_name": "クロノダイバー・パワーリザーブ",
     "en_name": "Time Thief Power Reserve"
   },
-  "100209283": {
+  "88124568": {
     "type": "Monster",
-    "cn_name": "秘旋谍 双面特工",
+    "cn_name": "秘旋谍-双重冒牌货",
     "jp_name": "SPYRAL－ダブルフェイク",
     "en_name": "SPYRAL Double Agent"
   },
-  "101202001": {
+  "14513273": {
     "type": "Monster",
     "cn_name": "霸王门之魔术师",
     "jp_name": "覇王門の魔術師"
   },
-  "101202002": {
+  "41908872": {
     "type": "Monster",
     "cn_name": "霸王眷龙 光辉亚龙",
     "jp_name": "覇王眷竜ライトヴルム"
   },
-  "101202003": {
+  "77392987": {
     "type": "Monster",
     "cn_name": "科技属 火箭火精灵",
     "jp_name": "TG ロケット・サラマンダー"
   },
-  "101202004": {
+  "14391625": {
     "type": "Monster",
     "cn_name": "维萨斯-僧娑洛",
     "jp_name": "ヴィサス＝サンサーラ"
   },
-  "101202005": {
+  "40785230": {
     "type": "Monster",
     "cn_name": "吠陀-优婆尼沙昙",
     "jp_name": "ヴェーダ＝ウパニシャッド"
   },
-  "101202006": {
+  "72270339": {
     "type": "Monster",
     "cn_name": "黑魔女 迪亚贝尔斯塔尔",
     "jp_name": "黒魔女ディアベルスター"
   },
-  "101202007": {
+  "9674034": {
     "type": "Monster",
     "cn_name": "蛇眼梣树灵",
     "jp_name": "スネークアイ・エクセル"
   },
-  "101202008": {
+  "45663742": {
     "type": "Monster",
     "cn_name": "蛇眼橡树灵",
     "jp_name": "スネークアイ・オーク"
   },
-  "101202009": {
+  "12058741": {
     "type": "Monster",
     "cn_name": "蛇眼桦树灵",
     "jp_name": "スネークアイ・ワイトバーチ"
   },
-  "101202010": {
+  "48452496": {
     "type": "Monster",
     "cn_name": "蛇眼炎龙",
     "jp_name": "蛇眼の炎龍"
   },
-  "101202011": {
+  "84941194": {
     "type": "Monster",
     "cn_name": "荷鲁斯的荣光-伊姆塞特",
     "jp_name": "ホルスの栄光－イムセティ"
   },
-  "101202012": {
+  "11335209": {
     "type": "Monster",
     "cn_name": "荷鲁斯的祝福-多姆泰夫",
     "jp_name": "ホルスの祝福－ドゥアムテフ"
   },
-  "101202013": {
+  "47330808": {
     "type": "Monster",
     "cn_name": "荷鲁斯的先导-哈碧",
     "jp_name": "ホルスの先導－ハーピ"
   },
-  "101202014": {
+  "74725513": {
     "type": "Monster",
     "cn_name": "荷鲁斯的加护-凯布山纳夫",
     "jp_name": "ホルスの加護－ケベンセヌフ"
   },
-  "101202015": {
+  "10113611": {
     "type": "Monster",
     "cn_name": "电气黄鳍金枪鱼",
     "jp_name": "エレキハダマグロ"
   },
-  "101202016": {
+  "46518210": {
     "type": "Monster",
     "cn_name": "溟界神-涅斐尔阿比斯",
     "jp_name": "溟界神－ネフェルアビス"
   },
-  "101202017": {
+  "73602965": {
     "type": "Monster",
     "cn_name": "白银之城的执事 阿里亚斯",
     "jp_name": "白銀の城の執事 アリアス"
   },
-  "101202018": {
+  "9091064": {
     "type": "Monster",
     "cn_name": "征服斗魂 蛟龙",
     "jp_name": "VS 蛟龍"
   },
-  "101202019": {
+  "46485778": {
     "type": "Monster",
     "cn_name": "新式魔厨的鱼料理天使",
     "jp_name": "ポワソニエル・ド・ヌーベルズ"
   },
-  "101202020": {
+  "72880377": {
     "type": "Monster",
     "cn_name": "黑洞龙",
     "jp_name": "ブラック・ホール・ドラゴン"
   },
-  "101202021": {
+  "9275482": {
     "type": "Monster",
     "cn_name": "幻日灯火",
     "jp_name": "幻日灯火"
   },
-  "101202022": {
+  "35263180": {
     "type": "Monster",
     "cn_name": "大点津抓食姬",
     "jp_name": "オオヤツ・ツマムヒメ"
   },
-  "101202023": {
+  "71768839": {
     "type": "Monster",
     "cn_name": "侵略外来种-I.A.S",
     "jp_name": "侵略的外来種－I.A.S"
   },
-  "101202024": {
+  "8152834": {
     "type": "Monster",
     "cn_name": "陀罗威",
     "jp_name": "陀羅威"
   },
-  "101202025": {
+  "34541543": {
     "type": "Monster",
     "cn_name": "大阴阳师 道",
     "jp_name": "大陰陽師 タオ"
   },
-  "101202026": {
+  "71545247": {
     "type": "Monster",
     "cn_name": "离世召人偶",
     "jp_name": "離世召人形"
   },
-  "101202027": {
+  "7930346": {
     "type": "Monster",
     "cn_name": "折折之纸神",
     "jp_name": "折々の紙神"
   },
-  "101202028": {
+  "33325951": {
     "type": "Monster",
     "cn_name": "灵魂鸟影-姬孔雀",
     "jp_name": "霊魂鳥影－姫孔雀"
   },
-  "101202029": {
+  "60823690": {
     "type": "Monster",
     "cn_name": "灵魂鸟影-彦孔雀",
     "jp_name": "霊魂鳥影－彦孔雀"
   },
-  "101202030": {
+  "6218704": {
     "type": "Monster",
     "cn_name": "霸王天龙 异色眼霸弧光迹龙",
     "jp_name": "覇王天龍オッドアイズ・アークレイ・ドラゴン"
   },
-  "101202031": {
+  "33202303": {
     "type": "Monster",
     "cn_name": "地缚戒隶 地画女精怪",
     "jp_name": "地縛戒隷 ジオグレムリーナ"
   },
-  "101202032": {
+  "69601012": {
     "type": "Monster",
     "cn_name": "幻兽魔王 巴风特",
     "jp_name": "幻獣魔王バフォメット"
   },
-  "101202033": {
+  "95095116": {
     "type": "Monster",
     "cn_name": "炽天之骑士 盖亚日珥",
     "jp_name": "熾天の騎士ガイアプロミネンス"
   },
-  "101202034": {
+  "32480825": {
     "type": "Monster",
     "cn_name": "科技属 强劲突击兵",
     "jp_name": "TG マイティ・ストライカー"
   },
-  "101202035": {
+  "68989420": {
     "type": "Monster",
     "cn_name": "科技属 超驱动龙骑士",
     "jp_name": "TG オーバー・ドラグナー"
   },
-  "101202036": {
+  "95973569": {
     "type": "Monster",
     "cn_name": "科技属 长柄刀爆破炮手",
     "jp_name": "TG グレイヴ・ブラスター"
   },
-  "101202037": {
+  "21368273": {
     "type": "Monster",
     "cn_name": "末那愚子族·三界歌水仙女",
     "jp_name": "マナドゥム・トリロスークタ"
   },
-  "101202038": {
+  "67752972": {
     "type": "Monster",
     "cn_name": "电气穷奇",
     "jp_name": "エレキュウキ"
   },
-  "101202039": {
+  "94151981": {
     "type": "Monster",
     "cn_name": "超量铠甲·鱼雷式",
     "jp_name": "エクシーズ・アーマー・トルピード"
   },
-  "101202040": {
+  "20145685": {
     "type": "Monster",
     "cn_name": "超量铠甲·要塞式",
     "jp_name": "エクシーズ・アーマー・フォートレス"
   },
-  "101202041": {
+  "67630394": {
     "type": "Monster",
     "cn_name": "重铠装-暗黑骑士枪兵",
     "jp_name": "FA－ダーク・ナイト・ランサー"
   },
-  "101202042": {
+  "93039339": {
     "type": "Monster",
     "cn_name": "灾厄之星 提·丰",
     "jp_name": "厄災の星ティ・フォン"
   },
-  "101202043": {
+  "29423048": {
     "type": "Monster",
     "cn_name": "狱火班西",
     "jp_name": "ヘルフレイムバンシー"
   },
-  "101202044": {
+  "56818742": {
     "type": "Monster",
     "cn_name": "超越龙 艾可萨盗龙",
     "jp_name": "超越竜エグザラプトル"
   },
-  "101202045": {
+  "92812851": {
     "type": "Monster",
     "cn_name": "奇迹之魔导剑士",
     "jp_name": "奇跡の魔導剣士"
   },
-  "101202046": {
+  "29301450": {
     "type": "Monster",
     "cn_name": "S：P小夜",
     "jp_name": "S：Pリトルナイト"
   },
-  "101202047": {
+  "55795155": {
     "type": "Spell",
     "cn_name": "灵摆进化",
     "jp_name": "ペンデュラム・エボリューション"
   },
-  "101202048": {
+  "82190203": {
     "type": "Spell",
     "cn_name": "光翼之龙",
     "jp_name": "光翼の竜"
   },
-  "101202049": {
+  "28189908": {
     "type": "Spell",
     "cn_name": "科技属-限制器解放",
     "jp_name": "TG－ブレイクリミッター"
   },
-  "101202050": {
+  "54573517": {
     "type": "Spell",
     "cn_name": "科技属-全部通过",
     "jp_name": "TG－オールクリア"
   },
-  "101202051": {
+  "81978611": {
     "type": "Spell",
     "cn_name": "超量信托",
     "jp_name": "エクシーズ・エントラスト"
   },
-  "101202052": {
+  "17462320": {
     "type": "Spell",
     "cn_name": "世坏挽歌",
     "jp_name": "世壊挽歌"
   },
-  "101202053": {
+  "54851325": {
     "type": "Spell",
     "cn_name": "世坏赞歌",
     "jp_name": "世壊賛歌"
   },
-  "101202054": {
+  "80845034": {
     "type": "Spell",
     "cn_name": "“罪宝狩猎之恶魔”",
     "jp_name": "“罪宝狩りの悪魔”"
   },
-  "101202055": {
+  "16240772": {
     "type": "Spell",
     "cn_name": "死之罪宝-血蝠",
     "jp_name": "死の罪宝－ルシエラ"
   },
-  "101202056": {
+  "53639887": {
     "type": "Spell",
     "cn_name": "蛇眼神殿",
     "jp_name": "蛇眼神殿スネークアイ"
   },
-  "101202057": {
+  "89023486": {
     "type": "Spell",
     "cn_name": "原罪宝-蛇眼",
     "jp_name": "原罪宝－スネークアイ"
   },
-  "101202058": {
+  "16528181": {
     "type": "Spell",
     "cn_name": "王之棺",
     "jp_name": "王の棺"
   },
-  "101202059": {
+  "42516299": {
     "type": "Spell",
     "cn_name": "火焰回归",
     "jp_name": "ファイヤー・バック"
   },
-  "101202060": {
+  "88901994": {
     "type": "Spell",
     "cn_name": "同调鸣动",
     "jp_name": "シンクロ・ランブル"
   },
-  "101202061": {
+  "15306543": {
     "type": "Spell",
     "cn_name": "星逢的神篱",
     "jp_name": "星逢の神籬"
   },
-  "101202062": {
+  "41790641": {
     "type": "Spell",
     "cn_name": "电气王国",
     "jp_name": "エレキングダム"
   },
-  "101202063": {
+  "78789356": {
     "type": "Spell",
     "cn_name": "黎溟界辟",
     "jp_name": "黎溟界闢"
   },
-  "101202064": {
+  "14283055": {
     "type": "Spell",
     "cn_name": "糕冷的料理对决",
     "jp_name": "Concours de Cuisine～菓冷なる料理対決～"
   },
-  "101202065": {
+  "40678060": {
     "type": "Spell",
     "cn_name": "天子的指轮",
     "jp_name": "天子の指輪"
   },
-  "101202066": {
+  "77066768": {
     "type": "Spell",
     "cn_name": "卡片扫描者",
     "jp_name": "カードスキャナー"
   },
-  "101202067": {
+  "3461403": {
     "type": "Spell",
     "cn_name": "不死武士的哀悼",
     "jp_name": "不死武士の悼み"
   },
-  "101202068": {
+  "40456412": {
     "type": "Trap",
     "cn_name": "霸王龙的奇迹",
     "jp_name": "覇王龍の奇跡"
   },
-  "101202069": {
+  "76840111": {
     "type": "Trap",
     "cn_name": "霸王天龙之魂",
     "jp_name": "覇王天龍の魂"
   },
-  "101202070": {
+  "2339825": {
     "type": "Trap",
     "cn_name": "科技属-封锁",
     "jp_name": "TG－クローズ"
   },
-  "101202071": {
+  "39733924": {
     "type": "Trap",
     "cn_name": "重铠装超量",
     "jp_name": "フル・アーマード・エクシーズ"
   },
-  "101202072": {
+  "75728539": {
     "type": "Trap",
     "cn_name": "新世回",
     "jp_name": "新世廻"
   },
-  "101202073": {
+  "2116237": {
     "type": "Trap",
     "cn_name": "世坏轮回",
     "jp_name": "世壊輪廻"
   },
-  "101202074": {
+  "38511382": {
     "type": "Trap",
     "cn_name": "背叛之罪宝-森狼",
     "jp_name": "裏切りの罪宝－シルウィア"
   },
-  "101202075": {
+  "74906081": {
     "type": "Trap",
     "cn_name": "睨统之蛇眼龙",
     "jp_name": "睨み統べるスネークアイズ"
   },
-  "101202076": {
+  "1490690": {
     "type": "Trap",
     "cn_name": "卡诺匹斯的守护者",
     "jp_name": "カノプスの守護者"
   },
-  "101202077": {
+  "33499794": {
     "type": "Trap",
     "cn_name": "妮穆蕾莉娅的回笼觉",
     "jp_name": "ネムレリア・レペッテ"
   },
-  "101202078": {
+  "60883493": {
     "type": "Trap",
     "cn_name": "征服斗魂 里螺旋流雪风",
     "jp_name": "VS 裏螺旋流雪風"
   },
-  "101202079": {
+  "6278008": {
     "type": "Trap",
     "cn_name": "星宵龙转",
     "jp_name": "星宵竜転"
   },
-  "101202080": {
+  "33676146": {
     "type": "Trap",
     "cn_name": "逃跑替罪羊",
     "jp_name": "エスケープ・ゴート"
@@ -78613,227 +78613,227 @@
     "cn_name": "超未来融合",
     "jp_name": "超未来融合－オーバーフューチャー・フュージョン"
   },
-  "100200238": {
+  "3121655": {
     "type": "Monster",
     "cn_name": "废品插座龙",
     "jp_name": "ジャンク・ドラゴンセント"
   },
-  "100200239": {
+  "39520293": {
     "type": "Monster",
     "cn_name": "废品盔甲",
     "jp_name": "ジャンク・メイル"
   },
-  "100200241": {
+  "65892310": {
     "type": "Monster",
     "cn_name": "冰魔龙 光枪龙",
     "jp_name": "氷魔龍 ブリューナク"
   },
-  "100210014": {
+  "86893702": {
     "type": "Monster",
     "cn_name": "异宇宙暴食魔",
     "en_name": "Anotherverse Gluttonia"
   },
-  "100421001": {
+  "23288411": {
     "type": "Monster",
     "cn_name": "冥骸合龙-莫忘冥地王龙",
     "jp_name": "冥骸合竜－メメントラル・テクトリカ"
   },
-  "100421002": {
+  "55272555": {
     "type": "Monster",
     "cn_name": "莫忘角魔龙",
     "jp_name": "メメント・ホーン・ドラゴン"
   },
-  "100421003": {
+  "81677154": {
     "type": "Monster",
     "cn_name": "莫忘海马兽",
     "jp_name": "メメント・シーホース"
   },
-  "100421004": {
+  "18165869": {
     "type": "Monster",
     "cn_name": "莫忘战士 暗黑之剑",
     "jp_name": "メメント・ダークソード"
   },
-  "100421005": {
+  "54550967": {
     "type": "Monster",
     "cn_name": "莫忘天魔女",
     "jp_name": "メメント・エンウィッチ"
   },
-  "100421006": {
+  "81945676": {
     "type": "Monster",
     "cn_name": "莫忘心钥精",
     "jp_name": "メメント・メイス"
   },
-  "100421007": {
+  "17943271": {
     "type": "Monster",
     "cn_name": "莫忘哥布林",
     "jp_name": "メメント・ゴブリン"
   },
-  "100421008": {
+  "43338320": {
     "type": "Spell",
     "cn_name": "冥骸府-莫忘冥府",
     "jp_name": "冥骸府－メメントラン"
   },
-  "100421009": {
+  "80722024": {
     "type": "Spell",
     "cn_name": "莫忘骨头派对",
     "jp_name": "メメント・ボーン・パーティー"
   },
-  "100421010": {
+  "16227633": {
     "type": "Spell",
     "cn_name": "莫忘骨头回归",
     "jp_name": "メメント・ボーン・バック"
   },
-  "100421011": {
+  "43215738": {
     "type": "Trap",
     "cn_name": "莫忘骨折舞",
     "jp_name": "メメント・フラクチャー・ダンス"
   },
-  "100421012": {
+  "79600447": {
     "type": "Trap",
     "cn_name": "莫忘颅骨爆发",
     "jp_name": "メメント・クレニアム・バースト"
   },
-  "100421016": {
+  "15005145": {
     "type": "Monster",
     "cn_name": "重骑士 普莉梅拉",
     "jp_name": "重騎士プリメラ"
   },
-  "100421017": {
+  "42493140": {
     "type": "Monster",
     "cn_name": "从骑士 特露迪娅",
     "jp_name": "従騎士トゥルーデア"
   },
-  "100421018": {
+  "78888899": {
     "type": "Monster",
     "cn_name": "重骑兵 真理6",
     "jp_name": "重騎兵エメトⅥ"
   },
-  "100421019": {
+  "15982593": {
     "type": "Monster",
     "cn_name": "骑士皇 雷加蒂娅",
     "jp_name": "騎士皇レガーティア"
   },
-  "100421020": {
+  "41371602": {
     "type": "Spell",
     "cn_name": "起立吧百夫长骑士！",
     "jp_name": "スタンドアップ・センチュリオン！"
   },
-  "100421021": {
+  "77765207": {
     "type": "Spell",
     "cn_name": "誓言之徽",
     "jp_name": "誓いのエンブレーマ"
   },
-  "100421022": {
+  "4160316": {
     "type": "Spell",
     "cn_name": "骑士的牵绊",
     "jp_name": "騎士の絆"
   },
-  "100421023": {
+  "40155014": {
     "type": "Trap",
     "cn_name": "骑士魔防阵",
     "jp_name": "騎士魔防陣"
   },
-  "100421024": {
+  "77543769": {
     "type": "Trap",
     "cn_name": "骑士皇爆诞",
     "jp_name": "騎士皇爆誕"
   },
-  "100421031": {
+  "3048768": {
     "type": "Monster",
     "cn_name": "天使之声",
     "jp_name": "天使の聲"
   },
-  "100421032": {
+  "30432463": {
     "type": "Monster",
     "cn_name": "恶魔之声",
     "jp_name": "悪魔の聲"
   },
-  "100421033": {
+  "76821171": {
     "type": "Monster",
     "cn_name": "异响鸣之异神-光耀天使",
     "jp_name": "ヴァルモニカの異神－ジュラルメ"
   },
-  "100421034": {
+  "2815176": {
     "type": "Monster",
     "cn_name": "异响鸣之神异-风暴恶魔",
     "jp_name": "ヴァルモニカの神異－ゼブフェーラ"
   },
-  "100421035": {
+  "39210885": {
     "type": "Spell",
     "cn_name": "天魔之声选器-『异响鸣琴』",
     "jp_name": "天魔の聲選器－『ヴァルモニカ』"
   },
-  "100421036": {
+  "5605529": {
     "type": "Spell",
     "cn_name": "异响鸣的选择",
     "jp_name": "ヴァルモニカ・シェルタ"
   },
-  "100421037": {
+  "42193638": {
     "type": "Spell",
     "cn_name": "异响鸣的倒水",
     "jp_name": "ヴァルモニカ・ヴェルサーレ"
   },
-  "100421038": {
+  "78598237": {
     "type": "Spell",
     "cn_name": "异响鸣的调律",
     "jp_name": "ヴァルモニカ・イントナーレ"
   },
-  "100421039": {
+  "4582942": {
     "type": "Trap",
     "cn_name": "律导之异响鸣",
     "jp_name": "律導のヴァルモニカ"
   },
-  "100421040": {
+  "31971040": {
     "type": "Trap",
     "cn_name": "选律之异响鸣",
     "jp_name": "選律のヴァルモニカ"
   },
-  "100314001": {
+  "66431519": {
     "type": "Monster",
     "cn_name": "圣炎王 大鹏不死鸟",
     "jp_name": "聖炎王 ガルドニクス"
   },
-  "100314002": {
+  "2526224": {
     "type": "Monster",
     "cn_name": "炎王神兽 麒麟",
     "jp_name": "炎王神獣 キリン"
   },
-  "100314003": {
+  "38910263": {
     "type": "Monster",
     "cn_name": "炎王兽 哈奴曼",
     "jp_name": "炎王獣 ハヌマーン"
   },
-  "100314024": {
+  "65305978": {
     "type": "Spell",
     "cn_name": "炎王的圣域",
     "jp_name": "炎王の聖域"
   },
-  "100314025": {
+  "91703676": {
     "type": "Spell",
     "cn_name": "炎王神天烧",
     "jp_name": "炎王神天焼"
   },
-  "100314033": {
+  "38798785": {
     "type": "Trap",
     "cn_name": "炎王的结袭",
     "jp_name": "炎王の結襲"
   },
-  "100314051": {
+  "64182380": {
     "type": "Monster",
     "cn_name": "炎王神 大鹏不死鸟·永炎",
     "jp_name": "炎王神 ガルドニクス・エタニティ"
   },
-  "100314052": {
+  "90681088": {
     "type": "Monster",
     "cn_name": "真炎王 凤凰不死鸟",
     "jp_name": "真炎王 ポニクス"
   },
-  "100200242": {
+  "99742859": {
     "type": "Monster",
     "cn_name": "救援刺猬",
     "jp_name": "レスキューヘッジホッグ"
   },
-  "100200243": {
+  "47132793": {
     "type": "Monster",
     "cn_name": "征霸龙-烈龙",
     "jp_name": "征覇竜－ブレイズ"
