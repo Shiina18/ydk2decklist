@@ -26148,6 +26148,7 @@
   "402568": {
     "type": "Monster",
     "cn_name": "电气长颈鹿",
+    "sc_name": "电力长颈鹿",
     "jp_name": "エレキリン",
     "en_name": "Wattgiraffe"
   },
@@ -27077,6 +27078,7 @@
   "2772236": {
     "type": "Monster",
     "cn_name": "电气奇美拉",
+    "sc_name": "电力客迈拉",
     "jp_name": "エレキマイラ",
     "en_name": "Wattchimera"
   },
@@ -27739,12 +27741,14 @@
   "61380658": {
     "type": "Monster",
     "cn_name": "电气螽斯",
+    "sc_name": "电力螽斯",
     "jp_name": "エレキリギリス",
     "en_name": "Watthopper"
   },
   "97885363": {
     "type": "Monster",
     "cn_name": "电气半黄赤蜻",
+    "sc_name": "电力蜻蜓",
     "jp_name": "エレキトンボ",
     "en_name": "Wattdragonfly"
   },
@@ -28981,6 +28985,7 @@
   "29765339": {
     "type": "Monster",
     "cn_name": "电气七头龙",
+    "sc_name": "电力七头兽",
     "jp_name": "エレキリム",
     "en_name": "Watthydra"
   },
@@ -31286,6 +31291,7 @@
   "88205593": {
     "type": "Monster",
     "cn_name": "电气眼镜王蛇",
+    "sc_name": "电力眼镜王蛇",
     "jp_name": "エレキングコブラ",
     "en_name": "Wattcobra"
   },
@@ -31560,6 +31566,7 @@
   "56993276": {
     "type": "Trap",
     "cn_name": "电气抵消",
+    "sc_name": "电力抵消",
     "jp_name": "エレキャンセル",
     "en_name": "Wattcancel"
   },
@@ -47938,6 +47945,7 @@
   "16172067": {
     "type": "Monster",
     "cn_name": "红莲魔龙·暴君",
+    "sc_name": "暗红恶魔龙・暴君",
     "jp_name": "レッド・デーモンズ・ドラゴン・タイラント",
     "en_name": "Tyrant Red Dragon Archfiend"
   },
@@ -49797,18 +49805,21 @@
   "39817919": {
     "type": "Monster",
     "cn_name": "灵魂鸟-忍鸦",
+    "sc_name": "灵魂鸟－忍鸦",
     "jp_name": "霊魂鳥－忍鴉",
     "en_name": "Shinobird Crow"
   },
   "66815913": {
     "type": "Monster",
     "cn_name": "灵魂鸟-巫鹤",
+    "sc_name": "灵魂鸟－巫鹤",
     "jp_name": "霊魂鳥－巫鶴",
     "en_name": "Shinobird Crane"
   },
   "92200612": {
     "type": "Monster",
     "cn_name": "灵魂鸟-传鸠",
+    "sc_name": "灵魂鸟－传鸠",
     "jp_name": "霊魂鳥－伝鳩",
     "en_name": "Shinobird Pigeon"
   },
@@ -49894,12 +49905,14 @@
   "25415052": {
     "type": "Monster",
     "cn_name": "灵魂鸟神-姬孔雀",
+    "sc_name": "灵魂鸟神－姬孔雀",
     "jp_name": "霊魂鳥神－姫孔雀",
     "en_name": "Shinobaroness Peacock"
   },
   "52900000": {
     "type": "Monster",
     "cn_name": "灵魂鸟神-彦孔雀",
+    "sc_name": "灵魂鸟神－彦孔雀",
     "jp_name": "霊魂鳥神－彦孔雀",
     "en_name": "Shinobaron Peacock"
   },
@@ -50042,12 +50055,14 @@
   "73055622": {
     "type": "Spell",
     "cn_name": "灵魂的降神",
+    "sc_name": "灵魂鸟之降神",
     "jp_name": "霊魂の降神",
     "en_name": "Shinobird's Calling"
   },
   "9553721": {
     "type": "Spell",
     "cn_name": "灵魂的据所",
+    "sc_name": "灵魂鸟之据所",
     "jp_name": "霊魂の拠所",
     "en_name": "Shinobird Power Spot"
   },
@@ -50119,6 +50134,7 @@
   "276357": {
     "type": "Trap",
     "cn_name": "灵魂的圆环",
+    "sc_name": "灵魂鸟之圆环",
     "jp_name": "霊魂の円環",
     "en_name": "Shinobird Salvation"
   },
@@ -61985,6 +62001,7 @@
   "56577312": {
     "type": "Spell",
     "cn_name": "电气机车",
+    "sc_name": "电力机关车",
     "jp_name": "エレキカンシャ",
     "en_name": "Wattrain"
   },
@@ -72961,6 +72978,7 @@
   "92644052": {
     "type": "Monster",
     "cn_name": "娱乐伙伴 绝代决斗者",
+    "sc_name": "娱乐伙伴 稀代的决斗者",
     "jp_name": "EM稀代の決闘者",
     "en_name": "Performapal Duelist Extraordinaire"
   },
@@ -77132,72 +77150,84 @@
   "26223582": {
     "type": "Monster",
     "cn_name": "新式魔厨的马赛鱼汤布耶尔",
+    "sc_name": "马赛鱼汤之布耶贝斯・饿魔新飨",
     "jp_name": "ブエリヤベース・ド・ヌーベルズ",
     "en_name": "Buerillabaisse de Nouvelles"
   },
   "53618197": {
     "type": "Monster",
     "cn_name": "新式魔厨的油封佛拉斯",
+    "sc_name": "油封之康菲拉斯・饿魔新飨",
     "jp_name": "コンフィラス・ド・ヌーベルズ",
     "en_name": "Confiras de Nouvelles"
   },
   "89016236": {
     "type": "Monster",
     "cn_name": "新式魔厨的生煎布提斯",
+    "sc_name": "生煎之布娃雷提斯・饿魔新飨",
     "jp_name": "ポワレティス・ド・ヌーベルズ",
     "en_name": "Poeltis de Nouvelles"
   },
   "15001940": {
     "type": "Monster",
     "cn_name": "新式魔厨的肥肝格剌希亚",
+    "sc_name": "肥肝之佛格雷希亚・饿魔新飨",
     "jp_name": "フォアグラシャ・ド・ヌーベルズ",
     "en_name": "Foie Glasya de Nouvelles"
   },
   "52495649": {
     "type": "Monster",
     "cn_name": "新式魔厨的黄油香煎巴拉姆",
+    "sc_name": "黄油香煎之巴拉尼尔・饿魔新飨",
     "jp_name": "バラムニエル・ド・ヌーベルズ",
     "en_name": "Balameuniere de Nouvelles"
   },
   "88890658": {
     "type": "Monster",
     "cn_name": "新式魔厨的烧烤巴力",
+    "sc_name": "烧烤之巴格力尔・饿魔新飨",
     "jp_name": "バグリエル・ド・ヌーベルズ",
     "en_name": "Baelgrill de Nouvelles"
   },
   "15388353": {
     "type": "Spell",
     "cn_name": "新式魔厨客栈餐厅『开饭啦』",
+    "sc_name": "饿魔新飨餐厅『À Table』",
     "jp_name": "Nouvellez Auberge 『À Table』",
     "en_name": "Nouvelles Restaurant \"At Table\""
   },
   "41773061": {
     "type": "Spell",
     "cn_name": "这是菜单",
+    "sc_name": "Voici la Carte～请看菜单～",
     "jp_name": "Voici la Carte～メニューはこちら～",
     "en_name": "Voici la Carte (Today's Menu)"
   },
   "87778106": {
     "type": "Spell",
     "cn_name": "鱼料理的食谱",
+    "sc_name": "Recette de Poisson～鱼料理食谱～",
     "jp_name": "Recette de Poisson～魚料理のレシピ～",
     "en_name": "Recette de Poisson (Fish Recipe)"
   },
   "14166715": {
     "type": "Spell",
     "cn_name": "肉料理的食谱",
+    "sc_name": "Recette de Viande～肉料理食谱～",
     "jp_name": "Recette de Viande～肉料理のレシピ～",
     "en_name": "Recette de Viande (Meat Recipe)"
   },
   "40551410": {
     "type": "Trap",
     "cn_name": "员工餐的食谱",
+    "sc_name": "Recette de Personnel～伙食食谱～",
     "jp_name": "Recette de Personnel～賄いのレシピ～",
     "en_name": "Recette de Personnel (Staff Recipe)"
   },
   "87955518": {
     "type": "Trap",
     "cn_name": "料理长自豪的食谱",
+    "sc_name": "Recette de Spécialité～主厨的看家食谱～",
     "jp_name": "Recette de Spécialité～料理長自慢のレシピ～",
     "en_name": "Chef's Special Recipe"
   },
@@ -78048,6 +78078,7 @@
   "73046708": {
     "type": "Spell",
     "cn_name": "铠装超量",
+    "sc_name": "装甲超量",
     "jp_name": "アーマード・エクシーズ"
   },
   "19544412": {
@@ -78058,46 +78089,55 @@
   "46939151": {
     "type": "Monster",
     "cn_name": "地缚囚人 土地看守者",
+    "sc_name": "地缚囚人 大地看守者",
     "jp_name": "地縛囚人 グランド・キーパー"
   },
   "72323266": {
     "type": "Monster",
     "cn_name": "地缚囚人 石块清扫者",
+    "sc_name": "地缚囚人 岩石清扫者",
     "jp_name": "地縛囚人 ストーン・スィーパー"
   },
   "19322865": {
     "type": "Monster",
     "cn_name": "地缚囚人 线条步行者",
+    "sc_name": "地缚囚人 地线巡视者",
     "jp_name": "地縛囚人 ライン・ウォーカー"
   },
   "45716579": {
     "type": "Monster",
     "cn_name": "地缚戒隶 地画乌贼",
+    "sc_name": "地缚戒隶 地画克拉肯",
     "jp_name": "地縛戒隷 ジオクラーケン"
   },
   "71101678": {
     "type": "Monster",
     "cn_name": "地缚戒隶 地画翼犬魔",
+    "sc_name": "地缚戒隶 地画格剌希亚拉波斯",
     "jp_name": "地縛戒隷 ジオグラシャ＝ラボラス"
   },
   "8690387": {
     "type": "Monster",
     "cn_name": "地缚戒隶 地画精怪",
+    "sc_name": "地缚戒隶 地画戈兰林",
     "jp_name": "地縛戒隷 ジオグレムリン"
   },
   "44094981": {
     "type": "Monster",
     "cn_name": "地缚戒隶 地画狮鹫",
+    "sc_name": "地缚戒隶 地画格里芬",
     "jp_name": "地縛戒隷 ジオグリフォン"
   },
   "71089030": {
     "type": "Spell",
     "cn_name": "地缚牢",
+    "sc_name": "地缚牢",
     "jp_name": "地縛牢"
   },
   "7473735": {
     "type": "Spell",
     "cn_name": "异界共鸣-同调融合",
+    "sc_name": "异界共鸣－同步结合",
     "jp_name": "異界共鳴－シンクロ・フュージョン"
   },
   "33872334": {
@@ -78211,401 +78251,481 @@
   "14513273": {
     "type": "Monster",
     "cn_name": "霸王门之魔术师",
+    "sc_name": "霸王门的魔术师",
     "jp_name": "覇王門の魔術師"
   },
   "41908872": {
     "type": "Monster",
     "cn_name": "霸王眷龙 光辉亚龙",
+    "sc_name": "霸王眷龙 光明亚龙",
     "jp_name": "覇王眷竜ライトヴルム"
   },
   "77392987": {
     "type": "Monster",
     "cn_name": "科技属 火箭火精灵",
+    "sc_name": "T.G.火箭沙罗曼蛇",
     "jp_name": "TG ロケット・サラマンダー"
   },
   "14391625": {
     "type": "Monster",
     "cn_name": "维萨斯-僧娑洛",
+    "sc_name": "维萨思・轮回转生",
     "jp_name": "ヴィサス＝サンサーラ"
   },
   "40785230": {
     "type": "Monster",
     "cn_name": "吠陀-优婆尼沙昙",
+    "sc_name": "韦陀・优婆尼沙昙",
     "jp_name": "ヴェーダ＝ウパニシャッド"
   },
   "72270339": {
     "type": "Monster",
     "cn_name": "黑魔女 迪亚贝尔斯塔尔",
+    "sc_name": "黑魔女 迪亚贝尔斯塔",
     "jp_name": "黒魔女ディアベルスター"
   },
   "9674034": {
     "type": "Monster",
     "cn_name": "蛇眼梣树灵",
+    "sc_name": "蛇眼・艾柯赛尔",
     "jp_name": "スネークアイ・エクセル"
   },
   "45663742": {
     "type": "Monster",
     "cn_name": "蛇眼橡树灵",
+    "sc_name": "蛇眼・奥柯",
     "jp_name": "スネークアイ・オーク"
   },
   "12058741": {
     "type": "Monster",
     "cn_name": "蛇眼桦树灵",
+    "sc_name": "蛇眼・怀特巴棋",
     "jp_name": "スネークアイ・ワイトバーチ"
   },
   "48452496": {
     "type": "Monster",
     "cn_name": "蛇眼炎龙",
+    "sc_name": "蛇眼炎龙",
     "jp_name": "蛇眼の炎龍"
   },
   "84941194": {
     "type": "Monster",
     "cn_name": "荷鲁斯的荣光-伊姆塞特",
+    "sc_name": "荷鲁斯的荣光－伊姆塞特",
     "jp_name": "ホルスの栄光－イムセティ"
   },
   "11335209": {
     "type": "Monster",
     "cn_name": "荷鲁斯的祝福-多姆泰夫",
+    "sc_name": "荷鲁斯的祝福－杜阿木忒弗",
     "jp_name": "ホルスの祝福－ドゥアムテフ"
   },
   "47330808": {
     "type": "Monster",
     "cn_name": "荷鲁斯的先导-哈碧",
+    "sc_name": "荷鲁斯的先导－哈庇",
     "jp_name": "ホルスの先導－ハーピ"
   },
   "74725513": {
     "type": "Monster",
     "cn_name": "荷鲁斯的加护-凯布山纳夫",
+    "sc_name": "荷鲁斯的加护－克贝克塞努弗",
     "jp_name": "ホルスの加護－ケベンセヌフ"
   },
   "10113611": {
     "type": "Monster",
     "cn_name": "电气黄鳍金枪鱼",
+    "sc_name": "电力黄鳍金枪鱼",
     "jp_name": "エレキハダマグロ"
   },
   "46518210": {
     "type": "Monster",
     "cn_name": "溟界神-涅斐尔阿比斯",
+    "sc_name": "溟界神－涅斐尔邃渊",
     "jp_name": "溟界神－ネフェルアビス"
   },
   "73602965": {
     "type": "Monster",
     "cn_name": "白银之城的执事 阿里亚斯",
+    "sc_name": "拉比丽斯的执事 亚莉安丝",
     "jp_name": "白銀の城の執事 アリアス"
   },
   "9091064": {
     "type": "Monster",
     "cn_name": "征服斗魂 蛟龙",
+    "sc_name": "对击斗魂 蛟龙",
     "jp_name": "VS 蛟龍"
   },
   "46485778": {
     "type": "Monster",
     "cn_name": "新式魔厨的鱼料理天使",
+    "sc_name": "烹鱼大厨・饿魔新飨",
     "jp_name": "ポワソニエル・ド・ヌーベルズ"
   },
   "72880377": {
     "type": "Monster",
     "cn_name": "黑洞龙",
+    "sc_name": "黑洞龙",
     "jp_name": "ブラック・ホール・ドラゴン"
   },
   "9275482": {
     "type": "Monster",
     "cn_name": "幻日灯火",
+    "sc_name": "幻日灯火",
     "jp_name": "幻日灯火"
   },
   "35263180": {
     "type": "Monster",
     "cn_name": "大点津抓食姬",
+    "sc_name": "偷吃零嘴的大屋枛姬",
     "jp_name": "オオヤツ・ツマムヒメ"
   },
   "71768839": {
     "type": "Monster",
     "cn_name": "侵略外来种-I.A.S",
+    "sc_name": "入侵物种外星人－I.A.S",
     "jp_name": "侵略的外来種－I.A.S"
   },
   "8152834": {
     "type": "Monster",
     "cn_name": "陀罗威",
+    "sc_name": "陀螺威盥",
     "jp_name": "陀羅威"
   },
   "34541543": {
     "type": "Monster",
     "cn_name": "大阴阳师 道",
+    "sc_name": "大阴阳师 道",
     "jp_name": "大陰陽師 タオ"
   },
   "71545247": {
     "type": "Monster",
     "cn_name": "离世召人偶",
+    "sc_name": "于归世佳偶",
     "jp_name": "離世召人形"
   },
   "7930346": {
     "type": "Monster",
     "cn_name": "折折之纸神",
+    "sc_name": "折折纸神",
     "jp_name": "折々の紙神"
   },
   "33325951": {
     "type": "Monster",
     "cn_name": "灵魂鸟影-姬孔雀",
+    "sc_name": "灵魂鸟影－姬孔雀",
     "jp_name": "霊魂鳥影－姫孔雀"
   },
   "60823690": {
     "type": "Monster",
     "cn_name": "灵魂鸟影-彦孔雀",
+    "sc_name": "灵魂鸟影－彦孔雀",
     "jp_name": "霊魂鳥影－彦孔雀"
   },
   "6218704": {
     "type": "Monster",
     "cn_name": "霸王天龙 异色眼霸弧光迹龙",
+    "sc_name": "霸王天龙异色眼弧光龙",
     "jp_name": "覇王天龍オッドアイズ・アークレイ・ドラゴン"
   },
   "33202303": {
     "type": "Monster",
     "cn_name": "地缚戒隶 地画女精怪",
+    "sc_name": "地缚戒隶 地画戈兰林那",
     "jp_name": "地縛戒隷 ジオグレムリーナ"
   },
   "69601012": {
     "type": "Monster",
     "cn_name": "幻兽魔王 巴风特",
+    "sc_name": "幻兽魔王 巴风特",
     "jp_name": "幻獣魔王バフォメット"
   },
   "95095116": {
     "type": "Monster",
     "cn_name": "炽天之骑士 盖亚日珥",
+    "sc_name": "炽天骑士盖亚日珥",
     "jp_name": "熾天の騎士ガイアプロミネンス"
   },
   "32480825": {
     "type": "Monster",
     "cn_name": "科技属 强劲突击兵",
+    "sc_name": "T.G.强力突击兵",
     "jp_name": "TG マイティ・ストライカー"
   },
   "68989420": {
     "type": "Monster",
     "cn_name": "科技属 超驱动龙骑士",
+    "sc_name": "T.G.超越龙兵",
     "jp_name": "TG オーバー・ドラグナー"
   },
   "95973569": {
     "type": "Monster",
     "cn_name": "科技属 长柄刀爆破炮手",
+    "sc_name": "T.G.长柄刀爆破手",
     "jp_name": "TG グレイヴ・ブラスター"
   },
   "21368273": {
     "type": "Monster",
     "cn_name": "末那愚子族·三界歌水仙女",
+    "sc_name": "玛那桃圆乡・多利洛斯歌都",
     "jp_name": "マナドゥム・トリロスークタ"
   },
   "67752972": {
     "type": "Monster",
     "cn_name": "电气穷奇",
+    "sc_name": "电力穷奇",
     "jp_name": "エレキュウキ"
   },
   "94151981": {
     "type": "Monster",
     "cn_name": "超量铠甲·鱼雷式",
+    "sc_name": "超量装甲・鱼雷",
     "jp_name": "エクシーズ・アーマー・トルピード"
   },
   "20145685": {
     "type": "Monster",
     "cn_name": "超量铠甲·要塞式",
+    "sc_name": "超量装甲・要塞",
     "jp_name": "エクシーズ・アーマー・フォートレス"
   },
   "67630394": {
     "type": "Monster",
     "cn_name": "重铠装-暗黑骑士枪兵",
+    "sc_name": "全装甲－黑暗骑士枪兵",
     "jp_name": "FA－ダーク・ナイト・ランサー"
   },
   "93039339": {
     "type": "Monster",
     "cn_name": "灾厄之星 提·丰",
+    "sc_name": "神兵灾星－厄咒弑 堤・丰",
     "jp_name": "厄災の星ティ・フォン"
   },
   "29423048": {
     "type": "Monster",
     "cn_name": "狱火班西",
+    "sc_name": "狱焰班西",
     "jp_name": "ヘルフレイムバンシー"
   },
   "56818742": {
     "type": "Monster",
     "cn_name": "超越龙 艾可萨盗龙",
+    "sc_name": "超越恐龙 狂猛盗龙",
     "jp_name": "超越竜エグザラプトル"
   },
   "92812851": {
     "type": "Monster",
     "cn_name": "奇迹之魔导剑士",
+    "sc_name": "超升灵摆・奇迹的魔剑士",
     "jp_name": "奇跡の魔導剣士"
   },
   "29301450": {
     "type": "Monster",
     "cn_name": "S：P小夜",
+    "sc_name": "S：P小夜骑士",
     "jp_name": "S：Pリトルナイト"
   },
   "55795155": {
     "type": "Spell",
     "cn_name": "灵摆进化",
+    "sc_name": "灵摆进化",
     "jp_name": "ペンデュラム・エボリューション"
   },
   "82190203": {
     "type": "Spell",
     "cn_name": "光翼之龙",
+    "sc_name": "光翼之龙",
     "jp_name": "光翼の竜"
   },
   "28189908": {
     "type": "Spell",
     "cn_name": "科技属-限制器解放",
+    "sc_name": "T.G.－突破限制",
     "jp_name": "TG－ブレイクリミッター"
   },
   "54573517": {
     "type": "Spell",
     "cn_name": "科技属-全部通过",
+    "sc_name": "T.G.－全部就绪",
     "jp_name": "TG－オールクリア"
   },
   "81978611": {
     "type": "Spell",
     "cn_name": "超量信托",
+    "sc_name": "超量托付",
     "jp_name": "エクシーズ・エントラスト"
   },
   "17462320": {
     "type": "Spell",
     "cn_name": "世坏挽歌",
+    "sc_name": "世坏挽歌",
     "jp_name": "世壊挽歌"
   },
   "54851325": {
     "type": "Spell",
     "cn_name": "世坏赞歌",
+    "sc_name": "世坏赞歌",
     "jp_name": "世壊賛歌"
   },
   "80845034": {
     "type": "Spell",
     "cn_name": "“罪宝狩猎之恶魔”",
+    "sc_name": "“狩猎罪宝的魔鬼”",
     "jp_name": "“罪宝狩りの悪魔”"
   },
   "16240772": {
     "type": "Spell",
     "cn_name": "死之罪宝-血蝠",
+    "sc_name": "死之罪宝－露西耶拉",
     "jp_name": "死の罪宝－ルシエラ"
   },
   "53639887": {
     "type": "Spell",
     "cn_name": "蛇眼神殿",
+    "sc_name": "蛇眼神殿",
     "jp_name": "蛇眼神殿スネークアイ"
   },
   "89023486": {
     "type": "Spell",
     "cn_name": "原罪宝-蛇眼",
+    "sc_name": "原罪宝－蛇眼",
     "jp_name": "原罪宝－スネークアイ"
   },
   "16528181": {
     "type": "Spell",
     "cn_name": "王之棺",
+    "sc_name": "王之棺",
     "jp_name": "王の棺"
   },
   "42516299": {
     "type": "Spell",
     "cn_name": "火焰回归",
+    "sc_name": "火焰回击",
     "jp_name": "ファイヤー・バック"
   },
   "88901994": {
     "type": "Spell",
     "cn_name": "同调鸣动",
+    "sc_name": "同步轰鸣",
     "jp_name": "シンクロ・ランブル"
   },
   "15306543": {
     "type": "Spell",
     "cn_name": "星逢的神篱",
+    "sc_name": "星逢之神篱",
     "jp_name": "星逢の神籬"
   },
   "41790641": {
     "type": "Spell",
     "cn_name": "电气王国",
+    "sc_name": "电力王国",
     "jp_name": "エレキングダム"
   },
   "78789356": {
     "type": "Spell",
     "cn_name": "黎溟界辟",
+    "sc_name": "黎溟界辟",
     "jp_name": "黎溟界闢"
   },
   "14283055": {
     "type": "Spell",
     "cn_name": "糕冷的料理对决",
+    "sc_name": "Concours de Cuisine～糕冷料理对决～",
     "jp_name": "Concours de Cuisine～菓冷なる料理対決～"
   },
   "40678060": {
     "type": "Spell",
     "cn_name": "天子的指轮",
+    "sc_name": "天子的指环",
     "jp_name": "天子の指輪"
   },
   "77066768": {
     "type": "Spell",
     "cn_name": "卡片扫描者",
+    "sc_name": "卡片扫描者",
     "jp_name": "カードスキャナー"
   },
   "3461403": {
     "type": "Spell",
     "cn_name": "不死武士的哀悼",
+    "sc_name": "不死武士之哀悼",
     "jp_name": "不死武士の悼み"
   },
   "40456412": {
     "type": "Trap",
     "cn_name": "霸王龙的奇迹",
+    "sc_name": "霸王龙之奇迹",
     "jp_name": "覇王龍の奇跡"
   },
   "76840111": {
     "type": "Trap",
     "cn_name": "霸王天龙之魂",
+    "sc_name": "霸王天龙之魂",
     "jp_name": "覇王天龍の魂"
   },
   "2339825": {
     "type": "Trap",
     "cn_name": "科技属-封锁",
+    "sc_name": "T.G.－闭锁",
     "jp_name": "TG－クローズ"
   },
   "39733924": {
     "type": "Trap",
     "cn_name": "重铠装超量",
+    "sc_name": "全装甲超量",
     "jp_name": "フル・アーマード・エクシーズ"
   },
   "75728539": {
     "type": "Trap",
     "cn_name": "新世回",
+    "sc_name": "新世坏回",
     "jp_name": "新世廻"
   },
   "2116237": {
     "type": "Trap",
     "cn_name": "世坏轮回",
+    "sc_name": "世坏轮回",
     "jp_name": "世壊輪廻"
   },
   "38511382": {
     "type": "Trap",
     "cn_name": "背叛之罪宝-森狼",
+    "sc_name": "背叛之罪宝－西尔维亚",
     "jp_name": "裏切りの罪宝－シルウィア"
   },
   "74906081": {
     "type": "Trap",
     "cn_name": "睨统之蛇眼龙",
+    "sc_name": "睥睨统摄之蛇眼",
     "jp_name": "睨み統べるスネークアイズ"
   },
   "1490690": {
     "type": "Trap",
     "cn_name": "卡诺匹斯的守护者",
+    "sc_name": "卡诺匹斯的保卫者",
     "jp_name": "カノプスの守護者"
   },
   "33499794": {
     "type": "Trap",
     "cn_name": "妮穆蕾莉娅的回笼觉",
+    "sc_name": "妮梦雷莉娅・回笼",
     "jp_name": "ネムレリア・レペッテ"
   },
   "60883493": {
     "type": "Trap",
     "cn_name": "征服斗魂 里螺旋流雪风",
+    "sc_name": "对击斗魂 里螺旋流雪风",
     "jp_name": "VS 裏螺旋流雪風"
   },
   "6278008": {
     "type": "Trap",
     "cn_name": "星宵龙转",
+    "sc_name": "星霄龙转",
     "jp_name": "星宵竜転"
   },
   "33676146": {
     "type": "Trap",
     "cn_name": "逃跑替罪羊",
+    "sc_name": "逃脱替罪山羊",
     "jp_name": "エスケープ・ゴート"
   },
   "33099732": {
