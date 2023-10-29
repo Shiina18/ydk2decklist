@@ -645,6 +645,7 @@
   "46457856": {
     "type": "Monster",
     "cn_name": "结伴恐龙",
+    "sc_name": "死党恐龙",
     "jp_name": "トモザウルス",
     "en_name": "Tomozaurus"
   },
@@ -1575,6 +1576,7 @@
   "50259460": {
     "type": "Monster",
     "cn_name": "破坏神 瓦沙克",
+    "sc_name": "破坏神 瓦沙克",
     "jp_name": "破壊神 ヴァサーゴ",
     "en_name": "Versago the Destroyer"
   },
@@ -3792,6 +3794,7 @@
   "30451366": {
     "type": "Monster",
     "cn_name": "幻想绵羊",
+    "sc_name": "幻想绵羊",
     "jp_name": "イリュージョン・シープ",
     "en_name": "Mystical Sheep #1"
   },
@@ -3970,6 +3973,7 @@
   "80811661": {
     "type": "Spell",
     "cn_name": "汉堡的食谱",
+    "sc_name": "汉堡的食谱",
     "jp_name": "ハンバーガーのレシピ",
     "en_name": "Hamburger Recipe"
   },
@@ -4072,6 +4076,7 @@
   "30243636": {
     "type": "Monster",
     "cn_name": "饥饿的汉堡",
+    "sc_name": "饥饿汉堡",
     "jp_name": "ハングリーバーガー",
     "en_name": "Hungry Burger"
   },
@@ -4910,6 +4915,7 @@
   "98069388": {
     "type": "Trap",
     "cn_name": "升天之角笛",
+    "sc_name": "升天之角笛",
     "jp_name": "昇天の角笛",
     "en_name": "Horn of Heaven"
   },
@@ -5792,6 +5798,7 @@
   "83986578": {
     "type": "Monster",
     "cn_name": "王虎",
+    "sc_name": "王虎",
     "jp_name": "王虎ワンフー",
     "en_name": "King Tiger Wanghu"
   },
@@ -7488,6 +7495,7 @@
   "3078576": {
     "type": "Monster",
     "cn_name": "八汰乌",
+    "sc_name": "八汰乌",
     "jp_name": "八汰烏",
     "en_name": "Yata-Garasu"
   },
@@ -12427,6 +12435,7 @@
   "35027493": {
     "type": "Trap",
     "cn_name": "魔之卡组破坏病毒",
+    "sc_name": "魔之牌组破坏病毒",
     "jp_name": "魔のデッキ破壊ウイルス",
     "en_name": "Deck Devastation Virus"
   },
@@ -13582,6 +13591,7 @@
   "79126789": {
     "type": "Monster",
     "cn_name": "暗黑界的狩人 布劳",
+    "sc_name": "暗黑界之猎人 棕布劳",
     "jp_name": "暗黒界の狩人 ブラウ",
     "en_name": "Broww, Huntsman of Dark World"
   },
@@ -15747,6 +15757,7 @@
   "50323155": {
     "type": "Trap",
     "cn_name": "升天之黑角笛",
+    "sc_name": "升天之黑角笛",
     "jp_name": "昇天の黒角笛",
     "en_name": "Black Horn of Heaven"
   },
@@ -18457,6 +18468,7 @@
   "52035300": {
     "type": "Monster",
     "cn_name": "不死武士",
+    "sc_name": "不死武士",
     "jp_name": "不死武士",
     "en_name": "The Immortal Bushi"
   },
@@ -26155,6 +26167,7 @@
   "46897277": {
     "type": "Monster",
     "cn_name": "电气狐",
+    "sc_name": "电力狐狸",
     "jp_name": "エレキツネ",
     "en_name": "Wattfox"
   },
@@ -26357,6 +26370,7 @@
   "53778229": {
     "type": "Spell",
     "cn_name": "墓地封印",
+    "sc_name": "墓地封印",
     "jp_name": "墓地封印",
     "en_name": "Silent Graveyard"
   },
@@ -26969,6 +26983,7 @@
   "81896771": {
     "type": "Monster",
     "cn_name": "电气雉鸡",
+    "sc_name": "电力绿雉",
     "jp_name": "エレキジ",
     "en_name": "Wattpheasant"
   },
@@ -27163,6 +27178,7 @@
   "36484016": {
     "type": "Spell",
     "cn_name": "奇迹同调融合",
+    "sc_name": "奇迹同步结合",
     "jp_name": "ミラクルシンクロフュージョン",
     "en_name": "Miracle Synchro Fusion"
   },
@@ -27982,6 +27998,7 @@
   "18634367": {
     "type": "Trap",
     "cn_name": "红莲屏障",
+    "sc_name": "红莲屏障",
     "jp_name": "スクリーン・オブ・レッド",
     "en_name": "Red Screen"
   },
@@ -31244,6 +31261,7 @@
   "80651316": {
     "type": "Monster",
     "cn_name": "进化龙·角鼻龙",
+    "sc_name": "进化龙・角鼻龙",
     "jp_name": "エヴォルダー・ケラト",
     "en_name": "Evolsaur Cerato"
   },
@@ -33160,6 +33178,7 @@
   "3283679": {
     "type": "Monster",
     "cn_name": "进化虫·兔鳄",
+    "sc_name": "进化虫・兔鳄",
     "jp_name": "エヴォルド・ラゴスクス",
     "en_name": "Evoltile Lagosucho"
   },
@@ -42678,6 +42697,7 @@
   "15582767": {
     "type": "Trap",
     "cn_name": "连成的振动",
+    "sc_name": "连成的振动",
     "jp_name": "連成する振動",
     "en_name": "Echo Oscillation"
   },
@@ -43550,6 +43570,7 @@
   "74926274": {
     "type": "Spell",
     "cn_name": "灵摆显现",
+    "sc_name": "灵摆显现",
     "jp_name": "ペンデュラム・アライズ",
     "en_name": "Pendulum Rising"
   },
@@ -43982,54 +44003,63 @@
   "92746535": {
     "type": "Monster",
     "cn_name": "龙剑士 光辉星·灵摆",
+    "sc_name": "龙剑士 光栅行者 灵摆",
     "jp_name": "竜剣士ラスターP",
     "en_name": "Luster Pendulum, the Dracoslayer"
   },
   "24131534": {
     "type": "Monster",
     "cn_name": "点火骑士·马格努姆",
+    "sc_name": "点火骑士・马格南姆",
     "jp_name": "イグナイト・マグナム",
     "en_name": "Igknight Squire"
   },
   "61639289": {
     "type": "Monster",
     "cn_name": "点火骑士·沙鹰",
+    "sc_name": "点火骑士・沙鹰",
     "jp_name": "イグナイト・イーグル",
     "en_name": "Igknight Crusader"
   },
   "97024987": {
     "type": "Monster",
     "cn_name": "点火骑士·德拉古诺夫",
+    "sc_name": "点火骑士・德拉古诺夫",
     "jp_name": "イグナイト・ドラグノフ",
     "en_name": "Igknight Templar"
   },
   "24019092": {
     "type": "Monster",
     "cn_name": "点火骑士·鸟铳",
+    "sc_name": "点火骑士・鸟嘴",
     "jp_name": "イグナイト・マスケット",
     "en_name": "Igknight Paladin"
   },
   "50407691": {
     "type": "Monster",
     "cn_name": "点火骑士·镇暴",
+    "sc_name": "点火骑士・镇暴",
     "jp_name": "イグナイト・ライオット",
     "en_name": "Igknight Margrave"
   },
   "96802306": {
     "type": "Monster",
     "cn_name": "点火骑士·点五零",
+    "sc_name": "点火骑士・点五零",
     "jp_name": "イグナイト・キャリバー",
     "en_name": "Igknight Gallant"
   },
   "23296404": {
     "type": "Monster",
     "cn_name": "点火骑士·复仇者",
+    "sc_name": "点火骑士・复仇者",
     "jp_name": "イグナイト・アヴェンジャー",
     "en_name": "Igknight Lancer"
   },
   "59785059": {
     "type": "Monster",
     "cn_name": "点火骑士·毒刺",
+    "sc_name": "点火骑士・刺针",
     "jp_name": "イグナイト・スティンガー",
     "en_name": "Igknight Champion"
   },
@@ -44084,6 +44114,7 @@
   "57624336": {
     "type": "Monster",
     "cn_name": "古怪恶魔",
+    "sc_name": "古怪诡计恶魔",
     "jp_name": "エキセントリック・デーモン",
     "en_name": "Archfiend Eccentrick"
   },
@@ -44135,6 +44166,7 @@
   "18239909": {
     "type": "Monster",
     "cn_name": "爆龙剑士 点火星·日珥",
+    "sc_name": "爆龙剑士 点火行者 日珥",
     "jp_name": "爆竜剣士イグニスターP",
     "en_name": "Ignister Prominence, the Blasting Dracoslayer"
   },
@@ -44207,6 +44239,7 @@
   "79555535": {
     "type": "Spell",
     "cn_name": "点火阵·凤凰",
+    "sc_name": "点火阵 凤凰",
     "jp_name": "イグニッションP",
     "en_name": "Ignition Phoenix"
   },
@@ -44284,6 +44317,7 @@
   "65872270": {
     "type": "Trap",
     "cn_name": "点火骑士炸裂",
+    "sc_name": "点火骑士・爆裂",
     "jp_name": "イグナイト・バースト",
     "en_name": "Igknight Burst"
   },
@@ -44982,48 +45016,56 @@
   "69512157": {
     "type": "Monster",
     "cn_name": "龙魔王 魔道矢·灵摆",
+    "sc_name": "龙魔王 矢量主载 灵摆",
     "jp_name": "竜魔王ベクターP",
     "en_name": "Vector Pendulum, the Dracoverlord"
   },
   "5506791": {
     "type": "Monster",
     "cn_name": "威风妖怪·猫",
+    "sc_name": "威风魔灵・又猫",
     "jp_name": "マジェスペクター・キャット",
     "en_name": "Majespecter Cat - Nekomata"
   },
   "31991800": {
     "type": "Monster",
     "cn_name": "威风妖怪·狸",
+    "sc_name": "威风魔灵・分福浣熊",
     "jp_name": "マジェスペクター・ラクーン",
     "en_name": "Majespecter Raccoon - Bunbuku"
   },
   "68395509": {
     "type": "Monster",
     "cn_name": "威风妖怪·乌",
+    "sc_name": "威风魔灵・八咫乌鸦",
     "jp_name": "マジェスペクター・クロウ",
     "en_name": "Majespecter Crow - Yata"
   },
   "94784213": {
     "type": "Monster",
     "cn_name": "威风妖怪·狐",
+    "sc_name": "威风魔灵・九尾狐狸",
     "jp_name": "マジェスペクター・フォックス",
     "en_name": "Majespecter Fox - Kyubi"
   },
   "31178212": {
     "type": "Monster",
     "cn_name": "威风妖怪·麒麟",
+    "sc_name": "威风魔灵・独角麒麟",
     "jp_name": "マジェスペクター・ユニコーン",
     "en_name": "Majespecter Unicorn - Kirin"
   },
   "67273917": {
     "type": "Monster",
     "cn_name": "点火骑士·德林加",
+    "sc_name": "点火骑士・德林加",
     "jp_name": "イグナイト・デリンジャー",
     "en_name": "Igknight Cavalier"
   },
   "93662626": {
     "type": "Monster",
     "cn_name": "点火骑士·乌兹",
+    "sc_name": "点火骑士・乌兹",
     "jp_name": "イグナイト・ウージー",
     "en_name": "Igknight Veteran"
   },
@@ -45159,6 +45201,7 @@
   "88722973": {
     "type": "Monster",
     "cn_name": "升龙剑士 威风星·圣骑",
+    "sc_name": "升龙剑士 威风行者 圣骑",
     "jp_name": "昇竜剣士マジェスターP",
     "en_name": "Majester Paladin, the Ascending Dracoslayer"
   },
@@ -45198,24 +45241,28 @@
   "76473843": {
     "type": "Spell",
     "cn_name": "威风阵·飞马",
+    "sc_name": "威风阵 天马",
     "jp_name": "マジェスティックP",
     "en_name": "Majesty's Pegasus"
   },
   "13972452": {
     "type": "Spell",
     "cn_name": "威风妖怪风暴",
+    "sc_name": "威风魔灵・风暴",
     "jp_name": "マジェスペクター・ストーム",
     "en_name": "Majespecter Storm"
   },
   "49366157": {
     "type": "Spell",
     "cn_name": "威风妖怪旋风",
+    "sc_name": "威风魔灵・气旋",
     "jp_name": "マジェスペクター・サイクロン",
     "en_name": "Majespecter Cyclone"
   },
   "76751255": {
     "type": "Spell",
     "cn_name": "点火骑士上膛",
+    "sc_name": "点火骑士・再上膛",
     "jp_name": "イグナイト・リロード",
     "en_name": "Igknight Reload"
   },
@@ -45286,12 +45333,14 @@
   "36183881": {
     "type": "Trap",
     "cn_name": "威风妖怪龙卷",
+    "sc_name": "威风魔灵・龙卷",
     "jp_name": "マジェスペクター・トルネード",
     "en_name": "Majespecter Tornado"
   },
   "2572890": {
     "type": "Trap",
     "cn_name": "威风妖怪大暴风",
+    "sc_name": "威风魔灵・暴风",
     "jp_name": "マジェスペクター・テンペスト",
     "en_name": "Majespecter Tempest"
   },
@@ -45574,6 +45623,7 @@
   "76547525": {
     "type": "Monster",
     "cn_name": "红莲翼龙",
+    "sc_name": "红莲翼龙",
     "jp_name": "レッド・ワイバーン",
     "en_name": "Red Wyvern"
   },
@@ -45988,48 +46038,56 @@
   "75195825": {
     "type": "Monster",
     "cn_name": "龙剑士 卓辉星·灵摆",
+    "sc_name": "龙剑士 至尊行者 灵摆",
     "jp_name": "竜剣士マスターP",
     "en_name": "Master Pendulum, the Dracoslayer"
   },
   "1580833": {
     "type": "Monster",
     "cn_name": "雾动机龙·剑龙",
+    "sc_name": "机动雾龙・剑龙",
     "jp_name": "ダイナミスト・ステゴサウラー",
     "en_name": "Dinomist Stegosaur"
   },
   "38988538": {
     "type": "Monster",
     "cn_name": "雾动机龙·蛇颈龙",
+    "sc_name": "机动雾龙・蛇颈龙",
     "jp_name": "ダイナミスト・プレシオス",
     "en_name": "Dinomist Plesios"
   },
   "64973287": {
     "type": "Monster",
     "cn_name": "雾动机龙·无齿翼龙",
+    "sc_name": "机动雾龙・无齿翼龙",
     "jp_name": "ダイナミスト・プテラン",
     "en_name": "Dinomist Pteran"
   },
   "368382": {
     "type": "Monster",
     "cn_name": "雾动机龙·腕龙",
+    "sc_name": "机动雾龙・腕龙",
     "jp_name": "ダイナミスト・ブラキオン",
     "en_name": "Dinomist Brachion"
   },
   "37752990": {
     "type": "Monster",
     "cn_name": "雾动机龙·角龙",
+    "sc_name": "机动雾龙・角龙",
     "jp_name": "ダイナミスト・ケラトプス",
     "en_name": "Dinomist Ceratops"
   },
   "63251695": {
     "type": "Monster",
     "cn_name": "雾动机龙·霸王龙",
+    "sc_name": "机动雾龙・暴龙",
     "jp_name": "ダイナミスト・レックス",
     "en_name": "Dinomist Rex"
   },
   "645794": {
     "type": "Monster",
     "cn_name": "威风妖怪·蛤蟆",
+    "sc_name": "威风魔灵・虾蟆蛙",
     "jp_name": "マジェスペクター・フロッグ",
     "en_name": "Majespecter Toad - Ogama"
   },
@@ -46071,6 +46129,7 @@
   "98301564": {
     "type": "Monster",
     "cn_name": "解放之阿里阿德涅",
+    "sc_name": "解放之阿里阿德涅",
     "jp_name": "解放のアリアドネ",
     "en_name": "Guiding Ariadne"
   },
@@ -46134,6 +46193,7 @@
   "22638495": {
     "type": "Monster",
     "cn_name": "刚龙剑士 雾动星·强力",
+    "sc_name": "刚龙剑士 机动行者 强劲",
     "jp_name": "剛竜剣士ダイナスターP",
     "en_name": "Dinoster Power, the Mighty Dracoslayer"
   },
@@ -46229,24 +46289,28 @@
   "14733538": {
     "type": "Spell",
     "cn_name": "龙呼相争",
+    "sc_name": "龙呼相争",
     "jp_name": "竜呼相打つ",
     "en_name": "Draco Face-Off"
   },
   "41128647": {
     "type": "Spell",
     "cn_name": "雾动阵·输力",
+    "sc_name": "机动阵 强化",
     "jp_name": "ダイナミックP",
     "en_name": "Dinomic Powerload"
   },
   "77116346": {
     "type": "Spell",
     "cn_name": "雾动机龙充能",
+    "sc_name": "机动雾龙・充能",
     "jp_name": "ダイナミスト・チャージ",
     "en_name": "Dinomist Charge"
   },
   "13611090": {
     "type": "Spell",
     "cn_name": "威风妖怪音波",
+    "sc_name": "威风魔灵・声波",
     "jp_name": "マジェスペクター・ソニック",
     "en_name": "Majespecter Sonics"
   },
@@ -46305,12 +46369,14 @@
   "41554273": {
     "type": "Trap",
     "cn_name": "雾动机龙突进",
+    "sc_name": "机动雾龙・突击",
     "jp_name": "ダイナミスト・ラッシュ",
     "en_name": "Dinomist Rush"
   },
   "78949372": {
     "type": "Trap",
     "cn_name": "威风妖怪超级单体",
+    "sc_name": "威风魔灵・超级单体",
     "jp_name": "マジェスペクター・スーパーセル",
     "en_name": "Majespecter Supercell"
   },
@@ -46330,6 +46396,7 @@
   "77826734": {
     "type": "Trap",
     "cn_name": "灵摆苏生",
+    "sc_name": "灵摆重生",
     "jp_name": "ペンデュラム・リボーン",
     "en_name": "Pendulum Reborn"
   },
@@ -47035,6 +47102,7 @@
   "7127502": {
     "type": "Monster",
     "cn_name": "龙魔王 霸道矢·灵摆",
+    "sc_name": "龙魔王 至霸主载 灵摆",
     "jp_name": "竜魔王レクターP",
     "en_name": "Lector Pendulum, the Dracoverlord"
   },
@@ -47089,6 +47157,7 @@
   "5067884": {
     "type": "Monster",
     "cn_name": "雾动机龙·棘龙",
+    "sc_name": "机动雾龙・棘龙",
     "jp_name": "ダイナミスト・スピノス",
     "en_name": "Dinomist Spinos"
   },
@@ -47351,6 +47420,7 @@
   "74582050": {
     "type": "Trap",
     "cn_name": "雾动机龙喷发",
+    "sc_name": "机动雾龙・喷发",
     "jp_name": "ダイナミスト・エラプション",
     "en_name": "Dinomist Eruption"
   },
@@ -47388,6 +47458,7 @@
   "72648810": {
     "type": "Trap",
     "cn_name": "不可动摇的牵绊",
+    "sc_name": "不可动摇的羁绊",
     "jp_name": "揺るがぬ絆",
     "en_name": "Unwavering Bond"
   },
@@ -47795,6 +47866,7 @@
   "32134638": {
     "type": "Monster",
     "cn_name": "雾动机龙·甲龙",
+    "sc_name": "机动雾龙・甲龙",
     "jp_name": "ダイナミスト・アンキロス",
     "en_name": "Dinomist Ankylos"
   },
@@ -48143,18 +48215,21 @@
   "21250202": {
     "type": "Monster",
     "cn_name": "异色眼假面龙",
+    "sc_name": "异色眼复面龙",
     "jp_name": "オッドアイズ・ペルソナ・ドラゴン",
     "en_name": "Odd-Eyes Persona Dragon"
   },
   "67754901": {
     "type": "Monster",
     "cn_name": "异色眼幻象龙",
+    "sc_name": "异色眼幻象龙",
     "jp_name": "オッドアイズ・ミラージュ・ドラゴン",
     "en_name": "Odd-Eyes Mirage Dragon"
   },
   "93149655": {
     "type": "Monster",
     "cn_name": "异色眼幻影龙",
+    "sc_name": "异色眼魅影龙",
     "jp_name": "オッドアイズ・ファントム・ドラゴン",
     "en_name": "Odd-Eyes Phantom Dragon"
   },
@@ -49163,6 +49238,7 @@
   "38848158": {
     "type": "Spell",
     "cn_name": "点火骑士团结",
+    "sc_name": "点火骑士・团结",
     "jp_name": "イグナイト・ユナイト",
     "en_name": "Igknights Unite"
   },
@@ -50157,6 +50233,7 @@
   "5153769": {
     "type": "Trap",
     "cn_name": "威风妖怪突风",
+    "sc_name": "威风魔灵・阵风",
     "jp_name": "マジェスペクター・ガスト",
     "en_name": "Majespecter Gust"
   },
@@ -50944,18 +51021,21 @@
   "96227613": {
     "type": "Monster",
     "cn_name": "霸王门 零",
+    "sc_name": "霸王门 零",
     "jp_name": "覇王門零",
     "en_name": "Supreme King Gate Zero"
   },
   "22211622": {
     "type": "Monster",
     "cn_name": "霸王门 无限",
+    "sc_name": "霸王门 无限",
     "jp_name": "覇王門無限",
     "en_name": "Supreme King Gate Infinity"
   },
   "69610326": {
     "type": "Monster",
     "cn_name": "霸王眷龙 暗黑亚龙",
+    "sc_name": "霸王眷龙 暗黑亚龙",
     "jp_name": "覇王眷竜ダークヴルム",
     "en_name": "Supreme King Dragon Darkwurm"
   },
@@ -51232,6 +51312,7 @@
   "37469904": {
     "type": "Spell",
     "cn_name": "决斗者降临",
+    "sc_name": "决斗者降临",
     "jp_name": "デュエリスト・アドベント",
     "en_name": "Duelist Alliance"
   },
@@ -51312,6 +51393,7 @@
   "60675348": {
     "type": "Trap",
     "cn_name": "雾动机龙咆哮",
+    "sc_name": "机动雾龙・咆哮",
     "jp_name": "ダイナミスト・ハウリング",
     "en_name": "Dinomists Howling"
   },
@@ -51489,6 +51571,7 @@
   "42378577": {
     "type": "Trap",
     "cn_name": "灵摆切换",
+    "sc_name": "灵摆切换",
     "jp_name": "ペンデュラム・スイッチ",
     "en_name": "Pendulum Switch"
   },
@@ -51712,6 +51795,7 @@
   "96733134": {
     "type": "Monster",
     "cn_name": "霸王眷龙 异色眼",
+    "sc_name": "霸王眷龙 异色眼",
     "jp_name": "覇王眷竜オッドアイズ",
     "en_name": "Supreme King Dragon Odd-Eyes"
   },
@@ -51865,12 +51949,14 @@
   "43387895": {
     "type": "Monster",
     "cn_name": "霸王眷龙 凶饿毒",
+    "sc_name": "霸王眷龙 凶饿猛毒",
     "jp_name": "覇王眷竜スターヴ・ヴェノム",
     "en_name": "Supreme King Dragon Starving Venom"
   },
   "70771599": {
     "type": "Monster",
     "cn_name": "霸王眷龙 幻透翼",
+    "sc_name": "霸王眷龙 清透翼",
     "jp_name": "覇王眷竜クリアウィング",
     "en_name": "Supreme King Dragon Clear Wing"
   },
@@ -51884,6 +51970,7 @@
   "42160203": {
     "type": "Monster",
     "cn_name": "霸王眷龙 暗叛逆",
+    "sc_name": "霸王眷龙 暗反叛",
     "jp_name": "覇王眷竜ダーク・リベリオン",
     "en_name": "Supreme King Dragon Dark Rebellion"
   },
@@ -52076,6 +52163,7 @@
   "84869738": {
     "type": "Trap",
     "cn_name": "霸王的逆鳞",
+    "sc_name": "霸王之逆鳞",
     "jp_name": "覇王の逆鱗",
     "en_name": "Supreme Rage"
   },
@@ -53282,6 +53370,7 @@
   "76029419": {
     "type": "Monster",
     "cn_name": "DDD 超视王 零·麦克斯韦",
+    "sc_name": "DDD 超视王零麦克斯韦",
     "jp_name": "DDD超視王ゼロ・マクスウェル",
     "en_name": "D/D/D Supersight King Zero Maxwell"
   },
@@ -53607,6 +53696,7 @@
   "77994337": {
     "type": "Monster",
     "cn_name": "万万圣",
+    "sc_name": "万圣哈喽",
     "jp_name": "ハロハロ",
     "en_name": "Hallohallo"
   },
@@ -54075,6 +54165,7 @@
   "38203732": {
     "type": "Spell",
     "cn_name": "灵摆悖论",
+    "sc_name": "灵摆悖论",
     "jp_name": "ペンデュラム・パラドックス",
     "en_name": "Pendulum Paradox"
   },
@@ -54255,6 +54346,7 @@
   "16306932": {
     "type": "Monster",
     "cn_name": "超天新龙 异色眼革命龙",
+    "sc_name": "超天新龙 异色眼革命龙",
     "jp_name": "超天新龍オッドアイズ・レボリューション・ドラゴン",
     "en_name": "Odd-Eyes Revolution Dragon"
   },
@@ -54789,6 +54881,7 @@
   "36111775": {
     "type": "Spell",
     "cn_name": "灵摆停顿",
+    "sc_name": "灵摆停顿",
     "jp_name": "ペンデュラム・ホルト",
     "en_name": "Pendulum Halt"
   },
@@ -57549,6 +57642,7 @@
   "4538826": {
     "type": "Monster",
     "cn_name": "终焉龙 混沌帝",
+    "sc_name": "终焉龙 混沌帝",
     "jp_name": "終焉龍 カオス・エンペラー",
     "en_name": "Chaos Emperor, the Dragon of Armageddon"
   },
@@ -58155,6 +58249,7 @@
   "51412776": {
     "type": "Spell",
     "cn_name": "圣杯的继承",
+    "sc_name": "圣杯之继承",
     "jp_name": "聖杯の継承",
     "en_name": "Heritage of the Chalice"
   },
@@ -59440,6 +59535,7 @@
   "58672736": {
     "type": "Monster",
     "cn_name": "恐龙摔跤手·巨大萨瓦特棘龙",
+    "sc_name": "恐龙摔跤手・吉咖・萨瓦特棘龙",
     "jp_name": "ダイナレスラー・ギガ・スピノサバット",
     "en_name": "Dinowrestler Giga Spinosavate"
   },
@@ -62138,6 +62234,7 @@
   "40227329": {
     "type": "Monster",
     "cn_name": "GO-DDD 神零王 零神·零儿",
+    "sc_name": "GO－DDD 神零王 零神零怒",
     "jp_name": "GO－DDD神零王ゼロゴッド・レイジ",
     "en_name": "Go! - D/D/D Divine Zero King Rage"
   },
@@ -63589,6 +63686,7 @@
   "84274024": {
     "type": "Trap",
     "cn_name": "灵摆次元",
+    "sc_name": "灵摆次元",
     "jp_name": "ペンデュラム・ディメンション",
     "en_name": "Pendulum Dimension"
   },
@@ -63788,6 +63886,7 @@
   "98452268": {
     "type": "Monster",
     "cn_name": "霸王黑龙 异色眼叛逆龙-霸王",
+    "sc_name": "霸王黑龙 异色眼反叛龙－霸主",
     "jp_name": "覇王黒竜オッドアイズ・リベリオン・ドラゴン－オーバーロード",
     "en_name": "Odd-Eyes Rebellion Dragon Overlord"
   },
@@ -65051,6 +65150,7 @@
   "32349062": {
     "type": "Monster",
     "cn_name": "DD 猛犬",
+    "sc_name": "DD 猛犬",
     "jp_name": "DDドッグ",
     "en_name": "D/D Dog"
   },
@@ -66150,6 +66250,7 @@
   "39943352": {
     "type": "Monster",
     "cn_name": "液状巨人 胀流大太郎",
+    "sc_name": "液状巨人 大太胀流",
     "jp_name": "液状巨人ダイダラタント",
     "en_name": "Daidaratant the Ooze Giant"
   },
@@ -72249,12 +72350,14 @@
   "56677752": {
     "type": "Monster",
     "cn_name": "娱乐伙伴 异色眼管家",
+    "sc_name": "娱乐伙伴 异色眼管家",
     "jp_name": "EMオッドアイズ・バトラー",
     "en_name": "Performapal Odd-Eyes Butler"
   },
   "82661461": {
     "type": "Monster",
     "cn_name": "娱乐伙伴 异色眼贴身男仆",
+    "sc_name": "娱乐伙伴 异色眼仆从",
     "jp_name": "EMオッドアイズ・バレット",
     "en_name": "Performapal Odd-Eyes Valet"
   },
@@ -74670,18 +74773,21 @@
   "56347375": {
     "type": "Monster",
     "cn_name": "龙剑士 点火烈·凤凰",
+    "sc_name": "龙剑士 点火烽刃 凤凰",
     "jp_name": "竜剣士イグニスP",
     "en_name": "Ignis Phoenix, the Dracoslayer"
   },
   "92332424": {
     "type": "Monster",
     "cn_name": "龙剑士 威风凛·飞马",
+    "sc_name": "龙剑士 威风凛凛 天马",
     "jp_name": "竜剣士マジェスティP",
     "en_name": "Majesty Pegasus, the Dracoslayer"
   },
   "28720123": {
     "type": "Monster",
     "cn_name": "龙剑士 雾动轰·输力",
+    "sc_name": "龙剑士 机动重装 强化",
     "jp_name": "竜剣士ダイナマイトP",
     "en_name": "Dinomight Powerload, the Dracoslayer"
   },
@@ -74951,6 +75057,7 @@
   "71817640": {
     "type": "Spell",
     "cn_name": "龙神阵·灵摆",
+    "sc_name": "龙叁阵 灵摆",
     "jp_name": "ドラゴニックP",
     "en_name": "Dragonic Pendulum"
   },
@@ -75387,6 +75494,7 @@
   "77855162": {
     "type": "Monster",
     "cn_name": "摆式特急 同行列车",
+    "sc_name": "摆式特急 同律列车",
     "jp_name": "振子特急エントレインメント",
     "en_name": "Tilting Entrainment"
   },
@@ -76536,6 +76644,7 @@
   "31987203": {
     "type": "Monster",
     "cn_name": "死天使 哈维斯特",
+    "sc_name": "死天使 哈贝斯特",
     "jp_name": "死天使ハーヴェスト",
     "en_name": "Harvest Angel of Doom"
   },
@@ -76954,6 +77063,7 @@
   "66736715": {
     "type": "Monster",
     "cn_name": "彗圣之将-翌夜之莫桑石骑士",
+    "sc_name": "彗圣壹将－莫桑骑士",
     "jp_name": "彗聖の将－ワンモア・ザ・ナイト",
     "en_name": "Moissa Knight, the Comet General"
   },
@@ -76972,6 +77082,7 @@
   "65914127": {
     "type": "Spell",
     "cn_name": "灵摆吊坠",
+    "sc_name": "灵摆吊坠",
     "jp_name": "ペンデュラム・ペンダント",
     "en_name": "Pendulum Pendant"
   },
