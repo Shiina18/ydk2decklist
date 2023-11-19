@@ -78955,157 +78955,188 @@
   "23288411": {
     "type": "Monster",
     "cn_name": "冥骸合龙-莫忘冥地王龙",
-    "jp_name": "冥骸合竜－メメントラル・テクトリカ"
+    "jp_name": "冥骸合竜－メメントラル・テクトリカ",
+    "en_name": "Mementoal Tecuhtlica - Combined Creation"
   },
   "55272555": {
     "type": "Monster",
     "cn_name": "莫忘角魔龙",
-    "jp_name": "メメント・ホーン・ドラゴン"
+    "jp_name": "メメント・ホーン・ドラゴン",
+    "en_name": "Mementotlan-Horned Dragon"
   },
   "81677154": {
     "type": "Monster",
     "cn_name": "莫忘海马兽",
-    "jp_name": "メメント・シーホース"
+    "jp_name": "メメント・シーホース",
+    "en_name": "Mementotlan Tatsunootoshigo"
   },
   "18165869": {
     "type": "Monster",
     "cn_name": "莫忘战士 暗黑之剑",
-    "jp_name": "メメント・ダークソード"
+    "jp_name": "メメント・ダークソード",
+    "en_name": "Mementotlan Dark Blade"
   },
   "54550967": {
     "type": "Monster",
     "cn_name": "莫忘天魔女",
-    "jp_name": "メメント・エンウィッチ"
+    "jp_name": "メメント・エンウィッチ",
+    "en_name": "Mementotlan Angwitch"
   },
   "81945676": {
     "type": "Monster",
     "cn_name": "莫忘心钥精",
-    "jp_name": "メメント・メイス"
+    "jp_name": "メメント・メイス",
+    "en_name": "Mementotlan Mace"
   },
   "17943271": {
     "type": "Monster",
     "cn_name": "莫忘哥布林",
-    "jp_name": "メメント・ゴブリン"
+    "jp_name": "メメント・ゴブリン",
+    "en_name": "Mementotlan Goblin"
   },
   "43338320": {
     "type": "Spell",
     "cn_name": "冥骸府-莫忘冥府",
-    "jp_name": "冥骸府－メメントラン"
+    "jp_name": "冥骸府－メメントラン",
+    "en_name": "Mementomictlan"
   },
   "80722024": {
     "type": "Spell",
     "cn_name": "莫忘骨头派对",
-    "jp_name": "メメント・ボーン・パーティー"
+    "jp_name": "メメント・ボーン・パーティー",
+    "en_name": "Mementotlan Bone Party"
   },
   "16227633": {
     "type": "Spell",
     "cn_name": "莫忘骨头回归",
-    "jp_name": "メメント・ボーン・バック"
+    "jp_name": "メメント・ボーン・バック",
+    "en_name": "Mementotlan Bone Back"
   },
   "43215738": {
     "type": "Trap",
     "cn_name": "莫忘骨折舞",
-    "jp_name": "メメント・フラクチャー・ダンス"
+    "jp_name": "メメント・フラクチャー・ダンス",
+    "en_name": "Mementotlan Fracture Dance"
   },
   "79600447": {
     "type": "Trap",
     "cn_name": "莫忘颅骨爆发",
-    "jp_name": "メメント・クレニアム・バースト"
+    "jp_name": "メメント・クレニアム・バースト",
+    "en_name": "Mementotlan Cranium Burst"
   },
   "15005145": {
     "type": "Monster",
     "cn_name": "重骑士 普莉梅拉",
-    "jp_name": "重騎士プリメラ"
+    "jp_name": "重騎士プリメラ",
+    "en_name": "Centur-Ion Primera"
   },
   "42493140": {
     "type": "Monster",
     "cn_name": "从骑士 特露迪娅",
-    "jp_name": "従騎士トゥルーデア"
+    "jp_name": "従騎士トゥルーデア",
+    "en_name": "Centur-Ion Trudea"
   },
   "78888899": {
     "type": "Monster",
     "cn_name": "重骑兵 真理6",
-    "jp_name": "重騎兵エメトⅥ"
+    "jp_name": "重騎兵エメトⅥ",
+    "en_name": "Centur-Ion Emeth VI"
   },
   "15982593": {
     "type": "Monster",
     "cn_name": "骑士皇 雷加蒂娅",
-    "jp_name": "騎士皇レガーティア"
+    "jp_name": "騎士皇レガーティア",
+    "en_name": "Centur-Ion Legatia"
   },
   "41371602": {
     "type": "Spell",
     "cn_name": "起立吧百夫长骑士！",
-    "jp_name": "スタンドアップ・センチュリオン！"
+    "jp_name": "スタンドアップ・センチュリオン！",
+    "en_name": "Stand Up Centur-Ion!"
   },
   "77765207": {
     "type": "Spell",
     "cn_name": "誓言之徽",
-    "jp_name": "誓いのエンブレーマ"
+    "jp_name": "誓いのエンブレーマ",
+    "en_name": "Emblema Oath"
   },
   "4160316": {
     "type": "Spell",
     "cn_name": "骑士的牵绊",
-    "jp_name": "騎士の絆"
+    "jp_name": "騎士の絆",
+    "en_name": "Centur-Ion Bonds"
   },
   "40155014": {
     "type": "Trap",
     "cn_name": "骑士魔防阵",
-    "jp_name": "騎士魔防陣"
+    "jp_name": "騎士魔防陣",
+    "en_name": "Centur-Ion Phalanx"
   },
   "77543769": {
     "type": "Trap",
     "cn_name": "骑士皇爆诞",
-    "jp_name": "騎士皇爆誕"
+    "jp_name": "騎士皇爆誕",
+    "en_name": "Centur-Ion True Awakening"
   },
   "3048768": {
     "type": "Monster",
     "cn_name": "天使之声",
-    "jp_name": "天使の聲"
+    "jp_name": "天使の聲",
+    "en_name": "Angello Vaalmonica"
   },
   "30432463": {
     "type": "Monster",
     "cn_name": "恶魔之声",
-    "jp_name": "悪魔の聲"
+    "jp_name": "悪魔の聲",
+    "en_name": "Dimonno Vaalmonica"
   },
   "76821171": {
     "type": "Monster",
     "cn_name": "异响鸣之异神-光耀天使",
-    "jp_name": "ヴァルモニカの異神－ジュラルメ"
+    "jp_name": "ヴァルモニカの異神－ジュラルメ",
+    "en_name": "Duralume, Vaalmonican Heathen Hallow"
   },
   "2815176": {
     "type": "Monster",
     "cn_name": "异响鸣之神异-风暴恶魔",
-    "jp_name": "ヴァルモニカの神異－ゼブフェーラ"
+    "jp_name": "ヴァルモニカの神異－ゼブフェーラ",
+    "en_name": "Zebufera, Vaalmonican Hallow Heathen"
   },
   "39210885": {
     "type": "Spell",
     "cn_name": "天魔之声选器-『异响鸣琴』",
-    "jp_name": "天魔の聲選器－『ヴァルモニカ』"
+    "jp_name": "天魔の聲選器－『ヴァルモニカ』",
+    "en_name": "Vaalmonica, the Agathokakological Voice"
   },
   "5605529": {
     "type": "Spell",
     "cn_name": "异响鸣的选择",
-    "jp_name": "ヴァルモニカ・シェルタ"
+    "jp_name": "ヴァルモニカ・シェルタ",
+    "en_name": "Vaalmonica Scelta"
   },
   "42193638": {
     "type": "Spell",
     "cn_name": "异响鸣的倒水",
-    "jp_name": "ヴァルモニカ・ヴェルサーレ"
+    "jp_name": "ヴァルモニカ・ヴェルサーレ",
+    "en_name": "Vaalmonica Versare"
   },
   "78598237": {
     "type": "Spell",
     "cn_name": "异响鸣的调律",
-    "jp_name": "ヴァルモニカ・イントナーレ"
+    "jp_name": "ヴァルモニカ・イントナーレ",
+    "en_name": "Vaalmonica Intonare"
   },
   "4582942": {
     "type": "Trap",
     "cn_name": "律导之异响鸣",
-    "jp_name": "律導のヴァルモニカ"
+    "jp_name": "律導のヴァルモニカ",
+    "en_name": "Vaalmonica Followed Rhythm"
   },
   "31971040": {
     "type": "Trap",
     "cn_name": "选律之异响鸣",
-    "jp_name": "選律のヴァルモニカ"
+    "jp_name": "選律のヴァルモニカ",
+    "en_name": "Vaalmonica Chosen Melody"
   },
   "66431519": {
     "type": "Monster",
