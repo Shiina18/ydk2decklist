@@ -4890,6 +4890,7 @@
   "4031928": {
     "type": "Spell",
     "cn_name": "心变",
+    "sc_name": "心变",
     "jp_name": "心変わり",
     "en_name": "Change of Heart"
   },
@@ -26617,6 +26618,7 @@
   "34293667": {
     "type": "Trap",
     "cn_name": "冰结界",
+    "sc_name": "冰结界",
     "jp_name": "氷結界",
     "en_name": "Ice Barrier"
   },
@@ -27700,6 +27702,7 @@
   "67441435": {
     "type": "Monster",
     "cn_name": "成长的鳞茎",
+    "sc_name": "成长球茎",
     "jp_name": "グローアップ・バルブ",
     "en_name": "Glow-Up Bulb"
   },
@@ -28657,6 +28660,7 @@
   "94145021": {
     "type": "Monster",
     "cn_name": "小丑与锁鸟",
+    "sc_name": "抽牌小丑与封锁鸟",
     "jp_name": "ドロール＆ロックバード",
     "en_name": "Droll & Lock Bird"
   },
@@ -35657,6 +35661,7 @@
   "4179255": {
     "type": "Monster",
     "cn_name": "妖精龙 古代妖",
+    "sc_name": "妖精龙 上古",
     "jp_name": "妖精竜 エンシェント",
     "en_name": "Ancient Pixie Dragon"
   },
@@ -45914,6 +45919,7 @@
   "17330916": {
     "type": "Monster",
     "cn_name": "娱乐伙伴 琴键猴",
+    "sc_name": "娱乐伙伴 琴键猴",
     "jp_name": "EMモンキーボード",
     "en_name": "Performapal Monkeyboard"
   },
@@ -52502,6 +52508,7 @@
   "95474755": {
     "type": "Monster",
     "cn_name": "No.89 电脑兽 系统破坏神",
+    "sc_name": "编号89 电脑兽 迪亚布罗系司",
     "jp_name": "No.89 電脳獣ディアブロシス",
     "en_name": "Number 89: Diablosis the Mind Hacker"
   },
@@ -53626,6 +53633,7 @@
   "40177746": {
     "type": "Monster",
     "cn_name": "地外生命",
+    "sc_name": "异娃",
     "jp_name": "イーバ",
     "en_name": "Eva"
   },
@@ -55809,6 +55817,7 @@
   "11827244": {
     "type": "Spell",
     "cn_name": "圆融魔术",
+    "sc_name": "圆融结合魔术",
     "jp_name": "円融魔術",
     "en_name": "Magicalized Fusion"
   },
@@ -56662,6 +56671,7 @@
   "71166481": {
     "type": "Monster",
     "cn_name": "No.75 惑乱之风言暗影",
+    "sc_name": "编号75 惑乱之流言暗影",
     "jp_name": "No.75 惑乱のゴシップ・シャドー",
     "en_name": "Number 75: Bamboozling Gossip Shadow"
   },
@@ -65816,6 +65826,7 @@
   "42166000": {
     "type": "Monster",
     "cn_name": "神·史莱姆",
+    "sc_name": "神・史莱姆",
     "jp_name": "神・スライム",
     "en_name": "Egyptian God Slime"
   },
@@ -66238,12 +66249,14 @@
   "26050548": {
     "type": "Monster",
     "cn_name": "外毒多头蛇",
+    "sc_name": "额外毒海德拉",
     "jp_name": "エクストクス・ハイドラ",
     "en_name": "Extox Hydra"
   },
   "52445243": {
     "type": "Monster",
     "cn_name": "三刃大师",
+    "sc_name": "三刃圣手",
     "jp_name": "トライエッジ・マスター",
     "en_name": "Tri-Edge Master"
   },
@@ -71173,6 +71186,7 @@
   "95477924": {
     "type": "Spell",
     "cn_name": "魔术师的救出",
+    "sc_name": "魔术师救助",
     "jp_name": "マジシャンズ・サルベーション",
     "en_name": "Magician's Salvation"
   },
@@ -72087,12 +72101,14 @@
   "33331231": {
     "type": "Monster",
     "cn_name": "闪术兵器-汉普",
+    "sc_name": "闪术兵器－H.A.M.P.",
     "jp_name": "閃術兵器－H.A.M.P.",
     "en_name": "Surgical Striker - H.A.M.P."
   },
   "9726840": {
     "type": "Spell",
     "cn_name": "闪刀起动-连刀",
+    "sc_name": "闪刀启动－连闪",
     "jp_name": "閃刀起動－リンケージ",
     "en_name": "Sky Striker Mobilize - Linkage!"
   },
@@ -79647,6 +79663,86 @@
     "type": "Monster",
     "cn_name": "征霸龙-烈龙",
     "jp_name": "征覇竜－ブレイズ"
+  },
+  "100211001": {
+    "type": "Monster",
+    "cn_name": "冰灵山的龙祖 矛枪龙",
+    "jp_name": "氷霊山の龍祖 ランセア"
+  },
+  "100211002": {
+    "type": "Monster",
+    "cn_name": "冰结界的剑士 乔治",
+    "jp_name": "氷結界の剣士 ゲオルギアス"
+  },
+  "100211003": {
+    "type": "Monster",
+    "cn_name": "冰结界的镜魔师",
+    "jp_name": "氷結界の鏡魔師"
+  },
+  "100211004": {
+    "type": "Trap",
+    "cn_name": "抵达冰结界的晶域",
+    "jp_name": "氷結界に至る晶域"
+  },
+  "100211050": {
+    "type": "Monster",
+    "cn_name": "次世代兵器 还零",
+    "jp_name": "A・O・G リターンゼロ"
+  },
+  "100211051": {
+    "type": "Monster",
+    "cn_name": "修复次世代控制员",
+    "jp_name": "リペア・ジェネクス・コントローラー"
+  },
+  "100211052": {
+    "type": "Monster",
+    "cn_name": "真次世代水精灵",
+    "jp_name": "レアル・ジェネクス・ウンディーネ"
+  },
+  "100211053": {
+    "type": "Monster",
+    "cn_name": "真次世代图灵机",
+    "jp_name": "レアル・ジェネクス・チューリング"
+  },
+  "100211097": {
+    "type": "Monster",
+    "cn_name": "狱火机·邪恶",
+    "jp_name": "インフェルノイド・イヴィル"
+  },
+  "100211098": {
+    "type": "Monster",
+    "cn_name": "狱火机·洪水",
+    "jp_name": "インフェルノイド・フラッド"
+  },
+  "100211099": {
+    "type": "Spell",
+    "cn_name": "炽动的炼狱",
+    "jp_name": "熾動する煉獄"
+  },
+  "100211100": {
+    "type": "Spell",
+    "cn_name": "炼狱的决界",
+    "jp_name": "煉獄の決界"
+  },
+  "100211122": {
+    "type": "Monster",
+    "cn_name": "精灵兽使 蕾拉",
+    "jp_name": "精霊獣使い レラ"
+  },
+  "100211123": {
+    "type": "Monster",
+    "cn_name": "圣灵兽骑 星龙",
+    "jp_name": "聖霊獣騎 ノチウドラゴ"
+  },
+  "100211124": {
+    "type": "Monster",
+    "cn_name": "圣灵兽骑 风族",
+    "jp_name": "聖霊獣騎 レイラウタリ"
+  },
+  "100211125": {
+    "type": "Spell",
+    "cn_name": "灵兽的继圣",
+    "jp_name": "霊獣の継聖"
   },
   "100200244": {
     "type": "Monster",
