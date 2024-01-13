@@ -1356,6 +1356,7 @@
   "80516007": {
     "type": "Monster",
     "cn_name": "珍鱼",
+    "sc_name": "珍鱼",
     "jp_name": "レア・フィッシュ",
     "en_name": "Rare Fish"
   },
@@ -1475,6 +1476,7 @@
   "75376965": {
     "type": "Monster",
     "cn_name": "恍惚的人鱼",
+    "sc_name": "恍惚人鱼",
     "jp_name": "恍惚の人魚",
     "en_name": "Enchanting Mermaid"
   },
@@ -3984,6 +3986,7 @@
   "43694075": {
     "type": "Spell",
     "cn_name": "法理的祈祷",
+    "sc_name": "律之祈祷",
     "jp_name": "ローの祈り",
     "en_name": "Novox's Prayer"
   },
@@ -4093,6 +4096,7 @@
   "3627449": {
     "type": "Monster",
     "cn_name": "法理守护者",
+    "sc_name": "律守护者",
     "jp_name": "ローガーディアン",
     "en_name": "Skull Guardian"
   },
@@ -6397,6 +6401,7 @@
   "78658564": {
     "type": "Monster",
     "cn_name": "哥布林突击部队",
+    "sc_name": "格布林突击部队",
     "jp_name": "ゴブリン突撃部隊",
     "en_name": "Goblin Attack Force"
   },
@@ -8862,6 +8867,7 @@
   "51481927": {
     "type": "Spell",
     "cn_name": "魔法吸收",
+    "sc_name": "魔法吸收",
     "jp_name": "魔法吸収",
     "en_name": "Spell Absorption"
   },
@@ -9588,6 +9594,7 @@
   "425934": {
     "type": "Monster",
     "cn_name": "强欲哥布林",
+    "sc_name": "强欲格布林",
     "jp_name": "強欲ゴブリン",
     "en_name": "Goblin of Greed"
   },
@@ -18345,6 +18352,7 @@
   "5592689": {
     "type": "Monster",
     "cn_name": "献祭之莲",
+    "sc_name": "纳祭魔莲",
     "jp_name": "サクリファイス・ロータス",
     "en_name": "Samsara Lotus"
   },
@@ -19210,6 +19218,7 @@
   "14536035": {
     "type": "Monster",
     "cn_name": "暗黑战士 格雷法",
+    "sc_name": "暗黑古雷法",
     "jp_name": "ダーク・グレファー",
     "en_name": "Dark Grepher"
   },
@@ -28052,6 +28061,7 @@
   "7811875": {
     "type": "Trap",
     "cn_name": "重力崩坏",
+    "sc_name": "重力崩坏",
     "jp_name": "重力崩壊",
     "en_name": "Gravity Collapse"
   },
@@ -30583,6 +30593,7 @@
   "25259669": {
     "type": "Monster",
     "cn_name": "哥布林德伯格",
+    "sc_name": "格布林德伯格",
     "jp_name": "ゴブリンドバーグ",
     "en_name": "Goblindbergh"
   },
@@ -31057,6 +31068,7 @@
   "10028593": {
     "type": "Monster",
     "cn_name": "轮回天狗",
+    "sc_name": "轮回天狗",
     "jp_name": "輪廻天狗",
     "en_name": "Reborn Tengu"
   },
@@ -35445,6 +35457,7 @@
   "22653490": {
     "type": "Monster",
     "cn_name": "电光千鸟",
+    "sc_name": "电光千鸟",
     "jp_name": "電光千鳥",
     "en_name": "Lightning Chidori"
   },
@@ -40857,6 +40870,7 @@
   "1833916": {
     "type": "Monster",
     "cn_name": "英豪挑战者 千刀兵",
+    "sc_name": "英豪挑战者 千刃",
     "jp_name": "H・C サウザンド・ブレード",
     "en_name": "Heroic Challenger - Thousand Blades"
   },
@@ -42560,6 +42574,7 @@
   "73887236": {
     "type": "Monster",
     "cn_name": "急袭猛禽-起翼猎鹰",
+    "sc_name": "急袭猛禽－起升猎鹰",
     "jp_name": "RR－ライズ・ファルコン",
     "en_name": "Raidraptor - Rise Falcon"
   },
@@ -43701,6 +43716,7 @@
   "23626223": {
     "type": "Trap",
     "cn_name": "苦纹样的土像",
+    "sc_name": "苦纹样的土像",
     "jp_name": "苦紋様の土像",
     "en_name": "Statue of Anguish Pattern"
   },
@@ -43981,6 +43997,7 @@
   "68819554": {
     "type": "Monster",
     "cn_name": "娱乐法师 伤害杂耍人",
+    "sc_name": "娱乐巫师・伤害杂耍人",
     "jp_name": "Emダメージ・ジャグラー",
     "en_name": "Performage Damage Juggler"
   },
@@ -44138,6 +44155,7 @@
   "21452275": {
     "type": "Monster",
     "cn_name": "芳香炉",
+    "sc_name": "芬芳炉",
     "jp_name": "アロマポット",
     "en_name": "Aroma Jar"
   },
@@ -45008,6 +45026,7 @@
   "71578874": {
     "type": "Monster",
     "cn_name": "娱乐法师 镜子指挥",
+    "sc_name": "娱乐巫师・镜子指挥",
     "jp_name": "Emミラー・コンダクター",
     "en_name": "Performage Mirror Conductor"
   },
@@ -46855,6 +46874,7 @@
   "63941210": {
     "type": "Monster",
     "cn_name": "坏星坏兽 席兹奇埃鲁",
+    "sc_name": "坏星坏兽 机祖基鲁",
     "jp_name": "壊星壊獣ジズキエル",
     "en_name": "Jizukiru, the Star Destroying Kaiju"
   },
@@ -48647,6 +48667,7 @@
   "82697249": {
     "type": "Monster",
     "cn_name": "No.59 背反之料理人",
+    "sc_name": "编号59 背反的料理人",
     "jp_name": "No.59 背反の料理人",
     "en_name": "Number 59: Crooked Cook"
   },
@@ -52399,6 +52420,7 @@
   "43047672": {
     "type": "Monster",
     "cn_name": "急袭猛禽-最终要塞猎鹰",
+    "sc_name": "急袭猛禽－最终要塞猎鹰",
     "jp_name": "RR－ファイナル・フォートレス・ファルコン",
     "en_name": "Raidraptor - Final Fortress Falcon"
   },
@@ -52545,6 +52567,7 @@
   "23085002": {
     "type": "Monster",
     "cn_name": "No.68 魔天牢 桑达尔丰",
+    "sc_name": "编号68 魔天牢 桑达丰",
     "jp_name": "No.68 魔天牢サンダルフォン",
     "en_name": "Number 68: Sanaphond the Sky Prison"
   },
@@ -61378,6 +61401,7 @@
   "66011101": {
     "type": "Monster",
     "cn_name": "No.60 刻不知之杜加雷斯",
+    "sc_name": "编号60 刻不知之杜加雷斯",
     "jp_name": "No.60 刻不知のデュガレス",
     "en_name": "Number 60: Dugares the Timeless"
   },
@@ -66956,6 +66980,7 @@
   "35817848": {
     "type": "Trap",
     "cn_name": "同调传送",
+    "sc_name": "同步传送",
     "jp_name": "シンクロ・トランスミッション",
     "en_name": "Synchro Transmission"
   },
@@ -68068,6 +68093,7 @@
   "67797569": {
     "type": "Monster",
     "cn_name": "熔岩谷火精龙",
+    "sc_name": "岩浆炎炎・沙罗曼蛇",
     "jp_name": "ラヴァルバル・サラマンダー",
     "en_name": "Lavalval Salamander"
   },
@@ -71957,6 +71983,7 @@
   "27753563": {
     "type": "Spell",
     "cn_name": "命运之里宝牌",
+    "sc_name": "命运的里宝牌",
     "jp_name": "運命のウラドラ",
     "en_name": "Uradora of Fate"
   },
@@ -72777,6 +72804,7 @@
   "21903613": {
     "type": "Monster",
     "cn_name": "森罗的舞蹈娘 先锋葡萄",
+    "sc_name": "森罗舞娘 锋萄",
     "jp_name": "森羅の舞踏娘 ピオネ",
     "en_name": "Sylvan Dancepione"
   },
@@ -72996,6 +73024,7 @@
   "83340560": {
     "type": "Monster",
     "cn_name": "伟大的双演员法师",
+    "sc_name": "伟大的双咒术师",
     "jp_name": "偉大なるダブルキャスター",
     "en_name": "The Great Double Casted Caster"
   },
@@ -73542,6 +73571,7 @@
   "53923690": {
     "type": "Trap",
     "cn_name": "欧米伽的裁决",
+    "sc_name": "欧米伽的制裁",
     "jp_name": "オメガの裁き",
     "en_name": "Omega Judgment"
   },
@@ -76490,6 +76520,7 @@
   "97240499": {
     "type": "Monster",
     "cn_name": "浑然的斗牛诗-俄耳甫斯金公牛",
+    "sc_name": "浑然斗牛诗－俄耳甫布鲁",
     "jp_name": "渾然たる闘牛詩－オルフェブル",
     "en_name": "Orphebull the Harmonious Bullfighter Bard"
   },
@@ -79041,186 +79072,217 @@
   "23288411": {
     "type": "Monster",
     "cn_name": "冥骸合龙-莫忘冥地王龙",
+    "sc_name": "冥骸合龙－冥铭途拉尔泰库特利卡",
     "jp_name": "冥骸合竜－メメントラル・テクトリカ",
     "en_name": "Mementoal Tecuhtlica - Combined Creation"
   },
   "55272555": {
     "type": "Monster",
     "cn_name": "莫忘角魔龙",
+    "sc_name": "冥铭途・角龙",
     "jp_name": "メメント・ホーン・ドラゴン",
     "en_name": "Mementotlan-Horned Dragon"
   },
   "81677154": {
     "type": "Monster",
     "cn_name": "莫忘海马兽",
+    "sc_name": "冥铭途・海马",
     "jp_name": "メメント・シーホース",
     "en_name": "Mementotlan Tatsunootoshigo"
   },
   "18165869": {
     "type": "Monster",
     "cn_name": "莫忘战士 暗黑之剑",
+    "sc_name": "冥铭途・暗黑剑",
     "jp_name": "メメント・ダークソード",
     "en_name": "Mementotlan Dark Blade"
   },
   "54550967": {
     "type": "Monster",
     "cn_name": "莫忘天魔女",
+    "sc_name": "冥铭途・天魔女",
     "jp_name": "メメント・エンウィッチ",
     "en_name": "Mementotlan Angwitch"
   },
   "81945676": {
     "type": "Monster",
     "cn_name": "莫忘心钥精",
+    "sc_name": "冥铭途・梅思",
     "jp_name": "メメント・メイス",
     "en_name": "Mementotlan Mace"
   },
   "17943271": {
     "type": "Monster",
     "cn_name": "莫忘哥布林",
+    "sc_name": "冥铭途・格布林",
     "jp_name": "メメント・ゴブリン",
     "en_name": "Mementotlan Goblin"
   },
   "43338320": {
     "type": "Spell",
     "cn_name": "冥骸府-莫忘冥府",
+    "sc_name": "冥骸府－冥铭途兰",
     "jp_name": "冥骸府－メメントラン",
     "en_name": "Mementomictlan"
   },
   "80722024": {
     "type": "Spell",
     "cn_name": "莫忘骨头派对",
+    "sc_name": "冥铭途・骨派对",
     "jp_name": "メメント・ボーン・パーティー",
     "en_name": "Mementotlan Bone Party"
   },
   "16227633": {
     "type": "Spell",
     "cn_name": "莫忘骨头回归",
+    "sc_name": "冥铭途・骨回归",
     "jp_name": "メメント・ボーン・バック",
     "en_name": "Mementotlan Bone Back"
   },
   "43215738": {
     "type": "Trap",
     "cn_name": "莫忘骨折舞",
+    "sc_name": "冥铭途・碎骨舞",
     "jp_name": "メメント・フラクチャー・ダンス",
     "en_name": "Mementotlan Fracture Dance"
   },
   "79600447": {
     "type": "Trap",
     "cn_name": "莫忘颅骨爆发",
+    "sc_name": "冥铭途・颅骨爆发",
     "jp_name": "メメント・クレニアム・バースト",
     "en_name": "Mementotlan Cranium Burst"
   },
   "15005145": {
     "type": "Monster",
     "cn_name": "重骑士 普莉梅拉",
+    "sc_name": "重装百夫骑士 普莉梅拉",
     "jp_name": "重騎士プリメラ",
     "en_name": "Centur-Ion Primera"
   },
   "42493140": {
     "type": "Monster",
     "cn_name": "从骑士 特露迪娅",
+    "sc_name": "从属百夫骑士 特露蒂亚",
     "jp_name": "従騎士トゥルーデア",
     "en_name": "Centur-Ion Trudea"
   },
   "78888899": {
     "type": "Monster",
     "cn_name": "重骑兵 真理6",
+    "sc_name": "重装百夫骑兵 艾梅忒Ⅵ",
     "jp_name": "重騎兵エメトⅥ",
     "en_name": "Centur-Ion Emeth VI"
   },
   "15982593": {
     "type": "Monster",
     "cn_name": "骑士皇 雷加蒂娅",
+    "sc_name": "百夫骑士皇 蕾格提亚",
     "jp_name": "騎士皇レガーティア",
     "en_name": "Centur-Ion Legatia"
   },
   "41371602": {
     "type": "Spell",
     "cn_name": "起立吧百夫长骑士！",
+    "sc_name": "站起来吧・百夫骑士！",
     "jp_name": "スタンドアップ・センチュリオン！",
     "en_name": "Stand Up Centur-Ion!"
   },
   "77765207": {
     "type": "Spell",
     "cn_name": "誓言之徽",
+    "sc_name": "起誓的徽纹",
     "jp_name": "誓いのエンブレーマ",
     "en_name": "Emblema Oath"
   },
   "4160316": {
     "type": "Spell",
     "cn_name": "骑士的牵绊",
+    "sc_name": "百夫骑士之绊",
     "jp_name": "騎士の絆",
     "en_name": "Centur-Ion Bonds"
   },
   "40155014": {
     "type": "Trap",
     "cn_name": "骑士魔防阵",
+    "sc_name": "百夫骑士魔防阵",
     "jp_name": "騎士魔防陣",
     "en_name": "Centur-Ion Phalanx"
   },
   "77543769": {
     "type": "Trap",
     "cn_name": "骑士皇爆诞",
+    "sc_name": "百夫骑士皇爆诞",
     "jp_name": "騎士皇爆誕",
     "en_name": "Centur-Ion True Awakening"
   },
   "3048768": {
     "type": "Monster",
     "cn_name": "天使之声",
+    "sc_name": "天使之声・华耳琴璃",
     "jp_name": "天使の聲",
     "en_name": "Angello Vaalmonica"
   },
   "30432463": {
     "type": "Monster",
     "cn_name": "恶魔之声",
+    "sc_name": "魔鬼之声・华耳琴璃",
     "jp_name": "悪魔の聲",
     "en_name": "Dimonno Vaalmonica"
   },
   "76821171": {
     "type": "Monster",
     "cn_name": "异响鸣之异神-光耀天使",
+    "sc_name": "华耳琴璃之异神－誓拉尔梅",
     "jp_name": "ヴァルモニカの異神－ジュラルメ",
     "en_name": "Duralume, Vaalmonican Heathen Hallow"
   },
   "2815176": {
     "type": "Monster",
     "cn_name": "异响鸣之神异-风暴恶魔",
+    "sc_name": "华耳琴璃之神异－则步费岚",
     "jp_name": "ヴァルモニカの神異－ゼブフェーラ",
     "en_name": "Zebufera, Vaalmonican Hallow Heathen"
   },
   "39210885": {
     "type": "Spell",
     "cn_name": "天魔之声选器-『异响鸣琴』",
+    "sc_name": "天魔之声选器－『华耳琴璃』",
     "jp_name": "天魔の聲選器－『ヴァルモニカ』",
     "en_name": "Vaalmonica, the Agathokakological Voice"
   },
   "5605529": {
     "type": "Spell",
     "cn_name": "异响鸣的选择",
+    "sc_name": "华耳琴璃・抉择",
     "jp_name": "ヴァルモニカ・シェルタ",
     "en_name": "Vaalmonica Scelta"
   },
   "42193638": {
     "type": "Spell",
     "cn_name": "异响鸣的倒水",
+    "sc_name": "华耳琴璃・倾注",
     "jp_name": "ヴァルモニカ・ヴェルサーレ",
     "en_name": "Vaalmonica Versare"
   },
   "78598237": {
     "type": "Spell",
     "cn_name": "异响鸣的调律",
+    "sc_name": "华耳琴璃・调音",
     "jp_name": "ヴァルモニカ・イントナーレ",
     "en_name": "Vaalmonica Intonare"
   },
   "4582942": {
     "type": "Trap",
     "cn_name": "律导之异响鸣",
+    "sc_name": "律导之华耳琴璃",
     "jp_name": "律導のヴァルモニカ",
     "en_name": "Vaalmonica Followed Rhythm"
   },
   "31971040": {
     "type": "Trap",
     "cn_name": "选律之异响鸣",
+    "sc_name": "选律之华耳琴璃",
     "jp_name": "選律のヴァルモニカ",
     "en_name": "Vaalmonica Chosen Melody"
   },
