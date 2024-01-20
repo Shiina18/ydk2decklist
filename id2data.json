@@ -78243,158 +78243,187 @@
   "23446369": {
     "type": "Spell",
     "cn_name": "幻惑之眼",
-    "jp_name": "幻惑の眼"
+    "jp_name": "幻惑の眼",
+    "en_name": "Eye of Illusion"
   },
   "50834074": {
     "type": "Monster",
     "cn_name": "地狱猛禽翼龙",
-    "jp_name": "ヘルカイトプテラ"
+    "jp_name": "ヘルカイトプテラ",
+    "en_name": "Kaitoptera"
   },
   "86239173": {
     "type": "Monster",
     "cn_name": "地狱猎犬猛龙",
-    "jp_name": "ヘルホーンドザウルス"
+    "jp_name": "ヘルホーンドザウルス",
+    "en_name": "Horned Saurus"
   },
   "22723778": {
     "type": "Monster",
     "cn_name": "暗黑界的混沌王 卡勒莱斯",
-    "jp_name": "暗黒界の混沌王 カラレス"
+    "jp_name": "暗黒界の混沌王 カラレス",
+    "en_name": "Clorless, Chaos King of Dark World"
   },
   "59712426": {
     "type": "Monster",
     "cn_name": "秘仪之力15-恶魔",
-    "jp_name": "アルカナフォースⅩⅤ－THE DEVIL"
+    "jp_name": "アルカナフォースⅩⅤ－THE DEVIL",
+    "en_name": "Arcana Force XV - The Fiend"
   },
   "85106525": {
     "type": "Spell",
     "cn_name": "篝火",
     "sc_name": "篝火",
-    "jp_name": "篝火"
+    "jp_name": "篝火",
+    "en_name": "Bonfire"
   },
   "12501230": {
     "type": "Monster",
     "cn_name": "战斗车轮",
-    "jp_name": "コンバット・ホイール"
+    "jp_name": "コンバット・ホイール",
+    "en_name": "Combat Wheel"
   },
   "58996839": {
     "type": "Monster",
     "cn_name": "阿育王铁柱",
-    "jp_name": "アショカ・ピラー"
+    "jp_name": "アショカ・ピラー",
+    "en_name": "Ashoka Pillar"
   },
   "84384943": {
     "type": "Monster",
     "cn_name": "卡布雷拉石",
-    "jp_name": "カブレラストーン"
+    "jp_name": "カブレラストーン",
+    "en_name": "Cabrera Stone"
   },
   "11489642": {
     "type": "Spell",
     "cn_name": "三角阵-O",
-    "jp_name": "トライアングル－O"
+    "jp_name": "トライアングル－O",
+    "en_name": "Triangle O"
   },
   "47873397": {
     "type": "Trap",
     "cn_name": "图腾柱",
-    "jp_name": "トーテムポール"
+    "jp_name": "トーテムポール",
+    "en_name": "Totem Pole"
   },
   "84262395": {
     "type": "Trap",
     "cn_name": "地缚解放",
-    "jp_name": "地縛解放"
+    "jp_name": "地縛解放",
+    "en_name": "Earthbound Release"
   },
   "10666000": {
     "type": "Monster",
     "cn_name": "No.1 感染蝇王 巴力·西卜",
-    "jp_name": "No.1 インフェクション・バアル・ゼブル"
+    "jp_name": "No.1 インフェクション・バアル・ゼブル",
+    "en_name": "Number 1: Infection Buzzking"
   },
   "47051709": {
     "type": "Monster",
     "cn_name": "光子三角翼飞机",
-    "jp_name": "フォトン・デルタ・ウィング"
+    "jp_name": "フォトン・デルタ・ウィング",
+    "en_name": "Photon Delta Wing"
   },
   "73046708": {
     "type": "Spell",
     "cn_name": "铠装超量",
     "sc_name": "装甲超量",
-    "jp_name": "アーマード・エクシーズ"
+    "jp_name": "アーマード・エクシーズ",
+    "en_name": "Armored Xyz"
   },
   "19544412": {
     "type": "Spell",
     "cn_name": "选手入场宣告",
-    "jp_name": "選手入場アナウンス"
+    "jp_name": "選手入場アナウンス",
+    "en_name": "Ring Announcer"
   },
   "46939151": {
     "type": "Monster",
     "cn_name": "地缚囚人 土地看守者",
     "sc_name": "地缚囚人 大地看守者",
-    "jp_name": "地縛囚人 グランド・キーパー"
+    "jp_name": "地縛囚人 グランド・キーパー",
+    "en_name": "Earthbound Prisoner Ground Keeper"
   },
   "72323266": {
     "type": "Monster",
     "cn_name": "地缚囚人 石块清扫者",
     "sc_name": "地缚囚人 岩石清扫者",
-    "jp_name": "地縛囚人 ストーン・スィーパー"
+    "jp_name": "地縛囚人 ストーン・スィーパー",
+    "en_name": "Earthbound Prisoner Stone Sweeper"
   },
   "19322865": {
     "type": "Monster",
     "cn_name": "地缚囚人 线条步行者",
     "sc_name": "地缚囚人 地线巡视者",
-    "jp_name": "地縛囚人 ライン・ウォーカー"
+    "jp_name": "地縛囚人 ライン・ウォーカー",
+    "en_name": "Earthbound Prisoner Line Walker"
   },
   "45716579": {
     "type": "Monster",
     "cn_name": "地缚戒隶 地画乌贼",
     "sc_name": "地缚戒隶 地画克拉肯",
-    "jp_name": "地縛戒隷 ジオクラーケン"
+    "jp_name": "地縛戒隷 ジオクラーケン",
+    "en_name": "Earthbound Servant Geo Kraken"
   },
   "71101678": {
     "type": "Monster",
     "cn_name": "地缚戒隶 地画翼犬魔",
     "sc_name": "地缚戒隶 地画格剌希亚拉波斯",
-    "jp_name": "地縛戒隷 ジオグラシャ＝ラボラス"
+    "jp_name": "地縛戒隷 ジオグラシャ＝ラボラス",
+    "en_name": "Earthbound Servant Geo Grasha"
   },
   "8690387": {
     "type": "Monster",
     "cn_name": "地缚戒隶 地画精怪",
     "sc_name": "地缚戒隶 地画戈兰林",
-    "jp_name": "地縛戒隷 ジオグレムリン"
+    "jp_name": "地縛戒隷 ジオグレムリン",
+    "en_name": "Earthbound Servant Geo Gremlin"
   },
   "44094981": {
     "type": "Monster",
     "cn_name": "地缚戒隶 地画狮鹫",
     "sc_name": "地缚戒隶 地画格里芬",
-    "jp_name": "地縛戒隷 ジオグリフォン"
+    "jp_name": "地縛戒隷 ジオグリフォン",
+    "en_name": "Earthbound Servant Geo Gryphon"
   },
   "71089030": {
     "type": "Spell",
     "cn_name": "地缚牢",
     "sc_name": "地缚牢",
-    "jp_name": "地縛牢"
+    "jp_name": "地縛牢",
+    "en_name": "Earthbound Prison"
   },
   "7473735": {
     "type": "Spell",
     "cn_name": "异界共鸣-同调融合",
     "sc_name": "异界共鸣－同步结合",
-    "jp_name": "異界共鳴－シンクロ・フュージョン"
+    "jp_name": "異界共鳴－シンクロ・フュージョン",
+    "en_name": "Harmonic Synchro Fusion"
   },
   "33872334": {
     "type": "Spell",
     "cn_name": "凤凰武装剑",
-    "jp_name": "フェニックス・ギア・ブレード"
+    "jp_name": "フェニックス・ギア・ブレード",
+    "en_name": "Phoenix Gearblade"
   },
   "70366448": {
     "type": "Spell",
     "cn_name": "激烈抽卡",
-    "jp_name": "ドラスティック・ドロー"
+    "jp_name": "ドラスティック・ドロー",
+    "en_name": "Drastic Draw"
   },
   "6351147": {
     "type": "Trap",
     "cn_name": "事务回滚",
-    "jp_name": "トランザクション・ロールバック"
+    "jp_name": "トランザクション・ロールバック",
+    "en_name": "Transaction Rollback"
   },
   "33750856": {
     "type": "Trap",
     "cn_name": "代码入侵",
-    "jp_name": "コード・ハック"
+    "jp_name": "コード・ハック",
+    "en_name": "Code Hack"
   },
   "25577965": {
     "type": "Monster",
@@ -80103,5 +80132,10 @@
     "type": "Trap",
     "cn_name": "兽痕累累",
     "jp_name": "獣累々"
+  },
+  "100200250": {
+    "type": "Spell",
+    "cn_name": "魔法卡「死者苏生」",
+    "jp_name": "マジックカード「死者蘇生」"
   }
 }
