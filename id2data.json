@@ -80459,6 +80459,86 @@
     "cn_name": "闪刀姬-阿泽莉娅·节制",
     "jp_name": "閃刀姫－アザレア・テンペランス"
   },
+  "70843274": {
+    "type": "Monster",
+    "cn_name": "念力处理器",
+    "en_name": "Psychic Processor"
+  },
+  "16238373": {
+    "type": "Spell",
+    "cn_name": "念力武库",
+    "en_name": "Psychic Arsenal"
+  },
+  "43633088": {
+    "type": "Trap",
+    "cn_name": "紧急显形",
+    "en_name": "Emergency Apport"
+  },
+  "79627627": {
+    "type": "Monster",
+    "cn_name": "互换鸟",
+    "en_name": "Conbirdable"
+  },
+  "6116731": {
+    "type": "Monster",
+    "cn_name": "蜈蚣群",
+    "en_name": "Swarm of Centipedes"
+  },
+  "42510430": {
+    "type": "Spell",
+    "cn_name": "黄昏节拍",
+    "en_name": "Sunset Beat"
+  },
+  "78905039": {
+    "type": "Monster",
+    "cn_name": "乱音概念三角兽",
+    "en_name": "Tricorn the Cacophonous Concert"
+  },
+  "5993144": {
+    "type": "Spell",
+    "cn_name": "燕贝",
+    "en_name": "Swallow's Cowrie"
+  },
+  "31398842": {
+    "type": "Spell",
+    "cn_name": "超量之力",
+    "en_name": "Xyz Force"
+  },
+  "78783557": {
+    "type": "Monster",
+    "cn_name": "灭烬爆龙 维多斯",
+    "en_name": "Veidos the Eruption Dragon of Extinction"
+  },
+  "4271596": {
+    "type": "Monster",
+    "cn_name": "灰尽之都的国王",
+    "en_name": "King of the Ashened City"
+  },
+  "30676200": {
+    "type": "Monster",
+    "cn_name": "灰尽之都的英杰",
+    "en_name": "Hero of the Ashened City"
+  },
+  "67660909": {
+    "type": "Monster",
+    "cn_name": "灰尽之都的女祭司",
+    "en_name": "Priestess of the Ashened City"
+  },
+  "3055018": {
+    "type": "Spell",
+    "cn_name": "灰尽之都 黑曜城",
+    "en_name": "Obsidim, the Ashened City"
+  },
+  "30453613": {
+    "type": "Spell",
+    "cn_name": "维多斯的苏醒",
+    "en_name": "Awakening of Veidos"
+  },
+  "66848311": {
+    "type": "Trap",
+    "cn_name": "永恒灰尽",
+    "en_name": "Ashened for Eternity"
+  },
   "2333466": {
     "type": "Monster",
     "cn_name": "破坏龙 甘多拉·禁忌",
