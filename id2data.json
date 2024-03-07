@@ -475,7 +475,8 @@
   "2906250": {
     "type": "Monster",
     "cn_name": "捕猎蛇",
-    "jp_name": "グラップラー"
+    "jp_name": "グラップラー",
+    "en_name": "Grappler"
   },
   "48305365": {
     "type": "Monster",
@@ -8074,7 +8075,8 @@
   "3103067": {
     "type": "Trap",
     "cn_name": "攻击诱导铠甲",
-    "jp_name": "攻撃誘導アーマー"
+    "jp_name": "攻撃誘導アーマー",
+    "en_name": "Attack Guidance Armor"
   },
   "39507162": {
     "type": "Monster",
@@ -8474,7 +8476,8 @@
   "38105306": {
     "type": "Trap",
     "cn_name": "逐渐削减的生命",
-    "jp_name": "削りゆく命"
+    "jp_name": "削りゆく命",
+    "en_name": "Life Shaver"
   },
   "64500000": {
     "type": "Monster",
@@ -8554,7 +8557,8 @@
   "85758066": {
     "type": "Trap",
     "cn_name": "机械驱动的魔镜",
-    "jp_name": "機械じかけのマジックミラー"
+    "jp_name": "機械じかけのマジックミラー",
+    "en_name": "Magical Trick Mirror"
   },
   "12143771": {
     "type": "Monster",
@@ -80458,6 +80462,11 @@
     "type": "Monster",
     "cn_name": "闪刀姬-阿泽莉娅·节制",
     "jp_name": "閃刀姫－アザレア・テンペランス"
+  },
+  "100215001": {
+    "type": "Monster",
+    "cn_name": "炎王妃 火神不死鸟",
+    "jp_name": "炎王妃 ウルカニクス"
   },
   "70843274": {
     "type": "Monster",
