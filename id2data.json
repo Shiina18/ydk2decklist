@@ -335,6 +335,7 @@
   "15367030": {
     "type": "Monster",
     "cn_name": "蟑螂球",
+    "sc_name": "蟑螂球",
     "jp_name": "ゴキボール",
     "en_name": "Gokibore"
   },
@@ -4544,6 +4545,7 @@
   "74150658": {
     "type": "Monster",
     "cn_name": "纹影魔爪",
+    "sc_name": "纹影之钩爪",
     "jp_name": "タロンズ・オブ・シュリーレン"
   },
   "11549357": {
@@ -11249,6 +11251,7 @@
   "64681432": {
     "type": "Monster",
     "cn_name": "破坏龙 甘多拉",
+    "sc_name": "破坏龙 钢多拉",
     "jp_name": "破壊竜ガンドラ",
     "en_name": "Gandora the Dragon of Destruction"
   },
@@ -11484,6 +11487,7 @@
   "39191307": {
     "type": "Monster",
     "cn_name": "假面龙",
+    "sc_name": "假面龙",
     "jp_name": "仮面竜",
     "en_name": "Masked Dragon"
   },
@@ -12601,6 +12605,7 @@
   "83104731": {
     "type": "Monster",
     "cn_name": "古代的机械巨人",
+    "sc_name": "古代机械齿轮巨人",
     "jp_name": "古代の機械巨人",
     "en_name": "Ancient Gear Golem"
   },
@@ -19440,12 +19445,14 @@
   "59019082": {
     "type": "Monster",
     "cn_name": "光道战士 加洛斯",
+    "sc_name": "光道战士 伽罗斯",
     "jp_name": "ライトロード・ウォリアー ガロス",
     "en_name": "Garoth, Lightsworn Warrior"
   },
   "95503687": {
     "type": "Monster",
     "cn_name": "光道召唤师 露米娜丝",
+    "sc_name": "光道召唤士 路米娜丝",
     "jp_name": "ライトロード・サモナー ルミナス",
     "en_name": "Lumina, Lightsworn Summoner"
   },
@@ -19459,12 +19466,14 @@
   "58996430": {
     "type": "Monster",
     "cn_name": "光道兽 沃尔夫",
+    "sc_name": "光道野兽 沃尔夫",
     "jp_name": "ライトロード・ビースト ウォルフ",
     "en_name": "Wulf, Lightsworn Beast"
   },
   "94381039": {
     "type": "Monster",
     "cn_name": "光道天使 基路伯",
+    "sc_name": "光道天使 基路比姆",
     "jp_name": "ライトロード・エンジェル ケルビム",
     "en_name": "Celestia, Lightsworn Angel"
   },
@@ -19477,6 +19486,7 @@
   "57774843": {
     "type": "Monster",
     "cn_name": "裁决之龙",
+    "sc_name": "裁决之龙",
     "jp_name": "裁きの龍",
     "en_name": "Judgment Dragon"
   },
@@ -19581,6 +19591,7 @@
   "12652643": {
     "type": "Monster",
     "cn_name": "古代的机械究极巨人",
+    "sc_name": "古代机械齿轮究极巨人",
     "jp_name": "古代の機械究極巨人",
     "en_name": "Ultimate Ancient Gear Golem"
   },
@@ -19636,6 +19647,7 @@
   "691925": {
     "type": "Spell",
     "cn_name": "太阳交换",
+    "sc_name": "太阳能交换",
     "jp_name": "ソーラー・エクスチェンジ",
     "en_name": "Solar Recharge"
   },
@@ -22761,6 +22773,7 @@
   "41741922": {
     "type": "Monster",
     "cn_name": "熔岩龙",
+    "sc_name": "岩浆龙",
     "jp_name": "ラヴァ・ドラゴン",
     "en_name": "Lava Dragon"
   },
@@ -22793,6 +22806,7 @@
   "39402797": {
     "type": "Monster",
     "cn_name": "三叉戟龙军王",
+    "sc_name": "三戟天龙",
     "jp_name": "トライデント・ドラギオン",
     "en_name": "Trident Dragion"
   },
@@ -26129,6 +26143,7 @@
   "51925772": {
     "type": "Monster",
     "cn_name": "惧龙",
+    "sc_name": "可怖龙",
     "jp_name": "ドレッド・ドラゴン",
     "en_name": "Dread Dragon"
   },
@@ -38444,6 +38459,7 @@
   "40164421": {
     "type": "Monster",
     "cn_name": "光道少女 密涅瓦",
+    "sc_name": "光道少女 密涅瓦",
     "jp_name": "ライトロード・メイデン ミネルバ",
     "en_name": "Minerva, Lightsworn Maiden"
   },
@@ -40500,18 +40516,21 @@
   "40502912": {
     "type": "Monster",
     "cn_name": "幻奏的音女 阿莉娅",
+    "sc_name": "幻奏音女 阿丽娅",
     "jp_name": "幻奏の音女アリア",
     "en_name": "Aria the Melodious Diva"
   },
   "76990617": {
     "type": "Monster",
     "cn_name": "幻奏的音女 索娜塔",
+    "sc_name": "幻奏音女 索娜塔",
     "jp_name": "幻奏の音女ソナタ",
     "en_name": "Sonata the Melodious Diva"
   },
   "3395226": {
     "type": "Monster",
     "cn_name": "幻奏的音姬 天才之莫扎特",
+    "sc_name": "幻奏音姬 天才莫扎特",
     "jp_name": "幻奏の音姫プロディジー・モーツァルト",
     "en_name": "Mozarta the Melodious Maestra"
   },
@@ -41213,24 +41232,28 @@
   "16021142": {
     "type": "Monster",
     "cn_name": "幻奏的音女 卡农",
+    "sc_name": "幻奏音女 珈诺",
     "jp_name": "幻奏の音女カノン",
     "en_name": "Canon the Melodious Diva"
   },
   "42029847": {
     "type": "Monster",
     "cn_name": "幻奏的音女 塞瑞娜",
+    "sc_name": "幻奏音女 塞雷娜",
     "jp_name": "幻奏の音女セレナ",
     "en_name": "Serenade the Melodious Diva"
   },
   "79514956": {
     "type": "Monster",
     "cn_name": "幻奏的音女 埃勒姬",
+    "sc_name": "幻奏音女 埃蕾姬",
     "jp_name": "幻奏の音女エレジー",
     "en_name": "Elegy the Melodious Diva"
   },
   "5908650": {
     "type": "Monster",
     "cn_name": "幻奏的音姬 殊荣之弗朗索瓦",
+    "sc_name": "幻奏音姬 桂冠肖邦",
     "jp_name": "幻奏の音姫ローリイット・フランソワ",
     "en_name": "Shopina the Melodious Maestra"
   },
@@ -41574,6 +41597,7 @@
   "44256816": {
     "type": "Spell",
     "cn_name": "独奏的第1乐章",
+    "sc_name": "独奏第１乐章",
     "jp_name": "独奏の第１楽章",
     "en_name": "1st Movement Solo"
   },
@@ -43367,6 +43391,7 @@
   "62895219": {
     "type": "Monster",
     "cn_name": "幻奏的歌姬 索普拉诺",
+    "sc_name": "幻奏歌姬 索普拉诺",
     "jp_name": "幻奏の歌姫ソプラノ",
     "en_name": "Soprano the Melodious Songstress"
   },
@@ -43553,12 +43578,14 @@
   "57594700": {
     "type": "Monster",
     "cn_name": "幻奏的音姬 巨匠之舒伯特",
+    "sc_name": "幻奏音姬 巨匠舒伯特",
     "jp_name": "幻奏の音姫マイスタリン・シューベルト",
     "en_name": "Schuberta the Melodious Maestra"
   },
   "84988419": {
     "type": "Monster",
     "cn_name": "幻奏的华歌圣 花之蒂娃",
+    "sc_name": "幻奏华歌圣 绽放名伶",
     "jp_name": "幻奏の華歌聖ブルーム・ディーヴァ",
     "en_name": "Bloom Diva the Melodious Choir"
   },
@@ -44043,6 +44070,7 @@
   "79757784": {
     "type": "Monster",
     "cn_name": "幻奏的音女 唐唐",
+    "sc_name": "幻奏音女 唐唐",
     "jp_name": "幻奏の音女タムタム",
     "en_name": "Tamtam the Melodious Diva"
   },
@@ -44540,6 +44568,7 @@
   "66194206": {
     "type": "Trap",
     "cn_name": "光道的裁决",
+    "sc_name": "光道之裁决",
     "jp_name": "ライトロードの裁き",
     "en_name": "Lightsworn Judgment"
   },
@@ -46132,6 +46161,7 @@
   "41767843": {
     "type": "Monster",
     "cn_name": "幻奏的音女 丝可尔",
+    "sc_name": "幻奏音女 丝可娅",
     "jp_name": "幻奏の音女スコア",
     "en_name": "Score the Melodious Diva"
   },
@@ -47395,6 +47425,7 @@
   "24672164": {
     "type": "Monster",
     "cn_name": "幻奏的华歌圣 花之普莉玛",
+    "sc_name": "幻奏华歌圣 绽放首席",
     "jp_name": "幻奏の華歌聖ブルーム・プリマ",
     "en_name": "Bloom Prima the Melodious Choir"
   },
@@ -47475,6 +47506,7 @@
   "11493868": {
     "type": "Spell",
     "cn_name": "极强音",
+    "sc_name": "极强音",
     "jp_name": "フォルテッシモ",
     "en_name": "Fortissimo"
   },
@@ -50361,6 +50393,7 @@
   "47482043": {
     "type": "Trap",
     "cn_name": "古代的机械苏生",
+    "sc_name": "古代机械齿轮苏生",
     "jp_name": "古代の機械蘇生",
     "en_name": "Ancient Gear Reborn"
   },
@@ -50713,6 +50746,7 @@
   "9113513": {
     "type": "Spell",
     "cn_name": "固定音型",
+    "sc_name": "反复音型",
     "jp_name": "オスティナート",
     "en_name": "Ostinato"
   },
@@ -52031,18 +52065,21 @@
   "56166150": {
     "type": "Monster",
     "cn_name": "暮光道萨满 露米娜丝",
+    "sc_name": "暮光道萨满 路米娜丝",
     "jp_name": "トワイライトロード・シャーマン ルミナス",
     "en_name": "Lumina, Twilightsworn Shaman"
   },
   "83550869": {
     "type": "Monster",
     "cn_name": "暮光道斗犬 雷光",
+    "sc_name": "暮光道斗犬 莱可",
     "jp_name": "トワイライトロード・ファイター ライコウ",
     "en_name": "Ryko, Twilightsworn Fighter"
   },
   "19959563": {
     "type": "Monster",
     "cn_name": "惩戒之龙",
+    "sc_name": "惩戒之龙",
     "jp_name": "戒めの龍",
     "en_name": "Punishment Dragon"
   },
@@ -57449,6 +57486,7 @@
   "17535764": {
     "type": "Monster",
     "cn_name": "蟑螂柱",
+    "sc_name": "蟑螂柱",
     "jp_name": "ゴキポール",
     "en_name": "Gokipole"
   },
@@ -57666,6 +57704,7 @@
   "58012707": {
     "type": "Spell",
     "cn_name": "巨强棒球场",
+    "sc_name": "巨强棒球场",
     "jp_name": "G・ボールパーク",
     "en_name": "Giant Ballpark"
   },
@@ -64013,6 +64052,7 @@
   "34974462": {
     "type": "Monster",
     "cn_name": "幻奏的华乐圣 花之哈摩妮丝特",
+    "sc_name": "幻奏华乐圣 绽放谐曲家",
     "jp_name": "幻奏の華楽聖ブルーム・ハーモニスト",
     "en_name": "Bloom Harmonist the Melodious Composer"
   },
@@ -77408,6 +77448,7 @@
   "93125329": {
     "type": "Monster",
     "cn_name": "金云兽-马龙",
+    "sc_name": "金云兽－马龙",
     "jp_name": "金雲獣－馬龍",
     "en_name": "Golden Cloud Beast - Malong"
   },
@@ -80556,396 +80597,475 @@
   "2333466": {
     "type": "Monster",
     "cn_name": "破坏龙 甘多拉·禁忌",
+    "sc_name": "破坏龙 钢多拉G",
     "jp_name": "破壊竜ガンドラG"
   },
   "39321065": {
     "type": "Monster",
     "cn_name": "沉默剑士·零",
+    "sc_name": "沉默剑士・零",
     "jp_name": "サイレント・ソードマン・ゼロ"
   },
   "65726770": {
     "type": "Monster",
     "cn_name": "沉默魔术师·零",
+    "sc_name": "沉默魔术师・零",
     "jp_name": "サイレント・マジシャン・ゼロ"
   },
   "92110878": {
     "type": "Monster",
     "cn_name": "三色零件",
+    "sc_name": "三色小工具",
     "jp_name": "トリコロール・ガジェット"
   },
   "38505587": {
     "type": "Monster",
     "cn_name": "增量棉花糖",
+    "sc_name": "棉棉花糖",
     "jp_name": "マシマシュマロン"
   },
   "64603182": {
     "type": "Monster",
     "cn_name": "古代的机械暗黑巨人",
+    "sc_name": "古代机械齿轮暗黑巨人",
     "jp_name": "古代の機械暗黒巨人"
   },
   "91098230": {
     "type": "Monster",
     "cn_name": "古代的机械战车兵",
+    "sc_name": "古代机械齿轮战车兵",
     "jp_name": "古代の機械戦車兵"
   },
   "27483935": {
     "type": "Monster",
     "cn_name": "古代的机械司令",
+    "sc_name": "古代机械齿轮司令",
     "jp_name": "古代の機械司令"
   },
   "64881644": {
     "type": "Monster",
     "cn_name": "幻奏的歌姬 勒弗兰",
+    "sc_name": "幻奏歌姬 露芙兰",
     "jp_name": "幻奏の歌姫ルフラン"
   },
   "90276649": {
     "type": "Monster",
     "cn_name": "幻奏的歌姬 库普莱",
+    "sc_name": "幻奏歌姬 库蒲蕾",
     "jp_name": "幻奏の歌姫クープレ"
   },
   "27260347": {
     "type": "Monster",
     "cn_name": "蛇眼大炎魔",
+    "sc_name": "蛇眼大炎魔・迪亚贝尔斯塔",
     "jp_name": "蛇眼の大炎魔"
   },
   "53765052": {
     "type": "Monster",
     "cn_name": "原罪之迪亚贝尔西",
+    "sc_name": "原罪的迪亚贝尔赛",
     "jp_name": "原罪のディアベルゼ"
   },
   "99153051": {
     "type": "Monster",
     "cn_name": "蕾祸之毬首",
+    "sc_name": "蕾祸之毬首",
     "jp_name": "蕾禍ノ毬首"
   },
   "26548709": {
     "type": "Monster",
     "cn_name": "蕾祸之矢筈天牛",
+    "sc_name": "蕾祸之矢筈天牛",
     "jp_name": "蕾禍ノ矢筈天牛"
   },
   "52543404": {
     "type": "Monster",
     "cn_name": "蕾祸之铠石龙",
+    "sc_name": "蕾祸之铠石龙",
     "jp_name": "蕾禍ノ鎧石竜"
   },
   "39931513": {
     "type": "Monster",
     "cn_name": "天杯龙 白龙",
+    "sc_name": "天杯龙 白板龙",
     "jp_name": "天盃龍パイドラ"
   },
   "65326118": {
     "type": "Monster",
     "cn_name": "天杯龙 发龙",
+    "sc_name": "天杯龙 绿发龙",
     "jp_name": "天盃龍ファドラ"
   },
   "91810826": {
     "type": "Monster",
     "cn_name": "天杯龙 中龙",
+    "sc_name": "天杯龙 红中龙",
     "jp_name": "天盃龍チュンドラ"
   },
   "24215921": {
     "type": "Monster",
     "cn_name": "地狱墓场蠕动者",
+    "sc_name": "地狱墓场蠕动者",
     "jp_name": "ヘルグレイブ・スクワーマー"
   },
   "60203670": {
     "type": "Monster",
     "cn_name": "黄金荣耀-暗杀者",
+    "sc_name": "黄金荣耀－暗袭手",
     "jp_name": "GP－アサシネーター"
   },
   "97698279": {
     "type": "Monster",
     "cn_name": "龙骑兵 石像怪2",
+    "sc_name": "龙装百夫骑兵 卡戈尔Ⅱ",
     "jp_name": "竜騎兵ガーゴイルⅡ"
   },
   "23093373": {
     "type": "Monster",
     "cn_name": "天魔之声选姬",
+    "sc_name": "天魔之声选姬・华耳琴璃",
     "jp_name": "天魔の聲選姫"
   },
   "59481082": {
     "type": "Monster",
     "cn_name": "光道之龙",
+    "sc_name": "光道之龙",
     "jp_name": "光道の龍"
   },
   "96576187": {
     "type": "Monster",
     "cn_name": "光道恶魔 魏丝",
+    "sc_name": "光道恶魔 拜斯",
     "jp_name": "ライトロード・デーモン ヴァイス"
   },
   "22970795": {
     "type": "Monster",
     "cn_name": "白骨领主",
+    "sc_name": "白骨道君主",
     "jp_name": "ワイトロード"
   },
   "59369430": {
     "type": "Monster",
     "cn_name": "钢铁大魔人 轱戈伊尔",
+    "sc_name": "钢铁大魔人 戈鲁戈伊尔",
     "jp_name": "鋼鉄の大魔人ゴルゴイル"
   },
   "85753549": {
     "type": "Monster",
     "cn_name": "月牙龙-新月龙",
+    "sc_name": "月牙龙－新月龙",
     "jp_name": "月牙龍－クレセント・ドラゴン"
   },
   "58143852": {
     "type": "Monster",
     "cn_name": "幻惑之见习魔术师",
+    "sc_name": "幻惑见习魔术使",
     "jp_name": "幻惑の見習い魔術師"
   },
   "84631951": {
     "type": "Monster",
     "cn_name": "恐龙侵略者·双梁龙",
+    "sc_name": "新世侵略梁龙",
     "jp_name": "ディノベーダー・ドクス"
   },
   "21036656": {
     "type": "Monster",
     "cn_name": "圆唤妖精 蘑菇圈",
+    "sc_name": "圆唤妖精 基克罗斯",
     "jp_name": "円喚妖精キクロス"
   },
   "57420265": {
     "type": "Monster",
     "cn_name": "电子鱼人-鱼叉手",
+    "sc_name": "鱼博格－击叉者",
     "jp_name": "フィッシュボーグ－ハープナー"
   },
   "83819309": {
     "type": "Monster",
     "cn_name": "冷却之火",
+    "sc_name": "冷却之火",
     "jp_name": "冷える火"
   },
   "10804018": {
     "type": "Monster",
     "cn_name": "肃声之龙神 萨菲拉",
+    "sc_name": "肃声龙神 萨菲拉",
     "jp_name": "粛声なる竜神サフィラ"
   },
   "56208713": {
     "type": "Monster",
     "cn_name": "幻奏的音姬 壮丽之巴赫",
+    "sc_name": "幻奏音姬 壮阔巴赫",
     "jp_name": "幻奏の音姫スペクタキュラー・バッハ"
   },
   "83793721": {
     "type": "Monster",
     "cn_name": "幻奏的华歌神 花开之埃图瓦勒",
+    "sc_name": "幻奏华歌神 绚烂舞星",
     "jp_name": "幻奏の華歌神フラワリング・エトワール"
   },
   "19181420": {
     "type": "Monster",
     "cn_name": "莫忘双头龙",
+    "sc_name": "冥铭途・双头龙",
     "jp_name": "メメント・ツイン・ドラゴン"
   },
   "46186135": {
     "type": "Monster",
     "cn_name": "神光之龙",
+    "sc_name": "神光之龙",
     "jp_name": "神光の龍"
   },
   "82570174": {
     "type": "Monster",
     "cn_name": "灿幻升龙 双叉戟龙军王",
+    "sc_name": "灿幻升龙 双戟天龙",
     "jp_name": "燦幻昇龍バイデント・ドラギオン"
   },
   "18969888": {
     "type": "Monster",
     "cn_name": "灿幻超龙 三超戟龙军王",
+    "sc_name": "灿幻超龙 三极天龙",
     "jp_name": "燦幻超龍トランセンド・ドラギオン"
   },
   "45464587": {
     "type": "Monster",
     "cn_name": "黄金荣耀-灭杀者",
+    "sc_name": "黄金荣耀－灭击手",
     "jp_name": "GP－アニヒレーター"
   },
   "71858682": {
     "type": "Monster",
     "cn_name": "骑士皇 奥克西拉",
+    "sc_name": "百夫骑士皇 阿克斯拉",
     "jp_name": "騎士皇アークシーラ"
   },
   "18843291": {
     "type": "Monster",
     "cn_name": "光道雅典娜 密涅瓦",
+    "sc_name": "光道雅典娜 密涅瓦",
     "jp_name": "ライトロード・アテナ ミネルバ"
   },
   "44241999": {
     "type": "Monster",
     "cn_name": "百鬼罗刹 格里亚雷三杰",
+    "sc_name": "格布林百罗刹 格里阿雷三杰",
     "jp_name": "百鬼羅刹 グリアーレ三傑"
   },
   "70636044": {
     "type": "Monster",
     "cn_name": "终戒超兽-武尔德拉斯",
+    "sc_name": "终戒超兽－瓦鲁达罗斯",
     "jp_name": "終戒超獸－ヴァルドラス"
   },
   "7020743": {
     "type": "Monster",
     "cn_name": "怒小儿",
+    "sc_name": "凶孩子",
     "jp_name": "怒小児様"
   },
   "43129357": {
     "type": "Monster",
     "cn_name": "蕾祸之武者髑髅",
+    "sc_name": "蕾祸之武者骷髅",
     "jp_name": "蕾禍ノ武者髑髏"
   },
   "70514456": {
     "type": "Monster",
     "cn_name": "蕾祸之御拜神主",
+    "sc_name": "蕾祸之御拜神主",
     "jp_name": "蕾禍ノ御拝神主"
   },
   "6908161": {
     "type": "Monster",
     "cn_name": "蕾祸之锁蛇巳",
+    "sc_name": "蕾祸之锁蛇巳",
     "jp_name": "蕾禍ノ鎖蛇巳"
   },
   "42307760": {
     "type": "Monster",
     "cn_name": "蕾祸之大王鬼牙",
+    "sc_name": "蕾祸之大王鬼牙",
     "jp_name": "蕾禍ノ大王鬼牙"
   },
   "79791878": {
     "type": "Spell",
     "cn_name": "光之黄金柜",
+    "sc_name": "光之黄金柜",
     "jp_name": "光の黄金櫃"
   },
   "5786513": {
     "type": "Spell",
     "cn_name": "时间沉默",
+    "sc_name": "时之沉默－回合静默",
     "jp_name": "時の沈黙－ターン・サイレンス"
   },
   "32270212": {
     "type": "Spell",
     "cn_name": "同伴的牵绊",
+    "sc_name": "伙伴羁绊",
     "jp_name": "仲間の絆"
   },
   "78679226": {
     "type": "Spell",
     "cn_name": "对未来的沉默",
+    "sc_name": "向未来的沉默",
     "jp_name": "未来への沈黙"
   },
   "4064925": {
     "type": "Spell",
     "cn_name": "古代的进军",
+    "sc_name": "古代机械齿轮进军",
     "jp_name": "古代の進軍"
   },
   "31458630": {
     "type": "Spell",
     "cn_name": "幻奏协奏曲",
+    "sc_name": "幻奏协奏曲",
     "jp_name": "幻奏協奏曲"
   },
   "67457739": {
     "type": "Spell",
     "cn_name": "罪宝合战",
+    "sc_name": "罪宝合战",
     "jp_name": "罪宝合戦"
   },
   "4841383": {
     "type": "Spell",
     "cn_name": "蕾祸缭乱狂咲",
+    "sc_name": "蕾祸缭乱狂绽",
     "jp_name": "蕾禍繚乱狂咲"
   },
   "30336082": {
     "type": "Spell",
     "cn_name": "杯满的灿幻庄",
+    "sc_name": "杯满之灿幻庄",
     "jp_name": "盃満ちる燦幻荘"
   },
   "66730191": {
     "type": "Spell",
     "cn_name": "灿幻开门",
+    "sc_name": "灿幻开门",
     "jp_name": "燦幻開門"
   },
   "93729896": {
     "type": "Spell",
     "cn_name": "噩梦之玉座",
+    "sc_name": "梦魇王座",
     "jp_name": "ナイトメア・スローン"
   },
   "39114494": {
     "type": "Spell",
     "cn_name": "肃声之祝福",
+    "sc_name": "肃声祝福",
     "jp_name": "粛声なる祝福"
   },
   "66518509": {
     "type": "Spell",
     "cn_name": "冥骸融合-莫忘融合",
+    "sc_name": "冥骸融合－冥铭途结合",
     "jp_name": "冥骸融合－メメント・フュージョン"
   },
   "92907248": {
     "type": "Spell",
     "cn_name": "觉醒吧百夫长骑士！",
+    "sc_name": "觉醒吧・百夫骑士！",
     "jp_name": "ウェイクアップ・センチュリオン！"
   },
   "38491852": {
     "type": "Spell",
     "cn_name": "异响鸣的邀请",
+    "sc_name": "华耳琴璃・邀请",
     "jp_name": "ヴァルモニカ・インヴィターレ"
   },
   "65496951": {
     "type": "Spell",
     "cn_name": "异响鸣的不调和",
+    "sc_name": "华耳琴璃・不和谐音",
     "jp_name": "ヴァルモニカ・ディサルモニア"
   },
   "91880660": {
     "type": "Spell",
     "cn_name": "仇极生智图",
+    "sc_name": "九死必有一生路",
     "jp_name": "仇すれば通図"
   },
   "28279365": {
     "type": "Spell",
     "cn_name": "闪烁连接离熄",
+    "sc_name": "闪瞬连倒",
     "jp_name": "ブリンクアウト"
   },
   "64664373": {
     "type": "Spell",
     "cn_name": "共界神渊体",
+    "sc_name": "共界神渊体",
     "jp_name": "共界神淵体"
   },
   "91668078": {
     "type": "Spell",
     "cn_name": "踩着雪鞋印 顺着足迹追呀追 一个接一个",
+    "sc_name": "初晴寻踪去 踏雪妮儿复留印 来者沿迹循",
     "jp_name": "雪沓の 跡追うひとつ またひとつ"
   },
   "27157727": {
     "type": "Trap",
     "cn_name": "隐藏城 堡垒",
+    "sc_name": "隐匿城 坚实堡垒",
     "jp_name": "隠し砦 ストロング・ホールド"
   },
   "53541822": {
     "type": "Trap",
     "cn_name": "古代的机械竞斗",
+    "sc_name": "古代机械齿轮竞斗",
     "jp_name": "古代の機械競闘"
   },
   "90946420": {
     "type": "Trap",
     "cn_name": "百鬼罗刹大重叠",
+    "sc_name": "格布林百罗刹大重叠",
     "jp_name": "百鬼羅刹大重畳"
   },
   "26334139": {
     "type": "Trap",
     "cn_name": "轮回的罪宝",
+    "sc_name": "峰回罪宝",
     "jp_name": "廻る罪宝"
   },
   "53329234": {
     "type": "Trap",
     "cn_name": "微睡之罪宝-魇鸦",
+    "sc_name": "微睡之罪宝－摩莉安",
     "jp_name": "微睡の罪宝－モーリアン"
   },
   "89824842": {
     "type": "Trap",
     "cn_name": "蕾祸大轮首狩舞",
+    "sc_name": "蕾祸大轮首狩舞",
     "jp_name": "蕾禍大輪首狩舞"
   },
   "25218587": {
     "type": "Trap",
     "cn_name": "光道埃癸斯盾",
+    "sc_name": "光道埃癸斯",
     "jp_name": "ライトロード・アイギス"
   },
   "52607696": {
     "type": "Trap",
     "cn_name": "幻惑防护罩 -幻象之力-",
+    "sc_name": "幻惑防护罩－迷幻镜力－",
     "jp_name": "幻惑のバリア －ミラージュフォース－"
   },
   "88001391": {
     "type": "Trap",
     "cn_name": "地缚死灵 佐玛",
+    "sc_name": "地缚死灵 佐玛",
     "jp_name": "地縛死霊ゾーマ"
   },
   "25096909": {
     "type": "Trap",
     "cn_name": "联栗炮固定式",
+    "sc_name": "连栗炮固定式",
     "jp_name": "連慄砲固定式"
   },
   "71818935": {
