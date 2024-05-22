@@ -27,6 +27,12 @@
 - Adobe Reader 无法正常显示输出的 PDF, 可用 [Foxit](https://www.foxit.com/pdf-reader/) 或者 Chrome 浏览器打开
 - 输出的 PDF 每个栏目底下 TOTAL XXX 统计数值写死了, 不会自动更新, 事后手动修改 PDF 时要注意
 
+**打印卡图**
+
+- 暂不支持灵摆
+- 效果文字为中文, 打印后也绝对清晰, 但排版可能不是很美观
+- 自动更新脚本还没写, 暂不支持最新的卡 (2024/5/22)
+
 **链接**
 
 - [卡表填写注意事项](https://mp.weixin.qq.com/s/lpKTkOnqrGFfsjROtoJUKA) @chosKD

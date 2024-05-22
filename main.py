@@ -17,6 +17,7 @@ from utils import (
     Section, CardType, Language, CardData,
     Record, Deck,
 )
+import printing_utils
 
 logger = logging.getLogger(__name__)
 
@@ -72,6 +73,32 @@ FILL_MONSTER_IN_SPELL = st.checkbox(
 )
 USE_CHINESE = st.checkbox('使用中文 PDF 模板')
 NOTE = '**中文模板常常显示不全卡名, 英文模板几乎没有这个问题**'
+
+PRINT_IMAGE = st.checkbox('打印卡图')
+if PRINT_IMAGE:
+    st.text('生成卡图打印文件需要一些时间 (可能十几秒). 其余注意事项见页面底部.')
+    ID2OLD_DESC = {}
+    st.markdown(
+        """如果你需要打印修改前的效果, 可以自己提供配置. 样例
+
+```json
+{
+    "26202165": "【修改前效果】这张卡从场上送去墓地时，从自己的卡组把1只攻击力1500以下的怪兽加入手卡。",
+    "50321796": "调整＋调整以外的怪兽1只以上\\r\\n【修改前效果】①：把手卡任意数量丢弃去墓地，以丢弃数量的对方场上的卡为对象才能发动。那些卡回到持有者手卡。",
+    "77565204": "【修改前效果】把自己的额外卡组1只融合怪兽给双方确认，把决定的融合素材怪兽从自己卡组送去墓地。发动后第2次的自己的准备阶段时，把确认的1只融合怪兽当作融合召唤从额外卡组特殊召唤。这张卡从场上离开时，那只怪兽破坏。那只怪兽破坏时这张卡破坏。",
+    "25862681": "调整＋调整以外的怪兽1只以上\\r\\n【修改前效果】①：1回合1次，可以从手卡把1只4星以下的怪兽特殊召唤。这个效果发动的回合，自己不能进行战斗阶段。②：1回合1次，自己的主要阶段时才能发动。场上的场地魔法卡全部破坏，自己回复1000基本分。那之后，可以从卡组把1张场地魔法卡加入手卡。",
+    "21502796": "【修改前效果】反转：可以选择场上1张卡破坏。从自己卡组上面把3张卡送去墓地。"
+}
+```"""
+    )
+    json_input = st.text_area("高级配置, 输入完成后按 ctrl+enter, 下面显示 ok 表示配置成功", height=200)
+    try:
+        ID2OLD_DESC = json.loads(json_input)
+        ID2OLD_DESC = {int(k): v for k, v in ID2OLD_DESC.items()}
+        st.text("ok")
+    except json.JSONDecodeError:
+        st.text("Invalid JSON format")
+
 
 TEMPLATE = Language.CHINESE if USE_CHINESE else Language.ENGLISH
 EN_PDF_TEMPLATE_PATH = './KDE_DeckList.pdf'  # 上限 18 条, 自动放缩文字
@@ -160,6 +187,31 @@ def fetch_card_data(card_id: int) -> Optional[CardData]:
 
     data = fetch_new_card(card_id)
     return data
+
+
+def get_standard_card_id(card_id: int) -> Optional[int]:
+    """TODO: quite duplicate with `fetch_card_data`"""
+    data = ID2DATA.get(str(card_id))
+    if data is not None:
+        return card_id
+
+    # 老 id 转换
+    card_id = OLD2ID.get(str(card_id), card_id)
+    data = ID2DATA.get(str(card_id))
+    if data is not None:
+        return card_id
+
+    # 关联异画卡
+    norm_card_id = ALIAS2ID.get(str(card_id), card_id)
+    data = ID2DATA.get(str(norm_card_id))
+    if data is not None:
+        return norm_card_id
+
+    data = fetch_new_card(card_id)
+    if data is not None:
+        return card_id
+
+    logger.error('card id %s not found', card_id)
 
 
 def deck2kvs(
@@ -287,10 +339,12 @@ if uploaded_file is not None:
     )
 
     deck = ydk2deck(text.split('\n'))
+    card_ids = []
 
     for section in Section:
         for record in getattr(deck, section):
             card_data = fetch_card_data(record.card_id)
+            card_ids += [get_standard_card_id(record.card_id)] * record.count
             if card_data is None:
                 record.name_cn = f'{record.card_id} 未找到该卡'
                 continue
@@ -321,6 +375,11 @@ if uploaded_file is not None:
     final_dict, main_type_overflow = deck2kvs(deck, lang=Language.ENGLISH, fill_monster_in_spell=FILL_MONSTER_IN_SPELL)
     with make_pdf(final_dict, TEMPLATE) as content:
         st.download_button('下载英文卡表 EN', content, file_name='英文@' + pdf_name)
+
+    if PRINT_IMAGE:
+        with printing_utils.make_image_pdf(card_ids, ID2OLD_DESC) as content:
+            st.download_button('下载可打印中文卡图', content, file_name='中文卡图打印@' + pdf_name)
+
 
     elapsed = time.perf_counter() - start_time
     if elapsed < 1:
