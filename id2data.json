@@ -5909,6 +5909,7 @@
   "79575620": {
     "type": "Monster",
     "cn_name": "注射天使 莉莉",
+    "sc_name": "注射天使 莉莉",
     "jp_name": "お注射天使リリー",
     "en_name": "Injection Fairy Lily"
   },
@@ -17588,6 +17589,7 @@
   "94820406": {
     "type": "Spell",
     "cn_name": "暗黑融合",
+    "sc_name": "黑暗结合",
     "jp_name": "ダーク・フュージョン",
     "en_name": "Dark Fusion"
   },
@@ -19043,18 +19045,21 @@
   "60161788": {
     "type": "Monster",
     "cn_name": "冰结界的番人 冰凤",
+    "sc_name": "冰结界的看守 布力兹德",
     "jp_name": "氷結界の番人 ブリズド",
     "en_name": "Blizzed, Defender of the Ice Barrier"
   },
   "96565487": {
     "type": "Monster",
     "cn_name": "雪暴战士",
+    "sc_name": "暴风雪战士",
     "jp_name": "ブリザード・ウォリアー",
     "en_name": "Blizzard Warrior"
   },
   "23950192": {
     "type": "Monster",
     "cn_name": "冰结界的术者",
+    "sc_name": "冰结界的术者",
     "jp_name": "氷結界の術者",
     "en_name": "Cryomancer of the Ice Barrier"
   },
@@ -20646,36 +20651,42 @@
   "30399511": {
     "type": "Monster",
     "cn_name": "次世代节能员",
+    "sc_name": "次代机・动力员",
     "jp_name": "ジェネクス・パワー・プランナー",
     "en_name": "Genex Power Planner"
   },
   "67483216": {
     "type": "Monster",
     "cn_name": "次世代搜索员",
+    "sc_name": "次代机・搜索员",
     "jp_name": "ジェネクス・サーチャー",
     "en_name": "Genex Searcher"
   },
   "93882364": {
     "type": "Monster",
     "cn_name": "次世代工作员",
+    "sc_name": "次代机・工作员",
     "jp_name": "ジェネクス・ワーカー",
     "en_name": "Genex Worker"
   },
   "30276969": {
     "type": "Monster",
     "cn_name": "冰弹使 蕾丝",
+    "sc_name": "冰弹手 蕾丝",
     "jp_name": "氷弾使いレイス",
     "en_name": "Reese the Ice Mistress"
   },
   "66661678": {
     "type": "Monster",
     "cn_name": "冰结界的王家骑士",
+    "sc_name": "冰结界的皇家骑士",
     "jp_name": "氷結界のロイヤル・ナイト",
     "en_name": "Royal Knight of the Ice Barrier"
   },
   "92065772": {
     "type": "Monster",
     "cn_name": "住在冰结界的魔醉虫",
+    "sc_name": "栖居冰结界的魔醉虫",
     "jp_name": "氷結界に住む魔酔虫",
     "en_name": "Numbing Grub in the Ice Barrier"
   },
@@ -20796,6 +20807,7 @@
   "47421985": {
     "type": "Monster",
     "cn_name": "次世代水能人",
+    "sc_name": "水力次代机",
     "jp_name": "ハイドロ・ジェネクス",
     "en_name": "Hydro Genex"
   },
@@ -20826,6 +20838,7 @@
   "19182751": {
     "type": "Monster",
     "cn_name": "次世代中子人",
+    "sc_name": "次代机・中子",
     "jp_name": "ジェネクス・ニュートロン",
     "en_name": "Genex Neutron"
   },
@@ -21439,48 +21452,56 @@
   "53944920": {
     "type": "Monster",
     "cn_name": "次世代热炉人",
+    "sc_name": "次代机・热炉",
     "jp_name": "ジェネクス・ヒート",
     "en_name": "Genex Furnace"
   },
   "89333528": {
     "type": "Monster",
     "cn_name": "次世代地矿人",
+    "sc_name": "次代机・盖亚",
     "jp_name": "ジェネクス・ガイア",
     "en_name": "Genex Gaia"
   },
   "16828633": {
     "type": "Monster",
     "cn_name": "次世代后备品",
+    "sc_name": "后备次代机",
     "jp_name": "スペア・ジェネクス",
     "en_name": "Genex Spare"
   },
   "52222372": {
     "type": "Monster",
     "cn_name": "次世代涡轮机",
+    "sc_name": "涡轮次代机",
     "jp_name": "タービン・ジェネクス",
     "en_name": "Genex Turbine"
   },
   "89211486": {
     "type": "Monster",
     "cn_name": "次世代博士",
+    "sc_name": "次代机・博士",
     "jp_name": "ジェネクス・ドクター",
     "en_name": "Genex Doctor"
   },
   "15605085": {
     "type": "Monster",
     "cn_name": "次世代太阳能人",
+    "sc_name": "太阳能次代机",
     "jp_name": "ソーラー・ジェネクス",
     "en_name": "Genex Solar"
   },
   "41090784": {
     "type": "Monster",
     "cn_name": "冰结界的大僧正",
+    "sc_name": "冰结界的大僧正",
     "jp_name": "氷結界の大僧正",
     "en_name": "Dai-sojo of the Ice Barrier"
   },
   "88494899": {
     "type": "Monster",
     "cn_name": "冰结界的交灵师",
+    "sc_name": "冰结界的交灵师",
     "jp_name": "氷結界の交霊師",
     "en_name": "Medium of the Ice Barrier"
   },
@@ -21573,18 +21594,21 @@
   "70583986": {
     "type": "Monster",
     "cn_name": "冰结界的虎王 雪虎",
+    "sc_name": "冰结界之虎王 多楼兰",
     "jp_name": "氷結界の虎王 ドゥローレン",
     "en_name": "Dewloren, Tiger King of the Ice Barrier"
   },
   "6588580": {
     "type": "Monster",
     "cn_name": "次世代热能人",
+    "sc_name": "热力次代机",
     "jp_name": "サーマル・ジェネクス",
     "en_name": "Thermal Genex"
   },
   "33972299": {
     "type": "Monster",
     "cn_name": "次世代地热能人",
+    "sc_name": "地能次代机",
     "jp_name": "ジオ・ジェネクス",
     "en_name": "Geo Genex"
   },
@@ -22331,30 +22355,35 @@
   "24432029": {
     "type": "Monster",
     "cn_name": "次世代鼓风人",
+    "sc_name": "次代机・鼓风",
     "jp_name": "ジェネクス・ブラスト",
     "en_name": "Genex Blastfan"
   },
   "51827737": {
     "type": "Monster",
     "cn_name": "次世代再生品",
+    "sc_name": "再生次代机",
     "jp_name": "リサイクル・ジェネクス",
     "en_name": "Genex Recycled"
   },
   "93211836": {
     "type": "Monster",
     "cn_name": "次世代军队",
+    "sc_name": "军用次代机",
     "jp_name": "アーミー・ジェネクス",
     "en_name": "Genex Army"
   },
   "20700531": {
     "type": "Monster",
     "cn_name": "冰结界的修验者",
+    "sc_name": "冰结界的修验者",
     "jp_name": "氷結界の修験者",
     "en_name": "Pilgrim of the Ice Barrier"
   },
   "56704140": {
     "type": "Monster",
     "cn_name": "冰结界的风水师",
+    "sc_name": "冰结界的风水师",
     "jp_name": "氷結界の風水師",
     "en_name": "Geomancer of the Ice Barrier"
   },
@@ -22430,6 +22459,7 @@
   "43925870": {
     "type": "Monster",
     "cn_name": "次世代风能人",
+    "sc_name": "风场次代机",
     "jp_name": "ウィンドファーム・ジェネクス",
     "en_name": "Windmill Genex"
   },
@@ -23131,48 +23161,56 @@
   "6256844": {
     "type": "Monster",
     "cn_name": "真次世代涡轮人",
+    "sc_name": "真次代机・涡轮",
     "jp_name": "レアル・ジェネクス・ターボ",
     "en_name": "R-Genex Turbo"
   },
   "32744558": {
     "type": "Monster",
     "cn_name": "真次世代协调员",
+    "sc_name": "真次代机・司令塔",
     "jp_name": "レアル・ジェネクス・コーディネイター",
     "en_name": "R-Genex Overseer"
   },
   "65149697": {
     "type": "Monster",
     "cn_name": "真次世代破碎机",
+    "sc_name": "真次代机・粉碎机",
     "jp_name": "レアル・ジェネクス・クラッシャー",
     "en_name": "R-Genex Crusher"
   },
   "1533292": {
     "type": "Monster",
     "cn_name": "真次世代锅炉人",
+    "sc_name": "真次代机・锅炉",
     "jp_name": "レアル・ジェネクス・マグナ",
     "en_name": "R-Genex Magma"
   },
   "38528901": {
     "type": "Monster",
     "cn_name": "冰结界的决起队",
+    "sc_name": "冰结界的决起队",
     "jp_name": "氷結界の決起隊",
     "en_name": "Shock Troops of the Ice Barrier"
   },
   "64926005": {
     "type": "Monster",
     "cn_name": "冰结界的武士",
+    "sc_name": "冰结界的武士",
     "jp_name": "氷結界の武士",
     "en_name": "Samurai of the Ice Barrier"
   },
   "90311614": {
     "type": "Monster",
     "cn_name": "冰结界的水影",
+    "sc_name": "冰结界的水影",
     "jp_name": "氷結界の水影",
     "en_name": "Dewdark of the Ice Barrier"
   },
   "37806313": {
     "type": "Monster",
     "cn_name": "冰结界的输送部队",
+    "sc_name": "冰结界的运输部队",
     "jp_name": "氷結界の輸送部隊",
     "en_name": "Caravan of the Ice Barrier"
   },
@@ -23223,12 +23261,14 @@
   "38354937": {
     "type": "Monster",
     "cn_name": "真次世代黑机车人",
+    "sc_name": "真次代机・黑铁汽机",
     "jp_name": "レアル・ジェネクス・クロキシアン",
     "en_name": "Locomotion R-Genex"
   },
   "65749035": {
     "type": "Monster",
     "cn_name": "冰结界之龙 天枪龙",
+    "sc_name": "冰结界之龙 天枪龙",
     "jp_name": "氷結界の龍 グングニール",
     "en_name": "Gungnir, Dragon of the Ice Barrier"
   },
@@ -24019,30 +24059,35 @@
   "73783043": {
     "type": "Monster",
     "cn_name": "真次世代加速器",
+    "sc_name": "真次代机・加速器",
     "jp_name": "レアル・ジェネクス・アクセラレーター",
     "en_name": "R-Genex Accelerator"
   },
   "10178757": {
     "type": "Monster",
     "cn_name": "真次世代预言机",
+    "sc_name": "真次代机・预言机",
     "jp_name": "レアル・ジェネクス・オラクル",
     "en_name": "R-Genex Oracle"
   },
   "46572756": {
     "type": "Monster",
     "cn_name": "真次世代终极人",
+    "sc_name": "真次代机・极金",
     "jp_name": "レアル・ジェネクス・ウルティマム",
     "en_name": "R-Genex Ultimum"
   },
   "73061465": {
     "type": "Monster",
     "cn_name": "冰结界的封魔团",
+    "sc_name": "冰结界的封魔团",
     "jp_name": "氷結界の封魔団",
     "en_name": "Spellbreaker of the Ice Barrier"
   },
   "9056100": {
     "type": "Monster",
     "cn_name": "冰结界的虎将 神兵",
+    "sc_name": "冰结界的虎将 古尔纳德",
     "jp_name": "氷結界の虎将 グルナード",
     "en_name": "General Grunard of the Ice Barrier"
   },
@@ -24104,6 +24149,7 @@
   "73483491": {
     "type": "Monster",
     "cn_name": "真次世代风筝",
+    "sc_name": "真次代机・风隼",
     "jp_name": "レアル・ジェネクス・ヴィンディカイト",
     "en_name": "Vindikite R-Genex"
   },
@@ -24836,6 +24882,7 @@
   "68450517": {
     "type": "Monster",
     "cn_name": "盟军·次世代同暗兵",
+    "sc_name": "A次代机・坚暗",
     "jp_name": "A・ジェネクス・ドゥルダーク",
     "en_name": "Genex Ally Duradark"
   },
@@ -24855,30 +24902,35 @@
   "57238939": {
     "type": "Monster",
     "cn_name": "盟军·次世代遥控员",
+    "sc_name": "A次代机・远控",
     "jp_name": "A・ジェネクス・リモート",
     "en_name": "Genex Ally Remote"
   },
   "94622638": {
     "type": "Monster",
     "cn_name": "盟军·次世代集电人",
+    "sc_name": "A次代机・充能",
     "jp_name": "A・ジェネクス・パワーコール",
     "en_name": "Genex Ally Powercell"
   },
   "20127343": {
     "type": "Monster",
     "cn_name": "盟军·次世代转换员",
+    "sc_name": "A次代机・转换者",
     "jp_name": "A・ジェネクス・チェンジャー",
     "en_name": "Genex Ally Changer"
   },
   "56511382": {
     "type": "Monster",
     "cn_name": "盟军·次世代火炮兵",
+    "sc_name": "A次代机・火炮",
     "jp_name": "A・ジェネクス・ボルキャノン",
     "en_name": "Genex Ally Volcannon"
   },
   "83500096": {
     "type": "Monster",
     "cn_name": "盟军·次世代冷冻兵",
+    "sc_name": "A次代机・涌刃",
     "jp_name": "A・ジェネクス・ソリッド",
     "en_name": "Genex Ally Solid"
   },
@@ -24988,30 +25040,35 @@
   "82498947": {
     "type": "Monster",
     "cn_name": "冰结界的守护阵",
+    "sc_name": "冰结界的守护阵",
     "jp_name": "氷結界の守護陣",
     "en_name": "Defender of the Ice Barrier"
   },
   "18482591": {
     "type": "Monster",
     "cn_name": "冰结界的破术师",
+    "sc_name": "冰结界的破术师",
     "jp_name": "氷結界の破術師",
     "en_name": "Warlock of the Ice Barrier"
   },
   "44877690": {
     "type": "Monster",
     "cn_name": "冰结界的神精灵",
+    "sc_name": "冰结界的神精灵",
     "jp_name": "氷結界の神精霊",
     "en_name": "Sacred Spirit of the Ice Barrier"
   },
   "81275309": {
     "type": "Monster",
     "cn_name": "冰结界的虎将 莱蓬",
+    "sc_name": "冰结界的虎将 雷奉",
     "jp_name": "氷結界の虎将 ライホウ",
     "en_name": "General Raiho of the Ice Barrier"
   },
   "17760003": {
     "type": "Monster",
     "cn_name": "盟军·次世代三武人",
+    "sc_name": "A次代机・三重武装",
     "jp_name": "A・ジェネクス・トライアーム",
     "en_name": "Genex Ally Triarm"
   },
@@ -25789,6 +25846,7 @@
   "38049541": {
     "type": "Monster",
     "cn_name": "盟军·次世代合成员",
+    "sc_name": "A次代机・化学家",
     "jp_name": "A・ジェネクス・ケミストリ",
     "en_name": "Genex Ally Chemistrer"
   },
@@ -25802,18 +25860,21 @@
   "91438994": {
     "type": "Monster",
     "cn_name": "盟军·次世代狱焰兵",
+    "sc_name": "A次代机・浴焰",
     "jp_name": "A・ジェネクス・ベルフレイム",
     "en_name": "Genex Ally Bellflame"
   },
   "27827903": {
     "type": "Monster",
     "cn_name": "盟军·次世代轰击兵",
+    "sc_name": "A次代机・粉碎机",
     "jp_name": "A・ジェネクス・クラッシャー",
     "en_name": "Genex Ally Crusher"
   },
   "63211608": {
     "type": "Monster",
     "cn_name": "盟军·次世代再造兵",
+    "sc_name": "A次代机・复兴者",
     "jp_name": "A・ジェネクス・リバイバー",
     "en_name": "Genex Ally Reliever"
   },
@@ -25889,18 +25950,21 @@
   "50032342": {
     "type": "Monster",
     "cn_name": "冰结界的军师",
+    "sc_name": "冰结界的军师",
     "jp_name": "氷結界の軍師",
     "en_name": "Strategist of the Ice Barrier"
   },
   "27527047": {
     "type": "Monster",
     "cn_name": "冰结界的御庭番",
+    "sc_name": "冰结界的御庭番",
     "jp_name": "氷結界の御庭番",
     "en_name": "Secret Guards of the Ice Barrier"
   },
   "53921056": {
     "type": "Monster",
     "cn_name": "冰结界的虎将 健陀罗",
+    "sc_name": "冰结界的虎将 犍陀罗",
     "jp_name": "氷結界の虎将 ガンターラ",
     "en_name": "General Gantala of the Ice Barrier"
   },
@@ -25920,6 +25984,7 @@
   "52709508": {
     "type": "Monster",
     "cn_name": "盟军·次世代三力人",
+    "sc_name": "A次代机・三重武力",
     "jp_name": "A・ジェネクス・トライフォース",
     "en_name": "Genex Ally Triforce"
   },
@@ -26075,6 +26140,7 @@
   "66165755": {
     "type": "Monster",
     "cn_name": "盟军·次世代加速人",
+    "sc_name": "A次代机・加速者",
     "jp_name": "A・ジェネクス・アクセル",
     "en_name": "Genex Ally Axel"
   },
@@ -26448,6 +26514,7 @@
   "64990807": {
     "type": "Spell",
     "cn_name": "冰结界的三方阵",
+    "sc_name": "冰结界的三方阵",
     "jp_name": "氷結界の三方陣",
     "en_name": "Magic Triangle of the Ice Barrier"
   },
@@ -27907,6 +27974,7 @@
   "59546528": {
     "type": "Monster",
     "cn_name": "冰结界的舞姬",
+    "sc_name": "冰结界的舞姬",
     "jp_name": "氷結界の舞姫",
     "en_name": "Dance Princess of the Ice Barrier"
   },
@@ -28044,12 +28112,14 @@
   "84206435": {
     "type": "Spell",
     "cn_name": "冰结界的纹章",
+    "sc_name": "冰结界的纹章",
     "jp_name": "氷結界の紋章",
     "en_name": "Medallion of the Ice Barrier"
   },
   "10691144": {
     "type": "Spell",
     "cn_name": "冰结界之镜",
+    "sc_name": "冰结界之镜",
     "jp_name": "氷結界の鏡",
     "en_name": "Mirror of the Ice Barrier"
   },
@@ -31450,6 +31520,7 @@
   "50088247": {
     "type": "Monster",
     "cn_name": "冰结界的传道师",
+    "sc_name": "冰结界的传道师",
     "jp_name": "氷結界の伝道師",
     "en_name": "Prior of the Ice Barrier"
   },
@@ -34761,6 +34832,7 @@
   "23269426": {
     "type": "Spell",
     "cn_name": "临终的同调",
+    "sc_name": "最后的同调",
     "jp_name": "最期の同調",
     "en_name": "Final Gesture"
   },
@@ -35634,6 +35706,7 @@
   "82263578": {
     "type": "Spell",
     "cn_name": "战火的残余",
+    "sc_name": "战火的残渣",
     "jp_name": "戦火の残滓",
     "en_name": "After the Storm"
   },
@@ -42218,66 +42291,77 @@
   "87118301": {
     "type": "Monster",
     "cn_name": "灵兽使 蕾拉",
+    "sc_name": "灵兽使 蕾拉",
     "jp_name": "霊獣使い レラ",
     "en_name": "Ritual Beast Tamer Lara"
   },
   "14513016": {
     "type": "Monster",
     "cn_name": "灵兽使的长老",
+    "sc_name": "灵兽使的长老",
     "jp_name": "霊獣使いの長老",
     "en_name": "Ritual Beast Tamer Elder"
   },
   "40907115": {
     "type": "Monster",
     "cn_name": "灵兽使 文",
+    "sc_name": "灵兽使 温",
     "jp_name": "霊獣使い ウェン",
     "en_name": "Ritual Beast Tamer Wen"
   },
   "86396750": {
     "type": "Monster",
     "cn_name": "精灵兽 火狮",
+    "sc_name": "精灵兽 亚边狮",
     "jp_name": "精霊獣 アペライオ",
     "en_name": "Spiritual Beast Apelio"
   },
   "13890468": {
     "type": "Monster",
     "cn_name": "精灵兽 川豚",
+    "sc_name": "精灵兽 别都豚",
     "jp_name": "精霊獣 ペトルフィン",
     "en_name": "Spiritual Beast Pettlephin"
   },
   "49885567": {
     "type": "Monster",
     "cn_name": "精灵兽 雷鹰",
+    "sc_name": "精灵兽 神流鹰",
     "jp_name": "精霊獣 カンナホーク",
     "en_name": "Spiritual Beast Cannahawk"
   },
   "86274272": {
     "type": "Monster",
     "cn_name": "圣灵兽骑 火狮",
+    "sc_name": "圣灵兽骑 亚边狮",
     "jp_name": "聖霊獣騎 アペライオ",
     "en_name": "Ritual Beast Ulti-Apelio"
   },
   "12678870": {
     "type": "Monster",
     "cn_name": "圣灵兽骑 川豚",
+    "sc_name": "圣灵兽骑 别都豚",
     "jp_name": "聖霊獣騎 ペトルフィン",
     "en_name": "Ritual Beast Ulti-Pettlephin"
   },
   "48063985": {
     "type": "Monster",
     "cn_name": "圣灵兽骑 雷鹰",
+    "sc_name": "圣灵兽骑 神流鹰",
     "jp_name": "聖霊獣騎 カンナホーク",
     "en_name": "Ritual Beast Ulti-Cannahawk"
   },
   "75457624": {
     "type": "Spell",
     "cn_name": "灵兽的相绊",
+    "sc_name": "灵兽的羁绊",
     "jp_name": "霊獣の相絆",
     "en_name": "Ritual Beast's Bond"
   },
   "11556339": {
     "type": "Trap",
     "cn_name": "灵兽的连契",
+    "sc_name": "灵兽的连契",
     "jp_name": "霊獣の連契",
     "en_name": "Ritual Beast Steeds"
   },
@@ -42469,42 +42553,49 @@
   "26034577": {
     "type": "Monster",
     "cn_name": "狱火机·别西卜",
+    "sc_name": "狱炎机・别西布鲁",
     "jp_name": "インフェルノイド・ベルゼブル",
     "en_name": "Infernoid Antra"
   },
   "52038272": {
     "type": "Monster",
     "cn_name": "狱火机·路西弗格",
+    "sc_name": "狱炎机・路希弗格斯",
     "jp_name": "インフェルノイド・ルキフグス",
     "en_name": "Infernoid Harmadik"
   },
   "89423971": {
     "type": "Monster",
     "cn_name": "狱火机·阿斯塔罗特",
+    "sc_name": "狱炎机・阿斯塔罗斯",
     "jp_name": "インフェルノイド・アスタロス",
     "en_name": "Infernoid Patrulea"
   },
   "25811989": {
     "type": "Monster",
     "cn_name": "狱火机·阿斯蒙蒂斯",
+    "sc_name": "狱炎机・阿斯蒙达",
     "jp_name": "インフェルノイド・アシュメダイ",
     "en_name": "Infernoid Piaty"
   },
   "51316684": {
     "type": "Monster",
     "cn_name": "狱火机·巴力",
+    "sc_name": "狱炎机・巴耶尔",
     "jp_name": "インフェルノイド・ヴァエル",
     "en_name": "Infernoid Seitsemas"
   },
   "88301393": {
     "type": "Monster",
     "cn_name": "狱火机·亚得米勒",
+    "sc_name": "狱炎机・阿德拉梅莱克",
     "jp_name": "インフェルノイド・アドラメレク",
     "en_name": "Infernoid Attondel"
   },
   "14799437": {
     "type": "Monster",
     "cn_name": "狱火机·拿玛",
+    "sc_name": "狱炎机・拿赫摩斯",
     "jp_name": "インフェルノイド・ネヘモス",
     "en_name": "Infernoid Onuncu"
   },
@@ -42567,6 +42658,7 @@
   "88123329": {
     "type": "Monster",
     "cn_name": "精灵兽 心企太",
+    "sc_name": "精灵兽 罗梦凤企",
     "jp_name": "精霊獣 ラムペンタ",
     "en_name": "Spiritual Beast Rampengu"
   },
@@ -42746,12 +42838,14 @@
   "8437145": {
     "type": "Spell",
     "cn_name": "炼狱的死徒",
+    "sc_name": "炼狱的死徒",
     "jp_name": "煉獄の死徒",
     "en_name": "Void Seer"
   },
   "34822850": {
     "type": "Spell",
     "cn_name": "炼狱的泛烂",
+    "sc_name": "炼狱的泛滥",
     "jp_name": "煉獄の氾爛",
     "en_name": "Void Expansion"
   },
@@ -42834,12 +42928,14 @@
   "57047293": {
     "type": "Trap",
     "cn_name": "苍焰之炼狱",
+    "sc_name": "苍焰的炼狱",
     "jp_name": "蒼焔の煉獄",
     "en_name": "Eye of the Void"
   },
   "94432298": {
     "type": "Trap",
     "cn_name": "壳醒的炼狱",
+    "sc_name": "壳醒的炼狱",
     "jp_name": "殻醒する煉獄",
     "en_name": "Void Launch"
   },
@@ -42852,6 +42948,7 @@
   "57815601": {
     "type": "Trap",
     "cn_name": "灵兽的骑袭",
+    "sc_name": "灵兽的骑袭",
     "jp_name": "霊獣の騎襲",
     "en_name": "Ritual Beast Ambush"
   },
@@ -43529,30 +43626,35 @@
   "57777714": {
     "type": "Monster",
     "cn_name": "英灵兽使-神数心皮莉佳",
+    "sc_name": "英灵兽使－源质美利加",
     "jp_name": "英霊獣使い－セフィラムピリカ",
     "en_name": "Ritual Beast Tamer Zeframpilica"
   },
   "23166823": {
     "type": "Monster",
     "cn_name": "影灵兽使-神数文蒂",
+    "sc_name": "影灵兽使－源质温蒂",
     "jp_name": "影霊獣使い－セフィラウェンディ",
     "en_name": "Ritual Beast Tamer Zefrawendi"
   },
   "60551528": {
     "type": "Monster",
     "cn_name": "狱火机·撒旦",
+    "sc_name": "狱炎机・撒坦",
     "jp_name": "インフェルノイド・シャイターン",
     "en_name": "Infernoid Pirmais"
   },
   "96055137": {
     "type": "Monster",
     "cn_name": "狱火机·贝尔芬格",
+    "sc_name": "狱炎机・贝尔芬葛",
     "jp_name": "インフェルノイド・ベルフェゴル",
     "en_name": "Infernoid Sjette"
   },
   "23440231": {
     "type": "Monster",
     "cn_name": "狱火机·莉莉丝",
+    "sc_name": "狱炎机・莉莉丝",
     "jp_name": "インフェルノイド・リリス",
     "en_name": "Infernoid Devyaty"
   },
@@ -43638,6 +43740,7 @@
   "56655675": {
     "type": "Monster",
     "cn_name": "圣灵兽骑 地火狮",
+    "sc_name": "圣灵兽骑 盖亚边狮",
     "jp_name": "聖霊獣騎 ガイアペライオ",
     "en_name": "Ritual Beast Ulti-Gaiapelio"
   },
@@ -43741,6 +43844,7 @@
   "78748366": {
     "type": "Spell",
     "cn_name": "炼狱的消华",
+    "sc_name": "炼狱的消华",
     "jp_name": "煉獄の消華",
     "en_name": "Void Vanishment"
   },
@@ -43816,6 +43920,7 @@
   "61965407": {
     "type": "Trap",
     "cn_name": "溯洸的炼狱",
+    "sc_name": "溯洸的炼狱",
     "jp_name": "遡洸する煉獄",
     "en_name": "Void Purification"
   },
@@ -44294,6 +44399,7 @@
   "58446973": {
     "type": "Monster",
     "cn_name": "狱火机十进管",
+    "sc_name": "狱炎机・十进管",
     "jp_name": "インフェルノイド・デカトロン",
     "en_name": "Infernoid Decatron"
   },
@@ -44359,6 +44465,7 @@
   "82734805": {
     "type": "Monster",
     "cn_name": "狱火机·提耶拉",
+    "sc_name": "狱炎机・缇耶拉",
     "jp_name": "インフェルノイド・ティエラ",
     "en_name": "Infernoid Tierra"
   },
@@ -44452,6 +44559,7 @@
   "31444249": {
     "type": "Spell",
     "cn_name": "炼狱的虚梦",
+    "sc_name": "炼狱的虚梦",
     "jp_name": "煉獄の虚夢",
     "en_name": "Void Imagination"
   },
@@ -45379,6 +45487,7 @@
   "52145422": {
     "type": "Monster",
     "cn_name": "灰篮龙",
+    "sc_name": "灰篮龙",
     "jp_name": "グレイドル・ドラゴン",
     "en_name": "Graydle Dragon"
   },
@@ -46968,6 +47077,7 @@
   "38891741": {
     "type": "Trap",
     "cn_name": "神之摄理",
+    "sc_name": "神之摄理",
     "jp_name": "神の摂理",
     "en_name": "Ultimate Providence"
   },
@@ -50129,6 +50239,7 @@
   "65193366": {
     "type": "Monster",
     "cn_name": "精灵兽使 薇茵妲",
+    "sc_name": "精灵兽使 薇茵达",
     "jp_name": "精霊獣使い ウィンダ",
     "en_name": "Spiritual Beast Tamer Winda"
   },
@@ -50378,6 +50489,7 @@
   "8321183": {
     "type": "Spell",
     "cn_name": "灵兽的誓还",
+    "sc_name": "灵兽的誓还",
     "jp_name": "霊獣の誓還",
     "en_name": "Ritual Beast Return"
   },
@@ -50459,6 +50571,7 @@
   "31548814": {
     "type": "Trap",
     "cn_name": "炼狱的狂宴",
+    "sc_name": "炼狱的狂宴",
     "jp_name": "煉獄の狂宴",
     "en_name": "Void Feast"
   },
@@ -54828,6 +54941,7 @@
   "58811192": {
     "type": "Monster",
     "cn_name": "圣灵兽骑 山飞隼",
+    "sc_name": "圣灵兽骑 奇牟隼",
     "jp_name": "聖霊獣騎 キムンファルコス",
     "en_name": "Ritual Beast Ulti-Kimunfalcos"
   },
@@ -64655,6 +64769,7 @@
   "50793215": {
     "type": "Monster",
     "cn_name": "深海姬 首席女歌手",
+    "sc_name": "深海姬 首席歌后",
     "jp_name": "深海姫プリマドーナ",
     "en_name": "Deep Sea Prima Donna"
   },
@@ -64810,6 +64925,7 @@
   "7337976": {
     "type": "Spell",
     "cn_name": "炼狱的灾天",
+    "sc_name": "炼狱的灾天",
     "jp_name": "煉獄の災天",
     "en_name": "Void Apocalypse"
   },
@@ -68205,48 +68321,56 @@
   "81825063": {
     "type": "Monster",
     "cn_name": "冰结界的虎将 韦恩",
+    "sc_name": "冰结界的虎将 韦恩",
     "jp_name": "氷結界の虎将 ウェイン",
     "en_name": "General Wayne of the Ice Barrier"
   },
   "18319762": {
     "type": "Monster",
     "cn_name": "冰结界的照魔师",
+    "sc_name": "冰结界的照魔师",
     "jp_name": "氷結界の照魔師",
     "en_name": "Revealer of the Ice Barrier"
   },
   "44308317": {
     "type": "Monster",
     "cn_name": "冰结界的依巫",
+    "sc_name": "冰结界的依巫",
     "jp_name": "氷結界の依巫",
     "en_name": "Speaker for the Ice Barriers"
   },
   "70703416": {
     "type": "Monster",
     "cn_name": "冰结界的霜精",
+    "sc_name": "冰结界的霜精",
     "jp_name": "氷結界の霜精",
     "en_name": "Hexa Spirit of the Ice Barrier"
   },
   "17197110": {
     "type": "Spell",
     "cn_name": "抵达冰结界的晴岚",
+    "sc_name": "抵达冰结界的晴岚",
     "jp_name": "氷結界に至る晴嵐",
     "en_name": "Winds Over the Ice Barrier"
   },
   "43582229": {
     "type": "Spell",
     "cn_name": "冰结界的晶壁",
+    "sc_name": "冰结界的晶壁",
     "jp_name": "氷結界の晶壁",
     "en_name": "Freezing Chains of the Ice Barrier"
   },
   "70980824": {
     "type": "Monster",
     "cn_name": "冰结界的还零龙 三叉龙",
+    "sc_name": "冰结界之还零龙 三叉龙",
     "jp_name": "氷結界の還零龍 トリシューラ",
     "en_name": "Trishula, Zero Dragon of the Ice Barrier"
   },
   "6075533": {
     "type": "Trap",
     "cn_name": "三叉龙的鼓动",
+    "sc_name": "三叉龙的鼓动",
     "jp_name": "トリシューラの鼓動",
     "en_name": "Terror of Trishula"
   },
@@ -68631,6 +68755,7 @@
   "43256007": {
     "type": "Monster",
     "cn_name": "冰结界的随身",
+    "sc_name": "冰结界的随身",
     "jp_name": "氷結界の随身",
     "en_name": "Zuijin of the Ice Barrier"
   },
@@ -68867,6 +68992,7 @@
   "53535814": {
     "type": "Monster",
     "cn_name": "冰结界的净玻璃",
+    "sc_name": "冰结界的净玻璃",
     "jp_name": "氷結界の浄玻璃",
     "en_name": "Judge of the Ice Barrier"
   },
@@ -80320,81 +80446,97 @@
   "96402918": {
     "type": "Monster",
     "cn_name": "冰灵山的龙祖 矛枪龙",
+    "sc_name": "冰灵山龙祖 矛枪龙",
     "jp_name": "氷霊山の龍祖 ランセア"
   },
   "32991027": {
     "type": "Monster",
     "cn_name": "冰结界的剑士 乔治",
+    "sc_name": "冰结界的剑士 格奥鲁吉亚斯",
     "jp_name": "氷結界の剣士 ゲオルギアス"
   },
   "9396662": {
     "type": "Monster",
     "cn_name": "冰结界的镜魔师",
+    "sc_name": "冰结界的镜魔师",
     "jp_name": "氷結界の鏡魔師"
   },
   "35380371": {
     "type": "Trap",
     "cn_name": "抵达冰结界的晶域",
+    "sc_name": "抵达冰结界的晶域",
     "jp_name": "氷結界に至る晶域"
   },
   "61775475": {
     "type": "Monster",
     "cn_name": "次世代兵器 还零",
+    "sc_name": "A・O・G次代机 返零",
     "jp_name": "A・O・G リターンゼロ"
   },
   "8173184": {
     "type": "Monster",
     "cn_name": "修复次世代控制员",
+    "sc_name": "修复次代机・控制者",
     "jp_name": "リペア・ジェネクス・コントローラー"
   },
   "34568783": {
     "type": "Monster",
     "cn_name": "真次世代水精灵",
+    "sc_name": "真次代机・水精灵",
     "jp_name": "レアル・ジェネクス・ウンディーネ"
   },
   "61052897": {
     "type": "Monster",
     "cn_name": "真次世代图灵机",
+    "sc_name": "真次代机・图灵机",
     "jp_name": "レアル・ジェネクス・チューリング"
   },
   "97051536": {
     "type": "Monster",
     "cn_name": "狱火机·邪恶",
+    "sc_name": "狱炎机・邪恶",
     "jp_name": "インフェルノイド・イヴィル"
   },
   "34446231": {
     "type": "Monster",
     "cn_name": "狱火机·洪水",
+    "sc_name": "狱炎机・洪潦",
     "jp_name": "インフェルノイド・フラッド"
   },
   "60830240": {
     "type": "Spell",
     "cn_name": "炽动的炼狱",
+    "sc_name": "炽动的炼狱",
     "jp_name": "熾動する煉獄"
   },
   "96235944": {
     "type": "Spell",
     "cn_name": "炼狱的决界",
+    "sc_name": "炼狱的决界",
     "jp_name": "煉獄の決界"
   },
   "23623653": {
     "type": "Monster",
     "cn_name": "精灵兽使 蕾拉",
+    "sc_name": "精灵兽使 蕾拉",
     "jp_name": "精霊獣使い レラ"
   },
   "69718652": {
     "type": "Monster",
     "cn_name": "圣灵兽骑 星龙",
+    "sc_name": "圣灵兽骑 野宙龙",
     "jp_name": "聖霊獣騎 ノチウドラゴ"
   },
   "96113307": {
     "type": "Monster",
     "cn_name": "圣灵兽骑 风族",
+    "sc_name": "圣灵兽骑 蕾伊拉呗里",
     "jp_name": "聖霊獣騎 レイラウタリ"
   },
   "22501005": {
     "type": "Spell",
     "cn_name": "灵兽的继圣",
+    "sc_name": "灵兽的继圣",
     "jp_name": "霊獣の継聖"
   },
   "43502497": {
