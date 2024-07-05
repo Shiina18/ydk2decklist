@@ -2327,13 +2327,13 @@
   },
   "24311372": {
     "type": "Monster",
-    "cn_name": "恶魔 佐亚",
+    "cn_name": "恶魔兽灵",
     "jp_name": "デビルゾア",
     "en_name": "Zoa"
   },
   "50705071": {
     "type": "Monster",
-    "cn_name": "钢铁恶魔 佐亚",
+    "cn_name": "钢铁恶魔兽灵",
     "jp_name": "メタル・デビルゾア",
     "en_name": "Metalzoa"
   },
@@ -13882,6 +13882,7 @@
   "12247206": {
     "type": "Spell",
     "cn_name": "地狱的暴走召唤",
+    "sc_name": "地狱的暴走召唤",
     "jp_name": "地獄の暴走召喚",
     "en_name": "Inferno Reckless Summon"
   },
@@ -14990,6 +14991,7 @@
   "80921533": {
     "type": "Spell",
     "cn_name": "死皇帝之陵墓",
+    "sc_name": "死皇帝的陵墓",
     "jp_name": "死皇帝の陵墓",
     "en_name": "Mausoleum of the Emperor"
   },
@@ -15645,6 +15647,7 @@
   "72634965": {
     "type": "Monster",
     "cn_name": "虚无之统括者",
+    "sc_name": "虚无的统括者",
     "jp_name": "虚無の統括者",
     "en_name": "Vanity's Ruler"
   },
@@ -18340,6 +18343,7 @@
   "13893596": {
     "type": "Monster",
     "cn_name": "究极封印神 艾克佐迪奥斯",
+    "sc_name": "究极封印神 艾克佐迪奥斯",
     "jp_name": "究極封印神エクゾディオス",
     "en_name": "Exodius the Ultimate Forbidden Lord"
   },
@@ -23614,6 +23618,7 @@
   "25531465": {
     "type": "Monster",
     "cn_name": "魔法猫",
+    "sc_name": "魔法猫",
     "jp_name": "マジキャット",
     "en_name": "Magicat"
   },
@@ -23897,6 +23902,7 @@
   "60718396": {
     "type": "Trap",
     "cn_name": "炎狱反击",
+    "sc_name": "炎狱反击",
     "jp_name": "フレムベルカウンター",
     "en_name": "Flamvell Counter"
   },
@@ -30922,6 +30928,7 @@
   "8175346": {
     "type": "Monster",
     "cn_name": "袖珍龙",
+    "sc_name": "波可哆啦",
     "jp_name": "ポケ・ドラ",
     "en_name": "Poki Draco"
   },
@@ -30946,6 +30953,7 @@
   "33347467": {
     "type": "Monster",
     "cn_name": "灵魂护送船",
+    "sc_name": "灵魂护送船",
     "jp_name": "霊魂の護送船",
     "en_name": "Ghost Ship"
   },
@@ -32967,6 +32975,7 @@
   "45458027": {
     "type": "Monster",
     "cn_name": "上弦式神",
+    "sc_name": "上弦式神",
     "jp_name": "ネジマキシキガミ",
     "en_name": "Gearspring Spirit"
   },
@@ -38967,6 +38976,7 @@
   "73289035": {
     "type": "Monster",
     "cn_name": "武神帝-月读",
+    "sc_name": "武尊神帝－月读",
     "jp_name": "武神帝－ツクヨミ",
     "en_name": "Bujintei Tsukuyomi"
   },
@@ -39347,6 +39357,7 @@
   "45742626": {
     "type": "Monster",
     "cn_name": "巡死神 收割者",
+    "sc_name": "巡死神 收割者",
     "jp_name": "巡死神リーパー",
     "en_name": "Pilgrim Reaper"
   },
@@ -39508,6 +39519,7 @@
   "23536866": {
     "type": "Monster",
     "cn_name": "间歇泉鲨",
+    "sc_name": "间歇泉鲨",
     "jp_name": "ゲイザー・シャーク",
     "en_name": "Gazer Shark"
   },
@@ -40182,6 +40194,7 @@
   "55969226": {
     "type": "Monster",
     "cn_name": "青龙召唤士",
+    "sc_name": "青龙召唤士",
     "jp_name": "青竜の召喚士",
     "en_name": "Blue Dragon Summoner"
   },
@@ -49242,6 +49255,7 @@
   "39890958": {
     "type": "Monster",
     "cn_name": "强化支援机械·重装铠甲",
+    "sc_name": "强化支援机械・重装铠甲",
     "jp_name": "強化支援メカ・ヘビーアーマー",
     "en_name": "Heavy Mech Support Armor"
   },
@@ -49557,6 +49571,7 @@
   "39964797": {
     "type": "Monster",
     "cn_name": "水晶机巧-量子刚玉",
+    "sc_name": "水晶机巧－石英达姆",
     "jp_name": "水晶機巧－クオンダム",
     "en_name": "Crystron Quandax"
   },
@@ -51862,6 +51877,7 @@
   "58330108": {
     "type": "Monster",
     "cn_name": "破坏龙 甘多拉-烈光闪",
+    "sc_name": "破坏龙 钢多拉－烈光闪",
     "jp_name": "破壊竜ガンドラ－ギガ・レイズ"
   },
   "95735217": {
@@ -56237,6 +56253,7 @@
   "50383626": {
     "type": "Monster",
     "cn_name": "黯黑之魔王 迪亚波罗斯",
+    "sc_name": "暗黑魔王 迪亚波洛斯",
     "jp_name": "闇黒の魔王ディアボロス",
     "en_name": "Darkest Diabolos, Lord of the Lair"
   },
@@ -79018,6 +79035,7 @@
   "33872334": {
     "type": "Spell",
     "cn_name": "凤凰武装剑",
+    "sc_name": "不死鸟・机亚锋烈刀",
     "jp_name": "フェニックス・ギア・ブレード",
     "en_name": "Phoenix Gearblade"
   },
@@ -82428,5 +82446,10 @@
     "type": "Monster",
     "cn_name": "精灵 克罗佐",
     "jp_name": "精霊コロゾ"
+  },
+  "28103028": {
+    "type": "Monster",
+    "cn_name": "火马天龙",
+    "jp_name": "イグニホース・ドラゴニス"
   }
 }
