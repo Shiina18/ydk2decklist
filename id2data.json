@@ -5812,6 +5812,7 @@
   "58604027": {
     "type": "Monster",
     "cn_name": "召唤神 艾克佐迪亚",
+    "sc_name": "召唤神 艾克佐迪亚",
     "jp_name": "召喚神エクゾディア",
     "en_name": "The Legendary Exodia Incarnate"
   },
@@ -28802,7 +28803,8 @@
   "70117791": {
     "type": "Monster",
     "cn_name": "爆击兽 炎弹兽",
-    "jp_name": "爆撃獣ファイヤ・ボンバー"
+    "jp_name": "爆撃獣ファイヤ・ボンバー",
+    "en_name": "Blazing Bombardment Beast"
   },
   "6602300": {
     "type": "Monster",
@@ -33914,6 +33916,7 @@
   "88120966": {
     "type": "Monster",
     "cn_name": "No.15 机关傀儡-巨人杀手",
+    "sc_name": "编号15 机关傀偶－巨人杀手",
     "jp_name": "No.15 ギミック・パペット－ジャイアントキラー",
     "en_name": "Number 15: Gimmick Puppet Giant Grinder"
   },
@@ -34454,6 +34457,7 @@
   "75433814": {
     "type": "Monster",
     "cn_name": "No.40 机关傀儡-天堂弦乐手",
+    "sc_name": "编号40 机关傀偶－天堂之弦",
     "jp_name": "No.40 ギミック・パペット－ヘブンズ・ストリングス",
     "en_name": "Number 40: Gimmick Puppet of Strings"
   },
@@ -34472,18 +34476,21 @@
   "74311226": {
     "type": "Monster",
     "cn_name": "海皇的龙骑队",
+    "sc_name": "海皇的龙骑队",
     "jp_name": "海皇の竜騎隊",
     "en_name": "Atlantean Dragoons"
   },
   "706925": {
     "type": "Monster",
     "cn_name": "海皇的狙击兵",
+    "sc_name": "海皇的狙击兵",
     "jp_name": "海皇の狙撃兵",
     "en_name": "Atlantean Marksman"
   },
   "37104630": {
     "type": "Monster",
     "cn_name": "海皇的重装兵",
+    "sc_name": "海皇的重装兵",
     "jp_name": "海皇の重装兵",
     "en_name": "Atlantean Heavy Infantry"
   },
@@ -34576,12 +34583,14 @@
   "23899727": {
     "type": "Monster",
     "cn_name": "水精鳞-深渊琳德",
+    "sc_name": "水精鳞－邃渊琳德",
     "jp_name": "水精鱗－アビスリンデ",
     "en_name": "Mermail Abysslinde"
   },
   "69293721": {
     "type": "Monster",
     "cn_name": "水精鳞-深渊昆德",
+    "sc_name": "水精鳞－邃渊昆德",
     "jp_name": "水精鱗－アビスグンデ",
     "en_name": "Mermail Abyssgunde"
   },
@@ -34594,12 +34603,14 @@
   "22076135": {
     "type": "Monster",
     "cn_name": "水精鳞-深渊鲟鱼兵",
+    "sc_name": "水精鳞－邃渊鲟",
     "jp_name": "水精鱗－アビスタージ",
     "en_name": "Mermail Abyssturge"
   },
   "58471134": {
     "type": "Monster",
     "cn_name": "水精鳞-深渊雀鳝兵",
+    "sc_name": "水精鳞－邃渊鳄雀鳝",
     "jp_name": "水精鱗－アビスパイク",
     "en_name": "Mermail Abysspike"
   },
@@ -34612,6 +34623,7 @@
   "21954587": {
     "type": "Monster",
     "cn_name": "水精鳞-巨齿深渊鲨",
+    "sc_name": "水精鳞－巨齿邃渊",
     "jp_name": "水精鱗－メガロアビス",
     "en_name": "Mermail Abyssmegalo"
   },
@@ -34835,6 +34847,7 @@
   "8719957": {
     "type": "Spell",
     "cn_name": "深渊鳞甲-乌贼",
+    "sc_name": "邃渊鳞甲－克拉肯",
     "jp_name": "アビスケイル－クラーケン",
     "en_name": "Abyss-scale of the Kraken"
   },
@@ -34934,6 +34947,7 @@
   "60202749": {
     "type": "Trap",
     "cn_name": "深渊死球",
+    "sc_name": "邃渊球惧",
     "jp_name": "アビスフィアー",
     "en_name": "Abyss-sphere"
   },
@@ -35106,6 +35120,7 @@
   "48995978": {
     "type": "Monster",
     "cn_name": "No.88 机关傀儡-命运狮子",
+    "sc_name": "编号88 机关傀偶－命运之狮",
     "jp_name": "No.88 ギミック・パペット－デステニー・レオ",
     "en_name": "Number 88: Gimmick Puppet of Leo"
   },
@@ -35729,6 +35744,7 @@
   "19596712": {
     "type": "Spell",
     "cn_name": "深渊鳞甲-鲸鱼",
+    "sc_name": "邃渊鳞甲－塞特斯",
     "jp_name": "アビスケイル－ケートス",
     "en_name": "Abyss-scale of Cetus"
   },
@@ -35901,6 +35917,7 @@
   "92418590": {
     "type": "Monster",
     "cn_name": "机关傀儡-死灵人偶",
+    "sc_name": "机关傀偶－死灵娃娃",
     "jp_name": "ギミック・パペット－ネクロ・ドール",
     "en_name": "Gimmick Puppet Dreary Doll"
   },
@@ -35945,6 +35962,7 @@
   "67968069": {
     "type": "Spell",
     "cn_name": "废品傀儡",
+    "sc_name": "废品傀偶",
     "jp_name": "ジャンク・パペット",
     "en_name": "Junk Puppet"
   },
@@ -36053,6 +36071,7 @@
   "22446869": {
     "type": "Monster",
     "cn_name": "水精鳞-邓氏深渊鱼",
+    "sc_name": "水精鳞－恐甲邃渊",
     "jp_name": "水精鱗－ディニクアビス",
     "en_name": "Mermail Abyssteus"
   },
@@ -36522,6 +36541,7 @@
   "72932673": {
     "type": "Spell",
     "cn_name": "深渊鳞甲-蛟龙",
+    "sc_name": "邃渊鳞甲－蛟",
     "jp_name": "アビスケイル－ミヅチ",
     "en_name": "Abyss-scale of the Mizuchi"
   },
@@ -37447,12 +37467,14 @@
   "29216967": {
     "type": "Monster",
     "cn_name": "机关傀儡-剪刀臂",
+    "sc_name": "机关傀偶－剪刀臂",
     "jp_name": "ギミック・パペット－シザー・アーム",
     "en_name": "Gimmick Puppet Scissor Arms"
   },
   "55204071": {
     "type": "Monster",
     "cn_name": "机关傀儡-梦魇",
+    "sc_name": "机关傀偶－梦魇",
     "jp_name": "ギミック・パペット－ナイトメア",
     "en_name": "Gimmick Puppet Nightmare"
   },
@@ -39413,18 +39435,21 @@
   "33776843": {
     "type": "Monster",
     "cn_name": "混沌No.15 机关傀儡-连环杀手",
+    "sc_name": "混沌编号15 机关傀偶－连环杀手",
     "jp_name": "CNo.15 ギミック・パペット－シリアルキラー",
     "en_name": "Number C15: Gimmick Puppet Giant Hunter"
   },
   "69170557": {
     "type": "Monster",
     "cn_name": "混沌No.40 机关傀儡-魔界弦乐手",
+    "sc_name": "混沌编号40 机关傀偶－魔鬼之弦",
     "jp_name": "CNo.40 ギミック・パペット－デビルズ・ストリングス",
     "en_name": "Number C40: Gimmick Puppet of Dark Strings"
   },
   "6165656": {
     "type": "Monster",
     "cn_name": "混沌No.88 机关傀儡-灾厄狮子",
+    "sc_name": "混沌编号88 机关傀偶－灾厄之狮",
     "jp_name": "CNo.88 ギミック・パペット－ディザスター・レオ",
     "en_name": "Number C88: Gimmick Puppet Disaster Leo"
   },
@@ -39462,6 +39487,7 @@
   "94220427": {
     "type": "Spell",
     "cn_name": "升阶魔法-紧急型混沌之力",
+    "sc_name": "升阶魔法－紧急混沌之力",
     "jp_name": "RUM－アージェント・カオス・フォース",
     "en_name": "Rank-Up-Magic Argent Chaos Force"
   },
@@ -44105,6 +44131,7 @@
   "21565445": {
     "type": "Monster",
     "cn_name": "海皇子 尼普深渊王",
+    "sc_name": "海皇子 尼普邃渊",
     "jp_name": "海皇子 ネプトアビス",
     "en_name": "Neptabyss, the Atlantean Prince"
   },
@@ -46882,6 +46909,7 @@
   "64043465": {
     "type": "Trap",
     "cn_name": "魔神火炎炮",
+    "sc_name": "魔神火炎炮－艾格佐德之炎",
     "jp_name": "魔神火炎砲",
     "en_name": "Obliterate!!!"
   },
@@ -60409,6 +60437,7 @@
   "97520532": {
     "type": "Monster",
     "cn_name": "机关傀儡-奇美拉人偶",
+    "sc_name": "机关傀偶－奇美拉娃娃",
     "jp_name": "ギミック・パペット－キメラ・ドール",
     "en_name": "Gimmick Puppet Chimera Doll"
   },
@@ -62057,30 +62086,35 @@
   "7593748": {
     "type": "Monster",
     "cn_name": "机关傀儡-基冈提斯人偶",
+    "sc_name": "机关傀偶－癸干忒斯娃娃",
     "jp_name": "ギミック・パペット－ギガンテス・ドール",
     "en_name": "Gimmick Puppet Gigantes Doll"
   },
   "43598843": {
     "type": "Monster",
     "cn_name": "机关傀儡-恐怖婴儿",
+    "sc_name": "机关傀偶－恐怖婴",
     "jp_name": "ギミック・パペット－テラー・ベビー",
     "en_name": "Gimmick Puppet Terror Baby"
   },
   "79086452": {
     "type": "Monster",
     "cn_name": "机关傀儡-素瓷人偶",
+    "sc_name": "机关傀偶－素瓷娃娃",
     "jp_name": "ギミック・パペット－ビスク・ドール",
     "en_name": "Gimmick Puppet Bisque Doll"
   },
   "6471156": {
     "type": "Spell",
     "cn_name": "演奏傀儡",
+    "sc_name": "操演傀偶",
     "jp_name": "パフォーム・パペット",
     "en_name": "Perform Puppet"
   },
   "32875265": {
     "type": "Trap",
     "cn_name": "傀儡葬仪-傀儡大游行",
+    "sc_name": "傀儡葬仪－傀偶游行",
     "jp_name": "傀儡葬儀－パペット・パレード",
     "en_name": "Puppet Parade"
   },
@@ -63844,6 +63878,7 @@
   "57093995": {
     "type": "Spell",
     "cn_name": "哀悼傀儡",
+    "sc_name": "哀悼傀偶",
     "jp_name": "コンドーレンス・パペット",
     "en_name": "Condolence Puppet"
   },
@@ -81571,7 +81606,8 @@
   "71818935": {
     "type": "Monster",
     "cn_name": "闭锁天之月",
-    "jp_name": "閉ザサレシ天ノ月"
+    "jp_name": "閉ザサレシ天ノ月",
+    "en_name": "Moon of the Closed Heaven"
   },
   "17217034": {
     "type": "Monster",
@@ -81611,7 +81647,8 @@
   "28958464": {
     "type": "Spell",
     "cn_name": "魔法卡「死者苏生」",
-    "jp_name": "マジックカード「死者蘇生」"
+    "jp_name": "マジックカード「死者蘇生」",
+    "en_name": "Spell Card \"Monster Reborn\""
   },
   "55343172": {
     "type": "Monster",
@@ -81641,12 +81678,14 @@
   "53008933": {
     "type": "Monster",
     "cn_name": "恶魔光来",
+    "sc_name": "恶魔的光来",
     "jp_name": "デーモンの光来",
     "en_name": "Archfiend's Advent"
   },
   "80453041": {
     "type": "Monster",
     "cn_name": "于贝尔幻影",
+    "sc_name": "尤贝尔的魅影",
     "jp_name": "ファントム・オブ・ユベル",
     "en_name": "Phantom of Yubel"
   },
@@ -81663,7 +81702,8 @@
   "15735108": {
     "type": "Spell",
     "cn_name": "魔法卡「灵魂交错」",
-    "jp_name": "マジックカード「クロス・ソウル」"
+    "jp_name": "マジックカード「クロス・ソウル」",
+    "en_name": "Spell Card \"Soul Exchange\""
   },
   "48228390": {
     "type": "Monster",
@@ -81748,413 +81788,576 @@
   "75892194": {
     "type": "Monster",
     "cn_name": "古代的机械龙",
+    "sc_name": "古代机械齿轮龙",
     "jp_name": "古代の機械竜",
     "en_name": "Ancient Gear Dragon"
   },
   "38775407": {
     "type": "Monster",
     "cn_name": "从千年长眠中觉醒的原人",
-    "jp_name": "千年の眠りから覚めし原人"
+    "sc_name": "觉醒于仟年长眠中的原人",
+    "jp_name": "千年の眠りから覚めし原人",
+    "en_name": "Sengenjin Wakes from a Millennium"
   },
   "74169516": {
     "type": "Monster",
     "cn_name": "守护千年珍宝的石人",
-    "jp_name": "千年の宝を守りしゴーレム"
+    "sc_name": "守护仟年之宝的魔像",
+    "jp_name": "千年の宝を守りしゴーレム",
+    "en_name": "Golem that Guards the Millennium Treasures"
   },
   "1164211": {
     "type": "Monster",
     "cn_name": "千年王朝之盾",
-    "jp_name": "千年王朝の盾"
+    "sc_name": "仟年王朝之盾",
+    "jp_name": "千年王朝の盾",
+    "en_name": "Shield of the Millennium Dynasty"
   },
   "37552929": {
     "type": "Monster",
     "cn_name": "千年月少女",
-    "jp_name": "ミレニアムーン・メイデン"
+    "sc_name": "千年月辉少女",
+    "jp_name": "ミレニアムーン・メイデン",
+    "en_name": "Maiden of the Millennium Moon"
   },
   "63947968": {
     "type": "Monster",
     "cn_name": "千年绝对鸟",
-    "jp_name": "ミレニアム・アブソリューター"
+    "sc_name": "千年绝镜吸收鸟",
+    "jp_name": "ミレニアム・アブソリューター",
+    "en_name": "Fiend Reflection of the Millennium"
   },
   "342673": {
     "type": "Monster",
     "cn_name": "黑色魔术师-黑魔术师",
-    "jp_name": "黒き魔術師－ブラック・マジシャン"
+    "sc_name": "黑色魔术师－黑魔导",
+    "jp_name": "黒き魔術師－ブラック・マジシャン",
+    "en_name": "Dark Magician the Magician of Black Magic"
   },
   "36436372": {
     "type": "Monster",
     "cn_name": "机关傀儡-小士兵队",
-    "jp_name": "ギミック・パペット－リトル・ソルジャーズ"
+    "sc_name": "机关傀偶－小兵队",
+    "jp_name": "ギミック・パペット－リトル・ソルジャーズ",
+    "en_name": "Gimmick Puppet Little Soldiers"
   },
   "63825486": {
     "type": "Monster",
     "cn_name": "机关傀儡-血腥人偶",
-    "jp_name": "ギミック・パペット－ブラッディ・ドール"
+    "sc_name": "机关傀偶－血腥娃娃",
+    "jp_name": "ギミック・パペット－ブラッディ・ドール",
+    "en_name": "Gimmick Puppet Rouge Doll"
   },
   "99229085": {
     "type": "Monster",
     "cn_name": "机关傀儡-悲鸣四方牛",
-    "jp_name": "ギミック・パペット－カトル・スクリーム"
+    "sc_name": "机关傀偶－牛啸",
+    "jp_name": "ギミック・パペット－カトル・スクリーム",
+    "en_name": "Gimmick Puppet Cattle Scream"
   },
   "35614780": {
     "type": "Monster",
     "cn_name": "光与升华之龙",
-    "jp_name": "光と昇華の竜"
+    "sc_name": "光与升华之龙",
+    "jp_name": "光と昇華の竜",
+    "en_name": "Light End Sublimation Dragon"
   },
   "62002838": {
     "type": "Monster",
     "cn_name": "暗与消灭之龙",
-    "jp_name": "闇と消滅の竜"
+    "sc_name": "暗与消灭之龙",
+    "jp_name": "闇と消滅の竜",
+    "en_name": "Dark End Evaporation Dragon"
   },
   "98007437": {
     "type": "Monster",
     "cn_name": "铠骑士龙-骑士武装龙-",
-    "jp_name": "鎧騎士竜－ナイト・アームド・ドラゴン－"
+    "sc_name": "铠骑士龙－剑侍武装龙－",
+    "jp_name": "鎧騎士竜－ナイト・アームド・ドラゴン－",
+    "en_name": "Knight Armed Dragon, the Armored Knight Dragon"
   },
   "25592142": {
     "type": "Monster",
     "cn_name": "白森林的阿斯忒瑞亚",
-    "jp_name": "白き森のアステーリャ"
+    "sc_name": "白森的阿斯特娅",
+    "jp_name": "白き森のアステーリャ",
+    "en_name": "Astellar of the White Forest"
   },
   "61980241": {
     "type": "Monster",
     "cn_name": "白森林的莉泽特",
-    "jp_name": "白き森のリゼット"
+    "sc_name": "白森的莉塞特",
+    "jp_name": "白き森のリゼット",
+    "en_name": "Elzette of the White Forest"
   },
   "98385955": {
     "type": "Monster",
     "cn_name": "白森林的森儿",
-    "jp_name": "白き森のシルヴィ"
+    "sc_name": "白森的西尔薇",
+    "jp_name": "白き森のシルヴィ",
+    "en_name": "Silvy of the White Forest"
   },
   "24779554": {
     "type": "Monster",
     "cn_name": "白森林的蝠儿",
-    "jp_name": "白き森のルシア"
+    "sc_name": "白森的露西亚",
+    "jp_name": "白き森のルシア",
+    "en_name": "Rucia of the White Forest"
   },
   "60764609": {
     "type": "Monster",
     "cn_name": "刻印群魔的刻魔锻冶师",
-    "jp_name": "魔を刻むデモンスミス"
+    "sc_name": "刻魔印契之魔镌客",
+    "jp_name": "魔を刻むデモンスミス",
+    "en_name": "Fiendsmith Engraver"
   },
   "97262307": {
     "type": "Monster",
     "cn_name": "蕾祸之姬邪眼",
-    "jp_name": "蕾禍ノ姫邪眼"
+    "sc_name": "蕾祸之姬邪眼",
+    "jp_name": "蕾禍ノ姫邪眼",
+    "en_name": "Ragnaraika Wicked Butterfly"
   },
   "23657016": {
     "type": "Monster",
     "cn_name": "幻禄之天杯龙",
-    "jp_name": "幻禄の天盃龍"
+    "sc_name": "幻禄天杯龙",
+    "jp_name": "幻禄の天盃龍",
+    "en_name": "Tenpai Dragon Genroku"
   },
   "50042011": {
     "type": "Monster",
     "cn_name": "莫忘催眠羊",
-    "jp_name": "メメント・スリーピィ"
+    "sc_name": "冥铭途・催眠羊",
+    "jp_name": "メメント・スリーピィ",
+    "en_name": "Mementotlan Shleepy"
   },
   "96030710": {
     "type": "Monster",
     "cn_name": "龙骑士 阿特莉",
-    "jp_name": "竜騎士アトリィ"
+    "sc_name": "龙装百夫骑士 阿特莉",
+    "jp_name": "竜騎士アトリィ",
+    "en_name": "Centur-Ion Atrii"
   },
   "22435424": {
     "type": "Monster",
     "cn_name": "龙辉巧-ν2",
-    "jp_name": "竜輝巧－νⅡ"
+    "sc_name": "辉龙机巧－天棓二纽兹",
+    "jp_name": "竜輝巧－νⅡ",
+    "en_name": "Drytron Nu II"
   },
   "59829423": {
     "type": "Monster",
     "cn_name": "至天之魔王 缺失重子伯勒斯",
-    "jp_name": "至天の魔王ミッシング・バロウズ"
+    "sc_name": "至天魔王 失落的巴勒斯",
+    "jp_name": "至天の魔王ミッシング・バロウズ",
+    "en_name": "Lord of the Missing Barrows"
   },
   "85314178": {
     "type": "Monster",
     "cn_name": "祈祷的女王-宇宙女王",
-    "jp_name": "祈りの女王－コスモクイーン"
+    "sc_name": "祈祷的女王－宇宙女皇",
+    "jp_name": "祈りの女王－コスモクイーン",
+    "en_name": "Cosmo Queen the Queen of Prayers"
   },
   "22712877": {
     "type": "Monster",
     "cn_name": "电麻毒裸盖菇",
-    "jp_name": "シビレルダケ"
+    "sc_name": "麻痹盖菇",
+    "jp_name": "シビレルダケ",
+    "en_name": "Paralyzing Mushroom"
   },
   "58707981": {
     "type": "Monster",
     "cn_name": "无孔炮塔-无效爆破炮手",
-    "jp_name": "無孔砲塔－ディセイブラスター"
+    "sc_name": "无孔炮塔－失能爆裂炮",
+    "jp_name": "無孔砲塔－ディセイブラスター",
+    "en_name": "Disablaster the Negation Fortress"
   },
   "84192580": {
     "type": "Monster",
     "cn_name": "欢聚友伴·多月水母",
-    "jp_name": "マルチャミー・プルリア"
+    "sc_name": "多多迷宝・噗噜海月",
+    "jp_name": "マルチャミー・プルリア",
+    "en_name": "Mulcharmy Purulia"
   },
   "11590299": {
     "type": "Monster",
     "cn_name": "龙宝龙",
-    "jp_name": "ドラ・ドラ"
+    "sc_name": "哆啦哆啦",
+    "jp_name": "ドラ・ドラ",
+    "en_name": "Dora Dora"
   },
   "57985393": {
     "type": "Monster",
     "cn_name": "扫帚精",
-    "jp_name": "ブルーミー"
+    "sc_name": "布噜咪",
+    "jp_name": "ブルーミー",
+    "en_name": "Broomy"
   },
   "84079032": {
     "type": "Monster",
     "cn_name": "面子蝙蝠",
-    "jp_name": "面子蝙蝠"
+    "sc_name": "面子蝙蝠",
+    "jp_name": "面子蝙蝠",
+    "en_name": "Bettan Bat"
   },
   "10474647": {
     "type": "Monster",
     "cn_name": "五月豹",
-    "jp_name": "五月豹"
+    "sc_name": "五月豹",
+    "jp_name": "五月豹",
+    "en_name": "Depresspard"
   },
   "56863746": {
     "type": "Monster",
     "cn_name": "龙仪巧-天龙流星DAD",
-    "jp_name": "竜儀巧－メテオニス＝DAD"
+    "sc_name": "仪龙机巧－降星：龙枢",
+    "jp_name": "竜儀巧－メテオニス＝DAD",
+    "en_name": "Drytron Meteonis DA Draconids"
   },
   "83257450": {
     "type": "Monster",
     "cn_name": "幻之召唤神 艾克佐迪亚",
-    "jp_name": "幻の召喚神エクゾディア"
+    "sc_name": "幻之召唤神 艾克佐迪亚",
+    "jp_name": "幻の召喚神エクゾディア",
+    "en_name": "The Unstoppable Exodia Incarnate"
   },
   "19652159": {
     "type": "Monster",
     "cn_name": "光与暗之龙王",
-    "jp_name": "光と闇の竜王"
+    "sc_name": "光与暗之龙王",
+    "jp_name": "光と闇の竜王",
+    "en_name": "Light and Darkness Dragonlord"
   },
   "46640168": {
     "type": "Monster",
     "cn_name": "刻魔 落泪之日",
-    "jp_name": "刻まれし魔ラクリモーサ"
+    "sc_name": "泪魔镌刻・拉克莉末莎",
+    "jp_name": "刻まれし魔ラクリモーサ",
+    "en_name": "Fiendsmith's Lacrima"
   },
   "82135803": {
     "type": "Monster",
     "cn_name": "刻魔 震怒之日",
-    "jp_name": "刻まれし魔ディエスイレ"
+    "sc_name": "怒魔镌刻・迪厄斯伊雷",
+    "jp_name": "刻まれし魔ディエスイレ",
+    "en_name": "Fiendsmith's Desirae"
   },
   "14529511": {
     "type": "Monster",
     "cn_name": "冥骸王-莫忘冥府王灵",
-    "jp_name": "冥骸王－メメントラン・テクトリカ"
+    "sc_name": "冥骸王－冥铭途兰泰库特利卡",
+    "jp_name": "冥骸王－メメントラン・テクトリカ",
+    "en_name": "Mementomictlan Tecuhtlica - Creation King"
   },
   "41924516": {
     "type": "Monster",
     "cn_name": "白森林的魔狼 森狼",
-    "jp_name": "白き森の魔狼シルウィア"
+    "sc_name": "白森的魔狼 西尔维亚",
+    "jp_name": "白き森の魔狼シルウィア",
+    "en_name": "Silvera, Wolf Tamer of the White Forest"
   },
   "77313225": {
     "type": "Monster",
     "cn_name": "白森林的魔性 血蝠",
-    "jp_name": "白き森の魔性ルシエラ"
+    "sc_name": "白森的魔性 露西耶拉",
+    "jp_name": "白き森の魔性ルシエラ",
+    "en_name": "Rciela, Sinister Soul of the White Forest"
   },
   "14307929": {
     "type": "Monster",
     "cn_name": "白森林的妖魔 迪亚贝尔",
-    "jp_name": "白き森の妖魔ディアベル"
+    "sc_name": "白森的妖魔 迪亚贝尔",
+    "jp_name": "白き森の妖魔ディアベル",
+    "en_name": "Diabell, Queen of the White Forest"
   },
   "40702028": {
     "type": "Monster",
     "cn_name": "DPA铠装骑兵",
-    "jp_name": "DPAジャンダムーア"
+    "sc_name": "DPA 摩尔枪骑兵",
+    "jp_name": "DPAジャンダムーア",
+    "en_name": "DPH Gendamoore"
   },
   "76290637": {
     "type": "Monster",
     "cn_name": "机关傀儡-机械降临的粉丝幻想",
-    "jp_name": "ギミック・パペット－ファンタジクス・マキナ"
+    "sc_name": "机关傀偶－迷魅机械神",
+    "jp_name": "ギミック・パペット－ファンタジクス・マキナ",
+    "en_name": "Gimmick Puppet Fantasix Machinix"
   },
   "3685372": {
     "type": "Monster",
     "cn_name": "混沌超量 机关傀儡-机械降临的粉丝狂热",
-    "jp_name": "CX ギミック・パペット－ファナティクス・マキナ"
+    "sc_name": "混沌超量 机关傀偶－迷狂机械神",
+    "jp_name": "CX ギミック・パペット－ファナティクス・マキナ",
+    "en_name": "CXyz Gimmick Puppet Fanatix Machinix"
   },
   "49689480": {
     "type": "Monster",
     "cn_name": "魔偶甜点后·后冠草莓提拉米苏",
-    "jp_name": "クイーンマドルチェ・ティアラフレース"
+    "sc_name": "魔幻甜点女王・后冠草莓提拉米苏",
+    "jp_name": "クイーンマドルチェ・ティアラフレース",
+    "en_name": "Madolche Queen Tiarafraise"
   },
   "76078185": {
     "type": "Monster",
     "cn_name": "异端之福波斯科波斯",
-    "jp_name": "異端なるフォボスコボス"
+    "sc_name": "异端之弗魄祀寇猧司",
+    "jp_name": "異端なるフォボスコボス",
+    "en_name": "Heretical Phobos Covos"
   },
   "2463794": {
     "type": "Monster",
     "cn_name": "刻魔的镇魂棺",
-    "jp_name": "刻まれし魔の鎮魂棺"
+    "sc_name": "契印魔镌・镇魂棺",
+    "jp_name": "刻まれし魔の鎮魂棺",
+    "en_name": "Fiendsmith's Requiem"
   },
   "49867899": {
     "type": "Monster",
     "cn_name": "刻魔的大圣棺",
-    "jp_name": "刻まれし魔の大聖棺"
+    "sc_name": "契印魔镌・叙圣棺",
+    "jp_name": "刻まれし魔の大聖棺",
+    "en_name": "Fiendsmith's Sequence"
   },
   "75352507": {
     "type": "Monster",
     "cn_name": "蕾祸之玄神凭月",
-    "jp_name": "蕾禍ノ玄神憑月"
+    "sc_name": "蕾祸之玄神凭月",
+    "jp_name": "蕾禍ノ玄神憑月",
+    "en_name": "Ragnaraika Selene Snapper"
   },
   "1340142": {
     "type": "Monster",
     "cn_name": "异响鸣之神奏-星光天魔",
-    "jp_name": "ヴァルモニカの神奏－ヴァーラル"
+    "sc_name": "华耳琴璃之神奏－华岚尔",
+    "jp_name": "ヴァルモニカの神奏－ヴァーラル",
+    "en_name": "Varar, Vaalmonican Concord"
   },
   "38745241": {
     "type": "Monster",
     "cn_name": "魔偶甜点小点猫·马卡龙猫咪",
-    "jp_name": "ミニャーマドルチェ・ニャカロン"
+    "sc_name": "迷你喵魔幻甜点・玛卡龙喵喵",
+    "jp_name": "ミニャーマドルチェ・ニャカロン",
+    "en_name": "Madolche Mini Meowcaroons"
   },
   "74139959": {
     "type": "Monster",
     "cn_name": "星界树 伊尔明耀星树",
-    "jp_name": "星界樹イルミスティル"
+    "sc_name": "星界树 伊尔米斯特尔",
+    "jp_name": "星界樹イルミスティル",
+    "en_name": "Cosmic Tree Irmistil"
   },
   "1528054": {
     "type": "Monster",
     "cn_name": "影法师 大礼帽野兔",
-    "jp_name": "影法師トップハットヘア"
+    "sc_name": "影法师 高帽兔",
+    "jp_name": "影法師トップハットヘア",
+    "en_name": "Silhouhatte Rabbit"
   },
   "37613663": {
     "type": "Spell",
     "cn_name": "千年十字",
-    "jp_name": "千年の十字"
+    "sc_name": "仟年十字",
+    "jp_name": "千年の十字",
+    "en_name": "Millennium Ankh"
   },
   "63017368": {
     "type": "Spell",
     "cn_name": "石版神殿",
-    "jp_name": "石版の神殿"
+    "sc_name": "石版神殿",
+    "jp_name": "石版の神殿",
+    "en_name": "Wedju Temple"
   },
   "402416": {
     "type": "Spell",
     "cn_name": "魔神火焰炮",
-    "jp_name": "魔神火焔砲"
+    "sc_name": "魔神火焰炮－艾格佐德之焰",
+    "jp_name": "魔神火焔砲",
+    "en_name": "Obliterate!!! Blaze"
   },
   "36890111": {
     "type": "Spell",
     "cn_name": "地狱人偶之馆",
-    "jp_name": "地獄人形の館"
+    "sc_name": "地狱人偶之馆",
+    "jp_name": "地獄人形の館",
+    "en_name": "Mansion of the Dreadful Dolls"
   },
   "63295720": {
     "type": "Spell",
     "cn_name": "龙之影光",
-    "jp_name": "竜の影光"
+    "sc_name": "龙之影光",
+    "jp_name": "竜の影光",
+    "en_name": "Dragon's Light and Darkness"
   },
   "99289828": {
     "type": "Spell",
     "cn_name": "白森林的传说",
-    "jp_name": "白き森のいいつたえ"
+    "sc_name": "白森之异闻",
+    "jp_name": "白き森のいいつたえ",
+    "en_name": "Tales of the White Forest"
   },
   "35778533": {
     "type": "Spell",
     "cn_name": "白森林禁止入内",
-    "jp_name": "白き森にはいるべからず"
+    "sc_name": "切勿踏足白森之地",
+    "jp_name": "白き森にはいるべからず",
+    "en_name": "Beware the White Forest"
   },
   "62173132": {
     "type": "Spell",
     "cn_name": "罪宝的低语",
-    "jp_name": "罪宝の囁き"
+    "sc_name": "罪宝的私语",
+    "jp_name": "罪宝の囁き",
+    "en_name": "Susurrus of the Sinful Spoils"
   },
   "98567237": {
     "type": "Spell",
     "cn_name": "刻魔的咏圣",
-    "jp_name": "刻まれし魔の詠聖"
+    "sc_name": "契印魔镌・咏圣颂",
+    "jp_name": "刻まれし魔の詠聖",
+    "en_name": "Fiendsmith's Tract"
   },
   "35552985": {
     "type": "Spell",
     "cn_name": "刻魔的赞圣",
-    "jp_name": "刻まれし魔の讃聖"
+    "sc_name": "契印魔镌・赞圣颂",
+    "jp_name": "刻まれし魔の讃聖",
+    "en_name": "Fiendsmith's Sanct"
   },
   "61950680": {
     "type": "Spell",
     "cn_name": "赎罪之徽记",
-    "jp_name": "贖いのエンブレーマ"
+    "sc_name": "赎罪的徽纹",
+    "jp_name": "贖いのエンブレーマ",
+    "en_name": "Emblema Salvation"
   },
   "97345699": {
     "type": "Spell",
     "cn_name": "宵星之闪光",
-    "jp_name": "宵星の閃光"
+    "sc_name": "宵星的闪光",
+    "jp_name": "宵星の閃光",
+    "en_name": "Vesper Girsu"
   },
   "24839398": {
     "type": "Spell",
     "cn_name": "陷阱收集",
-    "jp_name": "トラップ・ギャザー"
+    "sc_name": "陷阱集锦",
+    "jp_name": "トラップ・ギャザー",
+    "en_name": "Trap Gatherer"
   },
   "60238002": {
     "type": "Spell",
     "cn_name": "亚空间物质回送装置",
-    "jp_name": "亜空間物質回送装置"
+    "sc_name": "亚空间物质回送装置",
+    "jp_name": "亜空間物質回送装置",
+    "en_name": "Interdimensional Matter Forwarder"
   },
   "97223101": {
     "type": "Spell",
     "cn_name": "快回揭示板",
-    "jp_name": "BBS"
+    "sc_name": "BBS",
+    "jp_name": "BBS",
+    "en_name": "That's 10!"
   },
   "23617756": {
     "type": "Trap",
     "cn_name": "愤怒之业火 魔神火炎炮",
-    "jp_name": "怒りの業火 エクゾード・フレイム"
+    "sc_name": "愤怒的业火 艾克佐德之炎",
+    "jp_name": "怒りの業火 エクゾード・フレイム",
+    "en_name": "Exxod Fires of Rage"
   },
   "59016454": {
     "type": "Trap",
     "cn_name": "黑魔术防护罩 -反射镜力-",
-    "jp_name": "黒魔術のバリア －ミラーフォース－"
+    "sc_name": "黑魔术防护罩－反射镜力－",
+    "jp_name": "黒魔術のバリア －ミラーフォース－",
+    "en_name": "Dark Magic Mirror Force"
   },
   "36400569": {
     "type": "Trap",
     "cn_name": "傀儡游仪-服务傀儡",
-    "jp_name": "傀儡遊儀－サービスト・パペット"
+    "sc_name": "傀儡游仪－饭杀傀偶",
+    "jp_name": "傀儡遊儀－サービスト・パペット",
+    "en_name": "Service Puppet Play"
   },
   "62995268": {
     "type": "Trap",
     "cn_name": "白森林的灾祸",
-    "jp_name": "白き森のわざわいなり"
+    "sc_name": "此乃白森之祸矣",
+    "jp_name": "白き森のわざわいなり",
+    "en_name": "Woes of the White Forest"
   },
   "99989863": {
     "type": "Trap",
     "cn_name": "刻魔的乐园",
-    "jp_name": "刻まれし魔の楽園"
+    "sc_name": "契印魔镌・乐园颂",
+    "jp_name": "刻まれし魔の楽園",
+    "en_name": "Fiendsmith in Paradise"
   },
   "25388971": {
     "type": "Trap",
     "cn_name": "灿幻开花",
-    "jp_name": "燦幻開花"
+    "sc_name": "灿幻开花",
+    "jp_name": "燦幻開花",
+    "en_name": "Sangen Kaiho"
   },
   "61773610": {
     "type": "Trap",
     "cn_name": "肃声的守护者",
-    "jp_name": "粛声のガーディアン"
+    "sc_name": "肃声之守护者",
+    "jp_name": "粛声のガーディアン",
+    "en_name": "Guardian of the Voiceless Voice"
   },
   "98167225": {
     "type": "Trap",
     "cn_name": "创神之异响鸣",
-    "jp_name": "創神のヴァルモニカ"
+    "sc_name": "创神之华耳琴璃",
+    "jp_name": "創神のヴァルモニカ",
+    "en_name": "Vaalmonica Creation"
   },
   "24166324": {
     "type": "Trap",
     "cn_name": "流星极辉巧群",
-    "jp_name": "流星極輝巧群"
+    "sc_name": "极辉龙机巧降星",
+    "jp_name": "流星極輝巧群",
+    "en_name": "Meteoroa Drytron"
   },
   "51650038": {
     "type": "Trap",
     "cn_name": "魔偶甜点餐后点心",
-    "jp_name": "マドルチェ・デセール"
+    "sc_name": "魔幻甜点・餐后甜品",
+    "jp_name": "マドルチェ・デセール",
+    "en_name": "Madolche Dessert"
   },
   "97045737": {
     "type": "Trap",
     "cn_name": "圣王的粉碎",
-    "jp_name": "聖王の粉砕"
+    "sc_name": "圣主王之粉碎",
+    "jp_name": "聖王の粉砕",
+    "en_name": "Dominus Purge"
   },
   "24440742": {
     "type": "Trap",
     "cn_name": "影帽子",
-    "jp_name": "影帽子"
+    "sc_name": "影帽子",
+    "jp_name": "影帽子",
+    "en_name": "Silhouhatte Trick"
   },
   "50838440": {
     "type": "Trap",
     "cn_name": "三位一体",
-    "jp_name": "三位一体"
+    "sc_name": "三位一体",
+    "jp_name": "三位一体",
+    "en_name": "Three in One"
   },
   "96823189": {
     "type": "Monster",
     "cn_name": "骄傲与灵魂之龙",
-    "jp_name": "誇りと魂の龍"
+    "sc_name": "骄傲与灵魂之龙",
+    "jp_name": "誇りと魂の龍",
+    "en_name": "Dragon of Pride and Soul"
   },
   "46533533": {
     "type": "Monster",
@@ -82300,6 +82503,7 @@
   "18046862": {
     "type": "Spell",
     "cn_name": "叹息之石版",
+    "sc_name": "叹息石版",
     "jp_name": "嘆きの石版"
   },
   "45445571": {
@@ -82365,6 +82569,7 @@
   "32762201": {
     "type": "Monster",
     "cn_name": "古代的机械像",
+    "sc_name": "古代机械齿轮像",
     "jp_name": "古代の機械像"
   },
   "68756810": {
@@ -82375,6 +82580,7 @@
   "4145915": {
     "type": "Monster",
     "cn_name": "机关傀儡-杀人骑士",
+    "sc_name": "机关傀偶－杀手骑士",
     "jp_name": "ギミック・パペット－キラーナイト"
   },
   "31539614": {
@@ -82451,5 +82657,10 @@
     "type": "Monster",
     "cn_name": "火马天龙",
     "jp_name": "イグニホース・ドラゴニス"
+  },
+  "100200259": {
+    "type": "Monster",
+    "cn_name": "娱乐伙伴 天空魔术少女",
+    "jp_name": "EMスカイ・マジシャン・ガール"
   }
 }
