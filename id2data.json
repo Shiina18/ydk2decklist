@@ -82648,6 +82648,86 @@
     "cn_name": "魅惑之舞",
     "jp_name": "魅惑の舞"
   },
+  "67694706": {
+    "type": "Monster",
+    "cn_name": "魔化变形溶胶",
+    "en_name": "Magicolloidal Sol"
+  },
+  "93683815": {
+    "type": "Monster",
+    "cn_name": "圣龙像 乌尔米纳",
+    "en_name": "Vulmina, Statue of the Sacred Dragon"
+  },
+  "20087414": {
+    "type": "Trap",
+    "cn_name": "久延毘古",
+    "en_name": "Kuebiko"
+  },
+  "66472129": {
+    "type": "Monster",
+    "cn_name": "沉海魔鬼",
+    "en_name": "Dipsea Fiend"
+  },
+  "93860227": {
+    "type": "Monster",
+    "cn_name": "优丽的灵公主",
+    "en_name": "Necroquip Princess"
+  },
+  "29265962": {
+    "type": "Spell",
+    "cn_name": "同姓同名同盟罢业",
+    "en_name": "The League of Uniform Nomenclature Strikes"
+  },
+  "55359571": {
+    "type": "Monster",
+    "cn_name": "人形神的雏祭",
+    "en_name": "Kochobo's Hinamatsuri"
+  },
+  "92744676": {
+    "type": "Monster",
+    "cn_name": "电钳虾",
+    "en_name": "Zapper Shrimp"
+  },
+  "28143384": {
+    "type": "Monster",
+    "cn_name": "空气吞噬者",
+    "en_name": "Aerial Eater"
+  },
+  "55537983": {
+    "type": "Monster",
+    "cn_name": "拟箱掳尸鬼主",
+    "en_name": "Mimighoul Master"
+  },
+  "81522098": {
+    "type": "Monster",
+    "cn_name": "拟箱掳尸龙",
+    "en_name": "Mimighoul Dragon"
+  },
+  "23920796": {
+    "type": "Monster",
+    "cn_name": "拟箱掳尸三头犬",
+    "en_name": "Mimighoul Cerberus"
+  },
+  "50415441": {
+    "type": "Monster",
+    "cn_name": "拟箱掳尸恶魔",
+    "en_name": "Mimighoul Archfiend"
+  },
+  "86809440": {
+    "type": "Spell",
+    "cn_name": "拟箱掳尸的地城",
+    "en_name": "Mimighoul Dungeon"
+  },
+  "13204145": {
+    "type": "Spell",
+    "cn_name": "拟箱掳尸生成器",
+    "en_name": "Mimighoul Maker"
+  },
+  "59293853": {
+    "type": "Trap",
+    "cn_name": "拟箱掳尸宝室",
+    "en_name": "Mimighoul Room"
+  },
   "66532962": {
     "type": "Monster",
     "cn_name": "精灵 克罗佐",
