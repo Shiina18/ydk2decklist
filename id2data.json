@@ -82868,6 +82868,11 @@
     "cn_name": "拟箱掳尸宝室",
     "en_name": "Mimighoul Room"
   },
+  "100221000": {
+    "type": "Monster",
+    "cn_name": "白之枢机龙",
+    "jp_name": "白の枢機竜"
+  },
   "66532962": {
     "type": "Monster",
     "cn_name": "精灵 克罗佐",
