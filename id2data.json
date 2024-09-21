@@ -82868,6 +82868,36 @@
     "cn_name": "拟箱掳尸宝室",
     "en_name": "Mimighoul Room"
   },
+  "100226148": {
+    "type": "Monster",
+    "cn_name": "原始生命态 忒伊亚",
+    "en_name": "Theia, the Primal Being"
+  },
+  "100226149": {
+    "type": "Monster",
+    "cn_name": "心灵易位师",
+    "en_name": "Mind Castlin"
+  },
+  "100226150": {
+    "type": "Spell",
+    "cn_name": "重融合",
+    "en_name": "Heavy Polymerization"
+  },
+  "100200256": {
+    "type": "Monster",
+    "cn_name": "雷电邻居",
+    "jp_name": "OToNaRiサンダー"
+  },
+  "100200257": {
+    "type": "Monster",
+    "cn_name": "巨型章玉米",
+    "jp_name": "ジャイアント・タコーン"
+  },
+  "100200258": {
+    "type": "Monster",
+    "cn_name": "分裂的涡虫",
+    "jp_name": "分裂するプラナリア"
+  },
   "100221000": {
     "type": "Monster",
     "cn_name": "白之枢机龙",
@@ -83573,5 +83603,10 @@
     "type": "Monster",
     "cn_name": "冰候鸟",
     "jp_name": "リオート・ミグラトリー"
+  },
+  "100200261": {
+    "type": "Monster",
+    "cn_name": "玲珑龙 紫锂辉石龙",
+    "jp_name": "玲瓏竜クンツァイド"
   }
 }
