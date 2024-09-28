@@ -657,7 +657,7 @@
   },
   "46457856": {
     "type": "Monster",
-    "cn_name": "结伴恐龙",
+    "cn_name": "友伴恐龙",
     "sc_name": "死党恐龙",
     "jp_name": "トモザウルス",
     "en_name": "Tomozaurus"
@@ -79240,62 +79240,74 @@
   },
   "24454387": {
     "type": "Monster",
-    "cn_name": "挚友恐龙",
+    "cn_name": "永久友伴恐龙",
+    "jp_name": "ズットモザウルス",
     "en_name": "Zuttomozaurus"
   },
   "51849482": {
     "type": "Monster",
-    "cn_name": "尸界塔 菲尼斯特拉雷",
+    "cn_name": "尸界塔 菲尼斯特拉",
+    "jp_name": "屍界塔フィニステラ",
     "en_name": "Finis Terrae, Tower of the Necroworld"
   },
   "87837090": {
     "type": "Monster",
-    "cn_name": "柯伊伯带之刃龙",
+    "cn_name": "带刃龙 柯伊铠带龙",
+    "jp_name": "帯刃龍 カイベルト",
     "en_name": "Kuibelt the Blade Dragon"
   },
   "24232799": {
     "type": "Monster",
-    "cn_name": "装甲列龙 存储蜥脚龙",
+    "cn_name": "脚纳母舰 超大腕龙",
+    "jp_name": "脚納母艦ブラキオーバー",
     "en_name": "Storagepod"
   },
   "50727844": {
     "type": "Trap",
-    "cn_name": "同调迫退",
+    "cn_name": "同调推回",
+    "jp_name": "シンクロ・フォースバック",
     "en_name": "Synchro Forceback"
   },
   "86111442": {
     "type": "Monster",
-    "cn_name": "蒂斯蒂娜之卫士",
+    "cn_name": "提斯蒂娜之步哨",
+    "jp_name": "ティスティナの歩哨",
     "en_name": "Sentinel of the Tistina"
   },
   "13510157": {
     "type": "Monster",
-    "cn_name": "蒂斯蒂娜之猎犬",
+    "cn_name": "提斯蒂娜之猎犬",
+    "jp_name": "ティスティナの猟犬",
     "en_name": "Hound of the Tistina"
   },
   "59504256": {
     "type": "Monster",
-    "cn_name": "蒂斯蒂娜之半神",
+    "cn_name": "提斯蒂娜之半神",
+    "jp_name": "ティスティナの半神",
     "en_name": "Demigod of the Tistina"
   },
   "86999951": {
     "type": "Monster",
-    "cn_name": "水晶神 蒂斯蒂娜",
+    "cn_name": "结晶神 提斯蒂娜",
+    "jp_name": "結晶神ティスティナ",
     "en_name": "Crystal God Tistina"
   },
   "12397569": {
     "type": "Spell",
-    "cn_name": "神域 巴蒂斯蒂娜",
+    "cn_name": "神域 巴普-提斯蒂娜",
+    "jp_name": "神域 バ＝ティスティナ",
     "en_name": "Divine Domain Baatistina"
   },
   "58882608": {
     "type": "Spell",
-    "cn_name": "蒂斯蒂娜之气息",
+    "cn_name": "提斯蒂娜的息吹",
+    "jp_name": "ティスティナの息吹",
     "en_name": "Breath of the Tistina"
   },
   "85277313": {
     "type": "Trap",
-    "cn_name": "蒂斯蒂娜之神迹",
+    "cn_name": "提斯蒂娜的胎动",
+    "jp_name": "ティスティナの胎動",
     "en_name": "Signs of the Tistina"
   },
   "5405695": {
@@ -80189,62 +80201,74 @@
   },
   "25131968": {
     "type": "Monster",
-    "cn_name": "越后之龙 谦",
+    "cn_name": "毘龙之谦",
+    "jp_name": "毘龍之謙",
     "en_name": "Ken the Warrior Dragon"
   },
   "52126602": {
     "type": "Monster",
-    "cn_name": "甲斐之虎 玄",
+    "cn_name": "虎菱之玄",
+    "jp_name": "虎菱之玄",
     "en_name": "Gen the Diamond Tiger"
   },
   "98520301": {
     "type": "Monster",
-    "cn_name": "金山螳螂",
+    "cn_name": "资产炫耀螳螂",
+    "jp_name": "アセット・マウンティス",
     "en_name": "Asset Mountis"
   },
   "25919316": {
     "type": "Monster",
-    "cn_name": "维修区骑士·菲莉",
+    "cn_name": "维修区骑士·菲尔",
+    "jp_name": "ピットナイト・フィル",
     "en_name": "Pitknight Filly"
   },
   "51303014": {
     "type": "Spell",
-    "cn_name": "电气念力斗气输送",
+    "cn_name": "电气念力战斗传送士",
+    "jp_name": "エレキック・ファイティング・ポーター",
     "en_name": "Wattsychic Fighting Porter"
   },
   "87498729": {
     "type": "Monster",
-    "cn_name": "蒂斯蒂娜之落下者",
+    "cn_name": "提斯蒂娜之落仔",
+    "jp_name": "ティスティナの落とし仔",
     "en_name": "Fallen of the Tistina"
   },
   "24892828": {
     "type": "Monster",
-    "cn_name": "蒂斯蒂娜之归来者",
+    "cn_name": "提斯蒂娜之还仔",
+    "jp_name": "ティスティナの還り仔",
     "en_name": "Returned of the Tistina"
   },
   "50281477": {
     "type": "Monster",
-    "cn_name": "蒂斯蒂娜之感染者",
+    "cn_name": "提斯蒂娜之瘴神",
+    "jp_name": "ティスティナの瘴神",
     "en_name": "Tainted of the Tistina"
   },
   "87676171": {
     "type": "Monster",
-    "cn_name": "神蚀之光 蒂斯蒂娜",
+    "cn_name": "神蚀之光 提斯蒂娜",
+    "jp_name": "神蝕む光 ティスティナ",
     "en_name": "Tistina, the Divinity that Defies Darkness"
   },
   "13070280": {
     "type": "Spell",
-    "cn_name": "蒂斯蒂娜之游戏",
+    "cn_name": "提斯蒂娜的嬉戏",
+    "jp_name": "ティスティナの戯れ",
     "en_name": "Play of the Tistina"
   },
   "59069885": {
     "type": "Trap",
-    "cn_name": "蒂斯蒂娜之拥抱",
+    "cn_name": "提斯蒂娜的拥抱",
+    "jp_name": "ティスティナの抱擁",
     "en_name": "Embrace of the Tistina"
   },
   "86553594": {
     "type": "Trap",
-    "cn_name": "蒂斯蒂娜之失衡",
+    "cn_name": "提斯蒂娜的变晶",
+    "jp_name": "ティスティナの変晶",
     "en_name": "Discordance of the Tistina"
   },
   "90829280": {
@@ -80972,51 +80996,61 @@
   "1047075": {
     "type": "Monster",
     "cn_name": "斗炎之剑士",
+    "jp_name": "闘炎の剣士",
     "en_name": "Fighting Flame Swordsman"
   },
   "37531679": {
     "type": "Monster",
-    "cn_name": "飞炎之龙 飞龙炎",
+    "cn_name": "飞龙炎 沙罗曼达",
+    "jp_name": "飛龍炎サラマンドラ",
     "en_name": "Salamandra, the Flying Flame Dragon"
   },
   "73936388": {
     "type": "Monster",
-    "cn_name": "幻影之剑士",
+    "cn_name": "幻炎之剑士",
+    "jp_name": "幻炎の剣士－ミラージュ・ソードマン－",
     "en_name": "Mirage Swordsman"
   },
   "324483": {
     "type": "Monster",
     "cn_name": "极炎之剑士",
+    "jp_name": "極炎の剣士",
     "en_name": "Ultimate Flame Swordsman"
   },
   "36319131": {
     "type": "Monster",
-    "cn_name": "斗炎之龙",
+    "cn_name": "斗气炎斩龙",
+    "jp_name": "闘気炎斬龍",
     "en_name": "Fighting Flame Dragon"
   },
   "73714736": {
     "type": "Spell",
     "cn_name": "炎之剑域",
+    "jp_name": "炎の剣域",
     "en_name": "Flame Swordsrealm"
   },
   "9102835": {
     "type": "Spell",
     "cn_name": "飞龙炎融合",
+    "jp_name": "サラマンドラ・フュージョン",
     "en_name": "Salamandra Fusion"
   },
   "35697544": {
     "type": "Spell",
     "cn_name": "斗气炎斩剑",
+    "jp_name": "闘気炎斬剣",
     "en_name": "Fighting Flame Sword"
   },
   "62091148": {
     "type": "Trap",
-    "cn_name": "附锁链的飞龙炎",
+    "cn_name": "附锁链的飞龙炎刃",
+    "jp_name": "鎖付き飛龍炎刃",
     "en_name": "Salamandra with Chain"
   },
   "8080257": {
     "type": "Trap",
     "cn_name": "炎之剑舞",
+    "jp_name": "炎の剣舞",
     "en_name": "Flame Swordsdance"
   },
   "23530726": {
@@ -81109,82 +81143,98 @@
   },
   "70843274": {
     "type": "Monster",
-    "cn_name": "念力处理器",
+    "cn_name": "念力处理机",
+    "jp_name": "サイコ・プロセッサー",
     "en_name": "Psychic Processor"
   },
   "16238373": {
     "type": "Spell",
-    "cn_name": "念力武库",
+    "cn_name": "大电脑兵厂",
+    "jp_name": "大電脳兵廠",
     "en_name": "Psychic Arsenal"
   },
   "43633088": {
     "type": "Trap",
-    "cn_name": "紧急显形",
+    "cn_name": "紧急物体显形",
+    "jp_name": "緊急アポート",
     "en_name": "Emergency Apport"
   },
   "79627627": {
     "type": "Monster",
-    "cn_name": "互换鸟",
+    "cn_name": "半缠鸟官-转变鸟",
+    "jp_name": "半纏鳥官－コンバード",
     "en_name": "Conbirdable"
   },
   "6116731": {
     "type": "Monster",
-    "cn_name": "蜈蚣群",
+    "cn_name": "蜈蚣的进军",
+    "jp_name": "ムカデの進軍",
     "en_name": "Swarm of Centipedes"
   },
   "42510430": {
     "type": "Spell",
-    "cn_name": "黄昏节拍",
+    "cn_name": "日落浪拍",
+    "jp_name": "サンセット・ビート",
     "en_name": "Sunset Beat"
   },
   "78905039": {
     "type": "Monster",
-    "cn_name": "乱音概念三角兽",
+    "cn_name": "响魔从 吹号三角兽",
+    "jp_name": "響魔従トライコーン",
     "en_name": "Tricorn the Cacophonous Concert"
   },
   "5993144": {
     "type": "Spell",
     "cn_name": "燕贝",
+    "jp_name": "スワローズ・カウリー",
     "en_name": "Swallow's Cowrie"
   },
   "31398842": {
     "type": "Spell",
     "cn_name": "超量之力",
+    "jp_name": "エクシーズ・フォース",
     "en_name": "Xyz Force"
   },
   "78783557": {
     "type": "Monster",
-    "cn_name": "灭烬爆龙 维多斯",
+    "cn_name": "灭亡龙 威多释",
+    "jp_name": "滅亡龍 ヴェイドス",
     "en_name": "Veidos the Eruption Dragon of Extinction"
   },
   "4271596": {
     "type": "Monster",
-    "cn_name": "灰尽之都的国王",
+    "cn_name": "灰灭都之王",
+    "jp_name": "灰滅せし都の王",
     "en_name": "King of the Ashened City"
   },
   "30676200": {
     "type": "Monster",
-    "cn_name": "灰尽之都的英杰",
+    "cn_name": "灰灭都的英雄",
+    "jp_name": "灰滅せし都の英雄",
     "en_name": "Hero of the Ashened City"
   },
   "67660909": {
     "type": "Monster",
-    "cn_name": "灰尽之都的女祭司",
+    "cn_name": "灰灭都的巫女",
+    "jp_name": "灰滅せし都の巫女",
     "en_name": "Priestess of the Ashened City"
   },
   "3055018": {
     "type": "Spell",
-    "cn_name": "灰尽之都 黑曜城",
+    "cn_name": "灰灭之都 奥布西地暮",
+    "jp_name": "灰滅の都 オブシディム",
     "en_name": "Obsidim, the Ashened City"
   },
   "30453613": {
     "type": "Spell",
-    "cn_name": "维多斯的苏醒",
+    "cn_name": "威多释的觉醒",
+    "jp_name": "ヴェイドスの目覚め",
     "en_name": "Awakening of Veidos"
   },
   "66848311": {
     "type": "Trap",
-    "cn_name": "永恒灰尽",
+    "cn_name": "无终止的灰灭",
+    "jp_name": "終わりなき灰滅",
     "en_name": "Ashened for Eternity"
   },
   "2333466": {
@@ -81844,82 +81894,98 @@
   },
   "48228390": {
     "type": "Monster",
-    "cn_name": "黄铁骑士",
+    "cn_name": "黄铁之愚骑士",
+    "jp_name": "黄鉄の愚騎士",
     "en_name": "Pyrite Knight"
   },
   "74213995": {
     "type": "Spell",
-    "cn_name": "野蛮人之回声",
+    "cn_name": "野蛮人回声阵",
+    "jp_name": "バーバリアン・エコーズ",
     "en_name": "Battleguard Echoes"
   },
   "1607603": {
     "type": "Trap",
-    "cn_name": "粗人接踵",
+    "cn_name": "大粗人们料想",
+    "jp_name": "想定GUYS",
     "en_name": "Double Dai"
   },
   "37006702": {
     "type": "Monster",
-    "cn_name": "深蓝书呆魔女",
+    "cn_name": "黑天书呆魔女",
+    "jp_name": "クリシュナード・ウィッチ",
     "en_name": "Krishnerd Witch"
   },
   "73490417": {
     "type": "Monster",
     "cn_name": "密林的潜伏者",
+    "jp_name": "密林に潜む者",
     "en_name": "Jungle Dweller"
   },
   "885016": {
     "type": "Spell",
     "cn_name": "多元宇宙",
+    "jp_name": "多元宇宙",
     "en_name": "Multi-Universe"
   },
   "36974120": {
     "type": "Monster",
-    "cn_name": "葬仪龙 送葬蝰龙",
+    "cn_name": "龙葬主-葬仪薇薇尔",
+    "jp_name": "竜葬主－ヴィブリアル",
     "en_name": "Vouiburial, the Dragon Undertaker"
   },
   "63378869": {
     "type": "Monster",
-    "cn_name": "狂恋之龙姬 阿伊莎",
+    "cn_name": "狂爱之龙娘 爱沙",
+    "jp_name": "狂愛の竜娘アイザ",
     "en_name": "Aiza the Dragoness of Deranged Devotion"
   },
   "9763474": {
     "type": "Monster",
-    "cn_name": "疲惫药蜥",
+    "cn_name": "盛悴之致命毒蜥",
+    "jp_name": "盛悴のリザルドーズ",
     "en_name": "Haggard Lizardose"
   },
   "35151572": {
     "type": "Monster",
-    "cn_name": "灰尽之都的萨满",
+    "cn_name": "灰灭都的咒术师",
+    "jp_name": "灰滅せし都の呪術師",
     "en_name": "Shaman of the Ashened City"
   },
   "62156277": {
     "type": "Monster",
-    "cn_name": "灰尽之都的先锋",
+    "cn_name": "灰灭都的先驱",
+    "jp_name": "灰滅せし都の先懸",
     "en_name": "Spearhead of the Ashened City"
   },
   "8540986": {
     "type": "Monster",
-    "cn_name": "无尽蚀龙 维多斯",
+    "cn_name": "灭亡之暗 威多释",
+    "jp_name": "滅亡き闇 ヴェイドス",
     "en_name": "Veidos the Dragon of Endless Darkness"
   },
   "35035985": {
     "type": "Monster",
-    "cn_name": "灰尽余火",
+    "cn_name": "灰灭堕变者",
+    "jp_name": "灰滅せし成れの果て",
     "en_name": "Embers of the Ashened"
   },
   "61434639": {
     "type": "Spell",
-    "cn_name": "灰尽重燃",
+    "cn_name": "灰灭的复燃",
+    "jp_name": "灰滅の復燃",
     "en_name": "Rekindling the Ashened"
   },
   "98828338": {
     "type": "Spell",
-    "cn_name": "灰尽烟灭",
+    "cn_name": "灰灭的愤怒",
+    "jp_name": "灰滅の憤怒",
     "en_name": "Extinguishing the Ashened"
   },
   "34813443": {
     "type": "Trap",
-    "cn_name": "灰尽无终",
+    "cn_name": "无尽头的灰灭",
+    "jp_name": "果てなき灰滅",
     "en_name": "Ashened to Endlessness"
   },
   "75892194": {
@@ -82868,37 +82934,40 @@
     "cn_name": "拟箱掳尸宝室",
     "en_name": "Mimighoul Room"
   },
-  "100226148": {
+  "85687952": {
     "type": "Monster",
     "cn_name": "原始生命态 忒伊亚",
+    "jp_name": "原始生命態ティア",
     "en_name": "Theia, the Primal Being"
   },
-  "100226149": {
+  "12172567": {
     "type": "Monster",
-    "cn_name": "心灵易位师",
+    "cn_name": "心灵王车易位法师",
+    "jp_name": "マインド・キャスリン",
     "en_name": "Mind Castlin"
   },
-  "100226150": {
+  "58570206": {
     "type": "Spell",
-    "cn_name": "重融合",
+    "cn_name": "多层融合",
+    "jp_name": "多層融合",
     "en_name": "Heavy Polymerization"
   },
-  "100200256": {
+  "72782945": {
     "type": "Monster",
     "cn_name": "雷电邻居",
     "jp_name": "OToNaRiサンダー"
   },
-  "100200257": {
+  "8170654": {
     "type": "Monster",
     "cn_name": "巨型章玉米",
     "jp_name": "ジャイアント・タコーン"
   },
-  "100200258": {
+  "44175358": {
     "type": "Monster",
     "cn_name": "分裂的涡虫",
     "jp_name": "分裂するプラナリア"
   },
-  "100221000": {
+  "93053159": {
     "type": "Monster",
     "cn_name": "白之枢机龙",
     "jp_name": "白の枢機竜"
@@ -83604,7 +83673,7 @@
     "cn_name": "冰候鸟",
     "jp_name": "リオート・ミグラトリー"
   },
-  "100200261": {
+  "48705086": {
     "type": "Monster",
     "cn_name": "玲珑龙 紫锂辉石龙",
     "jp_name": "玲瓏竜クンツァイド"
