@@ -6398,6 +6398,7 @@
   "96965364": {
     "type": "Spell",
     "cn_name": "孵化",
+    "sc_name": "孵化",
     "jp_name": "孵化",
     "en_name": "Insect Imitation"
   },
@@ -7689,6 +7690,7 @@
   "36562627": {
     "type": "Spell",
     "cn_name": "第二次机会",
+    "sc_name": "第二次机会",
     "jp_name": "セカンド・チャンス",
     "en_name": "Second Coin Toss"
   },
@@ -10077,6 +10079,7 @@
   "35762283": {
     "type": "Spell",
     "cn_name": "凡人的意志",
+    "sc_name": "凡骨的意志",
     "jp_name": "凡骨の意地",
     "en_name": "Heart of the Underdog"
   },
@@ -12395,6 +12398,7 @@
   "52101615": {
     "type": "Monster",
     "cn_name": "融合咒印生物-暗",
+    "sc_name": "融合咒印生物－暗",
     "jp_name": "融合呪印生物－闇",
     "en_name": "The Dark - Hex-Sealed Fusion"
   },
@@ -16161,6 +16165,7 @@
   "63176202": {
     "type": "Monster",
     "cn_name": "大将军 紫炎",
+    "sc_name": "大将军 紫炎",
     "jp_name": "大将軍 紫炎",
     "en_name": "Great Shogun Shien"
   },
@@ -31084,6 +31089,7 @@
   "69610924": {
     "type": "Monster",
     "cn_name": "No.17 海恶龙",
+    "sc_name": "编号17 海鳄龙",
     "jp_name": "No.17 リバイス・ドラゴン",
     "en_name": "Number 17: Leviathan Dragon"
   },
@@ -32324,6 +32330,7 @@
   "81330115": {
     "type": "Monster",
     "cn_name": "No.30 破灭之酸液石人",
+    "sc_name": "编号30 破灭之酸蚀魔像",
     "jp_name": "No.30 破滅のアシッド・ゴーレム",
     "en_name": "Number 30: Acid Golem of Destruction"
   },
@@ -34575,6 +34582,7 @@
   "47826112": {
     "type": "Monster",
     "cn_name": "海皇龙 波塞德拉",
+    "sc_name": "海皇龙 波塞多拉",
     "jp_name": "海皇龍 ポセイドラ",
     "en_name": "Poseidra, the Atlantean Dragon"
   },
@@ -34702,6 +34710,7 @@
   "96682430": {
     "type": "Monster",
     "cn_name": "水精鳞-深渊希德",
+    "sc_name": "水精鳞－邃渊希德",
     "jp_name": "水精鱗－アビスヒルデ",
     "en_name": "Mermail Abysshilde"
   },
@@ -34824,6 +34833,7 @@
   "13959634": {
     "type": "Monster",
     "cn_name": "冰灵神 穆兰格雷斯",
+    "sc_name": "冰灵神 穆岚格雷斯",
     "jp_name": "氷霊神ムーラングレイス",
     "en_name": "Moulinglacia the Elemental Lord"
   },
@@ -37657,6 +37667,7 @@
   "42421606": {
     "type": "Monster",
     "cn_name": "No.85 狂箱",
+    "sc_name": "编号85 狂箱",
     "jp_name": "No.85 クレイジー・ボックス",
     "en_name": "Number 85: Crazy Box"
   },
@@ -38775,6 +38786,7 @@
   "3557275": {
     "type": "Monster",
     "cn_name": "白尘妖",
+    "sc_name": "白尘小妖",
     "jp_name": "ホワイト・ダストン",
     "en_name": "White Duston"
   },
@@ -39398,6 +39410,7 @@
   "46132282": {
     "type": "Monster",
     "cn_name": "甲化铠骨骼",
+    "sc_name": "甲化铠骨骼",
     "jp_name": "甲化鎧骨格",
     "en_name": "Powered Inzektron"
   },
@@ -49648,6 +49661,7 @@
   "79538761": {
     "type": "Monster",
     "cn_name": "扭力调整齿轮",
+    "sc_name": "扭力调整齿轮",
     "jp_name": "トルクチューン・ギア",
     "en_name": "Torque Tune Gear"
   },
@@ -72434,6 +72448,7 @@
   "86993168": {
     "type": "Monster",
     "cn_name": "疯帽黑客",
+    "sc_name": "疯帽骇客",
     "jp_name": "マッド・ハッカー",
     "en_name": "Mad Hacker"
   },
@@ -76321,6 +76336,7 @@
   "40460013": {
     "type": "Monster",
     "cn_name": "炎魔触媒",
+    "sc_name": "炎魔的触媒",
     "jp_name": "炎魔の触媒",
     "en_name": "Zalamander Catalyzer"
   },
@@ -76577,6 +76593,7 @@
   "26259179": {
     "type": "Monster",
     "cn_name": "圣杯情侣双A",
+    "sc_name": "交杯Ace",
     "jp_name": "Couple of Aces",
     "en_name": "Couple of Aces"
   },
@@ -82977,6 +82994,11 @@
     "cn_name": "精灵 克罗佐",
     "jp_name": "精霊コロゾ"
   },
+  "100225001": {
+    "type": "Monster",
+    "cn_name": "异色眼日焰龙",
+    "jp_name": "オッドアイズ・ソルブレイズ・ドラゴン"
+  },
   "28103028": {
     "type": "Monster",
     "cn_name": "火马天龙",
@@ -83673,9 +83695,19 @@
     "cn_name": "冰候鸟",
     "jp_name": "リオート・ミグラトリー"
   },
+  "100228001": {
+    "type": "Monster",
+    "cn_name": "封印之魔导士 斯彭",
+    "jp_name": "封印の魔導士スプーン"
+  },
   "48705086": {
     "type": "Monster",
     "cn_name": "玲珑龙 紫锂辉石龙",
     "jp_name": "玲瓏竜クンツァイド"
+  },
+  "100230401": {
+    "type": "Monster",
+    "cn_name": "痛痛语咒兔",
+    "jp_name": "スペース・オマジナイ・ウサギ"
   }
 }
