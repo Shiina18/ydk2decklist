@@ -80214,7 +80214,8 @@
   "99742859": {
     "type": "Monster",
     "cn_name": "救援刺猬",
-    "jp_name": "レスキューヘッジホッグ"
+    "jp_name": "レスキューヘッジホッグ",
+    "en_name": "Rescue Hedgehog"
   },
   "25131968": {
     "type": "Monster",
@@ -81156,7 +81157,8 @@
   "44455560": {
     "type": "Monster",
     "cn_name": "炎王妃 火神不死鸟",
-    "jp_name": "炎王妃 ウルカニクス"
+    "jp_name": "炎王妃 ウルカニクス",
+    "en_name": "Fire King Courtier Ulcanix"
   },
   "70843274": {
     "type": "Monster",
@@ -81896,7 +81898,8 @@
   "26857786": {
     "type": "Monster",
     "cn_name": "咒炎王 爆咒",
-    "jp_name": "呪炎王 バースト・カースド"
+    "jp_name": "呪炎王 バースト・カースド",
+    "en_name": "Cursed Fire King Doom Burst"
   },
   "53246495": {
     "type": "Monster",
@@ -82982,7 +82985,8 @@
   "44175358": {
     "type": "Monster",
     "cn_name": "分裂的涡虫",
-    "jp_name": "分裂するプラナリア"
+    "jp_name": "分裂するプラナリア",
+    "en_name": "Splitting Planarian"
   },
   "93053159": {
     "type": "Monster",
@@ -83008,487 +83012,568 @@
     "type": "Monster",
     "cn_name": "浮上的大颚鲛",
     "sc_name": "浮上水面的大口鲛",
-    "jp_name": "浮上するビッグ・ジョーズ"
+    "jp_name": "浮上するビッグ・ジョーズ",
+    "en_name": "Surfacing Big Jaws"
   },
   "81096431": {
     "type": "Monster",
     "cn_name": "龙兽鲨",
     "sc_name": "龙兽鲨",
-    "jp_name": "ドレイク・シャーク"
+    "jp_name": "ドレイク・シャーク",
+    "en_name": "Drake Shark"
   },
   "27480536": {
     "type": "Monster",
     "cn_name": "铠装鲨",
     "sc_name": "装甲鲨",
-    "jp_name": "アーマード・シャーク"
+    "jp_name": "アーマード・シャーク",
+    "en_name": "Armored Shark"
   },
   "54475145": {
     "type": "Monster",
     "cn_name": "宿心的青眼龙",
     "sc_name": "寄托于心的青眼龙",
-    "jp_name": "心宿りし青眼竜"
+    "jp_name": "心宿りし青眼竜",
+    "en_name": "Heart of the Blue-Eyes"
   },
   "80870883": {
     "type": "Monster",
     "cn_name": "真红眼黑重钢龙",
     "sc_name": "真红眼黑全钢龙",
-    "jp_name": "レッドアイズ・ブラックフルメタルドラゴン"
+    "jp_name": "レッドアイズ・ブラックフルメタルドラゴン",
+    "en_name": "Red-Eyes Black Fullmetal Dragon"
   },
   "27268998": {
     "type": "Monster",
     "cn_name": "钢铁恶魔兽灵X",
     "sc_name": "钢铁戴比鲁佐亚X",
-    "jp_name": "メタル・デビルゾアX"
+    "jp_name": "メタル・デビルゾアX",
+    "en_name": "Metalzoa X"
   },
   "53753697": {
     "type": "Monster",
     "cn_name": "恶魔兽 恶魔兽灵",
     "sc_name": "恶之魔兽 戴比鲁佐亚",
-    "jp_name": "悪魔獣デビルゾア"
+    "jp_name": "悪魔獣デビルゾア",
+    "en_name": "Zoa the Fiendish Beast"
   },
   "29157292": {
     "type": "Monster",
     "cn_name": "钢铁幻想师",
     "sc_name": "钢铁幻象师",
-    "jp_name": "鋼鉄の幻想師"
+    "jp_name": "鋼鉄の幻想師",
+    "en_name": "Metal Illusionist"
   },
   "56146300": {
     "type": "Monster",
     "cn_name": "蜂军-猛击之细剑蜂",
     "sc_name": "蜂军－猛击之针刺剑",
-    "jp_name": "B・F－猛撃のレイピア"
+    "jp_name": "B・F－猛撃のレイピア",
+    "en_name": "Battlewasp - Rapier the Onslaught"
   },
   "92530005": {
     "type": "Monster",
     "cn_name": "娱乐法师 乘球人",
     "sc_name": "娱乐巫师・骑球手",
-    "jp_name": "Emボール・ライダー"
+    "jp_name": "Emボール・ライダー",
+    "en_name": "Performage Ball Balancer"
   },
   "29925614": {
     "type": "Monster",
     "cn_name": "混沌魅惑的女王",
     "sc_name": "混沌的魅惑女王",
-    "jp_name": "混沌なる魅惑の女王"
+    "jp_name": "混沌なる魅惑の女王",
+    "en_name": "Chaos Allure Queen"
   },
   "55320758": {
     "type": "Monster",
     "cn_name": "天上天下百鬼罗刹",
     "sc_name": "天上天下格布林百罗刹",
-    "jp_name": "天上天下百鬼羅刹"
+    "jp_name": "天上天下百鬼羅刹",
+    "en_name": "Goblin Bikers Gone Wild"
   },
   "81418467": {
     "type": "Monster",
     "cn_name": "原石龙 帝王黄玉龙",
     "sc_name": "原石龙 帝皇龙",
-    "jp_name": "原石竜インペリアル・ドラゴン"
+    "jp_name": "原石竜インペリアル・ドラゴン",
+    "en_name": "Primite Imperial Dragon"
   },
   "28803166": {
     "type": "Monster",
     "cn_name": "红泪之魔 落泪之日",
     "sc_name": "红泪之魔 拉克莉末莎",
-    "jp_name": "紅涙の魔ラクリモーサ"
+    "jp_name": "紅涙の魔ラクリモーサ",
+    "en_name": "Lacrima the Crimson Tears"
   },
   "54207171": {
     "type": "Monster",
     "cn_name": "莫忘卡库塔斯",
     "sc_name": "冥铭途・卡可塔斯",
-    "jp_name": "メメント・カクタス"
+    "jp_name": "メメント・カクタス",
+    "en_name": "Mementotlan Akihiron"
   },
   "81696879": {
     "type": "Monster",
     "cn_name": "影骑士 奇美莉娅",
     "sc_name": "影魔百夫骑士 西梅莉娅",
-    "jp_name": "影騎士シメーリア"
+    "jp_name": "影騎士シメーリア",
+    "en_name": "Centur-Ion Chimerea"
   },
   "17080584": {
     "type": "Monster",
     "cn_name": "海皇精 深渊莱茵",
     "sc_name": "海皇精 邃渊莱因",
-    "jp_name": "海皇精 アビスライン"
+    "jp_name": "海皇精 アビスライン",
+    "en_name": "Abyssrhine, the Atlantean Spirit"
   },
   "53085623": {
     "type": "Monster",
     "cn_name": "水精鳞的深影队",
     "sc_name": "水精鳞的深影队",
-    "jp_name": "水精鱗の深影隊"
+    "jp_name": "水精鱗の深影隊",
+    "en_name": "Mermail Shadow Squad"
   },
   "80570228": {
     "type": "Monster",
     "cn_name": "六武众的破戒僧",
     "sc_name": "六武众之破戒僧",
-    "jp_name": "六武衆の破戒僧"
+    "jp_name": "六武衆の破戒僧",
+    "en_name": "Anarchist Monk of the Six Samurai"
   },
   "16968936": {
     "type": "Monster",
     "cn_name": "六武众的指南番",
     "sc_name": "六武众之指南番",
-    "jp_name": "六武衆の指南番"
+    "jp_name": "六武衆の指南番",
+    "en_name": "Tactical Trainer of the Six Samurai"
   },
   "43363035": {
     "type": "Monster",
     "cn_name": "地下牢的徊神",
     "sc_name": "塔尔塔牢斯的徊神",
-    "jp_name": "地下牢の徊神"
+    "jp_name": "地下牢の徊神",
+    "en_name": "Wandering Titan of Tartarus"
   },
   "89357740": {
     "type": "Monster",
     "cn_name": "同盟飞行员",
     "sc_name": "联合飞行员",
-    "jp_name": "ユニオン・パイロット"
+    "jp_name": "ユニオン・パイロット",
+    "en_name": "Union Pilot"
   },
   "15746348": {
     "type": "Monster",
     "cn_name": "水灵媒师 艾莉娅",
     "sc_name": "水灵媒师 艾里雅",
-    "jp_name": "水霊媒師エリア"
+    "jp_name": "水霊媒師エリア",
+    "en_name": "Eria the Water Channeler"
   },
   "42141493": {
     "type": "Monster",
     "cn_name": "欢聚友伴·茸茸长尾山雀",
     "sc_name": "多多迷宝・软绵雀精",
-    "jp_name": "マルチャミー・フワロス"
+    "jp_name": "マルチャミー・フワロス",
+    "en_name": "Mulcharmy Fuwalos"
   },
   "84635192": {
     "type": "Monster",
     "cn_name": "小果冻水怪",
     "sc_name": "啾噜噗噜噗珑",
-    "jp_name": "ツルプルプルン"
+    "jp_name": "ツルプルプルン",
+    "en_name": "Tsuru-Puru-Purun"
   },
   "11024707": {
     "type": "Monster",
     "cn_name": "回猫",
     "sc_name": "回猫",
-    "jp_name": "回猫"
+    "jp_name": "回猫",
+    "en_name": "Flipping Feline"
   },
   "47028805": {
     "type": "Monster",
     "cn_name": "小合并法师",
     "sc_name": "码集小魔吉",
-    "jp_name": "Lマジマージ"
+    "jp_name": "Lマジマージ",
+    "en_name": "L Magi Mergy"
   },
   "73413514": {
     "type": "Monster",
     "cn_name": "梦幻吸收体",
     "sc_name": "梦幻吸收体",
-    "jp_name": "夢幻吸収体"
+    "jp_name": "夢幻吸収体",
+    "en_name": "Neverending Nightmare Absorber"
   },
   "10807219": {
     "type": "Monster",
     "cn_name": "菜鸟新蜂族！",
     "sc_name": "新异蜜蜂！",
-    "jp_name": "ニュービー！"
+    "jp_name": "ニュービー！",
+    "en_name": "Newbee!"
   },
   "46396218": {
     "type": "Monster",
     "cn_name": "背信圣徒 森恶狼母",
     "sc_name": "背信圣徒 雷亚西尔薇亚",
-    "jp_name": "背信聖徒シルヴィア"
+    "jp_name": "背信聖徒シルヴィア",
+    "en_name": "Azamina Ilia Silvia"
   },
   "73391962": {
     "type": "Monster",
     "cn_name": "告死圣徒 嗜血蝠鬼",
     "sc_name": "告死圣徒 姆露西耶拉格",
-    "jp_name": "告死聖徒ルシエラーゴ"
+    "jp_name": "告死聖徒ルシエラーゴ",
+    "en_name": "Azamina Mu Rcielago"
   },
   "9785661": {
     "type": "Monster",
     "cn_name": "饥渴圣徒 裂火日饕",
     "sc_name": "饥渴圣徒 索尔厄律西克同",
-    "jp_name": "飢渇聖徒エリュシクトーン"
+    "jp_name": "飢渇聖徒エリュシクトーン",
+    "en_name": "Azamina Sol Erysichthon"
   },
   "46174776": {
     "type": "Monster",
     "cn_name": "杀戮圣徒 魇女王鸦",
     "sc_name": "杀戮圣徒 摩尔蕾吉娜",
-    "jp_name": "殺戮聖徒レジーナ"
+    "jp_name": "殺戮聖徒レジーナ",
+    "en_name": "Azamina Moa Regina"
   },
   "72578374": {
     "type": "Monster",
     "cn_name": "空隙之原星龙",
     "sc_name": "空隙原星龙",
-    "jp_name": "空隙の原星竜"
+    "jp_name": "空隙の原星竜",
+    "en_name": "Khaos Starsource Dragon"
   },
   "8963089": {
     "type": "Monster",
     "cn_name": "黎铭机 厄俄斯瓦罗格",
     "sc_name": "黎铭机 厄俄史瓦罗格",
-    "jp_name": "黎銘機ヘオスヴァローグ"
+    "jp_name": "黎銘機ヘオスヴァローグ",
+    "en_name": "Heosvarog the Mechanical Dawn"
   },
   "35057188": {
     "type": "Monster",
     "cn_name": "蜂军-革命之大游击阔头枪蜂",
     "sc_name": "蜂军－革命之阔枪大游击",
-    "jp_name": "B・F－革命のグラン・パルチザン"
+    "jp_name": "B・F－革命のグラン・パルチザン",
+    "en_name": "Battlewasp - Grand Partisan the Revolution"
   },
   "71456737": {
     "type": "Monster",
     "cn_name": "蜂军-神事弓之幸矢蜂",
     "sc_name": "蜂军－神事弓之福",
-    "jp_name": "B・F－神事弓のサチ"
+    "jp_name": "B・F－神事弓のサチ",
+    "en_name": "Battlewasp - Sachi the Ceremonial Bow"
   },
   "8841431": {
     "type": "Monster",
     "cn_name": "骑士皇 普莉梅拉·首席百夫长",
     "sc_name": "百夫骑士皇 普莉梅拉・普里默斯",
-    "jp_name": "騎士皇プリメラ・プリムス"
+    "jp_name": "騎士皇プリメラ・プリムス",
+    "en_name": "Centur-Ion Primera Primus"
   },
   "34235530": {
     "type": "Monster",
     "cn_name": "真魔六武众-紫炎",
     "sc_name": "真魔六武众－紫焰",
-    "jp_name": "真魔六武衆－シエン"
+    "jp_name": "真魔六武衆－シエン",
+    "en_name": "Legendary Lord Six Samurai - Shi En"
   },
   "70634245": {
     "type": "Monster",
     "cn_name": "真魔六武众-缘",
     "sc_name": "真魔六武众－缘",
-    "jp_name": "真魔六武衆－エニシ"
+    "jp_name": "真魔六武衆－エニシ",
+    "en_name": "Legendary Lord Six Samurai - Enishi"
   },
   "7628844": {
     "type": "Monster",
     "cn_name": "混沌No.32 海咬龙 鲨龙兽·海恶白煞",
     "sc_name": "混沌编号32 海咬龙 鲨龙兽・鳄煞",
-    "jp_name": "CNo.32 海咬龍シャーク・ドレイク・リバイス"
+    "jp_name": "CNo.32 海咬龍シャーク・ドレイク・リバイス",
+    "en_name": "Number C32: Shark Drake LeVeiss"
   },
   "33113958": {
     "type": "Monster",
     "cn_name": "海善龙",
     "sc_name": "海善龙",
-    "jp_name": "リヴァーチュ・ドラゴン"
+    "jp_name": "リヴァーチュ・ドラゴン",
+    "en_name": "LeVirtue Dragon"
   },
   "60517697": {
     "type": "Monster",
     "cn_name": "海皇龙神 波塞德拉·深渊",
     "sc_name": "海皇龙神 波塞多拉・邃渊",
-    "jp_name": "海皇龍神 ポセイドラ・アビス"
+    "jp_name": "海皇龍神 ポセイドラ・アビス",
+    "en_name": "Poseidra Abyss, the Atlantean Dragon Lord"
   },
   "6906306": {
     "type": "Monster",
     "cn_name": "至钢之玉 红青玉",
     "sc_name": "至刚之玉 鲁碧萨绯尔斯",
-    "jp_name": "至鋼の玉 ルーベサフィルス"
+    "jp_name": "至鋼の玉 ルーベサフィルス",
+    "en_name": "Rubysapphirus, the Adamant Jewel"
   },
   "32991300": {
     "type": "Monster",
     "cn_name": "刻魔的神圣棺",
     "sc_name": "契印魔镌・神羔棺",
-    "jp_name": "刻まれし魔の神聖棺"
+    "jp_name": "刻まれし魔の神聖棺",
+    "en_name": "Fiendsmith's Agnumday"
   },
   "69385019": {
     "type": "Monster",
     "cn_name": "皇者水精鳞-尼普深渊王",
     "sc_name": "皇之水精鳞－尼普邃渊",
-    "jp_name": "皇たる水精鱗－ネプトアビス"
+    "jp_name": "皇たる水精鱗－ネプトアビス",
+    "en_name": "Mermail King - Neptabyss"
   },
   "95784714": {
     "type": "Monster",
     "cn_name": "彷徨的幽灵船",
     "sc_name": "彷徨幽灵船 飞翔玛丽号",
-    "jp_name": "彷徨える幽霊船"
+    "jp_name": "彷徨える幽霊船",
+    "en_name": "Flying Mary, the Wandering Ghost Ship"
   },
   "32278723": {
     "type": "Spell",
     "cn_name": "喷水引擎浮上",
     "sc_name": "水波喷气机・上浮",
-    "jp_name": "アクア・ジェット・サーフェス"
+    "jp_name": "アクア・ジェット・サーフェス",
+    "en_name": "Aqua Jet Surface"
   },
   "68663427": {
     "type": "Spell",
     "cn_name": "转生显形铠",
     "sc_name": "转世揭幕铠",
-    "jp_name": "リンカーネイト・アンヴェイル・メイル"
+    "jp_name": "リンカーネイト・アンヴェイル・メイル",
+    "en_name": "Reincarnation Unveiling Mail"
   },
   "94661166": {
     "type": "Spell",
     "cn_name": "迫近的机械",
     "sc_name": "逼近的机械",
-    "jp_name": "迫りくる機械"
+    "jp_name": "迫りくる機械",
+    "en_name": "Incoming Machine!"
   },
   "21056275": {
     "type": "Spell",
     "cn_name": "武装蜂起",
     "sc_name": "武装蜂起",
-    "jp_name": "武装蜂起"
+    "jp_name": "武装蜂起",
+    "en_name": "Armed Rebeellion"
   },
   "67441879": {
     "type": "Spell",
     "cn_name": "蜂军风",
     "sc_name": "蜂军之风",
-    "jp_name": "B・F・W"
+    "jp_name": "B・F・W",
+    "en_name": "Battlewasp Wind"
   },
   "94845588": {
     "type": "Spell",
     "cn_name": "神圣蓟花",
     "sc_name": "圣徒蓟花",
-    "jp_name": "聖なる薊花"
+    "jp_name": "聖なる薊花",
+    "en_name": "The Hallowed Azamina"
   },
   "20934683": {
     "type": "Spell",
     "cn_name": "蓟花之欠债者",
     "sc_name": "圣徒・负疚",
-    "jp_name": "アザミナ・オフェイレーテス"
+    "jp_name": "アザミナ・オフェイレーテス",
+    "en_name": "Azamina Debtors"
   },
   "66328392": {
     "type": "Spell",
     "cn_name": "罪宝的欺骗",
     "sc_name": "罪宝的欺瞒",
-    "jp_name": "罪宝の欺き"
+    "jp_name": "罪宝の欺き",
+    "en_name": "Deception of the Sinful Spoils"
   },
   "93723936": {
     "type": "Spell",
     "cn_name": "白森林的恶魔",
     "sc_name": "白森之魔",
-    "jp_name": "白き森のあくま"
+    "jp_name": "白き森のあくま",
+    "en_name": "Scourge of the White Forest"
   },
   "29111045": {
     "type": "Spell",
     "cn_name": "百鬼罗刹大收监",
     "sc_name": "格布林百罗刹大收监",
-    "jp_name": "百鬼羅刹大収監"
+    "jp_name": "百鬼羅刹大収監",
+    "en_name": "Goblin Biker Grand Breakout"
   },
   "56506740": {
     "type": "Spell",
     "cn_name": "原石的皇脉",
     "sc_name": "原石之皇脉",
-    "jp_name": "原石の皇脈"
+    "jp_name": "原石の皇脈",
+    "en_name": "Primite Lordly Lode"
   },
   "92501449": {
     "type": "Spell",
     "cn_name": "原石的鸣狞",
     "sc_name": "原石之鸣狞",
-    "jp_name": "原石の鳴獰"
+    "jp_name": "原石の鳴獰",
+    "en_name": "Primite Roar"
   },
   "29095457": {
     "type": "Spell",
     "cn_name": "原石的穿光",
     "sc_name": "原石之穿光",
-    "jp_name": "原石の穿光"
+    "jp_name": "原石の穿光",
+    "en_name": "Primite Drillbeam"
   },
   "55484152": {
     "type": "Spell",
     "cn_name": "灿幻封炉",
     "sc_name": "灿幻封炉",
-    "jp_name": "燦幻封炉"
+    "jp_name": "燦幻封炉",
+    "en_name": "Sangen Furo"
   },
   "81878201": {
     "type": "Spell",
     "cn_name": "深渊刺器-三叉戟",
     "sc_name": "邃渊突刺－三叉戟",
-    "jp_name": "アビスティング－トリアイナ"
+    "jp_name": "アビスティング－トリアイナ",
+    "en_name": "Abyss-sting Triaina"
   },
   "28273805": {
     "type": "Spell",
     "cn_name": "六武式袭双阵",
     "sc_name": "六武式袭双阵",
-    "jp_name": "六武式襲双陣"
+    "jp_name": "六武式襲双陣",
+    "en_name": "Six Strike - Double Assault"
   },
   "54261514": {
     "type": "Spell",
     "cn_name": "超兽的咆哮",
     "sc_name": "超兽的咆哮",
-    "jp_name": "超獸の咆哮"
+    "jp_name": "超獸の咆哮",
+    "en_name": "Final Bringer of the End Times"
   },
   "81756619": {
     "type": "Spell",
     "cn_name": "讴歌死亡的魔瞳",
     "sc_name": "讴歌死亡的绿柱魔瞳",
-    "jp_name": "死を謳う魔瞳"
+    "jp_name": "死を謳う魔瞳",
+    "en_name": "Succumbing-Song Morganite"
   },
   "17151328": {
     "type": "Spell",
     "cn_name": "涡卷的海炎",
     "sc_name": "旋涡海炎",
-    "jp_name": "渦巻く海炎"
+    "jp_name": "渦巻く海炎",
+    "en_name": "Firestorms Over Atlantis"
   },
   "53545926": {
     "type": "Spell",
     "cn_name": "共斗斗君",
     "sc_name": "共斗斗君",
-    "jp_name": "共闘闘君"
+    "jp_name": "共闘闘君",
+    "en_name": "Token Support"
   },
   "80534031": {
     "type": "Trap",
     "cn_name": "善德激流弹",
     "sc_name": "善德风暴",
-    "jp_name": "ヴァーチュ・ストリーム"
+    "jp_name": "ヴァーチュ・ストリーム",
+    "en_name": "Virtue Stream"
   },
   "16938770": {
     "type": "Trap",
     "cn_name": "超量波塞冬涛溅",
     "sc_name": "超量波塞冬飞溅",
-    "jp_name": "エクシーズ・ポセイドン・スプラッシュ"
+    "jp_name": "エクシーズ・ポセイドン・スプラッシュ",
+    "en_name": "Xyz Poseidon Splash"
   },
   "53323475": {
     "type": "Trap",
     "cn_name": "傀儡流仪-傀儡鲨",
     "sc_name": "傀儡风仪－傀偶鲨鱼",
-    "jp_name": "傀儡流儀－パペット・シャーク"
+    "jp_name": "傀儡流儀－パペット・シャーク",
+    "en_name": "Puppet Shark"
   },
   "89812483": {
     "type": "Trap",
     "cn_name": "金属化·强化反射装甲",
     "sc_name": "钢铁化・强化反射装甲",
-    "jp_name": "メタル化・強化反射装甲"
+    "jp_name": "メタル化・強化反射装甲",
+    "en_name": "Max Metalmorph"
   },
   "15216188": {
     "type": "Trap",
     "cn_name": "时间机械-时间引擎",
     "sc_name": "时间机械－时之引擎",
-    "jp_name": "時の機械－タイム・エンジン"
+    "jp_name": "時の機械－タイム・エンジン",
+    "en_name": "Time Engine"
   },
   "42201897": {
     "type": "Trap",
     "cn_name": "蓟花之罪",
     "sc_name": "圣徒・棘路",
-    "jp_name": "アザミナ・ハマルティア"
+    "jp_name": "アザミナ・ハマルティア",
+    "en_name": "Azamina Determination"
   },
   "88695895": {
     "type": "Trap",
     "cn_name": "罪宝的咎人",
     "sc_name": "罪宝的咎人",
-    "jp_name": "罪宝の咎人"
+    "jp_name": "罪宝の咎人",
+    "en_name": "Guilt of the Sinful Spoils"
   },
   "15094540": {
     "type": "Trap",
     "cn_name": "百鬼罗刹大危机",
     "sc_name": "格布林百罗刹大危机",
-    "jp_name": "百鬼羅刹大危機"
+    "jp_name": "百鬼羅刹大危機",
+    "en_name": "Goblin Biker Grand Crisis"
   },
   "41488249": {
     "type": "Trap",
     "cn_name": "原石的号咆",
     "sc_name": "原石之号咆",
-    "jp_name": "原石の号咆"
+    "jp_name": "原石の号咆",
+    "en_name": "Primite Howl"
   },
   "77573354": {
     "type": "Trap",
     "cn_name": "蕾祸之曝藤",
     "sc_name": "蕾祸之曝藤",
-    "jp_name": "蕾禍ノ曝藤"
+    "jp_name": "蕾禍ノ曝藤",
+    "en_name": "Ragnaraika Wisteria of Woe"
   },
   "14972952": {
     "type": "Trap",
     "cn_name": "异响鸣的继承",
     "sc_name": "华耳琴璃・承继",
-    "jp_name": "ヴァルモニカ・エレディターレ"
+    "jp_name": "ヴァルモニカ・エレディターレ",
+    "en_name": "Vaalmonica Ereditare"
   },
   "40366667": {
     "type": "Trap",
     "cn_name": "灵王的波动",
     "sc_name": "灵主王之波动",
-    "jp_name": "霊王の波動"
+    "jp_name": "霊王の波動",
+    "en_name": "Dominus Impulse"
   },
   "77751766": {
     "type": "Trap",
     "cn_name": "火器的祝台",
     "sc_name": "火器的祝台",
-    "jp_name": "火器の祝台"
+    "jp_name": "火器の祝台",
+    "en_name": "Summer Schoolwork Successful!"
   },
   "3149401": {
     "type": "Monster",
     "cn_name": "骄傲与灵魂之究极龙",
     "sc_name": "骄傲与灵魂之究极龙",
-    "jp_name": "誇りと魂の究極竜"
+    "jp_name": "誇りと魂の究極竜",
+    "en_name": "Ultimate Dragon of Pride and Soul"
   },
   "3859859": {
     "type": "Monster",
@@ -83694,6 +83779,86 @@
     "type": "Monster",
     "cn_name": "冰候鸟",
     "jp_name": "リオート・ミグラトリー"
+  },
+  "101206081": {
+    "type": "Monster",
+    "cn_name": "无死虫团的补给兵",
+    "en_name": "Supply Soldier of the Indestructible Insects"
+  },
+  "101206082": {
+    "type": "Monster",
+    "cn_name": "无死虫团的重骑兵",
+    "en_name": "Heavy Cavalry of the Indestructible Insects"
+  },
+  "101206083": {
+    "type": "Spell",
+    "cn_name": "昆虫的引诱",
+    "en_name": "Insect Invitation"
+  },
+  "101206084": {
+    "type": "Monster",
+    "cn_name": "超越人类 披风侠",
+    "en_name": "Mantman the Ultrahuman"
+  },
+  "101206085": {
+    "type": "Monster",
+    "cn_name": "蝴蝶兰修女",
+    "en_name": "Phalaenop Sisters"
+  },
+  "101206086": {
+    "type": "Spell",
+    "cn_name": "洗脑解放",
+    "en_name": "Release Brainwashing"
+  },
+  "101206087": {
+    "type": "Monster",
+    "cn_name": "拒否神 同担",
+    "en_name": "Denial Deity Dotan"
+  },
+  "101206088": {
+    "type": "Monster",
+    "cn_name": "黄蝶飞鱼",
+    "en_name": "Butterfly Fish"
+  },
+  "101206089": {
+    "type": "Monster",
+    "cn_name": "QQ九角兽",
+    "en_name": "QQ Enneagon"
+  },
+  "101206090": {
+    "type": "Monster",
+    "cn_name": "拟箱掳尸铠甲",
+    "en_name": "Mimighoul Armor"
+  },
+  "101206091": {
+    "type": "Monster",
+    "cn_name": "拟箱掳尸妖精",
+    "en_name": "Mimighoul Fairy"
+  },
+  "101206092": {
+    "type": "Monster",
+    "cn_name": "拟箱掳尸史莱姆",
+    "en_name": "Mimighoul Slime"
+  },
+  "101206093": {
+    "type": "Monster",
+    "cn_name": "巨大拟箱掳尸",
+    "en_name": "Giant Mimighoul"
+  },
+  "101206094": {
+    "type": "Monster",
+    "cn_name": "拟箱掳尸的鬼王座",
+    "en_name": "Mimighoul Throne"
+  },
+  "101206095": {
+    "type": "Spell",
+    "cn_name": "拟箱掳尸的分岔口",
+    "en_name": "Mimighoul Fork"
+  },
+  "101206100": {
+    "type": "Spell",
+    "cn_name": "拟箱掳尸的魅惑咒符",
+    "en_name": "Mimighoul Charm"
   },
   "100228001": {
     "type": "Monster",
