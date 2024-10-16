@@ -5315,6 +5315,7 @@
   "23401839": {
     "type": "Monster",
     "cn_name": "千手神",
+    "sc_name": "千手之神",
     "jp_name": "センジュ・ゴッド",
     "en_name": "Senju of the Thousand Hands"
   },
@@ -31780,6 +31781,7 @@
   "72355441": {
     "type": "Spell",
     "cn_name": "超量礼物",
+    "sc_name": "超量礼物",
     "jp_name": "エクシーズ・ギフト",
     "en_name": "Xyz Gift"
   },
@@ -34303,6 +34305,7 @@
   "66523544": {
     "type": "Monster",
     "cn_name": "超次元机器人 银河破坏王",
+    "sc_name": "超次元机器人 银河毁灭者",
     "jp_name": "超次元ロボ ギャラクシー・デストロイヤー",
     "en_name": "Superdimensional Robot Galaxy Destroyer"
   },
@@ -34658,6 +34661,7 @@
   "34143852": {
     "type": "Monster",
     "cn_name": "英豪挑战者 赠剑兵",
+    "sc_name": "英豪挑战者 额外之剑",
     "jp_name": "H・C エクストラ・ソード",
     "en_name": "Heroic Challenger - Extra Sword"
   },
@@ -57408,6 +57412,7 @@
   "21770839": {
     "type": "Monster",
     "cn_name": "异色眼幻灵龙",
+    "sc_name": "异色眼幻灵龙",
     "jp_name": "オッドアイズ・ファンタズマ・ドラゴン",
     "en_name": "Odd-Eyes Phantasma Dragon"
   },
@@ -60026,6 +60031,7 @@
   "13090893": {
     "type": "Monster",
     "cn_name": "网格扫除机",
+    "sc_name": "网格扫除机",
     "jp_name": "グリッド・スィーパー",
     "en_name": "Grid Sweeper"
   },
@@ -65791,6 +65797,7 @@
   "29374928": {
     "type": "Monster",
     "cn_name": "铠装比特机灵",
+    "sc_name": "装甲比特创机",
     "jp_name": "アーマード・ビットロン",
     "en_name": "Armored Bitron"
   },
@@ -66500,6 +66507,7 @@
   "56161953": {
     "type": "Monster",
     "cn_name": "隐藏脚本氪灯人",
+    "sc_name": "脚本加密人",
     "jp_name": "スクリプトン",
     "en_name": "Scrypton"
   },
@@ -69733,6 +69741,7 @@
   "16684346": {
     "type": "Monster",
     "cn_name": "代理马",
+    "sc_name": "代理马",
     "jp_name": "プロキシー・ホース",
     "en_name": "Proxy Horse"
   },
@@ -82998,7 +83007,7 @@
     "cn_name": "精灵 克罗佐",
     "jp_name": "精霊コロゾ"
   },
-  "100225001": {
+  "29325276": {
     "type": "Monster",
     "cn_name": "异色眼日焰龙",
     "jp_name": "オッドアイズ・ソルブレイズ・ドラゴン"
@@ -83583,191 +83592,229 @@
   "35844557": {
     "type": "Monster",
     "cn_name": "剑式阴极雷火沸动机",
+    "sc_name": "剑极・雷热涡炉",
     "jp_name": "ソード・ライゼオル"
   },
   "72238166": {
     "type": "Monster",
     "cn_name": "节式阳极雷火沸动机",
+    "sc_name": "节极・雷热涡炉",
     "jp_name": "ノード・ライゼオル"
   },
   "8633261": {
     "type": "Monster",
     "cn_name": "内燃雷火沸动机",
+    "sc_name": "冰燃・雷热涡炉",
     "jp_name": "アイス・ライゼオル"
   },
   "34022970": {
     "type": "Monster",
     "cn_name": "外燃雷火沸动机",
+    "sc_name": "超燃・雷热涡炉",
     "jp_name": "エクス・ライゼオル"
   },
   "61116514": {
     "type": "Monster",
     "cn_name": "掌式永磁雷火沸动机",
+    "sc_name": "脉离・雷热涡炉",
     "jp_name": "パルマ・ライゼオル"
   },
   "7511613": {
     "type": "Monster",
     "cn_name": "雷火沸动油电双动机",
+    "sc_name": "雷热涡炉・双驱进击",
     "jp_name": "ライゼオル・デュオドライブ"
   },
   "34909328": {
     "type": "Monster",
     "cn_name": "雷火沸动死旋爆震机",
+    "sc_name": "雷热涡炉・绝命导爆",
     "jp_name": "ライゼオル・デッドネーダー"
   },
   "60394026": {
     "type": "Spell",
     "cn_name": "雷火沸动机插电",
+    "sc_name": "雷热涡炉・嵌能",
     "jp_name": "ライゼオル・プラグイン"
   },
   "6798031": {
     "type": "Spell",
     "cn_name": "雷火沸动交界机",
+    "sc_name": "雷热涡炉・交错",
     "jp_name": "ライゼオル・クロス"
   },
   "33787730": {
     "type": "Trap",
     "cn_name": "雷火沸动霍尔洞推进器",
+    "sc_name": "雷热涡炉・空洞电冲炮",
     "jp_name": "ライゼオル・ホールスラスター"
   },
   "69272449": {
     "type": "Monster",
     "cn_name": "码丽丝<兵卒>白兔",
+    "sc_name": "码丽丝＜兵＞白兔",
     "jp_name": "M∀LICE＜P＞White Rabbit"
   },
   "96676583": {
     "type": "Monster",
     "cn_name": "码丽丝<兵卒>柴郡猫",
+    "sc_name": "码丽丝＜兵＞柴郡猫",
     "jp_name": "M∀LICE＜P＞Cheshire Cat"
   },
   "32061192": {
     "type": "Monster",
     "cn_name": "码丽丝<兵卒>睡鼠",
+    "sc_name": "码丽丝＜兵＞睡鼠",
     "jp_name": "M∀LICE＜P＞Dormouse"
   },
   "68059897": {
     "type": "Monster",
     "cn_name": "码丽丝<王后>红棋勒索",
+    "sc_name": "码丽丝＜后＞赤色勒赎",
     "jp_name": "M∀LICE＜Q＞RED RANSOM"
   },
   "95454996": {
     "type": "Monster",
     "cn_name": "码丽丝<王后>白棋捆绑",
+    "sc_name": "码丽丝＜后＞白色绑缚",
     "jp_name": "M∀LICE＜Q＞WHITE BINDER"
   },
   "21848500": {
     "type": "Monster",
     "cn_name": "码丽丝<王后>红心加密",
+    "sc_name": "码丽丝＜后＞红心密匿",
     "jp_name": "M∀LICE＜Q＞HEARTS OF CRYPTER"
   },
   "68337209": {
     "type": "Spell",
     "cn_name": "码丽丝梦游地下界",
+    "sc_name": "码丽丝梦游深界",
     "jp_name": "M∀LICE IN UNDERGROUND"
   },
   "94722358": {
     "type": "Trap",
     "cn_name": "码丽丝<代码>MTP-07",
+    "sc_name": "码丽丝＜序＞MTP－07",
     "jp_name": "M∀LICE＜C＞MTP－０７"
   },
   "20726052": {
     "type": "Trap",
     "cn_name": "码丽丝<代码>GWC-06",
+    "sc_name": "码丽丝＜序＞GWC－06",
     "jp_name": "M∀LICE＜C＞GWC－０６"
   },
   "57111661": {
     "type": "Trap",
     "cn_name": "码丽丝<代码>TB-11",
+    "sc_name": "码丽丝＜序＞TB－11",
     "jp_name": "M∀LICE＜C＞TB－１１"
   },
   "93509766": {
     "type": "Monster",
     "cn_name": "恐巃龙华-嵬巴",
+    "sc_name": "恐巄龙华－㟴轮巴王",
     "jp_name": "恐巄竜華－㟴巴"
   },
   "20904475": {
     "type": "Monster",
     "cn_name": "海泷龙华-渊巴",
+    "sc_name": "海瀧龙华－渊轮巴王",
     "jp_name": "海瀧竜華－淵巴"
   },
   "56499179": {
     "type": "Monster",
     "cn_name": "幻胧龙华-霸巴",
+    "sc_name": "幻朧龙华－霸轮巴王",
     "jp_name": "幻朧竜華－霸巴"
   },
   "92487128": {
     "type": "Monster",
     "cn_name": "创星龙华-光巴",
+    "sc_name": "创星龙华－光轮巴王",
     "jp_name": "創星竜華－光巴"
   },
   "29882827": {
     "type": "Spell",
     "cn_name": "龙华界辟",
+    "sc_name": "龙华界辟",
     "jp_name": "竜華界闢"
   },
   "55276522": {
     "type": "Spell",
     "cn_name": "登龙华转生纹",
+    "sc_name": "登龙华转生纹",
     "jp_name": "登竜華転生紋"
   },
   "82661630": {
     "type": "Spell",
     "cn_name": "登龙华恐巃门",
+    "sc_name": "登龙华恐巄门",
     "jp_name": "登竜華恐巄門"
   },
   "28669235": {
     "type": "Spell",
     "cn_name": "登龙华海泷门",
+    "sc_name": "登龙华海瀧门",
     "jp_name": "登竜華海瀧門"
   },
   "55154344": {
     "type": "Spell",
     "cn_name": "登龙华幻胧门",
+    "sc_name": "登龙华幻朧门",
     "jp_name": "登竜華幻朧門"
   },
   "81549048": {
     "type": "Trap",
     "cn_name": "龙华三界流转",
+    "sc_name": "龙华三界流转",
     "jp_name": "竜華三界流転"
   },
   "17947697": {
     "type": "Monster",
     "cn_name": "白色少女",
+    "sc_name": "白之少女",
     "jp_name": "白き乙女"
   },
   "54332792": {
     "type": "Monster",
     "cn_name": "新帝王海马",
+    "sc_name": "真帝王海马",
     "jp_name": "ネオ・カイザー・シーホース"
   },
   "80326401": {
     "type": "Spell",
     "cn_name": "青色眼睛的祈祷",
+    "sc_name": "青之眼的祈祷",
     "jp_name": "青き眼の祈り"
   },
   "17725109": {
     "type": "Spell",
     "cn_name": "青眼龙轰临",
+    "sc_name": "青眼龙轰临",
     "jp_name": "青眼龍轟臨"
   },
   "43219114": {
     "type": "Trap",
     "cn_name": "白龙的威光",
+    "sc_name": "白之龙的威光",
     "jp_name": "白き龍の威光"
   },
   "89604813": {
     "type": "Monster",
     "cn_name": "青眼究极灵龙",
+    "sc_name": "青眼究极灵龙",
     "jp_name": "青眼の究極霊竜"
   },
   "16699558": {
     "type": "Monster",
     "cn_name": "蓝眼银龙",
+    "sc_name": "蓝眼银龙",
     "jp_name": "藍眼の銀龍"
   },
   "42097666": {
     "type": "Monster",
     "cn_name": "青色眼睛的精灵",
+    "sc_name": "青之眼精灵",
     "jp_name": "青き眼の精霊"
   },
   "63028558": {
@@ -83780,87 +83827,87 @@
     "cn_name": "冰候鸟",
     "jp_name": "リオート・ミグラトリー"
   },
-  "101206081": {
+  "23738096": {
     "type": "Monster",
     "cn_name": "无死虫团的补给兵",
     "en_name": "Supply Soldier of the Indestructible Insects"
   },
-  "101206082": {
+  "50123605": {
     "type": "Monster",
     "cn_name": "无死虫团的重骑兵",
     "en_name": "Heavy Cavalry of the Indestructible Insects"
   },
-  "101206083": {
+  "86527709": {
     "type": "Spell",
     "cn_name": "昆虫的引诱",
     "en_name": "Insect Invitation"
   },
-  "101206084": {
+  "22916418": {
     "type": "Monster",
     "cn_name": "超越人类 披风侠",
     "en_name": "Mantman the Ultrahuman"
   },
-  "101206085": {
+  "59901153": {
     "type": "Monster",
     "cn_name": "蝴蝶兰修女",
     "en_name": "Phalaenop Sisters"
   },
-  "101206086": {
+  "85395151": {
     "type": "Spell",
     "cn_name": "洗脑解放",
     "en_name": "Release Brainwashing"
   },
-  "101206087": {
+  "12890860": {
     "type": "Monster",
     "cn_name": "拒否神 同担",
     "en_name": "Denial Deity Dotan"
   },
-  "101206088": {
+  "58288565": {
     "type": "Monster",
     "cn_name": "黄蝶飞鱼",
     "en_name": "Butterfly Fish"
   },
-  "101206089": {
+  "84673574": {
     "type": "Monster",
     "cn_name": "QQ九角兽",
     "en_name": "QQ Enneagon"
   },
-  "101206090": {
+  "11677278": {
     "type": "Monster",
     "cn_name": "拟箱掳尸铠甲",
     "en_name": "Mimighoul Armor"
   },
-  "101206091": {
+  "43066927": {
     "type": "Monster",
     "cn_name": "拟箱掳尸妖精",
     "en_name": "Mimighoul Fairy"
   },
-  "101206092": {
+  "80551022": {
     "type": "Monster",
     "cn_name": "拟箱掳尸史莱姆",
     "en_name": "Mimighoul Slime"
   },
-  "101206093": {
+  "16955631": {
     "type": "Monster",
     "cn_name": "巨大拟箱掳尸",
     "en_name": "Giant Mimighoul"
   },
-  "101206094": {
+  "42940335": {
     "type": "Monster",
     "cn_name": "拟箱掳尸的鬼王座",
     "en_name": "Mimighoul Throne"
   },
-  "101206095": {
+  "19338434": {
     "type": "Spell",
     "cn_name": "拟箱掳尸的分岔口",
     "en_name": "Mimighoul Fork"
   },
-  "101206100": {
+  "55733143": {
     "type": "Spell",
     "cn_name": "拟箱掳尸的魅惑咒符",
     "en_name": "Mimighoul Charm"
   },
-  "100228001": {
+  "42544773": {
     "type": "Monster",
     "cn_name": "封印之魔导士 斯彭",
     "jp_name": "封印の魔導士スプーン"
@@ -83870,7 +83917,7 @@
     "cn_name": "玲珑龙 紫锂辉石龙",
     "jp_name": "玲瓏竜クンツァイド"
   },
-  "100230401": {
+  "47643326": {
     "type": "Monster",
     "cn_name": "痛痛语咒兔",
     "jp_name": "スペース・オマジナイ・ウサギ"
