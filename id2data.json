@@ -9318,12 +9318,14 @@
   "13722870": {
     "type": "Monster",
     "cn_name": "黑炎之骑士",
+    "sc_name": "黑炎之骑士",
     "jp_name": "黒炎の騎士－ブラック・フレア・ナイト－",
     "en_name": "Dark Flare Knight"
   },
   "49217579": {
     "type": "Monster",
     "cn_name": "幻影之骑士",
+    "sc_name": "幻影之骑士",
     "jp_name": "幻影の騎士－ミラージュ・ナイト－",
     "en_name": "Mirage Knight"
   },
@@ -17828,18 +17830,21 @@
   "5975022": {
     "type": "Monster",
     "cn_name": "剑斗兽 鱼斗",
+    "sc_name": "剑斗兽 鱼兜",
     "jp_name": "剣闘獣ムルミロ",
     "en_name": "Gladiator Beast Murmillo"
   },
   "41470137": {
     "type": "Monster",
     "cn_name": "剑斗兽 枪斗",
+    "sc_name": "剑斗兽 锐枪",
     "jp_name": "剣闘獣ベストロウリィ",
     "en_name": "Gladiator Beast Bestiari"
   },
   "78868776": {
     "type": "Monster",
     "cn_name": "剑斗兽 绳斗",
+    "sc_name": "剑斗兽 炎索",
     "jp_name": "剣闘獣ラクエル",
     "en_name": "Gladiator Beast Laquari"
   },
@@ -17858,6 +17863,7 @@
   "77642288": {
     "type": "Monster",
     "cn_name": "剑斗兽 追斗",
+    "sc_name": "剑斗兽 追鬣",
     "jp_name": "剣闘獣セクトル",
     "en_name": "Gladiator Beast Secutor"
   },
@@ -17942,6 +17948,7 @@
   "27346636": {
     "type": "Monster",
     "cn_name": "剑斗兽 希拉克略",
+    "sc_name": "剑斗兽 赫拉克雷诺斯",
     "jp_name": "剣闘獣ヘラクレイノス",
     "en_name": "Gladiator Beast Heraklinos"
   },
@@ -18288,6 +18295,7 @@
   "90582719": {
     "type": "Monster",
     "cn_name": "剑斗兽 独眼斗",
+    "sc_name": "剑斗兽 孤眼",
     "jp_name": "剣闘獣アンダル",
     "en_name": "Gladiator Beast Andal"
   },
@@ -18659,6 +18667,7 @@
   "25924653": {
     "type": "Monster",
     "cn_name": "剑斗兽 马斗",
+    "sc_name": "剑斗兽 战马",
     "jp_name": "剣闘獣ダリウス",
     "en_name": "Gladiator Beast Darius"
   },
@@ -18836,6 +18845,7 @@
   "35224440": {
     "type": "Spell",
     "cn_name": "剑斗训练所",
+    "sc_name": "剑斗训练所",
     "jp_name": "剣闘訓練所",
     "en_name": "Gladiator Proving Ground"
   },
@@ -18972,6 +18982,7 @@
   "92373006": {
     "type": "Monster",
     "cn_name": "奴隶虎",
+    "sc_name": "奴隶虎",
     "jp_name": "スレイブタイガー",
     "en_name": "Test Tiger"
   },
@@ -19726,6 +19737,7 @@
   "48156348": {
     "type": "Monster",
     "cn_name": "剑斗兽 凯撒",
+    "sc_name": "剑斗兽 凯撒列斯",
     "jp_name": "剣闘獣ガイザレス",
     "en_name": "Gladiator Beast Gyzarus"
   },
@@ -20352,6 +20364,7 @@
   "57731460": {
     "type": "Monster",
     "cn_name": "剑斗兽 骑斗",
+    "sc_name": "剑斗兽 飞骑",
     "jp_name": "剣闘獣エクイテ",
     "en_name": "Gladiator Beast Equeste"
   },
@@ -20601,6 +20614,7 @@
   "96216229": {
     "type": "Trap",
     "cn_name": "剑斗兽的战车",
+    "sc_name": "剑斗兽的战车",
     "jp_name": "剣闘獣の戦車",
     "en_name": "Gladiator Beast War Chariot"
   },
@@ -22146,6 +22160,7 @@
   "55136228": {
     "type": "Spell",
     "cn_name": "剑斗兽的底力",
+    "sc_name": "剑斗兽的潜力",
     "jp_name": "剣闘獣の底力",
     "en_name": "Indomitable Gladiator Beast"
   },
@@ -22340,6 +22355,7 @@
   "612115": {
     "type": "Monster",
     "cn_name": "剑斗兽 网斗",
+    "sc_name": "剑斗兽 网戟",
     "jp_name": "剣闘獣レティアリィ",
     "en_name": "Gladiator Beast Retiari"
   },
@@ -31385,6 +31401,7 @@
   "73285669": {
     "type": "Monster",
     "cn_name": "剑斗兽 车斗",
+    "sc_name": "剑斗兽 战驾",
     "jp_name": "剣闘獣エセダリ",
     "en_name": "Gladiator Beast Essedarii"
   },
@@ -38641,6 +38658,7 @@
   "50903514": {
     "type": "Monster",
     "cn_name": "苍炎之剑士",
+    "sc_name": "苍炎之剑士",
     "jp_name": "蒼炎の剣士",
     "en_name": "Blue Flame Swordsman"
   },
@@ -39828,6 +39846,7 @@
   "7573135": {
     "type": "Monster",
     "cn_name": "剑斗兽 奥古斯都",
+    "sc_name": "剑斗兽 奥古斯都尔",
     "jp_name": "剣闘獣アウグストル",
     "en_name": "Gladiator Beast Augustus"
   },
@@ -40721,6 +40740,7 @@
   "29357956": {
     "type": "Monster",
     "cn_name": "剑斗兽 尼禄",
+    "sc_name": "剑斗兽 尼禄基乌斯",
     "jp_name": "剣闘獣ネロキウス",
     "en_name": "Gladiator Beast Nerokius"
   },
@@ -50079,24 +50099,28 @@
   "41091257": {
     "type": "Monster",
     "cn_name": "秘旋谍-花公子",
+    "sc_name": "秘旋谍－花花公子",
     "jp_name": "SPYRAL－ダンディ",
     "en_name": "SPYRAL Super Agent"
   },
   "78080961": {
     "type": "Monster",
     "cn_name": "秘旋谍-天才",
+    "sc_name": "秘旋谍－天才",
     "jp_name": "SPYRAL－ジーニアス",
     "en_name": "SPYRAL Quik-Fix"
   },
   "4474060": {
     "type": "Monster",
     "cn_name": "秘旋谍装备-无人机",
+    "sc_name": "秘旋谍装备－无人机",
     "jp_name": "SPYRAL GEAR－ドローン",
     "en_name": "SPYRAL GEAR - Drone"
   },
   "30979619": {
     "type": "Spell",
     "cn_name": "秘旋谍装备-大红跑车",
+    "sc_name": "秘旋谍装备－大红",
     "jp_name": "SPYRAL GEAR－ビッグ・レッド",
     "en_name": "SPYRAL GEAR - Big Red"
   },
@@ -50932,24 +50956,28 @@
   "64753157": {
     "type": "Monster",
     "cn_name": "「胜地咖啡」店员-迷人女孩",
+    "sc_name": "“度假胜地”店员－可人儿",
     "jp_name": "「RESORT」 STAFF－チャーミング",
     "en_name": "Charming Resort Staff"
   },
   "91258852": {
     "type": "Monster",
     "cn_name": "秘旋谍-高雅女士",
+    "sc_name": "秘旋谍－高雅",
     "jp_name": "SPYRAL－グレース",
     "en_name": "SPYRAL Master Plan"
   },
   "27642961": {
     "type": "Spell",
     "cn_name": "秘旋谍任务-强袭",
+    "sc_name": "秘旋谍任务－强袭",
     "jp_name": "SPYRAL MISSION－強襲",
     "en_name": "SPYRAL MISSION - Assault"
   },
   "54631665": {
     "type": "Spell",
     "cn_name": "秘旋谍的秘密胜地",
+    "sc_name": "秘旋谍胜地",
     "jp_name": "SPYRAL RESORT",
     "en_name": "SPYRAL Resort"
   },
@@ -51289,24 +51317,28 @@
   "94096018": {
     "type": "Monster",
     "cn_name": "秘女郎-雾美人",
+    "sc_name": "秘辣谍－迷雾女郎",
     "jp_name": "SPYGAL－ミスティ",
     "en_name": "SPYGAL Misty"
   },
   "20584712": {
     "type": "Monster",
     "cn_name": "秘旋谍-硬汉子",
+    "sc_name": "秘旋谍－硬汉",
     "jp_name": "SPYRAL－タフネス",
     "en_name": "SPYRAL Tough"
   },
   "53989821": {
     "type": "Trap",
     "cn_name": "秘旋谍装备-多用钩绳",
+    "sc_name": "秘旋谍装备－万能绳索",
     "jp_name": "SPYRAL GEAR－マルチワイヤー",
     "en_name": "SPYRAL GEAR - Utility Wire"
   },
   "39373426": {
     "type": "Trap",
     "cn_name": "秘旋谍任务-夺还",
+    "sc_name": "秘旋谍任务－夺回",
     "jp_name": "SPYRAL MISSION－奪還",
     "en_name": "SPYRAL MISSION - Recapture"
   },
@@ -52223,24 +52255,28 @@
   "35699": {
     "type": "Monster",
     "cn_name": "秘旋谍-龙卷风",
+    "sc_name": "秘旋谍－暴涡",
     "jp_name": "SPYRAL－ボルテックス",
     "en_name": "SPYRAL Sleeper"
   },
   "37433748": {
     "type": "Monster",
     "cn_name": "秘旋谍装备-绝地胜机",
+    "sc_name": "秘旋谍装备－绝地胜机",
     "jp_name": "SPYRAL GEAR－ラスト・リゾート",
     "en_name": "SPYRAL GEAR - Last Resort"
   },
   "73828446": {
     "type": "Spell",
     "cn_name": "秘旋谍装备-特级臂甲",
+    "sc_name": "秘旋谍装备－特级臂甲",
     "jp_name": "SPYRAL GEAR－エクストラアームズ",
     "en_name": "SPYRAL GEAR - Fully Armed"
   },
   "9212051": {
     "type": "Trap",
     "cn_name": "秘旋谍任务-救出",
+    "sc_name": "秘旋谍任务－援救",
     "jp_name": "SPYRAL MISSION－救出",
     "en_name": "SPYRAL MISSION - Rescue"
   },
@@ -53032,18 +53068,21 @@
   "67385964": {
     "type": "Monster",
     "cn_name": "剑斗兽 罪斗",
+    "sc_name": "剑斗兽 罪徒",
     "jp_name": "剣闘獣ノクシウス",
     "en_name": "Gladiator Beast Noxious"
   },
   "3779662": {
     "type": "Monster",
     "cn_name": "剑斗兽 盲斗",
+    "sc_name": "剑斗兽 盲剑",
     "jp_name": "剣闘獣アンダバタエ",
     "en_name": "Gladiator Beast Andabata"
   },
   "30864377": {
     "type": "Monster",
     "cn_name": "剑斗兽总监 主斗",
+    "sc_name": "剑斗兽总监 主斗",
     "jp_name": "剣闘獣総監エーディトル",
     "en_name": "Gladiator Beast Tamer Editor"
   },
@@ -54411,6 +54450,7 @@
   "1322368": {
     "type": "Monster",
     "cn_name": "秘旋谍-双螺旋特工",
+    "sc_name": "秘旋谍－双螺旋",
     "jp_name": "SPYRAL－ザ・ダブルヘリックス",
     "en_name": "SPYRAL Double Helix"
   },
@@ -55170,6 +55210,7 @@
   "62000467": {
     "type": "Monster",
     "cn_name": "剑斗兽 德拉伽塞斯",
+    "sc_name": "剑斗兽 德拉加瑟斯",
     "jp_name": "剣闘獣ドラガシス",
     "en_name": "Gladiator Beast Dragases"
   },
@@ -60564,6 +60605,7 @@
   "98642179": {
     "type": "Monster",
     "cn_name": "刚炎之剑士",
+    "sc_name": "刚炎之骑士",
     "jp_name": "剛炎の剣士",
     "en_name": "Ferocious Flame Swordsman"
   },
@@ -62513,18 +62555,21 @@
   "16003979": {
     "type": "Monster",
     "cn_name": "剑斗兽 射斗",
+    "sc_name": "剑斗兽 弓骑",
     "jp_name": "剣闘獣サジタリィ",
     "en_name": "Gladiator Beast Sagittarii"
   },
   "52502677": {
     "type": "Monster",
     "cn_name": "剑斗兽 女斗",
+    "sc_name": "剑斗兽 女斗",
     "jp_name": "剣闘獣アトリクス",
     "en_name": "Gladiator Beast Attorix"
   },
   "88996322": {
     "type": "Monster",
     "cn_name": "剑斗兽 维斯帕西亚努斯",
+    "sc_name": "剑斗兽 韦斯帕西亚斯",
     "jp_name": "剣闘獣ウェスパシアス",
     "en_name": "Gladiator Beast Vespasius"
   },
@@ -62658,6 +62703,7 @@
   "33652635": {
     "type": "Monster",
     "cn_name": "剑斗兽 多米提安努斯",
+    "sc_name": "剑斗兽 多米提安诺斯",
     "jp_name": "剣闘獣ドミティアノス",
     "en_name": "Gladiator Beast Domitianus"
   },
@@ -62747,6 +62793,7 @@
   "66863374": {
     "type": "Monster",
     "cn_name": "奴隶豹",
+    "sc_name": "奴隶豹",
     "jp_name": "スレイブパンサー",
     "en_name": "Test Panther"
   },
@@ -62815,18 +62862,21 @@
   "20201255": {
     "type": "Spell",
     "cn_name": "再起的剑斗兽",
+    "sc_name": "再起的剑斗兽",
     "jp_name": "再起する剣闘獣",
     "en_name": "Gladiator Beast's Comeback"
   },
   "66290900": {
     "type": "Spell",
     "cn_name": "团结的剑斗兽",
+    "sc_name": "团结的剑斗兽",
     "jp_name": "団結する剣闘獣",
     "en_name": "Gladiator Beast United"
   },
   "93684009": {
     "type": "Spell",
     "cn_name": "剑斗排斥波",
+    "sc_name": "剑斗排斥波",
     "jp_name": "剣闘排斥波",
     "en_name": "Gladiator Rejection"
   },
@@ -62912,12 +62962,14 @@
   "16990348": {
     "type": "Trap",
     "cn_name": "猛进的剑斗兽",
+    "sc_name": "猛进的剑斗兽",
     "jp_name": "猛進する剣闘獣",
     "en_name": "Gladiator Beast Charge"
   },
   "52394047": {
     "type": "Trap",
     "cn_name": "剑斗海战",
+    "sc_name": "剑斗海战",
     "jp_name": "剣闘海戦",
     "en_name": "Gladiator Naumachia"
   },
@@ -67031,6 +67083,7 @@
   "91323605": {
     "type": "Trap",
     "cn_name": "奇异界开",
+    "sc_name": "奇异界开",
     "jp_name": "奇異界開",
     "en_name": "How Did Dai Get Here?"
   },
@@ -69172,12 +69225,14 @@
   "33008376": {
     "type": "Monster",
     "cn_name": "原质炉巨龙",
+    "sc_name": "原物质・吉伽环龙",
     "jp_name": "マテリアクトル・ギガドラ",
     "en_name": "Materiactor Gigadra"
   },
   "70597485": {
     "type": "Monster",
     "cn_name": "原质炉衔尾巨蛇",
+    "sc_name": "原物质・吉伽衔尾蛇",
     "jp_name": "マテリアクトル・ギガヴォロス",
     "en_name": "Materiactor Gigaboros"
   },
@@ -71875,18 +71930,21 @@
   "2656842": {
     "type": "Monster",
     "cn_name": "骑甲虫 侦察虫车兵",
+    "sc_name": "骑甲虫 驾虫侦察兵",
     "jp_name": "騎甲虫スカウト・バギー",
     "en_name": "Beetrooper Scout Buggy"
   },
   "39041550": {
     "type": "Monster",
     "cn_name": "骑甲虫 鳞粉炸弹兵",
+    "sc_name": "骑甲虫 鳞粉轰炸兵",
     "jp_name": "騎甲虫スケイル・ボム",
     "en_name": "Beetrooper Scale Bomber"
   },
   "65430555": {
     "type": "Monster",
     "cn_name": "骑甲虫 刺螫长枪兵",
+    "sc_name": "骑甲虫 蛰针枪兵",
     "jp_name": "騎甲虫スティンギー・ランス",
     "en_name": "Beetrooper Sting Lancer"
   },
@@ -71900,18 +71958,21 @@
   "38229962": {
     "type": "Monster",
     "cn_name": "大骑甲虫 无敌擎天独角仙",
+    "sc_name": "大骑甲虫 无敌阿特拉斯",
     "jp_name": "大騎甲虫インヴィンシブル・アトラス",
     "en_name": "Giant Beetrooper Invincible Atlas"
   },
   "64213017": {
     "type": "Spell",
     "cn_name": "骑甲虫队战术机动",
+    "sc_name": "骑甲虫队战术机动",
     "jp_name": "騎甲虫隊戦術機動",
     "en_name": "Beetrooper Formation"
   },
   "1712616": {
     "type": "Trap",
     "cn_name": "骑甲虫空杀舞队",
+    "sc_name": "骑甲虫空杀舞队",
     "jp_name": "騎甲虫空殺舞隊",
     "en_name": "Beetrooper Fly & Sting"
   },
@@ -72834,42 +72895,49 @@
   "51578214": {
     "type": "Monster",
     "cn_name": "骑甲虫 突击滚球兵",
+    "sc_name": "骑甲虫 强袭滚球兵",
     "jp_name": "騎甲虫アサルト・ローラー",
     "en_name": "Beetrooper Assault Roller"
   },
   "88962829": {
     "type": "Monster",
     "cn_name": "骑甲虫 轻装振翅兵",
+    "sc_name": "骑甲虫 轻盈振翅兵",
     "jp_name": "騎甲虫ライト・フラッパー",
     "en_name": "Beetrooper Light Flapper"
   },
   "14357527": {
     "type": "Monster",
     "cn_name": "重骑甲虫 强劲海神独角仙",
+    "sc_name": "重骑甲虫 雄威尼普顿",
     "jp_name": "重騎甲虫マイティ・ネプチューン",
     "en_name": "Heavy Beetrooper Mighty Neptune"
   },
   "50855622": {
     "type": "Monster",
     "cn_name": "超骑甲虫 绝对大力独角仙",
+    "sc_name": "超骑甲虫 绝对赫克力士",
     "jp_name": "超騎甲虫アブソリュート・ヘラクレス",
     "en_name": "Ultra Beetrooper Absolute Hercules"
   },
   "87240371": {
     "type": "Spell",
     "cn_name": "骑甲虫队降下作战",
+    "sc_name": "骑甲虫队空降作战",
     "jp_name": "騎甲虫隊降下作戦",
     "en_name": "Beetrooper Descent"
   },
   "13234975": {
     "type": "Spell",
     "cn_name": "骑甲虫队上陆态势",
+    "sc_name": "骑甲虫队登陆准备",
     "jp_name": "騎甲虫隊上陸態勢",
     "en_name": "Beetrooper Landing"
   },
   "40633084": {
     "type": "Trap",
     "cn_name": "骑甲虫步兵分队",
+    "sc_name": "骑甲虫步兵分队",
     "jp_name": "騎甲虫歩兵分隊",
     "en_name": "Beetrooper Squad"
   },
@@ -73641,6 +73709,7 @@
   "17008760": {
     "type": "Spell",
     "cn_name": "原质圆环炉",
+    "sc_name": "原物质之圆环炉",
     "jp_name": "原質の円環炉",
     "en_name": "Materiactor Annulus"
   },
@@ -73742,6 +73811,7 @@
   "84462118": {
     "type": "Monster",
     "cn_name": "龙咬虫",
+    "sc_name": "龙咬虫",
     "jp_name": "竜咬蟲",
     "en_name": "Dragonbite"
   },
@@ -77632,6 +77702,7 @@
   "91300233": {
     "type": "Monster",
     "cn_name": "骑甲虫 残酷撒旦独角仙",
+    "sc_name": "骑甲虫 残酷撒旦",
     "jp_name": "騎甲虫クルーエル・サターン",
     "en_name": "Beetrooper Cruel Saturnas"
   },
@@ -79273,6 +79344,7 @@
   "51849482": {
     "type": "Monster",
     "cn_name": "尸界塔 菲尼斯特拉",
+    "sc_name": "尸界塔 终尽之地",
     "jp_name": "屍界塔フィニステラ",
     "en_name": "Finis Terrae, Tower of the Necroworld"
   },
@@ -79297,42 +79369,49 @@
   "86111442": {
     "type": "Monster",
     "cn_name": "提斯蒂娜之步哨",
+    "sc_name": "提斯蒂娜的哨兵",
     "jp_name": "ティスティナの歩哨",
     "en_name": "Sentinel of the Tistina"
   },
   "13510157": {
     "type": "Monster",
     "cn_name": "提斯蒂娜之猎犬",
+    "sc_name": "提斯蒂娜的猎犬",
     "jp_name": "ティスティナの猟犬",
     "en_name": "Hound of the Tistina"
   },
   "59504256": {
     "type": "Monster",
     "cn_name": "提斯蒂娜之半神",
+    "sc_name": "提斯蒂娜的半神",
     "jp_name": "ティスティナの半神",
     "en_name": "Demigod of the Tistina"
   },
   "86999951": {
     "type": "Monster",
     "cn_name": "结晶神 提斯蒂娜",
+    "sc_name": "结晶神 提斯蒂娜",
     "jp_name": "結晶神ティスティナ",
     "en_name": "Crystal God Tistina"
   },
   "12397569": {
     "type": "Spell",
     "cn_name": "神域 巴普-提斯蒂娜",
+    "sc_name": "神域 巴提斯蒂娜",
     "jp_name": "神域 バ＝ティスティナ",
     "en_name": "Divine Domain Baatistina"
   },
   "58882608": {
     "type": "Spell",
     "cn_name": "提斯蒂娜的息吹",
+    "sc_name": "提斯蒂娜的气息",
     "jp_name": "ティスティナの息吹",
     "en_name": "Breath of the Tistina"
   },
   "85277313": {
     "type": "Trap",
     "cn_name": "提斯蒂娜的胎动",
+    "sc_name": "提斯蒂娜的胎动",
     "jp_name": "ティスティナの胎動",
     "en_name": "Signs of the Tistina"
   },
@@ -79357,6 +79436,7 @@
   "88124568": {
     "type": "Monster",
     "cn_name": "秘旋谍-双重冒牌货",
+    "sc_name": "秘旋谍－双重伪装",
     "jp_name": "SPYRAL－ダブルフェイク",
     "en_name": "SPYRAL Double Agent"
   },
@@ -80259,42 +80339,49 @@
   "87498729": {
     "type": "Monster",
     "cn_name": "提斯蒂娜之落仔",
+    "sc_name": "提斯蒂娜的遗落之子",
     "jp_name": "ティスティナの落とし仔",
     "en_name": "Fallen of the Tistina"
   },
   "24892828": {
     "type": "Monster",
     "cn_name": "提斯蒂娜之还仔",
+    "sc_name": "提斯蒂娜的归还之子",
     "jp_name": "ティスティナの還り仔",
     "en_name": "Returned of the Tistina"
   },
   "50281477": {
     "type": "Monster",
     "cn_name": "提斯蒂娜之瘴神",
+    "sc_name": "提斯蒂娜的瘴神",
     "jp_name": "ティスティナの瘴神",
     "en_name": "Tainted of the Tistina"
   },
   "87676171": {
     "type": "Monster",
     "cn_name": "神蚀之光 提斯蒂娜",
+    "sc_name": "蚀神之光 提斯蒂娜",
     "jp_name": "神蝕む光 ティスティナ",
     "en_name": "Tistina, the Divinity that Defies Darkness"
   },
   "13070280": {
     "type": "Spell",
     "cn_name": "提斯蒂娜的嬉戏",
+    "sc_name": "提斯蒂娜的嬉戏",
     "jp_name": "ティスティナの戯れ",
     "en_name": "Play of the Tistina"
   },
   "59069885": {
     "type": "Trap",
     "cn_name": "提斯蒂娜的拥抱",
+    "sc_name": "提斯蒂娜的拥抱",
     "jp_name": "ティスティナの抱擁",
     "en_name": "Embrace of the Tistina"
   },
   "86553594": {
     "type": "Trap",
     "cn_name": "提斯蒂娜的变晶",
+    "sc_name": "提斯蒂娜的变晶",
     "jp_name": "ティスティナの変晶",
     "en_name": "Discordance of the Tistina"
   },
@@ -81023,60 +81110,70 @@
   "1047075": {
     "type": "Monster",
     "cn_name": "斗炎之剑士",
+    "sc_name": "斗炎之剑士",
     "jp_name": "闘炎の剣士",
     "en_name": "Fighting Flame Swordsman"
   },
   "37531679": {
     "type": "Monster",
     "cn_name": "飞龙炎 沙罗曼达",
+    "sc_name": "飞龙炎 沙罗曼龙",
     "jp_name": "飛龍炎サラマンドラ",
     "en_name": "Salamandra, the Flying Flame Dragon"
   },
   "73936388": {
     "type": "Monster",
     "cn_name": "幻炎之剑士",
+    "sc_name": "幻炎之剑士",
     "jp_name": "幻炎の剣士－ミラージュ・ソードマン－",
     "en_name": "Mirage Swordsman"
   },
   "324483": {
     "type": "Monster",
     "cn_name": "极炎之剑士",
+    "sc_name": "极炎之剑士",
     "jp_name": "極炎の剣士",
     "en_name": "Ultimate Flame Swordsman"
   },
   "36319131": {
     "type": "Monster",
     "cn_name": "斗气炎斩龙",
+    "sc_name": "斗气炎斩龙",
     "jp_name": "闘気炎斬龍",
     "en_name": "Fighting Flame Dragon"
   },
   "73714736": {
     "type": "Spell",
     "cn_name": "炎之剑域",
+    "sc_name": "炎之剑域",
     "jp_name": "炎の剣域",
     "en_name": "Flame Swordsrealm"
   },
   "9102835": {
     "type": "Spell",
     "cn_name": "飞龙炎融合",
+    "sc_name": "沙罗曼龙结合",
     "jp_name": "サラマンドラ・フュージョン",
     "en_name": "Salamandra Fusion"
   },
   "35697544": {
     "type": "Spell",
     "cn_name": "斗气炎斩剑",
+    "sc_name": "斗气炎斩剑",
     "jp_name": "闘気炎斬剣",
     "en_name": "Fighting Flame Sword"
   },
   "62091148": {
     "type": "Trap",
     "cn_name": "附锁链的飞龙炎刃",
+    "sc_name": "带锁链的沙罗曼龙炎刃",
     "jp_name": "鎖付き飛龍炎刃",
     "en_name": "Salamandra with Chain"
   },
   "8080257": {
     "type": "Trap",
     "cn_name": "炎之剑舞",
+    "sc_name": "炎之剑舞",
     "jp_name": "炎の剣舞",
     "en_name": "Flame Swordsdance"
   },
@@ -81226,42 +81323,49 @@
   "78783557": {
     "type": "Monster",
     "cn_name": "灭亡龙 威多释",
+    "sc_name": "灭亡龙 维都苏",
     "jp_name": "滅亡龍 ヴェイドス",
     "en_name": "Veidos the Eruption Dragon of Extinction"
   },
   "4271596": {
     "type": "Monster",
     "cn_name": "灰灭都之王",
+    "sc_name": "灰灭之都的王",
     "jp_name": "灰滅せし都の王",
     "en_name": "King of the Ashened City"
   },
   "30676200": {
     "type": "Monster",
     "cn_name": "灰灭都的英雄",
+    "sc_name": "灰灭之都的英雄",
     "jp_name": "灰滅せし都の英雄",
     "en_name": "Hero of the Ashened City"
   },
   "67660909": {
     "type": "Monster",
     "cn_name": "灰灭都的巫女",
+    "sc_name": "灰灭之都的巫女",
     "jp_name": "灰滅せし都の巫女",
     "en_name": "Priestess of the Ashened City"
   },
   "3055018": {
     "type": "Spell",
     "cn_name": "灰灭之都 奥布西地暮",
+    "sc_name": "灰灭之都 黑曜城",
     "jp_name": "灰滅の都 オブシディム",
     "en_name": "Obsidim, the Ashened City"
   },
   "30453613": {
     "type": "Spell",
     "cn_name": "威多释的觉醒",
+    "sc_name": "维都苏的觉醒",
     "jp_name": "ヴェイドスの目覚め",
     "en_name": "Awakening of Veidos"
   },
   "66848311": {
     "type": "Trap",
     "cn_name": "无终止的灰灭",
+    "sc_name": "无尽的灰灭",
     "jp_name": "終わりなき灰滅",
     "en_name": "Ashened for Eternity"
   },
@@ -81942,6 +82046,7 @@
   "37006702": {
     "type": "Monster",
     "cn_name": "黑天书呆魔女",
+    "sc_name": "克里希那德女巫",
     "jp_name": "クリシュナード・ウィッチ",
     "en_name": "Krishnerd Witch"
   },
@@ -81954,12 +82059,14 @@
   "885016": {
     "type": "Spell",
     "cn_name": "多元宇宙",
+    "sc_name": "多元宇宙",
     "jp_name": "多元宇宙",
     "en_name": "Multi-Universe"
   },
   "36974120": {
     "type": "Monster",
     "cn_name": "龙葬主-葬仪薇薇尔",
+    "sc_name": "龙葬主－维尔殓",
     "jp_name": "竜葬主－ヴィブリアル",
     "en_name": "Vouiburial, the Dragon Undertaker"
   },
@@ -81978,42 +82085,49 @@
   "35151572": {
     "type": "Monster",
     "cn_name": "灰灭都的咒术师",
+    "sc_name": "灰灭之都的咒术师",
     "jp_name": "灰滅せし都の呪術師",
     "en_name": "Shaman of the Ashened City"
   },
   "62156277": {
     "type": "Monster",
     "cn_name": "灰灭都的先驱",
+    "sc_name": "灰灭之都的先锋",
     "jp_name": "灰滅せし都の先懸",
     "en_name": "Spearhead of the Ashened City"
   },
   "8540986": {
     "type": "Monster",
     "cn_name": "灭亡之暗 威多释",
+    "sc_name": "灭亡之暗 维都苏",
     "jp_name": "滅亡き闇 ヴェイドス",
     "en_name": "Veidos the Dragon of Endless Darkness"
   },
   "35035985": {
     "type": "Monster",
     "cn_name": "灰灭堕变者",
+    "sc_name": "灰灭之末路",
     "jp_name": "灰滅せし成れの果て",
     "en_name": "Embers of the Ashened"
   },
   "61434639": {
     "type": "Spell",
     "cn_name": "灰灭的复燃",
+    "sc_name": "灰灭的复燃",
     "jp_name": "灰滅の復燃",
     "en_name": "Rekindling the Ashened"
   },
   "98828338": {
     "type": "Spell",
     "cn_name": "灰灭的愤怒",
+    "sc_name": "灰灭的愤怒",
     "jp_name": "灰滅の憤怒",
     "en_name": "Extinguishing the Ashened"
   },
   "34813443": {
     "type": "Trap",
     "cn_name": "无尽头的灰灭",
+    "sc_name": "无境的灰灭",
     "jp_name": "果てなき灰滅",
     "en_name": "Ashened to Endlessness"
   },
