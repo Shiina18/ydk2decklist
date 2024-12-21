@@ -17633,6 +17633,16 @@
     "jp_name": "トレード・イン",
     "en_name": "Trade-In"
   },
+  "100233001": {
+    "type": "Monster",
+    "cn_name": "马达帝王",
+    "jp_name": "モーター・カイザル"
+  },
+  "100233003": {
+    "type": "Trap",
+    "cn_name": "废铁车库",
+    "jp_name": "スクラップ・ガレージ"
+  },
   "34004470": {
     "type": "Monster",
     "cn_name": "大土星",
@@ -19073,6 +19083,11 @@
     "cn_name": "邪心爆破",
     "jp_name": "イービル・ブラスト",
     "en_name": "Evil Blast"
+  },
+  "100233005": {
+    "type": "Spell",
+    "cn_name": "极寒冰柱",
+    "jp_name": "極寒の氷柱"
   },
   "14462257": {
     "type": "Monster",
@@ -22465,12 +22480,14 @@
   "59312550": {
     "type": "Monster",
     "cn_name": "朱罗纪迅猛龙",
+    "sc_name": "朱罗纪・迅猛龙",
     "jp_name": "ジュラック・ヴェロー",
     "en_name": "Jurrac Velo"
   },
   "36717258": {
     "type": "Monster",
     "cn_name": "朱罗纪单脊龙",
+    "sc_name": "朱罗纪・单冠龙",
     "jp_name": "ジュラック・モノロフ",
     "en_name": "Jurrac Monoloph"
   },
@@ -22600,6 +22617,7 @@
   "80032567": {
     "type": "Monster",
     "cn_name": "朱罗纪巨兽龙",
+    "sc_name": "朱罗纪・巨兽龙",
     "jp_name": "ジュラック・ギガノト",
     "en_name": "Jurrac Giganoto"
   },
@@ -22880,6 +22898,7 @@
   "45041488": {
     "type": "Monster",
     "cn_name": "核成守护者",
+    "sc_name": "核成・守护者",
     "jp_name": "コアキメイル・ガーディアン",
     "en_name": "Koa'ki Meiru Guardian"
   },
@@ -23247,6 +23266,7 @@
   "46833854": {
     "type": "Monster",
     "cn_name": "魔轰神 托比",
+    "sc_name": "魔轰神托比",
     "jp_name": "魔轟神トピー",
     "en_name": "Fabled Topi"
   },
@@ -23284,6 +23304,7 @@
   "44689688": {
     "type": "Monster",
     "cn_name": "朱罗纪棘龙",
+    "sc_name": "朱罗纪・棘龙",
     "jp_name": "ジュラック・スピノス",
     "en_name": "Jurrac Spinos"
   },
@@ -23402,6 +23423,7 @@
   "65961683": {
     "type": "Monster",
     "cn_name": "朱罗纪伶盗龙",
+    "sc_name": "朱罗纪・伶盗龙",
     "jp_name": "ジュラック・ヴェルヒプト",
     "en_name": "Jurrac Velphito"
   },
@@ -24177,12 +24199,14 @@
   "85028288": {
     "type": "Monster",
     "cn_name": "朱罗纪巨神兽",
+    "sc_name": "朱罗纪・泰坦龙",
     "jp_name": "ジュラック・タイタン",
     "en_name": "Jurrac Titano"
   },
   "11012887": {
     "type": "Monster",
     "cn_name": "朱罗纪瓜巴龙",
+    "sc_name": "朱罗纪・瓜巴龙",
     "jp_name": "ジュラック・グアイバ",
     "en_name": "Jurrac Guaiba"
   },
@@ -25152,24 +25176,28 @@
   "17948378": {
     "type": "Monster",
     "cn_name": "朱罗纪恐兽",
+    "sc_name": "朱罗纪・暴仔龙",
     "jp_name": "ジュラック・デイノ",
     "en_name": "Jurrac Dino"
   },
   "43332022": {
     "type": "Monster",
     "cn_name": "朱罗纪似鸡龙",
+    "sc_name": "朱罗纪・似鸡龙",
     "jp_name": "ジュラック・ガリム",
     "en_name": "Jurrac Gallim"
   },
   "80727721": {
     "type": "Monster",
     "cn_name": "朱罗纪异特龙",
+    "sc_name": "朱罗纪・异特龙",
     "jp_name": "ジュラック・アウロ",
     "en_name": "Jurrac Aeolo"
   },
   "16111820": {
     "type": "Monster",
     "cn_name": "朱罗纪艾雷拉龙",
+    "sc_name": "朱罗纪・艾雷拉龙",
     "jp_name": "ジュラック・ヘレラ",
     "en_name": "Jurrac Herra"
   },
@@ -25244,6 +25272,7 @@
   "17548456": {
     "type": "Monster",
     "cn_name": "朱罗纪陨石兽",
+    "sc_name": "朱罗纪・陨星龙",
     "jp_name": "ジュラック・メテオ",
     "en_name": "Jurrac Meteor"
   },
@@ -26050,6 +26079,7 @@
   "53199020": {
     "type": "Monster",
     "cn_name": "魔轰神 狄阿尼拉",
+    "sc_name": "魔轰神迪亚涅拉",
     "jp_name": "魔轟神ディアネイラ",
     "en_name": "Fabled Dianaira"
   },
@@ -26917,6 +26947,11 @@
     "jp_name": "ライティ・ドライバー",
     "en_name": "Righty Driver"
   },
+  "100233004": {
+    "type": "Monster",
+    "cn_name": "冰偶",
+    "jp_name": "アイス・ドール"
+  },
   "22748199": {
     "type": "Trap",
     "cn_name": "神之冰结",
@@ -26942,6 +26977,11 @@
     "jp_name": "氷結界",
     "en_name": "Ice Barrier"
   },
+  "100233006": {
+    "type": "Spell",
+    "cn_name": "冰偶镜",
+    "jp_name": "アイス・ドール・ミラー"
+  },
   "28348537": {
     "type": "Monster",
     "cn_name": "雪暴公主",
@@ -26957,30 +26997,35 @@
   "91731841": {
     "type": "Monster",
     "cn_name": "宝石骑士·红榴",
+    "sc_name": "宝石骑士・石榴石",
     "jp_name": "ジェムナイト・ガネット",
     "en_name": "Gem-Knight Garnet"
   },
   "27126980": {
     "type": "Monster",
     "cn_name": "宝石骑士·青玉",
+    "sc_name": "宝石骑士・苍玉石",
     "jp_name": "ジェムナイト・サフィア",
     "en_name": "Gem-Knight Sapphire"
   },
   "54620698": {
     "type": "Monster",
     "cn_name": "宝石骑士·黄碧",
+    "sc_name": "宝石骑士・电气石",
     "jp_name": "ジェムナイト・ルマリン",
     "en_name": "Gem-Knight Tourmaline"
   },
   "90019393": {
     "type": "Monster",
     "cn_name": "宝石骑士·紫翠",
+    "sc_name": "宝石骑士・紫翠玉",
     "jp_name": "ジェムナイト・アレキサンド",
     "en_name": "Gem-Knight Alexandrite"
   },
   "27004302": {
     "type": "Monster",
     "cn_name": "宝石犰狳",
+    "sc_name": "宝石犰狳",
     "jp_name": "ジェムレシス",
     "en_name": "Gem-Armadillo"
   },
@@ -27065,18 +27110,21 @@
   "76614340": {
     "type": "Monster",
     "cn_name": "宝石骑士·红玉",
+    "sc_name": "宝石骑士・红玉",
     "jp_name": "ジェムナイト・ルビーズ",
     "en_name": "Gem-Knight Ruby"
   },
   "13108445": {
     "type": "Monster",
     "cn_name": "宝石骑士·蓝玉",
+    "sc_name": "宝石骑士・海蓝玉",
     "jp_name": "ジェムナイト・アクアマリナ",
     "en_name": "Gem-Knight Aquamarine"
   },
   "49597193": {
     "type": "Monster",
     "cn_name": "宝石骑士·黄玉",
+    "sc_name": "宝石骑士・黄玉",
     "jp_name": "ジェムナイト・パーズ",
     "en_name": "Gem-Knight Topaz"
   },
@@ -27107,6 +27155,7 @@
   "1264319": {
     "type": "Spell",
     "cn_name": "宝石骑士融合",
+    "sc_name": "宝石骑士结合",
     "jp_name": "ジェムナイト・フュージョン",
     "en_name": "Gem-Knight Fusion"
   },
@@ -29591,6 +29640,7 @@
   "76908448": {
     "type": "Monster",
     "cn_name": "宝石骑士·白晶",
+    "sc_name": "宝石骑士・水晶",
     "jp_name": "ジェムナイト・クリスタ",
     "en_name": "Gem-Knight Crystal"
   },
@@ -29701,12 +29751,14 @@
   "67985943": {
     "type": "Monster",
     "cn_name": "宝石骑士·橙黄晶",
+    "sc_name": "宝石骑士・橙黄晶",
     "jp_name": "ジェムナイト・マディラ",
     "en_name": "Gem-Knight Citrine"
   },
   "93379652": {
     "type": "Monster",
     "cn_name": "宝石骑士·光棱晶",
+    "sc_name": "宝石骑士・光棱晶",
     "jp_name": "ジェムナイト・プリズムオーラ",
     "en_name": "Gem-Knight Prismaura"
   },
@@ -30698,6 +30750,7 @@
   "19163116": {
     "type": "Monster",
     "cn_name": "宝石骑士·黑曜",
+    "sc_name": "宝石骑士・黑曜石",
     "jp_name": "ジェムナイト・オブシディア",
     "en_name": "Gem-Knight Obsidian"
   },
@@ -30797,6 +30850,7 @@
   "71616908": {
     "type": "Monster",
     "cn_name": "宝石骑士·紫晶",
+    "sc_name": "宝石骑士・紫水晶",
     "jp_name": "ジェムナイト・アメジス",
     "en_name": "Gem-Knight Amethyst"
   },
@@ -30815,6 +30869,7 @@
   "71594310": {
     "type": "Monster",
     "cn_name": "宝石骑士·珍珠",
+    "sc_name": "宝石骑士・珍珠",
     "jp_name": "ジェムナイト・パール",
     "en_name": "Gem-Knight Pearl"
   },
@@ -32144,6 +32199,7 @@
   "8692301": {
     "type": "Monster",
     "cn_name": "宝石骑士·仿钻",
+    "sc_name": "宝石骑士・锆晶",
     "jp_name": "ジェムナイト・ジルコニア",
     "en_name": "Gem-Knight Zirconia"
   },
@@ -33133,6 +33189,7 @@
   "81846636": {
     "type": "Monster",
     "cn_name": "宝石骑士·小璃",
+    "sc_name": "宝石骑士・琉璃",
     "jp_name": "ジェムナイト・ラズリー",
     "en_name": "Gem-Knight Lazuli"
   },
@@ -33251,12 +33308,14 @@
   "3113836": {
     "type": "Monster",
     "cn_name": "宝石骑士·斜绿",
+    "sc_name": "宝石骑士・绿龙晶",
     "jp_name": "ジェムナイト・セラフィ",
     "en_name": "Gem-Knight Seraphinite"
   },
   "39512984": {
     "type": "Monster",
     "cn_name": "宝石骑士王·辉钻",
+    "sc_name": "宝石骑士统领・辉钻",
     "jp_name": "ジェムナイトマスター・ダイヤ",
     "en_name": "Gem-Knight Master Diamond"
   },
@@ -36018,6 +36077,7 @@
   "5479217": {
     "type": "Trap",
     "cn_name": "朱罗纪冲击",
+    "sc_name": "朱罗纪冲击",
     "jp_name": "ジュラック・インパクト",
     "en_name": "Jurrac Impact"
   },
@@ -40023,6 +40083,7 @@
   "21501505": {
     "type": "Monster",
     "cn_name": "暗迁士 黑蛇晶",
+    "sc_name": "暗迁士 黑晶戈贡",
     "jp_name": "暗遷士 カンゴルゴーム",
     "en_name": "Cairngorgon, Antiluminescent Knight"
   },
@@ -42373,6 +42434,7 @@
   "71422989": {
     "type": "Spell",
     "cn_name": "吸光融合",
+    "sc_name": "吸光结合",
     "jp_name": "吸光融合",
     "en_name": "Absorb Fusion"
   },
@@ -42509,72 +42571,84 @@
   "90307777": {
     "type": "Monster",
     "cn_name": "影灵衣术士 施里特",
+    "sc_name": "影灵衣的术士 休里特",
     "jp_name": "影霊衣の術士 シュリット",
     "en_name": "Shurit, Strategist of the Nekroz"
   },
   "27796375": {
     "type": "Monster",
     "cn_name": "影灵衣大魔道士",
+    "sc_name": "影灵衣的大魔道士",
     "jp_name": "影霊衣の大魔道士",
     "en_name": "Great Sorcerer of the Nekroz"
   },
   "53180020": {
     "type": "Monster",
     "cn_name": "影灵衣战士 艾可萨龙",
+    "sc_name": "影灵衣的战士 艾格扎",
     "jp_name": "影霊衣の戦士 エグザ",
     "en_name": "Exa, Enforcer of the Nekroz"
   },
   "99185129": {
     "type": "Monster",
     "cn_name": "辉剑鸟之影灵衣",
+    "sc_name": "辉剑鸟的影灵衣",
     "jp_name": "クラウソラスの影霊衣",
     "en_name": "Nekroz of Clausolas"
   },
   "26674724": {
     "type": "Monster",
     "cn_name": "光枪龙之影灵衣",
+    "sc_name": "光枪龙的影灵衣",
     "jp_name": "ブリューナクの影霊衣",
     "en_name": "Nekroz of Brionac"
   },
   "52068432": {
     "type": "Monster",
     "cn_name": "三叉龙之影灵衣",
+    "sc_name": "三叉龙的影灵衣",
     "jp_name": "トリシューラの影霊衣",
     "en_name": "Nekroz of Trishula"
   },
   "89463537": {
     "type": "Monster",
     "cn_name": "尤尼科之影灵衣",
+    "sc_name": "尤尼科尔的影灵衣",
     "jp_name": "ユニコールの影霊衣",
     "en_name": "Nekroz of Unicore"
   },
   "25857246": {
     "type": "Monster",
     "cn_name": "瓦尔基鲁斯之影灵衣",
+    "sc_name": "瓦尔基鲁斯的影灵衣",
     "jp_name": "ヴァルキュルスの影霊衣",
     "en_name": "Nekroz of Valkyrus"
   },
   "52846880": {
     "type": "Monster",
     "cn_name": "灾亡虫之影灵衣",
+    "sc_name": "灾难兽的影灵衣",
     "jp_name": "カタストルの影霊衣",
     "en_name": "Nekroz of Catastor"
   },
   "88240999": {
     "type": "Monster",
     "cn_name": "决战兵器之影灵衣",
+    "sc_name": "决战兵器的影灵衣",
     "jp_name": "ディサイシブの影霊衣",
     "en_name": "Nekroz of Decisive Armor"
   },
   "14735698": {
     "type": "Spell",
     "cn_name": "影灵衣的降魔镜",
+    "sc_name": "影灵衣的降魔镜",
     "jp_name": "影霊衣の降魔鏡",
     "en_name": "Nekroz Mirror"
   },
   "51124303": {
     "type": "Spell",
     "cn_name": "影灵衣的万华镜",
+    "sc_name": "影灵衣的万华镜",
     "jp_name": "影霊衣の万華鏡",
     "en_name": "Nekroz Kaleidoscope"
   },
@@ -42838,6 +42912,7 @@
   "99645428": {
     "type": "Monster",
     "cn_name": "宝石骑士·小琉",
+    "sc_name": "宝石骑士・金碧",
     "jp_name": "ジェムナイト・ラピス",
     "en_name": "Gem-Knight Lapis"
   },
@@ -42943,6 +43018,7 @@
   "52738610": {
     "type": "Monster",
     "cn_name": "影灵衣舞姬",
+    "sc_name": "影灵衣的舞姬",
     "jp_name": "影霊衣の舞姫",
     "en_name": "Dance Princess of the Nekroz"
   },
@@ -43043,6 +43119,7 @@
   "74122412": {
     "type": "Monster",
     "cn_name": "天枪龙之影灵衣",
+    "sc_name": "天枪龙的影灵衣",
     "jp_name": "グングニールの影霊衣",
     "en_name": "Nekroz of Gungnir"
   },
@@ -43056,6 +43133,7 @@
   "47611119": {
     "type": "Monster",
     "cn_name": "宝石骑士女郎·琉璃",
+    "sc_name": "宝石骑士女郎・金碧琉璃",
     "jp_name": "ジェムナイトレディ・ラピスラズリ",
     "en_name": "Gem-Knight Lady Lapis Lazuli"
   },
@@ -43150,6 +43228,7 @@
   "97211663": {
     "type": "Spell",
     "cn_name": "影灵衣的返魂术",
+    "sc_name": "影灵衣的反魂术",
     "jp_name": "影霊衣の反魂術",
     "en_name": "Nekroz Cycle"
   },
@@ -43909,12 +43988,14 @@
   "84388461": {
     "type": "Monster",
     "cn_name": "剑圣之影灵衣-神数剑士",
+    "sc_name": "剑圣的影灵衣－源质军刀",
     "jp_name": "剣聖の影霊衣－セフィラセイバー",
     "en_name": "Zefrasaber, Swordmaster of the Nekroz"
   },
   "20773176": {
     "type": "Monster",
     "cn_name": "炎兽之影灵衣-神数艾可萨龙",
+    "sc_name": "炎兽的影灵衣－源质艾格扎",
     "jp_name": "炎獣の影霊衣－セフィラエグザ",
     "en_name": "Zefraxa, Flame Beast of the Nekroz"
   },
@@ -43989,6 +44070,7 @@
   "21105106": {
     "type": "Monster",
     "cn_name": "索菲娅之影灵衣",
+    "sc_name": "sophia的影灵衣",
     "jp_name": "sophiaの影霊衣",
     "en_name": "Nekroz of Sophia"
   },
@@ -44513,6 +44595,7 @@
   "79531196": {
     "type": "Monster",
     "cn_name": "水晶蔷薇",
+    "sc_name": "水晶蔷薇",
     "jp_name": "クリスタル・ローズ",
     "en_name": "Crystal Rose"
   },
@@ -44751,6 +44834,7 @@
   "19355597": {
     "type": "Monster",
     "cn_name": "宝石骑士女郎·亮钻",
+    "sc_name": "宝石骑士女郎・璀璨辉钻",
     "jp_name": "ジェムナイトレディ・ブリリアント・ダイヤ",
     "en_name": "Gem-Knight Lady Brilliant Diamond"
   },
@@ -44812,6 +44896,7 @@
   "7394770": {
     "type": "Spell",
     "cn_name": "明亮融合",
+    "sc_name": "璀璨结合",
     "jp_name": "ブリリアント・フュージョン",
     "en_name": "Brilliant Fusion"
   },
@@ -51791,6 +51876,7 @@
   "56827051": {
     "type": "Monster",
     "cn_name": "影灵衣巫女 艾莉娅儿",
+    "sc_name": "影灵衣的巫女 艾莉娅儿",
     "jp_name": "影霊衣の巫女 エリアル",
     "en_name": "Ariel, Priestess of the Nekroz"
   },
@@ -55256,6 +55342,7 @@
   "24484270": {
     "type": "Monster",
     "cn_name": "宝石骑士·幽晶原核",
+    "sc_name": "宝石骑士・魅影原核",
     "jp_name": "ジェムナイト・ファントムルーツ",
     "en_name": "Gem-Knight Phantom Quartz"
   },
@@ -66238,6 +66325,7 @@
   "80839052": {
     "type": "Monster",
     "cn_name": "核成供给者",
+    "sc_name": "核成・供给者",
     "jp_name": "コアキメイル・サプライヤー",
     "en_name": "Koa'ki Meiru Supplier"
   },
@@ -68905,6 +68993,7 @@
   "39468724": {
     "type": "Monster",
     "cn_name": "毒枪龙骑士之影灵衣",
+    "sc_name": "日神炎枪的影灵衣",
     "jp_name": "アラドヴァルの影霊衣",
     "en_name": "Nekroz of Areadbhair"
   },
@@ -74605,12 +74694,14 @@
   "35622739": {
     "type": "Monster",
     "cn_name": "宝石骑士·石英",
+    "sc_name": "宝石骑士・石英",
     "jp_name": "ジェムナイト・クォーツ",
     "en_name": "Gem-Knight Quartz"
   },
   "61011438": {
     "type": "Monster",
     "cn_name": "明亮蔷薇",
+    "sc_name": "璀璨蔷薇",
     "jp_name": "ブリリアント・ローズ",
     "en_name": "Brilliant Rose"
   },
@@ -74768,6 +74859,7 @@
   "55610199": {
     "type": "Monster",
     "cn_name": "宝石骑士女郎·玫钻",
+    "sc_name": "宝石骑士女郎・蔷薇辉钻",
     "jp_name": "ジェムナイトレディ・ローズ・ダイヤ",
     "en_name": "Gem-Knight Lady Rose Diamond"
   },
@@ -74893,6 +74985,7 @@
   "40597694": {
     "type": "Spell",
     "cn_name": "分散融合",
+    "sc_name": "散射结合",
     "jp_name": "スキャッター・フュージョン",
     "en_name": "Scatter Fusion"
   },
@@ -79185,12 +79278,14 @@
   "50834074": {
     "type": "Monster",
     "cn_name": "地狱猛禽翼龙",
+    "sc_name": "地狱猛禽龙",
     "jp_name": "ヘルカイトプテラ",
     "en_name": "Kaitoptera"
   },
   "86239173": {
     "type": "Monster",
     "cn_name": "地狱猎犬猛龙",
+    "sc_name": "地狱角龙",
     "jp_name": "ヘルホーンドザウルス",
     "en_name": "Horned Saurus"
   },
@@ -83747,181 +83842,211 @@
     "type": "Monster",
     "cn_name": "剑式阴极雷火沸动机",
     "sc_name": "剑极・雷热涡炉",
-    "jp_name": "ソード・ライゼオル"
+    "jp_name": "ソード・ライゼオル",
+    "en_name": "Sword Ryzeal"
   },
   "72238166": {
     "type": "Monster",
     "cn_name": "节式阳极雷火沸动机",
     "sc_name": "节极・雷热涡炉",
-    "jp_name": "ノード・ライゼオル"
+    "jp_name": "ノード・ライゼオル",
+    "en_name": "Node Ryzeal"
   },
   "8633261": {
     "type": "Monster",
     "cn_name": "内燃雷火沸动机",
     "sc_name": "冰燃・雷热涡炉",
-    "jp_name": "アイス・ライゼオル"
+    "jp_name": "アイス・ライゼオル",
+    "en_name": "Ice Ryzeal"
   },
   "34022970": {
     "type": "Monster",
     "cn_name": "外燃雷火沸动机",
     "sc_name": "超燃・雷热涡炉",
-    "jp_name": "エクス・ライゼオル"
+    "jp_name": "エクス・ライゼオル",
+    "en_name": "Ext Ryzeal"
   },
   "61116514": {
     "type": "Monster",
     "cn_name": "掌式永磁雷火沸动机",
     "sc_name": "脉离・雷热涡炉",
-    "jp_name": "パルマ・ライゼオル"
+    "jp_name": "パルマ・ライゼオル",
+    "en_name": "Palm Ryzeal"
   },
   "7511613": {
     "type": "Monster",
     "cn_name": "雷火沸动油电双动机",
     "sc_name": "雷热涡炉・双驱进击",
-    "jp_name": "ライゼオル・デュオドライブ"
+    "jp_name": "ライゼオル・デュオドライブ",
+    "en_name": "Ryzeal Duo Drive"
   },
   "34909328": {
     "type": "Monster",
     "cn_name": "雷火沸动死旋爆震机",
     "sc_name": "雷热涡炉・绝命导爆",
-    "jp_name": "ライゼオル・デッドネーダー"
+    "jp_name": "ライゼオル・デッドネーダー",
+    "en_name": "Ryzeal Detonator"
   },
   "60394026": {
     "type": "Spell",
     "cn_name": "雷火沸动机插电",
     "sc_name": "雷热涡炉・嵌能",
-    "jp_name": "ライゼオル・プラグイン"
+    "jp_name": "ライゼオル・プラグイン",
+    "en_name": "Ryzeal Plugin"
   },
   "6798031": {
     "type": "Spell",
     "cn_name": "雷火沸动交界机",
     "sc_name": "雷热涡炉・交错",
-    "jp_name": "ライゼオル・クロス"
+    "jp_name": "ライゼオル・クロス",
+    "en_name": "Ryzeal Cross"
   },
   "33787730": {
     "type": "Trap",
     "cn_name": "雷火沸动霍尔洞推进器",
     "sc_name": "雷热涡炉・空洞电冲炮",
-    "jp_name": "ライゼオル・ホールスラスター"
+    "jp_name": "ライゼオル・ホールスラスター",
+    "en_name": "Ryzeal Plasma Hole"
   },
   "69272449": {
     "type": "Monster",
     "cn_name": "码丽丝<兵卒>白兔",
     "sc_name": "码丽丝＜兵＞白兔",
-    "jp_name": "M∀LICE＜P＞White Rabbit"
+    "jp_name": "M∀LICE＜P＞White Rabbit",
+    "en_name": "Maliss <P> White Rabbit"
   },
   "96676583": {
     "type": "Monster",
     "cn_name": "码丽丝<兵卒>柴郡猫",
     "sc_name": "码丽丝＜兵＞柴郡猫",
-    "jp_name": "M∀LICE＜P＞Cheshire Cat"
+    "jp_name": "M∀LICE＜P＞Cheshire Cat",
+    "en_name": "Maliss <P> Chessy Cat"
   },
   "32061192": {
     "type": "Monster",
     "cn_name": "码丽丝<兵卒>睡鼠",
     "sc_name": "码丽丝＜兵＞睡鼠",
-    "jp_name": "M∀LICE＜P＞Dormouse"
+    "jp_name": "M∀LICE＜P＞Dormouse",
+    "en_name": "Maliss <P> Dormouse"
   },
   "68059897": {
     "type": "Monster",
     "cn_name": "码丽丝<王后>红棋勒索",
     "sc_name": "码丽丝＜后＞赤色勒赎",
-    "jp_name": "M∀LICE＜Q＞RED RANSOM"
+    "jp_name": "M∀LICE＜Q＞RED RANSOM",
+    "en_name": "Maliss <Q> Red Ransom"
   },
   "95454996": {
     "type": "Monster",
     "cn_name": "码丽丝<王后>白棋捆绑",
     "sc_name": "码丽丝＜后＞白色绑缚",
-    "jp_name": "M∀LICE＜Q＞WHITE BINDER"
+    "jp_name": "M∀LICE＜Q＞WHITE BINDER",
+    "en_name": "Maliss <Q> White Binder"
   },
   "21848500": {
     "type": "Monster",
     "cn_name": "码丽丝<王后>红心加密",
     "sc_name": "码丽丝＜后＞红心密匿",
-    "jp_name": "M∀LICE＜Q＞HEARTS OF CRYPTER"
+    "jp_name": "M∀LICE＜Q＞HEARTS OF CRYPTER",
+    "en_name": "Maliss <Q> Hearts Crypter"
   },
   "68337209": {
     "type": "Spell",
     "cn_name": "码丽丝梦游地下界",
     "sc_name": "码丽丝梦游深界",
-    "jp_name": "M∀LICE IN UNDERGROUND"
+    "jp_name": "M∀LICE IN UNDERGROUND",
+    "en_name": "Maliss in Underground"
   },
   "94722358": {
     "type": "Trap",
     "cn_name": "码丽丝<代码>MTP-07",
     "sc_name": "码丽丝＜序＞MTP－07",
-    "jp_name": "M∀LICE＜C＞MTP－０７"
+    "jp_name": "M∀LICE＜C＞MTP－０７",
+    "en_name": "Maliss <C> MTP-07"
   },
   "20726052": {
     "type": "Trap",
     "cn_name": "码丽丝<代码>GWC-06",
     "sc_name": "码丽丝＜序＞GWC－06",
-    "jp_name": "M∀LICE＜C＞GWC－０６"
+    "jp_name": "M∀LICE＜C＞GWC－０６",
+    "en_name": "Maliss <C> GWC-06"
   },
   "57111661": {
     "type": "Trap",
     "cn_name": "码丽丝<代码>TB-11",
     "sc_name": "码丽丝＜序＞TB－11",
-    "jp_name": "M∀LICE＜C＞TB－１１"
+    "jp_name": "M∀LICE＜C＞TB－１１",
+    "en_name": "Maliss <C> TB-11"
   },
   "93509766": {
     "type": "Monster",
     "cn_name": "恐巃龙华-嵬巴",
     "sc_name": "恐巄龙华－㟴轮巴王",
-    "jp_name": "恐巄竜華－㟴巴"
+    "jp_name": "恐巄竜華－㟴巴",
+    "en_name": "Kyoro Ryu-Ge Kaiva"
   },
   "20904475": {
     "type": "Monster",
     "cn_name": "海泷龙华-渊巴",
     "sc_name": "海瀧龙华－渊轮巴王",
-    "jp_name": "海瀧竜華－淵巴"
+    "jp_name": "海瀧竜華－淵巴",
+    "en_name": "Kairo Ryu-Ge Emva"
   },
   "56499179": {
     "type": "Monster",
     "cn_name": "幻胧龙华-霸巴",
     "sc_name": "幻朧龙华－霸轮巴王",
-    "jp_name": "幻朧竜華－霸巴"
+    "jp_name": "幻朧竜華－霸巴",
+    "en_name": "Genro Ryu-Ge Hakva"
   },
   "92487128": {
     "type": "Monster",
     "cn_name": "创星龙华-光巴",
     "sc_name": "创星龙华－光轮巴王",
-    "jp_name": "創星竜華－光巴"
+    "jp_name": "創星竜華－光巴",
+    "en_name": "Sosei Ryu-Ge Mistva"
   },
   "29882827": {
     "type": "Spell",
     "cn_name": "龙华界辟",
     "sc_name": "龙华界辟",
-    "jp_name": "竜華界闢"
+    "jp_name": "竜華界闢",
+    "en_name": "Ryu-Ge Rising"
   },
   "55276522": {
     "type": "Spell",
     "cn_name": "登龙华转生纹",
     "sc_name": "登龙华转生纹",
-    "jp_name": "登竜華転生紋"
+    "jp_name": "登竜華転生紋",
+    "en_name": "Ryu-Ge War Zone"
   },
   "82661630": {
     "type": "Spell",
     "cn_name": "登龙华恐巃门",
     "sc_name": "登龙华恐巄门",
-    "jp_name": "登竜華恐巄門"
+    "jp_name": "登竜華恐巄門",
+    "en_name": "Ryu-Ge Realm - Dino Domains"
   },
   "28669235": {
     "type": "Spell",
     "cn_name": "登龙华海泷门",
     "sc_name": "登龙华海瀧门",
-    "jp_name": "登竜華海瀧門"
+    "jp_name": "登竜華海瀧門",
+    "en_name": "Ryu-Ge Realm - Sea Spires"
   },
   "55154344": {
     "type": "Spell",
     "cn_name": "登龙华幻胧门",
     "sc_name": "登龙华幻朧门",
-    "jp_name": "登竜華幻朧門"
+    "jp_name": "登竜華幻朧門",
+    "en_name": "Ryu-Ge Realm - Wyrm Winds"
   },
   "81549048": {
     "type": "Trap",
     "cn_name": "龙华三界流转",
     "sc_name": "龙华三界流转",
-    "jp_name": "竜華三界流転"
+    "jp_name": "竜華三界流転",
+    "en_name": "Ryu-Ge Rivalry"
   },
   "17947697": {
     "type": "Monster",
@@ -83975,6 +84100,11 @@
     "type": "Monster",
     "cn_name": "异宇宙暮阳神",
     "en_name": "Anotherverse Solaria"
+  },
+  "100231002": {
+    "type": "Monster",
+    "cn_name": "包烤蒸骑-B公牛枪炮",
+    "jp_name": "包焼蒸騎－BULLauncher"
   },
   "87640391": {
     "type": "Monster",
@@ -84565,82 +84695,128 @@
   "68897338": {
     "type": "Monster",
     "cn_name": "魔轰神兽 贝希尔摩斯",
+    "sc_name": "魔轰神兽贝希鲁摩斯",
     "jp_name": "魔轟神獣ベヒルモス"
   },
   "94292987": {
     "type": "Monster",
     "cn_name": "魔轰神 加麦基",
+    "sc_name": "魔轰神加缪基",
     "jp_name": "魔轟神ガミュジン"
   },
   "21281085": {
     "type": "Monster",
     "cn_name": "魔轰神 利威西卜魔",
+    "sc_name": "魔轰神勒邪则步",
     "jp_name": "魔轟神レヴェルゼブル"
   },
   "57775790": {
     "type": "Spell",
     "cn_name": "魔轰神界的复活",
+    "sc_name": "魔轰神界的复活",
     "jp_name": "魔轟神界の復活"
   },
   "93170499": {
     "type": "Monster",
     "cn_name": "朱罗纪斑龙",
+    "sc_name": "朱罗纪・斑龙",
     "jp_name": "ジュラック・メガロ"
   },
   "20568404": {
     "type": "Monster",
     "cn_name": "朱罗纪剑龙",
+    "sc_name": "朱罗纪・剑龙",
     "jp_name": "ジュラック・スティゴ"
   },
   "52553102": {
     "type": "Monster",
     "cn_name": "朱罗纪小行星兽",
+    "sc_name": "朱罗纪・小行星龙",
     "jp_name": "ジュラック・アステロ"
   },
   "89948817": {
     "type": "Spell",
     "cn_name": "朱罗纪火山",
+    "sc_name": "朱罗纪喷发",
     "jp_name": "ジュラック・ヴォルケーノ"
   },
   "25342956": {
     "type": "Monster",
     "cn_name": "宝石骑士王·辉钻-色散",
+    "sc_name": "宝石骑士统领・辉钻－彩光",
     "jp_name": "ジェムナイトマスター・ダイヤ－ディスパージョン"
   },
   "51831560": {
     "type": "Monster",
     "cn_name": "宝石骑士·拿非琉",
+    "sc_name": "宝石骑士・拿碧利",
     "jp_name": "ジェムナイト・ネピリム"
   },
   "88225269": {
     "type": "Monster",
     "cn_name": "宝石骑士·虚梦狱原核",
+    "sc_name": "宝石骑士・虚炼原核",
     "jp_name": "ジェムナイト・ヴォイドルーツ"
   },
   "24220368": {
     "type": "Spell",
     "cn_name": "宝石骑士色散",
+    "sc_name": "宝石骑士彩光",
     "jp_name": "ジェムナイト・ディスパージョン"
   },
   "51618973": {
     "type": "Monster",
     "cn_name": "影灵衣魔剑士 阿旺斯",
+    "sc_name": "影灵衣的魔剑士 阿凡斯",
     "jp_name": "影霊衣の魔剣士 アバンス"
   },
   "87003671": {
     "type": "Monster",
     "cn_name": "影灵衣舞巫女 艾米莉娅",
+    "sc_name": "影灵衣的舞巫女 艾米莉娅",
     "jp_name": "影霊衣の舞巫女 エミリア"
   },
   "13408726": {
     "type": "Monster",
     "cn_name": "炼机圣之影灵衣",
+    "sc_name": "梅塔特隆的影灵衣",
     "jp_name": "メタトロンの影霊衣"
   },
   "50596425": {
     "type": "Spell",
     "cn_name": "影灵衣的神魔镜",
+    "sc_name": "影灵衣之神魔镜",
     "jp_name": "影霊衣の神魔鏡"
+  },
+  "100229001": {
+    "type": "Monster",
+    "cn_name": "半龙女仆·星夜龙女",
+    "jp_name": "ドラゴンメイド・シュテルン"
+  },
+  "100229002": {
+    "type": "Monster",
+    "cn_name": "半龙女仆·贴身龙女",
+    "jp_name": "ドラゴンメイド・ラティス"
+  },
+  "100229019": {
+    "type": "Monster",
+    "cn_name": "能朋克 鳞阶",
+    "jp_name": "No－P.U.N.K.ライジング・スケール"
+  },
+  "100229020": {
+    "type": "Monster",
+    "cn_name": "朋克即兴狂热！",
+    "jp_name": "P.U.N.K.JAM FEVER！"
+  },
+  "100229033": {
+    "type": "Monster",
+    "cn_name": "自奏圣乐·伽拉忒亚i",
+    "jp_name": "オルフェゴール・ガラテアi"
+  },
+  "100229034": {
+    "type": "Monster",
+    "cn_name": "宵星之骑士 恩利尔吉尔苏",
+    "jp_name": "宵星の騎士エンリルギルス"
   },
   "10218411": {
     "type": "Spell",
@@ -84651,5 +84827,110 @@
     "type": "Monster",
     "cn_name": "葬角之食肉公牛龙",
     "jp_name": "葬角のカルノヴルス"
+  },
+  "100233002": {
+    "type": "Spell",
+    "cn_name": "二合一",
+    "jp_name": "ニコイチ"
+  },
+  "100233007": {
+    "type": "Monster",
+    "cn_name": "森之忍者 小蝙",
+    "jp_name": "森の忍者 バット"
+  },
+  "100233008": {
+    "type": "Monster",
+    "cn_name": "森之圣骑士 小汪",
+    "jp_name": "森の聖騎士 ワンコ"
+  },
+  "100233009": {
+    "type": "Spell",
+    "cn_name": "童话故事 序章 启程的曙光",
+    "jp_name": "Fairy Tale 序章 旅立ちの暁光"
+  },
+  "100233010": {
+    "type": "Monster",
+    "cn_name": "闪光No.37 蜘蛛鲨",
+    "jp_name": "SNo.37 スパイダー・シャーク"
+  },
+  "100233011": {
+    "type": "Monster",
+    "cn_name": "闪光No.38 银河巨神",
+    "jp_name": "SNo.38 タイタニック・ギャラクシー"
+  },
+  "100233012": {
+    "type": "Spell",
+    "cn_name": "希望之天启",
+    "jp_name": "希望の天啓"
+  },
+  "100233013": {
+    "type": "Spell",
+    "cn_name": "银河超航行",
+    "jp_name": "銀河超航行"
+  },
+  "100233014": {
+    "type": "Monster",
+    "cn_name": "DD 计数测量员",
+    "jp_name": "DDカウント・サーベイヤー"
+  },
+  "100233015": {
+    "type": "Monster",
+    "cn_name": "DD 刻度测量员",
+    "jp_name": "DDスケール・サーベイヤー"
+  },
+  "100233016": {
+    "type": "Monster",
+    "cn_name": "DD 额外测量员",
+    "jp_name": "DDエクストラ・サーベイヤー"
+  },
+  "100233201": {
+    "type": "Monster",
+    "cn_name": "天赋之魔导士 克劳利",
+    "jp_name": "天賦の魔導士クロウリー"
+  },
+  "100233018": {
+    "type": "Monster",
+    "cn_name": "龙王绝火 琐罗亚",
+    "jp_name": "竜王絶火ゾロア"
+  },
+  "100233019": {
+    "type": "Spell",
+    "cn_name": "结晶魔术 光之泪",
+    "jp_name": "結晶魔術 光の涙"
+  },
+  "100233020": {
+    "type": "Spell",
+    "cn_name": "圣魔 裁决之雷",
+    "jp_name": "聖魔 裁きの雷"
+  },
+  "100200264": {
+    "type": "Monster",
+    "cn_name": "圣月之魔导士 恩底弥翁",
+    "jp_name": "聖月の魔導士エンディミオン"
+  },
+  "100232001": {
+    "type": "Monster",
+    "cn_name": "庆典气球",
+    "jp_name": "フェスティバルーン"
+  },
+  "100232002": {
+    "type": "Monster",
+    "cn_name": "隐藏坚果的粗心松鼠",
+    "jp_name": "きのみ隠しのうっかりす"
+  },
+  "100232003": {
+    "type": "Monster",
+    "cn_name": "食魂魔兽 巴祖",
+    "jp_name": "魂喰魔獣 バズー"
+  },
+  "100232004": {
+    "type": "Spell",
+    "cn_name": "射敌",
+    "jp_name": "射敵"
+  },
+  "100232005": {
+    "type": "Trap",
+    "cn_name": "影之灾厄",
+    "jp_name": "影の災い"
   }
 }
