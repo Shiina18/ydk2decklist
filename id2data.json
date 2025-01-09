@@ -6515,6 +6515,7 @@
   "30325729": {
     "type": "Monster",
     "cn_name": "死神回力镖",
+    "sc_name": "死神回旋镖",
     "jp_name": "死神ブーメラン",
     "en_name": "Dokuroyaiba"
   },
@@ -7777,6 +7778,7 @@
   "81172176": {
     "type": "Trap",
     "cn_name": "恶魔喜剧演员",
+    "sc_name": "魔鬼喜剧演员",
     "jp_name": "デビル・コメディアン",
     "en_name": "Fiend Comedian"
   },
@@ -11338,6 +11340,7 @@
   "65403020": {
     "type": "Monster",
     "cn_name": "终结之阿努比斯",
+    "sc_name": "终结之阿努比斯",
     "jp_name": "エンド・オブ・アヌビス",
     "en_name": "The End of Anubis"
   },
@@ -17192,6 +17195,7 @@
   "79856792": {
     "type": "Monster",
     "cn_name": "究极宝玉神 虹龙",
+    "sc_name": "究极宝玉神 彩虹龙",
     "jp_name": "究極宝玉神 レインボー・ドラゴン",
     "en_name": "Rainbow Dragon"
   },
@@ -19597,6 +19601,7 @@
   "69831560": {
     "type": "Monster",
     "cn_name": "秘仪之力EX-暗之支配者",
+    "sc_name": "秘仪之力EX－暗之统御者",
     "jp_name": "アルカナフォースEX－THE DARK RULER",
     "en_name": "Arcana Force EX - The Dark Ruler"
   },
@@ -19807,6 +19812,7 @@
   "37812118": {
     "type": "Spell",
     "cn_name": "圣杯A",
+    "sc_name": "圣杯Ace",
     "jp_name": "カップ・オブ・エース",
     "en_name": "Cup of Ace"
   },
@@ -22905,6 +22911,7 @@
   "12435193": {
     "type": "Monster",
     "cn_name": "核成龙",
+    "sc_name": "核成龙",
     "jp_name": "コアキメイル・ドラゴ",
     "en_name": "Koa'ki Meiru Drago"
   },
@@ -23093,6 +23100,7 @@
   "36623431": {
     "type": "Spell",
     "cn_name": "核成兽的钢核",
+    "sc_name": "核成之钢核",
     "jp_name": "コアキメイルの鋼核",
     "en_name": "Iron Core of Koa'ki Meiru"
   },
@@ -23841,6 +23849,7 @@
   "25958491": {
     "type": "Monster",
     "cn_name": "古代圣翼龙",
+    "sc_name": "上古圣翼龙",
     "jp_name": "エンシェント・ホーリー・ワイバーン",
     "en_name": "Ancient Sacred Wyvern"
   },
@@ -23982,6 +23991,7 @@
   "73507661": {
     "type": "Trap",
     "cn_name": "妖精之风",
+    "sc_name": "妖精之风",
     "jp_name": "妖精の風",
     "en_name": "Fairy Wind"
   },
@@ -25025,6 +25035,7 @@
   "34022290": {
     "type": "Monster",
     "cn_name": "守护者·艾托斯",
+    "sc_name": "守护者・艾尔托斯",
     "jp_name": "ガーディアン・エアトス",
     "en_name": "Guardian Eatos"
   },
@@ -32814,6 +32825,7 @@
   "44505297": {
     "type": "Monster",
     "cn_name": "甲虫装机 艾可萨甲虫",
+    "sc_name": "甲虫装机 艾可萨兜虫",
     "jp_name": "甲虫装機 エクサビートル",
     "en_name": "Inzektor Exa-Beetle"
   },
@@ -46063,6 +46075,7 @@
   "38844957": {
     "type": "Trap",
     "cn_name": "紧急仪式术",
+    "sc_name": "紧急仪式术",
     "jp_name": "緊急儀式術",
     "en_name": "Urgent Ritual Art"
   },
@@ -49718,6 +49731,7 @@
   "82321037": {
     "type": "Monster",
     "cn_name": "真龙皇 巴哈斯督·统领",
+    "sc_name": "真龙皇 渊渎圣子 统领",
     "jp_name": "真竜皇バハルストスF",
     "en_name": "True King Bahrastos, the Fathomer"
   },
@@ -58463,6 +58477,7 @@
   "78144171": {
     "type": "Monster",
     "cn_name": "击灭龙 暗黑武装",
+    "sc_name": "击灭龙 暗黑武装",
     "jp_name": "撃滅龍 ダーク・アームド",
     "en_name": "Dark Armed, the Dragon of Annihilation"
   },
@@ -67012,6 +67027,7 @@
   "4997565": {
     "type": "Monster",
     "cn_name": "No.3 地狱蝉王",
+    "sc_name": "编号3 地狱蝉王",
     "jp_name": "No.3 地獄蝉王ローカスト・キング",
     "en_name": "Number 3: Cicada King"
   },
@@ -68836,6 +68852,7 @@
   "45420955": {
     "type": "Monster",
     "cn_name": "迅雷之暴君 格罗扎",
+    "sc_name": "迅雷之暴君 格罗扎",
     "jp_name": "迅雷の暴君 グローザー",
     "en_name": "Groza, Tyrant of Thunder"
   },
@@ -75489,6 +75506,7 @@
   "61668670": {
     "type": "Monster",
     "cn_name": "G石人·水晶心",
+    "sc_name": "G魔像・水晶心",
     "jp_name": "Gゴーレム・クリスタルハート",
     "en_name": "G Golem Crystal Heart"
   },
@@ -84933,7 +84951,7 @@
     "cn_name": "影之灾厄",
     "jp_name": "影の災い"
   },
-  "100230501": {
+  "66429798": {
     "type": "Monster",
     "cn_name": "吟幽狮神 佩桑塔",
     "jp_name": "吟幽獅神ペサンタ"
