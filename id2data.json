@@ -3040,6 +3040,7 @@
   "16229315": {
     "type": "Monster",
     "cn_name": "狂风毒蛾",
+    "sc_name": "疾风毒蛾",
     "jp_name": "ゲール・ドグラ",
     "en_name": "Gale Dogra"
   },
@@ -14948,6 +14949,7 @@
   "64599569": {
     "type": "Monster",
     "cn_name": "嵌合超载龙",
+    "sc_name": "嵌合超载龙",
     "jp_name": "キメラテック・オーバー・ドラゴン",
     "en_name": "Chimeratech Overdragon"
   },
@@ -15222,6 +15224,7 @@
   "77565204": {
     "type": "Spell",
     "cn_name": "未来融合",
+    "sc_name": "未来融合－永望结合",
     "jp_name": "未来融合－フューチャー・フュージョン",
     "en_name": "Future Fusion"
   },
@@ -15455,24 +15458,28 @@
   "41230939": {
     "type": "Monster",
     "cn_name": "电子暗黑魔角",
+    "sc_name": "电子暗黑角",
     "jp_name": "サイバー・ダーク・ホーン",
     "en_name": "Cyberdark Horn"
   },
   "77625948": {
     "type": "Monster",
     "cn_name": "电子暗黑刃翼",
+    "sc_name": "电子暗黑刃",
     "jp_name": "サイバー・ダーク・エッジ",
     "en_name": "Cyberdark Edge"
   },
   "3019642": {
     "type": "Monster",
     "cn_name": "电子暗黑龙骨",
+    "sc_name": "电子暗黑骨",
     "jp_name": "サイバー・ダーク・キール",
     "en_name": "Cyberdark Keel"
   },
   "40418351": {
     "type": "Monster",
     "cn_name": "铠黑龙-电子暗黑龙",
+    "sc_name": "铠黑龙－电子暗黑龙",
     "jp_name": "鎧黒竜－サイバー・ダーク・ドラゴン",
     "en_name": "Cyberdark Dragon"
   },
@@ -17474,6 +17481,7 @@
   "80033124": {
     "type": "Spell",
     "cn_name": "电子暗黑冲击！",
+    "sc_name": "电子黑暗冲击！",
     "jp_name": "サイバーダーク・インパクト！",
     "en_name": "Cyberdark Impact!"
   },
@@ -34831,12 +34839,14 @@
   "60316373": {
     "type": "Monster",
     "cn_name": "纹章兽 阿伯康韦龙",
+    "sc_name": "纹章兽 亚伯康威",
     "jp_name": "紋章獣アバコーンウェイ",
     "en_name": "Heraldic Beast Aberconway"
   },
   "96704018": {
     "type": "Monster",
     "cn_name": "纹章兽 伯纳斯猎鹰",
+    "sc_name": "纹章兽 伯纳斯猎鹰",
     "jp_name": "紋章獣ベルナーズ・ファルコン",
     "en_name": "Heraldic Beast Berners Falcon"
   },
@@ -35043,6 +35053,7 @@
   "47387961": {
     "type": "Monster",
     "cn_name": "No.8 纹章王 基因组继承者",
+    "sc_name": "编号8 纹章王 基因组继承者",
     "jp_name": "No.8 紋章王ゲノム・ヘリター",
     "en_name": "Number 8: Heraldic King Genom-Heritage"
   },
@@ -35105,6 +35116,7 @@
   "61314842": {
     "type": "Spell",
     "cn_name": "高等纹章术",
+    "sc_name": "高等徽章术",
     "jp_name": "高等紋章術",
     "en_name": "Advanced Heraldry Art"
   },
@@ -35378,6 +35390,7 @@
   "2407234": {
     "type": "Monster",
     "cn_name": "No.69 纹章神 盾徽",
+    "sc_name": "编号69 徽章神 盾徽",
     "jp_name": "No.69 紋章神コート・オブ・アームズ",
     "en_name": "Number 69: Heraldry Crest"
   },
@@ -35700,30 +35713,35 @@
   "56921677": {
     "type": "Monster",
     "cn_name": "纹章兽 巴西利斯克",
+    "sc_name": "纹章兽 巴西利斯克",
     "jp_name": "紋章獣バシリスク",
     "en_name": "Heraldic Beast Basilisk"
   },
   "82315772": {
     "type": "Monster",
     "cn_name": "纹章兽 野迩",
+    "sc_name": "纹章兽 野迩",
     "jp_name": "紋章獣エアレー",
     "en_name": "Heraldic Beast Eale"
   },
   "19310321": {
     "type": "Monster",
     "cn_name": "纹章兽 双头鹰",
+    "sc_name": "纹章兽 双头鹰",
     "jp_name": "紋章獣ツインヘッド・イーグル",
     "en_name": "Heraldic Beast Twin-Headed Eagle"
   },
   "45705025": {
     "type": "Monster",
     "cn_name": "纹章兽 独角兽",
+    "sc_name": "纹章兽 独角兽",
     "jp_name": "紋章獣ユニコーン",
     "en_name": "Heraldic Beast Unicorn"
   },
   "82293134": {
     "type": "Monster",
     "cn_name": "纹章兽 狮子",
+    "sc_name": "纹章兽 雄狮",
     "jp_name": "紋章獣レオ",
     "en_name": "Heraldic Beast Leo"
   },
@@ -35984,6 +36002,7 @@
   "84220251": {
     "type": "Spell",
     "cn_name": "苏生纹章",
+    "sc_name": "苏生徽章",
     "jp_name": "蘇生紋章",
     "en_name": "Heraldry Reborn"
   },
@@ -39452,18 +39471,21 @@
   "87255382": {
     "type": "Monster",
     "cn_name": "纹章兽 双头蛇",
+    "sc_name": "纹章兽 双头蛇",
     "jp_name": "紋章獣アンフィスバエナ",
     "en_name": "Heraldic Beast Amphisbaena"
   },
   "23649496": {
     "type": "Monster",
     "cn_name": "No.18 纹章祖 素徽",
+    "sc_name": "编号18 纹章祖 素徽",
     "jp_name": "No.18 紋章祖プレイン・コート",
     "en_name": "Number 18: Heraldry Patriarch"
   },
   "59048135": {
     "type": "Spell",
     "cn_name": "升华的纹章",
+    "sc_name": "升华的徽章",
     "jp_name": "昇華する紋章",
     "en_name": "Augmented Heraldry"
   },
@@ -53452,24 +53474,28 @@
   "45078193": {
     "type": "Monster",
     "cn_name": "电子暗黑火炮",
+    "sc_name": "电子暗黑炮",
     "jp_name": "サイバー・ダーク・カノン",
     "en_name": "Cyberdark Cannon"
   },
   "82562802": {
     "type": "Monster",
     "cn_name": "电子暗黑恶爪",
+    "sc_name": "电子暗黑爪",
     "jp_name": "サイバー・ダーク・クロー",
     "en_name": "Cyberdark Claw"
   },
   "18967507": {
     "type": "Monster",
     "cn_name": "铠狱龙-电子暗冥龙",
+    "sc_name": "铠狱龙－电子暗黑冥龙",
     "jp_name": "鎧獄竜－サイバー・ダークネス・ドラゴン",
     "en_name": "Cyberdarkness Dragon"
   },
   "44352516": {
     "type": "Spell",
     "cn_name": "电子暗黑业火",
+    "sc_name": "电子黑暗狱火",
     "jp_name": "サイバーダーク・インフェルノ",
     "en_name": "Cyberdark Inferno"
   },
@@ -64306,6 +64332,7 @@
   "84482694": {
     "type": "Spell",
     "cn_name": "显现的纹章",
+    "sc_name": "显现的徽章",
     "jp_name": "顕現する紋章",
     "en_name": "Charged-Up Heraldry"
   },
@@ -64854,6 +64881,7 @@
   "37818794": {
     "type": "Monster",
     "cn_name": "超魔导龙骑士-真红眼龙骑士",
+    "sc_name": "超魔导龙骑士－真红眼龙骑兵",
     "jp_name": "超魔導竜騎士－ドラグーン・オブ・レッドアイズ",
     "en_name": "Red-Eyes Dark Dragoon"
   },
@@ -70968,42 +70996,49 @@
   "79875526": {
     "type": "Monster",
     "cn_name": "附属电子翼",
+    "sc_name": "附属电子翼",
     "jp_name": "アタッチメント・サイバーン",
     "en_name": "Attachment Cybern"
   },
   "5370235": {
     "type": "Monster",
     "cn_name": "电子暗黑嵌合体",
+    "sc_name": "电子暗黑客迈拉",
     "jp_name": "サイバー・ダーク・キメラ",
     "en_name": "Cyberdark Chimera"
   },
   "32768230": {
     "type": "Spell",
     "cn_name": "永恒电子",
+    "sc_name": "永恒电子",
     "jp_name": "エターナル・サイバー",
     "en_name": "Cyber Eternal"
   },
   "64753988": {
     "type": "Spell",
     "cn_name": "电子暗黑世界",
+    "sc_name": "电子黑暗世界",
     "jp_name": "サイバーダーク・ワールド",
     "en_name": "Cyberdark Realm"
   },
   "1157683": {
     "type": "Trap",
     "cn_name": "电子暗黑侵略",
+    "sc_name": "电子黑暗入侵",
     "jp_name": "サイバーダーク・インヴェイジョン",
     "en_name": "Cyberdark Invasion"
   },
   "37542782": {
     "type": "Monster",
     "cn_name": "铠皇龙-电子暗黑终结龙",
+    "sc_name": "铠皇龙－电子暗黑终极龙",
     "jp_name": "鎧皇竜－サイバー・ダーク・エンド・ドラゴン",
     "en_name": "Cyberdark End Dragon"
   },
   "63031396": {
     "type": "Spell",
     "cn_name": "电子地平线",
+    "sc_name": "人工脑地平线",
     "jp_name": "サイバネティック・ホライゾン",
     "en_name": "Cybernetic Horizon"
   },
@@ -74149,6 +74184,7 @@
   "78217065": {
     "type": "Spell",
     "cn_name": "进化结末光焰",
+    "sc_name": "进化终末冲击波",
     "jp_name": "エヴォリューション・レザルト・バースト",
     "en_name": "Evolution End Burst"
   },
@@ -80239,6 +80275,7 @@
   "33099732": {
     "type": "Spell",
     "cn_name": "超未来融合",
+    "sc_name": "超未来融合－超永望结合",
     "jp_name": "超未来融合－オーバーフューチャー・フュージョン"
   },
   "3121655": {
@@ -81186,6 +81223,7 @@
   "47132793": {
     "type": "Monster",
     "cn_name": "征霸龙-烈龙",
+    "sc_name": "征霸龙－烈焰",
     "jp_name": "征覇竜－ブレイズ",
     "en_name": "Blaze, Supreme Ruler of all Dragons"
   },
@@ -85051,6 +85089,7 @@
   "34149150": {
     "type": "Monster",
     "cn_name": "葬角之食肉公牛龙",
+    "sc_name": "葬角之食肉牛龙",
     "jp_name": "葬角のカルノヴルス"
   },
   "21960890": {
@@ -85226,406 +85265,487 @@
   "3723262": {
     "type": "Monster",
     "cn_name": "男巫@火灵天星",
+    "sc_name": "男巫＠伊格尼斯者",
     "jp_name": "ウィザード＠イグニスター"
   },
   "30118811": {
     "type": "Monster",
     "cn_name": "备份员@火灵天星",
+    "sc_name": "备援＠伊格尼斯者",
     "jp_name": "バックアップ＠イグニスター"
   },
   "66102515": {
     "type": "Monster",
     "cn_name": "连接栗栗@火灵天星",
+    "sc_name": "库里库连接＠伊格尼斯者",
     "jp_name": "クリクリンク＠イグニスター"
   },
   "2501624": {
     "type": "Monster",
     "cn_name": "魔术师的徒弟-黑魔术少女",
+    "sc_name": "魔术师的弟子－黑魔导女孩",
     "jp_name": "魔術師の弟子－ブラック・マジシャン・ガール"
   },
   "35095329": {
     "type": "Monster",
     "cn_name": "邪心英雄 堕恶爪魔",
+    "sc_name": "邪恶－英雄 恶意之爪",
     "jp_name": "E-HERO ヴィシャス・クローズ"
   },
   "61480937": {
     "type": "Monster",
     "cn_name": "妖精兽 雷古勒斯",
+    "sc_name": "妖精兽 雷格鲁斯",
     "jp_name": "妖精獣レグルス"
   },
   "98888032": {
     "type": "Monster",
     "cn_name": "妖精胞 孢子",
+    "sc_name": "妖精胞 孢子",
     "jp_name": "妖精胞スポーア"
   },
   "34873741": {
     "type": "Monster",
     "cn_name": "妖精灵 缎带栗子",
+    "sc_name": "妖精灵 库里缎带",
     "jp_name": "妖精霊クリボン"
   },
   "60268386": {
     "type": "Monster",
     "cn_name": "纹章兽 狮鹫",
+    "sc_name": "纹章兽 狮鹫",
     "jp_name": "紋章獣グリフォン"
   },
   "97662494": {
     "type": "Monster",
     "cn_name": "纹章兽 斯塔德鲸",
+    "sc_name": "纹章兽 斯塔德鲸",
     "jp_name": "紋章獣スタット・ホエール"
   },
   "23151193": {
     "type": "Monster",
     "cn_name": "断罪之迪亚贝尔斯塔尔",
+    "sc_name": "断罪之迪亚贝尔斯塔",
     "jp_name": "断罪のディアベルスター"
   },
   "60145298": {
     "type": "Monster",
     "cn_name": "白魔女 迪亚贝尔泽",
+    "sc_name": "白魔女 迪亚贝尔赛",
     "jp_name": "白魔女ディアベルゼ"
   },
   "96540807": {
     "type": "Monster",
     "cn_name": "再世之战神 伯列史特",
+    "sc_name": "再世原初战神 贝凌席特",
     "jp_name": "再世の戦神 ベレシート"
   },
   "22938501": {
     "type": "Monster",
     "cn_name": "再世之导神 史莫特",
+    "sc_name": "再世名讳导神 摄墨斯",
     "jp_name": "再世の導神 シェモース"
   },
   "59323650": {
     "type": "Monster",
     "cn_name": "再世之龙神 韦依格拉",
+    "sc_name": "再世呼召龙神 瓦库拉",
     "jp_name": "再世の龍神 ワイクラー"
   },
   "95718355": {
     "type": "Monster",
     "cn_name": "再世之魔神 必密巴",
+    "sc_name": "再世荒恶魔神 贝米德巴尔",
     "jp_name": "再世の魔神 ベミドバル"
   },
   "22812963": {
     "type": "Monster",
     "cn_name": "创世之神 狄特罗诺米安",
+    "sc_name": "创言再世神 德乌特洛诺米翁",
     "jp_name": "創世の神 デウテロノミオン"
   },
   "58201062": {
     "type": "Monster",
     "cn_name": "光征龙-彩龙",
+    "sc_name": "光征龙－光谱",
     "jp_name": "光征竜－スペクトル"
   },
   "94655777": {
     "type": "Monster",
     "cn_name": "暗征龙-朦龙",
+    "sc_name": "暗征龙－朦胧",
     "jp_name": "闇征竜－ネビュラス"
   },
   "21050476": {
     "type": "Monster",
     "cn_name": "阿尔戈☆群星-热斗之帕耳忒",
+    "sc_name": "阿尔戈☆群星－热斗之帕耳忒",
     "jp_name": "ARG☆S－熱闘のパルテ"
   },
   "57448410": {
     "type": "Monster",
     "cn_name": "第一原质炉",
+    "sc_name": "第一原物质",
     "jp_name": "プリマ・マテリアクトル"
   },
   "84433129": {
     "type": "Monster",
     "cn_name": "星式热气雷火沸动机",
+    "sc_name": "星气・雷热涡炉",
     "jp_name": "スター・ライゼオル"
   },
   "20938824": {
     "type": "Monster",
     "cn_name": "码丽丝<兵卒>三月兔",
+    "sc_name": "码丽丝＜兵＞三月兔",
     "jp_name": "M∀LICE＜P＞March Hare"
   },
   "56322832": {
     "type": "Monster",
     "cn_name": "转惺龙华-暗巴",
+    "sc_name": "转惺龙华－暗轮巴王",
     "jp_name": "転惺竜華－闇巴"
   },
   "83711531": {
     "type": "Monster",
     "cn_name": "真红眼钢爪龙",
+    "sc_name": "真红眼钢爪龙",
     "jp_name": "真紅眼の鋼爪竜"
   },
   "19715246": {
     "type": "Monster",
     "cn_name": "电子世界蛇",
+    "sc_name": "电子世界蛇",
     "jp_name": "サイバー・ヨルムンガンド"
   },
   "56100345": {
     "type": "Monster",
     "cn_name": "电子暗黑亚龙",
+    "sc_name": "电子暗黑亚龙",
     "jp_name": "サイバー・ダーク・ヴルム"
   },
   "82699999": {
     "type": "Monster",
     "cn_name": "直播☆双子 璃拉·甜蜜",
+    "sc_name": "直播☆双子 璃拉甜心",
     "jp_name": "Live☆Twin リィラ・スウィート"
   },
   "19093698": {
     "type": "Monster",
     "cn_name": "翌夜之白骨骑士",
+    "sc_name": "莫桑壹白骨",
     "jp_name": "ワンモア・ザ・ワイト"
   },
   "45488703": {
     "type": "Monster",
     "cn_name": "NT8000-天狼星",
+    "sc_name": "NT8000－天狼星",
     "jp_name": "NT８０００－SIRIUS"
   },
   "81476402": {
     "type": "Monster",
     "cn_name": "邪恶龙 邪恶骑士龙",
+    "sc_name": "恶夜龙 邪恶骑士龙",
     "jp_name": "邪悪龍エビルナイト・ドラゴン"
   },
   "18861006": {
     "type": "Monster",
     "cn_name": "红天马 火翼飞马",
+    "sc_name": "红飞马 焰翼天马",
     "jp_name": "紅天馬ファイヤー・ウイング・ペガサス"
   },
   "44265115": {
     "type": "Monster",
     "cn_name": "洗脑者",
+    "sc_name": "大脑控制者",
     "jp_name": "ブレインコントローラー"
   },
   "71750854": {
     "type": "Monster",
     "cn_name": "炸弹数独家",
+    "sc_name": "炸弹数独",
     "jp_name": "ボンバー・プレイス"
   },
   "17749468": {
     "type": "Monster",
     "cn_name": "赎罪神女",
+    "sc_name": "圣徒人祖－赎罪神女",
     "jp_name": "贖罪神女"
   },
   "43143567": {
     "type": "Monster",
     "cn_name": "黄金乡的堕落天使",
+    "sc_name": "黄金乡堕天像",
     "jp_name": "黄金郷のアンヘルカイド"
   },
   "70538272": {
     "type": "Monster",
     "cn_name": "妖龙之禁姬",
+    "sc_name": "妖龙之禁姬",
     "jp_name": "妖竜の禁姫"
   },
   "16926971": {
     "type": "Monster",
     "cn_name": "防火剑刃龙",
+    "sc_name": "防火墙军刀龙",
     "jp_name": "ファイアウォール・S・ドラゴン"
   },
   "43321985": {
     "type": "Monster",
     "cn_name": "古代妖精生命龙",
+    "sc_name": "上古精灵生命龙",
     "jp_name": "エンシェント・フェアリー・ライフ・ドラゴン"
   },
   "79415624": {
     "type": "Monster",
     "cn_name": "蛇眼断罪龙",
+    "sc_name": "蛇眼断罪龙",
     "jp_name": "蛇眼の断罪龍"
   },
   "5800323": {
     "type": "Monster",
     "cn_name": "白森林的幻妖",
+    "sc_name": "白森的幻妖",
     "jp_name": "白き森の幻妖"
   },
   "42209438": {
     "type": "Monster",
     "cn_name": "真魔六武众-辉斩",
+    "sc_name": "真魔六武众－鬼斩",
     "jp_name": "真魔六武衆－キザン"
   },
   "78693036": {
     "type": "Monster",
     "cn_name": "咒雷神 折罗",
+    "sc_name": "咒雷神 宙拉",
     "jp_name": "呪雷神ジュラ"
   },
   "5088741": {
     "type": "Monster",
     "cn_name": "代码点火员",
+    "sc_name": "码引燃者",
     "jp_name": "コード・イグナイター"
   },
   "31086840": {
     "type": "Monster",
     "cn_name": "No.69 纹章神 盾徽-神之粉碎",
+    "sc_name": "编号69 徽章神 盾徽－神之遮断",
     "jp_name": "No.69 紋章神コート・オブ・アームズ－ゴッド・シャーター"
   },
   "77571454": {
     "type": "Monster",
     "cn_name": "No.69 纹章神 盾徽-神之愤怒",
+    "sc_name": "编号69 徽章神 盾徽－神之狂怒",
     "jp_name": "No.69 紋章神コート・オブ・アームズ－ゴッド・レイジ"
   },
   "4965193": {
     "type": "Monster",
     "cn_name": "极征龙-烛龙",
+    "sc_name": "极征龙－天裂",
     "jp_name": "極征竜－シャスマティス"
   },
   "30350202": {
     "type": "Monster",
     "cn_name": "凶征龙-食龙",
+    "sc_name": "凶征龙－日蚀",
     "jp_name": "凶征竜－エクレプシス"
   },
   "67359907": {
     "type": "Monster",
     "cn_name": "超征龙-灾龙",
+    "sc_name": "超征龙－灾异",
     "jp_name": "超征竜－ディザスター"
   },
   "3743515": {
     "type": "Monster",
     "cn_name": "怒发天冲 剑角龙",
+    "sc_name": "怒发冲天 军刀角龙",
     "jp_name": "怒髪天衝セイバーザウルス"
   },
   "39138610": {
     "type": "Monster",
     "cn_name": "协心代码语者@火灵天星",
+    "sc_name": "合协码语者＠伊格尼斯者",
     "jp_name": "アコード・トーカー＠イグニスター"
   },
   "6636319": {
     "type": "Monster",
     "cn_name": "邪恶★双子 姬丝基勒·交易",
+    "sc_name": "邪恶★双子 姬丝吉尔・成交",
     "jp_name": "Evil★Twin キスキル・ディール"
   },
   "42021064": {
     "type": "Monster",
     "cn_name": "机动石器 塔庙土偶",
+    "sc_name": "机动石器 土偶罗多",
     "jp_name": "機動石器ドグラード"
   },
   "79015062": {
     "type": "Spell",
     "cn_name": "相连相系-协“艾”-",
+    "sc_name": "-艾-互联互接",
     "jp_name": "繋がり－Ai－"
   },
   "5414777": {
     "type": "Spell",
     "cn_name": "精灵的世界",
+    "sc_name": "精灵的世界",
     "jp_name": "精霊の世界"
   },
   "31809476": {
     "type": "Spell",
     "cn_name": "纹章的明灭",
+    "sc_name": "徽章的明灭",
     "jp_name": "紋章の明滅"
   },
   "78293584": {
     "type": "Spell",
     "cn_name": "恶魔迪亚贝尔的友爱",
+    "sc_name": "狂怒・迪亚贝尔",
     "jp_name": "フィリアス・ディアベル"
   },
   "4398189": {
     "type": "Spell",
     "cn_name": "白森林的魔女",
+    "sc_name": "白森的魔女",
     "jp_name": "白き森の魔女"
   },
   "31786838": {
     "type": "Spell",
     "cn_name": "再世记",
+    "sc_name": "再世记",
     "jp_name": "再世記"
   },
   "67171933": {
     "type": "Spell",
     "cn_name": "再世神",
+    "sc_name": "再世神",
     "jp_name": "再世神"
   },
   "4575541": {
     "type": "Spell",
     "cn_name": "超龙灾祸",
+    "sc_name": "超龙灾祸",
     "jp_name": "超竜災禍"
   },
   "30964246": {
     "type": "Spell",
     "cn_name": "阿尔戈☆群星-巨人击杀",
+    "sc_name": "阿尔戈☆群星－巨人讨灭",
     "jp_name": "ARG☆S－GiantKilling"
   },
   "66059345": {
     "type": "Spell",
     "cn_name": "原质炉心贯通",
+    "sc_name": "原物质之炉芯贯穿",
     "jp_name": "原質の炉心貫通"
   },
   "93453053": {
     "type": "Spell",
     "cn_name": "码丽丝镜中奇像",
+    "sc_name": "码丽丝镜中奇缘",
     "jp_name": "M∀LICE IN THE MIRROR"
   },
   "39848658": {
     "type": "Spell",
     "cn_name": "白骨之主",
+    "sc_name": "白骨主宰者",
     "jp_name": "ワイト・マスター"
   },
   "66236707": {
     "type": "Spell",
     "cn_name": "械刀婪魔皇断",
+    "sc_name": "械刀婪魔皇断",
     "jp_name": "械刀婪魔皇断"
   },
   "92221402": {
     "type": "Spell",
     "cn_name": "混沌态元素",
+    "sc_name": "混沌元素",
     "jp_name": "カオティック・エレメンツ"
   },
   "38625110": {
     "type": "Spell",
     "cn_name": "清晨一片雪白色 两人一同雪中行",
+    "sc_name": "晨曦映雪白皎皎 笑语成霜共行脚",
     "jp_name": "夙めてはしろ 二人ではしろ"
   },
   "65114115": {
     "type": "Spell",
     "cn_name": "七星天流拔刀术-「破军」",
+    "sc_name": "七星天流拔刀术－“破军”",
     "jp_name": "七星天流抜刀術－「破軍」"
   },
   "91509824": {
     "type": "Trap",
     "cn_name": "“艾”宝-搭档",
+    "sc_name": "-艾-并肩伙伴",
     "jp_name": "Ai－ボウ"
   },
   "28903523": {
     "type": "Trap",
     "cn_name": "永久圣阳光",
+    "sc_name": "永恒阳光",
     "jp_name": "エターナル・サンシャイン"
   },
   "64998567": {
     "type": "Trap",
     "cn_name": "恶魔迪亚贝尔的诅咒",
+    "sc_name": "迪亚贝尔的诅咒",
     "jp_name": "カース・オブ・ディアベル"
   },
   "90386276": {
     "type": "Trap",
     "cn_name": "无罪的罪宝",
+    "sc_name": "无罪的罪宝",
     "jp_name": "罪なき罪宝"
   },
   "27781371": {
     "type": "Trap",
     "cn_name": "天地再世",
+    "sc_name": "天地再世",
     "jp_name": "天地再世"
   },
   "53276089": {
     "type": "Trap",
     "cn_name": "雷火沸动质量驱动器",
+    "sc_name": "雷热涡炉・质量投击炮",
     "jp_name": "ライゼオル・マスドライバー"
   },
   "90664684": {
     "type": "Trap",
     "cn_name": "龙华袭焉",
+    "sc_name": "龙华袭焉",
     "jp_name": "竜華襲焉"
   },
   "22669793": {
     "type": "Trap",
     "cn_name": "贵华黄金乡之黄金国永生药",
+    "sc_name": "高贵黄金乡的埃尔德里希尔",
     "jp_name": "貴き黄金郷のエルドリクシル"
   },
   "58053438": {
     "type": "Trap",
     "cn_name": "列王诗篇",
+    "sc_name": "列王诗篇",
     "jp_name": "列王詩篇"
   },
   "85442146": {
     "type": "Trap",
     "cn_name": "龙之精神",
+    "sc_name": "龙之意志",
     "jp_name": "竜の精神"
   },
   "21846145": {
     "type": "Trap",
     "cn_name": "绑架事件",
+    "sc_name": "绑架",
     "jp_name": "アブダクション"
   },
   "58931850": {
     "type": "Monster",
     "cn_name": "超究极魔导龙王",
+    "sc_name": "超究极魔导龙王",
     "jp_name": "超究極魔導竜王"
   },
   "20714553": {
