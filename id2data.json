@@ -6172,6 +6172,11 @@
     "jp_name": "スフィラスレディ",
     "en_name": "Spherous Lady"
   },
+  "100200266": {
+    "type": "Monster",
+    "cn_name": "冻结心灵的雪晶怪",
+    "jp_name": "心を凍らせるスノークリスタル"
+  },
   "87303357": {
     "type": "Monster",
     "cn_name": "光辉深渊",
@@ -84230,7 +84235,8 @@
     "type": "Monster",
     "cn_name": "新帝王海马",
     "sc_name": "真帝王海马",
-    "jp_name": "ネオ・カイザー・シーホース"
+    "jp_name": "ネオ・カイザー・シーホース",
+    "en_name": "Neo Kaiser Sea Horse"
   },
   "80326401": {
     "type": "Spell",
@@ -84243,13 +84249,15 @@
     "type": "Spell",
     "cn_name": "青眼龙轰临",
     "sc_name": "青眼龙轰临",
-    "jp_name": "青眼龍轟臨"
+    "jp_name": "青眼龍轟臨",
+    "en_name": "Roar of the Blue-Eyed Dragons"
   },
   "43219114": {
     "type": "Trap",
     "cn_name": "白龙的威光",
     "sc_name": "白之龙的威光",
-    "jp_name": "白き龍の威光"
+    "jp_name": "白き龍の威光",
+    "en_name": "Majesty of the White Dragons"
   },
   "89604813": {
     "type": "Monster",
@@ -84262,13 +84270,15 @@
     "type": "Monster",
     "cn_name": "蓝眼银龙",
     "sc_name": "蓝眼银龙",
-    "jp_name": "藍眼の銀龍"
+    "jp_name": "藍眼の銀龍",
+    "en_name": "Indigo-Eyes Silver Dragon"
   },
   "42097666": {
     "type": "Monster",
     "cn_name": "青色眼睛的精灵",
     "sc_name": "青之眼精灵",
-    "jp_name": "青き眼の精霊"
+    "jp_name": "青き眼の精霊",
+    "en_name": "Spirit with Eyes of Blue"
   },
   "63028558": {
     "type": "Monster",
