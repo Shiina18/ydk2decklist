@@ -370,6 +370,7 @@
   "40640057": {
     "type": "Monster",
     "cn_name": "栗子球",
+    "sc_name": "库里波",
     "jp_name": "クリボー",
     "en_name": "Kuriboh"
   },
@@ -12713,6 +12714,7 @@
   "57116033": {
     "type": "Monster",
     "cn_name": "羽翼栗子球",
+    "sc_name": "羽翼库里波",
     "jp_name": "ハネクリボー",
     "en_name": "Winged Kuriboh"
   },
@@ -47494,6 +47496,7 @@
   "10000090": {
     "type": "Monster",
     "cn_name": "太阳神之翼神龙-不死鸟",
+    "sc_name": "拉之翼神龙－不死鸟",
     "jp_name": "ラーの翼神竜－不死鳥",
     "en_name": "The Winged Dragon of Ra - Immortal Phoenix"
   },
@@ -51929,6 +51932,7 @@
   "21377582": {
     "type": "Monster",
     "cn_name": "真龙剑皇 卓辉星·拼图",
+    "sc_name": "真龙剑皇 至尊行者 完灵",
     "jp_name": "真竜剣皇マスターP",
     "en_name": "Master Peace, the True Dracoslaying King"
   },
@@ -83012,127 +83016,148 @@
     "type": "Monster",
     "cn_name": "银河眼时源龙",
     "sc_name": "银河眼时空源龙",
-    "jp_name": "銀河眼の時源竜"
+    "jp_name": "銀河眼の時源竜",
+    "en_name": "Galaxy-Eyes Tachyon Primal"
   },
   "72705654": {
     "type": "Monster",
     "cn_name": "时空云笼",
     "sc_name": "时空云笼",
-    "jp_name": "時空の雲篭"
+    "jp_name": "時空の雲篭",
+    "en_name": "Tachyon Cloudragon"
   },
   "18294799": {
     "type": "Monster",
     "cn_name": "无限龙 施瓦西龙",
     "sc_name": "无限龙 史瓦西",
-    "jp_name": "無限竜シュヴァルツシルト"
+    "jp_name": "無限竜シュヴァルツシルト",
+    "en_name": "Schwarzschild Infinity Dragon"
   },
   "44698398": {
     "type": "Monster",
     "cn_name": "神影金龙 光速子龙",
     "sc_name": "神影金龙 胶子光龙",
-    "jp_name": "神影金龍ドラッグルクシオン"
+    "jp_name": "神影金龍ドラッグルクシオン",
+    "en_name": "Divine Golden Shadow Dragon Dragluxion"
   },
   "71083002": {
     "type": "Spell",
     "cn_name": "歼灭之时空螺旋",
     "sc_name": "歼灭的快子时空螺旋",
-    "jp_name": "殲滅のタキオン・スパイラル"
+    "jp_name": "殲滅のタキオン・スパイラル",
+    "en_name": "Tachyon Spiral of Destruction"
   },
   "7477101": {
     "type": "Spell",
     "cn_name": "时空之七皇",
     "sc_name": "时空之七皇",
-    "jp_name": "時空の七皇"
+    "jp_name": "時空の七皇",
+    "en_name": "Seventh Tachyon"
   },
   "44466810": {
     "type": "Trap",
     "cn_name": "时空银河支配者",
     "sc_name": "快子时空银河霸主",
-    "jp_name": "ロード・オブ・ザ・タキオンギャラクシー"
+    "jp_name": "ロード・オブ・ザ・タキオンギャラクシー",
+    "en_name": "Lord of the Tachyon Galaxy"
   },
   "70860415": {
     "type": "Monster",
     "cn_name": "X-交错加农",
     "sc_name": "X－交叉加农",
-    "jp_name": "X－クロス・キャノン"
+    "jp_name": "X－クロス・キャノン",
+    "en_name": "X-Cross Cannon"
   },
   "6355563": {
     "type": "Monster",
     "cn_name": "Y-机敏龙头",
     "sc_name": "Y－敏捷龙首",
-    "jp_name": "Y－ドラゴン・イアヘッド"
+    "jp_name": "Y－ドラゴン・イアヘッド",
+    "en_name": "Y-Yare Head"
   },
   "33744268": {
     "type": "Monster",
     "cn_name": "Z-无穷履带",
     "sc_name": "Z－无尽履带",
-    "jp_name": "Z－ジリオン・キャタピラー"
+    "jp_name": "Z－ジリオン・キャタピラー",
+    "en_name": "Z-Zillion Tank"
   },
   "75748977": {
     "type": "Monster",
     "cn_name": "XYZ-极超神龙炮",
     "sc_name": "XYZ－高能龙型加农炮",
-    "jp_name": "XYZ－ハイパー・ドラゴン・キャノン"
+    "jp_name": "XYZ－ハイパー・ドラゴン・キャノン",
+    "en_name": "XYZ-Hyper Dragon Cannon"
   },
   "2133971": {
     "type": "Monster",
     "cn_name": "同盟操纵器",
     "sc_name": "联合控制器",
-    "jp_name": "ユニオン・コントローラー"
+    "jp_name": "ユニオン・コントローラー",
+    "en_name": "Union Controller"
   },
   "38527680": {
     "type": "Spell",
     "cn_name": "同盟激活",
     "sc_name": "联合激活",
-    "jp_name": "ユニオン・アクティベーション"
+    "jp_name": "ユニオン・アクティベーション",
+    "en_name": "Union Activation"
   },
   "75926389": {
     "type": "Trap",
     "cn_name": "AtoZ能量载入",
     "sc_name": "AtoZ 能量加载",
-    "jp_name": "AtoZエナジーロード"
+    "jp_name": "AtoZエナジーロード",
+    "en_name": "A-to-Z Energy Load"
   },
   "1410324": {
     "type": "Monster",
     "cn_name": "淘气仙星·胡蒂",
     "sc_name": "淘气仙星・芙蒂",
-    "jp_name": "トリックスター・フーディ"
+    "jp_name": "トリックスター・フーディ",
+    "en_name": "Trickstar Hoody"
   },
   "37405032": {
     "type": "Monster",
     "cn_name": "淘气仙星·阿库阿安琪儿",
     "sc_name": "淘气仙星・水葵天使",
-    "jp_name": "トリックスター・アクアエンジェル"
+    "jp_name": "トリックスター・アクアエンジェル",
+    "en_name": "Trickstar Aqua Angel"
   },
   "64804137": {
     "type": "Monster",
     "cn_name": "淘气仙星乐队·德拉玛蒂丝",
     "sc_name": "淘气仙星乐队・铁线莲鼓手",
-    "jp_name": "トリックスターバンド・ドラマチス"
+    "jp_name": "トリックスターバンド・ドラマチス",
+    "en_name": "Trickstar Band Drumatis"
   },
   "298846": {
     "type": "Monster",
     "cn_name": "淘气仙星·科尔奇卡",
     "sc_name": "淘气仙星・秋仙",
-    "jp_name": "トリックスター・コルチカ"
+    "jp_name": "トリックスター・コルチカ",
+    "en_name": "Trickstar Colchica"
   },
   "37683441": {
     "type": "Monster",
     "cn_name": "淘气仙星·诺布露安琪儿",
     "sc_name": "淘气仙星・高贵蓝天使",
-    "jp_name": "トリックスター・ノーブルエンジェル"
+    "jp_name": "トリックスター・ノーブルエンジェル",
+    "en_name": "Trickstar Noble Angel"
   },
   "63181559": {
     "type": "Trap",
     "cn_name": "淘气仙星扩散融合",
     "sc_name": "淘气仙星・扩散结合",
-    "jp_name": "トリックスター・ディフュージョン"
+    "jp_name": "トリックスター・ディフュージョン",
+    "en_name": "Trickstar Diffusion"
   },
   "99176254": {
     "type": "Trap",
     "cn_name": "蓝泪的处女",
     "sc_name": "青泪的少女",
-    "jp_name": "青い涙の乙女"
+    "jp_name": "青い涙の乙女",
+    "en_name": "Maiden of Blue Tears"
   },
   "46789706": {
     "type": "Monster",
@@ -83144,164 +83169,193 @@
     "type": "Spell",
     "cn_name": "叹息之石版",
     "sc_name": "叹息石版",
-    "jp_name": "嘆きの石版"
+    "jp_name": "嘆きの石版",
+    "en_name": "Grief Tablet"
   },
   "45445571": {
     "type": "Monster",
     "cn_name": "死灵公爵",
     "sc_name": "死灵公爵",
-    "jp_name": "死霊公爵"
+    "jp_name": "死霊公爵",
+    "en_name": "The Duke of Demise"
   },
   "71939275": {
     "type": "Spell",
     "cn_name": "死灵的残像",
     "sc_name": "死灵之残像",
-    "jp_name": "死霊の残像"
+    "jp_name": "死霊の残像",
+    "en_name": "Spirit Illusion"
   },
   "8324284": {
     "type": "Trap",
     "cn_name": "死灵之盾",
     "sc_name": "死灵之盾",
-    "jp_name": "死霊の盾"
+    "jp_name": "死霊の盾",
+    "en_name": "Spirit Shield"
   },
   "44728989": {
     "type": "Spell",
     "cn_name": "再生之海",
-    "jp_name": "再生の海"
+    "jp_name": "再生の海",
+    "en_name": "Ocean of Regeneration"
   },
   "70717628": {
     "type": "Monster",
     "cn_name": "清透幻影",
-    "jp_name": "クリアー・ファントム"
+    "jp_name": "クリアー・ファントム",
+    "en_name": "Clear Phantom"
   },
   "7102732": {
     "type": "Monster",
     "cn_name": "清透狂怒石人",
-    "jp_name": "クリアー・レイジ・ゴーレム"
+    "jp_name": "クリアー・レイジ・ゴーレム",
+    "en_name": "Clear Rage Golem"
   },
   "33506331": {
     "type": "Monster",
     "cn_name": "清透立方体",
-    "jp_name": "クリアー・キューブ"
+    "jp_name": "クリアー・キューブ",
+    "en_name": "Clear Cube"
   },
   "70095046": {
     "type": "Monster",
     "cn_name": "清透堕恶骑士",
-    "jp_name": "クリアー・ヴィシャス・ナイト"
+    "jp_name": "クリアー・ヴィシャス・ナイト",
+    "en_name": "Clear Vicious Knight"
   },
   "6089145": {
     "type": "Spell",
     "cn_name": "清透壁",
-    "jp_name": "クリアー・ウォール"
+    "jp_name": "クリアー・ウォール",
+    "en_name": "Clear Wall"
   },
   "32484853": {
     "type": "Monster",
     "cn_name": "特异点恶魔",
-    "jp_name": "特異点の悪魔"
+    "jp_name": "特異点の悪魔",
+    "en_name": "Singularity Fiend"
   },
   "69873498": {
     "type": "Trap",
     "cn_name": "破除封印",
-    "jp_name": "ブレイク・ザ・シール"
+    "jp_name": "ブレイク・ザ・シール",
+    "en_name": "Break the Seal"
   },
   "5267507": {
     "type": "Monster",
     "cn_name": "地缚神 真红莲新星",
     "sc_name": "地缚神 绯暗红新星",
-    "jp_name": "地縛神 スカーレッド・ノヴァ"
+    "jp_name": "地縛神 スカーレッド・ノヴァ",
+    "en_name": "Earthbound Immortal Red Nova"
   },
   "32762201": {
     "type": "Monster",
     "cn_name": "古代的机械像",
     "sc_name": "古代机械齿轮像",
-    "jp_name": "古代の機械像"
+    "jp_name": "古代の機械像",
+    "en_name": "Ancient Gear Statue"
   },
   "68756810": {
     "type": "Monster",
     "cn_name": "切入鲨",
-    "jp_name": "カット・イン・シャーク"
+    "jp_name": "カット・イン・シャーク",
+    "en_name": "Cutter Shark"
   },
   "4145915": {
     "type": "Monster",
     "cn_name": "机关傀儡-杀人骑士",
     "sc_name": "机关傀偶－杀手骑士",
-    "jp_name": "ギミック・パペット－キラーナイト"
+    "jp_name": "ギミック・パペット－キラーナイト",
+    "en_name": "Gimmick Puppet Fiendish Knight"
   },
   "31539614": {
     "type": "Monster",
     "cn_name": "苗丁格尔",
-    "jp_name": "ワクチンゲール"
+    "jp_name": "ワクチンゲール",
+    "en_name": "Antidote Nurse"
   },
   "7934362": {
     "type": "Monster",
     "cn_name": "娱乐法师 火舞者",
     "sc_name": "娱乐巫师・火舞者",
-    "jp_name": "Emファイヤー・ダンサー"
+    "jp_name": "Emファイヤー・ダンサー",
+    "en_name": "Performage Fire Dancer"
   },
   "34323367": {
     "type": "Monster",
     "cn_name": "娱乐法师 水舞者",
     "sc_name": "娱乐巫师・水舞者",
-    "jp_name": "Emウォーター・ダンサー"
+    "jp_name": "Emウォーター・ダンサー",
+    "en_name": "Performage Water Dancer"
   },
   "70417076": {
     "type": "Monster",
     "cn_name": "娱乐法师 吸风人",
     "sc_name": "娱乐巫师・吸风者",
-    "jp_name": "Emウィンド・サッカー"
+    "jp_name": "Emウィンド・サッカー",
+    "en_name": "Performage Wind Drainer"
   },
   "6812770": {
     "type": "Monster",
     "cn_name": "娱乐法师 杯子戏法师",
     "sc_name": "娱乐巫师・杯子戏法师",
-    "jp_name": "Emカップ・トリッカー"
+    "jp_name": "Emカップ・トリッカー",
+    "en_name": "Performage Cup Tricker"
   },
   "33206889": {
     "type": "Monster",
     "cn_name": "娱乐法师 秋千魄力魔女",
     "sc_name": "娱乐巫师 高空秋千力量魔女",
-    "jp_name": "Emトラピーズ・フォース・ウィッチ"
+    "jp_name": "Emトラピーズ・フォース・ウィッチ",
+    "en_name": "Performage Trapeze Witch"
   },
   "69655484": {
     "type": "Monster",
     "cn_name": "娱乐法师 影绘师",
     "sc_name": "娱乐巫师 影绘师创影者",
-    "jp_name": "Em影絵師シャドー・メイカー"
+    "jp_name": "Em影絵師シャドー・メイカー",
+    "en_name": "Performage Shadow Maker"
   },
   "6659193": {
     "type": "Monster",
     "cn_name": "娱乐法师 秋千大魔术家",
     "sc_name": "娱乐巫师 高空秋千超魔术师",
-    "jp_name": "Emトラピーズ・ハイ・マジシャン"
+    "jp_name": "Emトラピーズ・ハイ・マジシャン",
+    "en_name": "Performage Trapeze High Magician"
   },
   "32044231": {
     "type": "Spell",
     "cn_name": "升阶魔法-魔法之力",
     "sc_name": "升阶魔法－魔术之力",
-    "jp_name": "RUM－マジカル・フォース"
+    "jp_name": "RUM－マジカル・フォース",
+    "en_name": "Rank-Up-Magic Magical Force"
   },
   "69533836": {
     "type": "Spell",
     "cn_name": "刻魂之右",
-    "jp_name": "魂を刻む右"
+    "jp_name": "魂を刻む右",
+    "en_name": "Soul Fist"
   },
   "95937545": {
     "type": "Monster",
     "cn_name": "金色魅惑的女王",
     "sc_name": "金色的魅惑女王",
-    "jp_name": "金色の魅惑の女王"
+    "jp_name": "金色の魅惑の女王",
+    "en_name": "Golden Allure Queen"
   },
   "31322640": {
     "type": "Spell",
     "cn_name": "魅惑的宫殿",
     "sc_name": "魅惑宫殿",
-    "jp_name": "魅惑の宮殿"
+    "jp_name": "魅惑の宮殿",
+    "en_name": "Allure Palace"
   },
   "68316358": {
     "type": "Spell",
     "cn_name": "魅惑之舞",
     "sc_name": "魅惑之舞",
-    "jp_name": "魅惑の舞"
+    "jp_name": "魅惑の舞",
+    "en_name": "Allure Dance"
   },
   "67694706": {
     "type": "Monster",
@@ -85101,6 +85155,56 @@
     "cn_name": "葬角之食肉公牛龙",
     "sc_name": "葬角之食肉牛龙",
     "jp_name": "葬角のカルノヴルス"
+  },
+  "100237001": {
+    "type": "Monster",
+    "cn_name": "刻文之人",
+    "en_name": "The Man with the Mark"
+  },
+  "100237002": {
+    "type": "Monster",
+    "cn_name": "灵蝎 塞勒凯特",
+    "en_name": "Merciless Scorpion of Serket"
+  },
+  "100237003": {
+    "type": "Monster",
+    "cn_name": "终焉判官 阿努比斯",
+    "en_name": "Anubis the Last Judge"
+  },
+  "100237004": {
+    "type": "Monster",
+    "cn_name": "圣蛇之阿匹卜",
+    "en_name": "Divine Serpent Apophis"
+  },
+  "100237005": {
+    "type": "Monster",
+    "cn_name": "圣蝎兽 塞勒凯特",
+    "en_name": "Divine Scorpion Beast of Serket"
+  },
+  "100237006": {
+    "type": "Spell",
+    "cn_name": "王家的神宝",
+    "en_name": "Treasures of the Kings"
+  },
+  "100237007": {
+    "type": "Spell",
+    "cn_name": "神殿的守护",
+    "en_name": "Defense of the Temple"
+  },
+  "100237008": {
+    "type": "Spell",
+    "cn_name": "神之威",
+    "en_name": "Dangers of the Divine"
+  },
+  "100237009": {
+    "type": "Trap",
+    "cn_name": "阿努比斯的判词",
+    "en_name": "Verdict of Anubis"
+  },
+  "100237010": {
+    "type": "Trap",
+    "cn_name": "暗蛇 阿匹卜",
+    "en_name": "Apophis the Serpent"
   },
   "21960890": {
     "type": "Monster",
