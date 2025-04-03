@@ -1103,6 +1103,7 @@
   "40196604": {
     "type": "Monster",
     "cn_name": "暗影",
+    "sc_name": "暗影",
     "jp_name": "ダークシェイド"
   },
   "77581312": {
@@ -4675,6 +4676,7 @@
   "40703222": {
     "type": "Spell",
     "cn_name": "增殖",
+    "sc_name": "增殖",
     "jp_name": "増殖",
     "en_name": "Multiply"
   },
@@ -11072,6 +11074,7 @@
   "24221739": {
     "type": "Monster",
     "cn_name": "神殿守卫者",
+    "sc_name": "神殿守卫者",
     "jp_name": "神殿を守る者",
     "en_name": "Protector of the Sanctuary"
   },
@@ -29139,6 +29142,7 @@
   "29417188": {
     "type": "Monster",
     "cn_name": "念动力防卫者",
+    "sc_name": "念动力阻挡者",
     "jp_name": "サイキック・ブロッカー",
     "en_name": "Psi-Blocker"
   },
@@ -37483,6 +37487,7 @@
   "15028680": {
     "type": "Monster",
     "cn_name": "超念导体 比蒙巨兽",
+    "sc_name": "超念导体 铋希摩斯",
     "jp_name": "超念導体ビヒーマス",
     "en_name": "HTS Psyhemuth"
   },
@@ -39262,6 +39267,7 @@
   "11522979": {
     "type": "Monster",
     "cn_name": "混沌No.69 纹章死神 沌徽",
+    "sc_name": "混沌编号69 徽章死神 混盾徽",
     "jp_name": "CNo.69 紋章死神カオス・オブ・アームズ",
     "en_name": "Number C69: Heraldry Crest of Horror"
   },
@@ -47986,6 +47992,7 @@
   "90122655": {
     "type": "Monster",
     "cn_name": "天魔大帝",
+    "sc_name": "天魔大帝",
     "jp_name": "天魔大帝",
     "en_name": "Tenmataitei"
   },
@@ -50635,6 +50642,7 @@
   "6205579": {
     "type": "Monster",
     "cn_name": "寄生融合虫",
+    "sc_name": "寄生结融者",
     "jp_name": "パラサイト・フュージョナー",
     "en_name": "Fusion Parasite"
   },
@@ -57971,6 +57979,7 @@
   "60292055": {
     "type": "Monster",
     "cn_name": "相位精灵",
+    "sc_name": "相位精灵",
     "jp_name": "エルフェーズ",
     "en_name": "Elphase"
   },
@@ -61506,6 +61515,7 @@
   "30822527": {
     "type": "Monster",
     "cn_name": "解码语者·扩展",
+    "sc_name": "解码语者・扩展",
     "jp_name": "デコード・トーカー・エクステンド",
     "en_name": "Decode Talker Extended"
   },
@@ -62323,6 +62333,7 @@
   "92015800": {
     "type": "Monster",
     "cn_name": "No.76 谐调光师 渐变天乐斗士",
+    "sc_name": "编号76 谐调光师 格拉递艾儿",
     "jp_name": "No.76 諧調光師グラディエール",
     "en_name": "Number 76: Harmonizer Gradielle"
   },
@@ -64437,6 +64448,7 @@
   "49082032": {
     "type": "Trap",
     "cn_name": "再起超量",
+    "sc_name": "再起超量",
     "jp_name": "リサーガム・エクシーズ",
     "en_name": "Resurgam Xyz"
   },
@@ -70918,6 +70930,7 @@
   "85847157": {
     "type": "Monster",
     "cn_name": "恶魔证明之普鲁夫拉斯",
+    "sc_name": "证明之普鲁弗拉斯",
     "jp_name": "プルーフ・プルフラス",
     "en_name": "Proof of Pruflas"
   },
@@ -77387,18 +77400,21 @@
   "47961342": {
     "type": "Trap",
     "cn_name": "转辙地点",
+    "sc_name": "转轨地点",
     "jp_name": "転轍地点",
     "en_name": "Switch Point"
   },
   "73355951": {
     "type": "Trap",
     "cn_name": "魔法名-「解体与统合」",
+    "sc_name": "魔法名－“巴弗灭特”分解统合吧",
     "jp_name": "魔法名－「解体し統合せよ」",
     "en_name": "Alpha Summon"
   },
   "844056": {
     "type": "Spell",
     "cn_name": "红箭",
+    "sc_name": "红箭",
     "jp_name": "レッドアローズ",
     "en_name": "Red Arrows"
   },
@@ -77412,6 +77428,7 @@
   "72233469": {
     "type": "Spell",
     "cn_name": "璃拉说唱",
+    "sc_name": "璃拉说唱",
     "jp_name": "リィラップ",
     "en_name": "Lil-la Rap"
   },
