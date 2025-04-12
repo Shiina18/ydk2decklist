@@ -6330,6 +6330,7 @@
   "95286165": {
     "type": "Spell",
     "cn_name": "融合解除",
+    "sc_name": "融合解除",
     "jp_name": "融合解除",
     "en_name": "De-Fusion"
   },
@@ -8759,6 +8760,7 @@
   "84636823": {
     "type": "Monster",
     "cn_name": "魔法抵消器",
+    "sc_name": "魔术抵消器",
     "jp_name": "マジック・キャンセラー",
     "en_name": "Spell Canceller"
   },
@@ -30180,6 +30182,7 @@
   "14198496": {
     "type": "Monster",
     "cn_name": "神秘之吹笛人",
+    "sc_name": "神秘吹笛人",
     "jp_name": "ミスティック・パイパー",
     "en_name": "Mystic Piper"
   },
@@ -32458,6 +32461,7 @@
   "29669359": {
     "type": "Monster",
     "cn_name": "No.61 火山恐龙",
+    "sc_name": "编号61 火山恐龙",
     "jp_name": "No.61 ヴォルカザウルス",
     "en_name": "Number 61: Volcasaurus"
   },
@@ -32583,6 +32587,7 @@
   "77334267": {
     "type": "Monster",
     "cn_name": "发条装攻 发条王",
+    "sc_name": "弹簧装攻 发条王",
     "jp_name": "発条装攻ゼンマイオー",
     "en_name": "Wind-Up Arsenal Zenmaioh"
   },
@@ -36733,6 +36738,7 @@
   "50449881": {
     "type": "Monster",
     "cn_name": "鲨鱼要塞",
+    "sc_name": "鲨鱼要塞",
     "jp_name": "シャーク・フォートレス",
     "en_name": "Shark Fortress"
   },
@@ -38999,6 +39005,7 @@
   "75214390": {
     "type": "Monster",
     "cn_name": "叠光推进者",
+    "sc_name": "叠放推进者",
     "jp_name": "オーバーレイ・ブースター",
     "en_name": "Overlay Booster"
   },
@@ -40452,6 +40459,7 @@
   "69865139": {
     "type": "Monster",
     "cn_name": "天轮之葬送士",
+    "sc_name": "天轮之葬送士",
     "jp_name": "天輪の葬送士",
     "en_name": "Guiding Light"
   },
@@ -43786,6 +43794,7 @@
   "57707471": {
     "type": "Monster",
     "cn_name": "No.21 冰结之正义女郎",
+    "sc_name": "编号21 冰结之正义女郎",
     "jp_name": "No.21 氷結のレディ・ジャスティス",
     "en_name": "Number 21: Frozen Lady Justice"
   },
@@ -55816,6 +55825,7 @@
   "90126061": {
     "type": "Monster",
     "cn_name": "No.5 亡胧龙 死亡嵌合龙",
+    "sc_name": "编号5 亡胧龙 死亡嵌合龙",
     "jp_name": "No.5 亡朧竜 デス・キマイラ・ドラゴン",
     "en_name": "Number 5: Doom Chimera Dragon"
   },
@@ -70684,6 +70694,7 @@
   "2609443": {
     "type": "Monster",
     "cn_name": "先史遗产 维摩那",
+    "sc_name": "先史遗产 维摩那",
     "jp_name": "先史遺産ヴィマナ",
     "en_name": "Chronomaly Vimana"
   },
@@ -78359,6 +78370,7 @@
   "29510428": {
     "type": "Monster",
     "cn_name": "召煌女 五型查询姬",
+    "sc_name": "召煌女 奎因克丽",
     "jp_name": "召煌女クインクエリ",
     "en_name": "Imperial Princess Quinquery"
   },
@@ -83469,6 +83481,7 @@
   "58570206": {
     "type": "Spell",
     "cn_name": "多层融合",
+    "sc_name": "多层融合",
     "jp_name": "多層融合",
     "en_name": "Heavy Polymerization"
   },
@@ -85922,166 +85935,199 @@
   "75003700": {
     "type": "Monster",
     "cn_name": "星辰枪手 巨蟹魔",
+    "sc_name": "星宿枪手 卢奇亚斯",
     "jp_name": "星辰槍手ルキアス"
   },
   "1498449": {
     "type": "Monster",
     "cn_name": "星辰炮手 宝瓶魔",
+    "sc_name": "星宿炮手 法魅那",
     "jp_name": "星辰砲手ファイメナ"
   },
   "44482554": {
     "type": "Monster",
     "cn_name": "星辰龙 摩羯龙",
+    "sc_name": "星宿龙 潘",
     "jp_name": "星辰竜パーン"
   },
   "70871153": {
     "type": "Monster",
     "cn_name": "星辰龙 狮子龙",
+    "sc_name": "星宿龙 乌尔格拉",
     "jp_name": "星辰竜ウルグラ"
   },
   "7375867": {
     "type": "Monster",
     "cn_name": "星辰龙 天蝎龙",
+    "sc_name": "星宿龙 姆露露",
     "jp_name": "星辰竜ムルル"
   },
   "33760966": {
     "type": "Monster",
     "cn_name": "星辰爪龙 巨蟹摩羯龙魔",
+    "sc_name": "星宿爪龙 阿尔扎里昂",
     "jp_name": "星辰爪竜アルザリオン"
   },
   "79755671": {
     "type": "Monster",
     "cn_name": "星辰法宫 狮子宝瓶龙魔",
+    "sc_name": "星宿法宫 格拉梅尔",
     "jp_name": "星辰法宮グラメル"
   },
   "6153210": {
     "type": "Spell",
     "cn_name": "计都星辰",
+    "sc_name": "计都星宿",
     "jp_name": "計都星辰"
   },
   "32548318": {
     "type": "Spell",
     "cn_name": "罗睺星辰",
+    "sc_name": "罗睺星宿",
     "jp_name": "羅睺星辰"
   },
   "69932023": {
     "type": "Trap",
     "cn_name": "星辰的裂角",
+    "sc_name": "星宿之裂角",
     "jp_name": "星辰の裂角"
   },
   "5431722": {
     "type": "Trap",
     "cn_name": "星辰的吼炎",
+    "sc_name": "星宿之吼炎",
     "jp_name": "星辰の吼炎"
   },
   "31425736": {
     "type": "Monster",
     "cn_name": "奶油蛋糕杯猫☆味美喵",
+    "sc_name": "杯糕喵☆黯蜜",
     "jp_name": "カプシー☆ヤミー"
   },
   "68810435": {
     "type": "Monster",
     "cn_name": "曲奇饼猫☆味美喵",
+    "sc_name": "曲奇喵☆黯蜜",
     "jp_name": "クッキィ☆ヤミー"
   },
   "4215180": {
     "type": "Monster",
     "cn_name": "棒棒糖猫☆味美喵",
+    "sc_name": "棒棒喵☆黯蜜",
     "jp_name": "ロリポー☆ヤミー"
   },
   "31603289": {
     "type": "Monster",
     "cn_name": "奶油蛋糕杯猫★味美喵奖品",
+    "sc_name": "杯糕喵★黯蜜味",
     "jp_name": "カプシー★ヤミーウェイ"
   },
   "67098897": {
     "type": "Monster",
     "cn_name": "曲奇饼猫★味美喵奖品",
+    "sc_name": "曲奇喵★黯蜜味",
     "jp_name": "クッキィ★ヤミーウェイ"
   },
   "93192592": {
     "type": "Monster",
     "cn_name": "棒棒糖猫★味美喵奖品",
+    "sc_name": "棒棒喵★黯蜜味",
     "jp_name": "ロリポー★ヤミーウェイ"
   },
   "30581601": {
     "type": "Monster",
     "cn_name": "味美喵★点心抓取猫",
+    "sc_name": "黯蜜★史拿奇",
     "jp_name": "ヤミー★スナッチー"
   },
   "66975205": {
     "type": "Spell",
     "cn_name": "味美喵娱乐☆迷你抓物跟班",
+    "sc_name": "黯蜜游乐☆小可爱",
     "jp_name": "ヤミーズメント☆ミニヨン"
   },
   "93360904": {
     "type": "Spell",
     "cn_name": "味美喵娱乐★握力幸运火箭",
+    "sc_name": "黯蜜游乐★巨可口",
     "jp_name": "ヤミーズメント★アクロッキー"
   },
   "29369059": {
     "type": "Spell",
     "cn_name": "味美喵☆惊喜奖品",
+    "sc_name": "黯蜜☆惊喜",
     "jp_name": "ヤミー☆サプライズ"
   },
   "65853758": {
     "type": "Trap",
     "cn_name": "味美喵★兑换",
+    "sc_name": "黯蜜★救赎",
     "jp_name": "ヤミー★リデンプション"
   },
   "92248362": {
     "type": "Monster",
     "cn_name": "K9-17号 饭纲",
+    "sc_name": "K9－17号 饭纲",
     "jp_name": "K９－１７号 イヅナ"
   },
   "28642461": {
     "type": "Monster",
     "cn_name": "K9-66a号 霜妖",
+    "sc_name": "K9－66a号 冰精",
     "jp_name": "K９－６６a号 ヨクル"
   },
   "55031170": {
     "type": "Monster",
     "cn_name": "K9-66b号 灯鬼",
+    "sc_name": "K9－66b号 灯笼",
     "jp_name": "K９－６６b号 ランタン"
   },
   "91025875": {
     "type": "Monster",
     "cn_name": "K9-ØØ号 野狼",
+    "sc_name": "K9－ØØ号 天狼",
     "jp_name": "K９－ØØ号 ルプス"
   },
   "27420823": {
     "type": "Monster",
     "cn_name": "K9-17号 “撕裂者”",
+    "sc_name": "K9－17号 “割裂者”",
     "jp_name": "K９－１７号 “Ripper”"
   },
   "54919528": {
     "type": "Monster",
     "cn_name": "K9-ØØ号 “猎犬”",
+    "sc_name": "K9－ØØ号 “猎手”",
     "jp_name": "K９－ØØ号 “Hound”"
   },
   "90303227": {
     "type": "Monster",
     "cn_name": "K9-EX “狼人”",
+    "sc_name": "K9－EX “狼人”",
     "jp_name": "K９－EX “Werewolf”"
   },
   "27308231": {
     "type": "Spell",
     "cn_name": "K9-LC拘束解除",
+    "sc_name": "K9－LC 拘束解除",
     "jp_name": "K９－LC拘束解除"
   },
   "53792930": {
     "type": "Spell",
     "cn_name": "K9-EX强制解除",
+    "sc_name": "K9－EX 强制解除",
     "jp_name": "K９－EX強制解除"
   },
   "80181649": {
     "type": "Spell",
     "cn_name": "“K9案件”",
+    "sc_name": "“K9刑侦案件”",
     "jp_name": "“Case of K９”"
   },
   "26585784": {
     "type": "Trap",
     "cn_name": "K9-EW特殊解除实验",
+    "sc_name": "K9－EW 特殊解除实验",
     "jp_name": "K９－EW特殊解除実験"
   },
   "74941992": {
