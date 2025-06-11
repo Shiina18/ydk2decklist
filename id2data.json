@@ -86748,7 +86748,8 @@
   "10949074": {
     "type": "Monster",
     "cn_name": "异宇宙军神",
-    "jp_name": "アナザー・バース・ストラディオス"
+    "jp_name": "アナザー・バース・ストラディオス",
+    "en_name": "Anotherverse Stratios"
   },
   "83838727": {
     "type": "Spell",
