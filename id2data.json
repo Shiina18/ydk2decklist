@@ -83114,7 +83114,8 @@
   "19316241": {
     "type": "Monster",
     "cn_name": "银河战龙",
-    "jp_name": "銀河戦竜"
+    "jp_name": "銀河戦竜",
+    "en_name": "Galaxy War Drake"
   },
   "45710945": {
     "type": "Monster",
@@ -86129,7 +86130,8 @@
     "type": "Monster",
     "cn_name": "宇迦御狐之魂摇",
     "sc_name": "宇迦之御狐玉响",
-    "jp_name": "うかのみつねのたまゆら"
+    "jp_name": "うかのみつねのたまゆら",
+    "en_name": "Ukanomitsune-no-Tamayura"
   },
   "12500059": {
     "type": "Monster",
@@ -86412,12 +86414,14 @@
   "74941992": {
     "type": "Monster",
     "cn_name": "月之魔术师",
-    "jp_name": "月の魔術師"
+    "jp_name": "月の魔術師",
+    "en_name": "Moon Magician"
   },
   "336601": {
     "type": "Monster",
     "cn_name": "月之守卫者",
-    "jp_name": "ムーン・ガードナー"
+    "jp_name": "ムーン・ガードナー",
+    "en_name": "Moon Gardna"
   },
   "37720300": {
     "type": "Monster",
@@ -86443,481 +86447,561 @@
     "type": "Monster",
     "cn_name": "刷拉拉拉骑士",
     "sc_name": "刷拉拉拉骑士",
-    "jp_name": "ズバババナイト"
+    "jp_name": "ズバババナイト",
+    "en_name": "Zubababa Knight"
   },
   "9491461": {
     "type": "Monster",
     "cn_name": "我我我加把劲骑士",
     "sc_name": "我我我加把劲骑士",
-    "jp_name": "ガガガガンバラナイト"
+    "jp_name": "ガガガガンバラナイト",
+    "en_name": "Gagaga Ganbara Knight"
   },
   "35886170": {
     "type": "Monster",
     "cn_name": "隆隆隆哥布林德伯格",
     "sc_name": "隆隆隆格布林德伯格",
-    "jp_name": "ゴゴゴゴブリンドバーグ"
+    "jp_name": "ゴゴゴゴブリンドバーグ",
+    "en_name": "Gogogo Goblindbergh"
   },
   "62880279": {
     "type": "Monster",
     "cn_name": "怒怒怒怒战士",
     "sc_name": "怒怒怒怒战士",
-    "jp_name": "ドドドドウォリアー"
+    "jp_name": "ドドドドウォリアー",
+    "en_name": "Dodododo Warrior"
   },
   "8379983": {
     "type": "Monster",
     "cn_name": "月光金狮子",
     "sc_name": "月光金狮子",
-    "jp_name": "月光金獅子"
+    "jp_name": "月光金獅子",
+    "en_name": "Lunalight Gold Leo"
   },
   "35763582": {
     "type": "Monster",
     "cn_name": "月光银狗",
     "sc_name": "月光银狗",
-    "jp_name": "月光銀狗"
+    "jp_name": "月光銀狗",
+    "en_name": "Lunalight Silver Hound"
   },
   "61168637": {
     "type": "Monster",
     "cn_name": "猞猁连接杀手@火灵天星",
     "sc_name": "连接山猫屠杀者＠伊格尼斯者",
-    "jp_name": "リンクスレイヤー＠イグニスター"
+    "jp_name": "リンクスレイヤー＠イグニスター",
+    "en_name": "Linkslayer @Ignister"
   },
   "97556336": {
     "type": "Monster",
     "cn_name": "无垢者 米底乌斯",
     "sc_name": "无垢者 墨迪乌斯",
-    "jp_name": "無垢なる者 メディウス"
+    "jp_name": "無垢なる者 メディウス",
+    "en_name": "Medius the Pure"
   },
   "34541940": {
     "type": "Monster",
     "cn_name": "神艺学徒 菲茵美特",
     "sc_name": "神艺学徒 珐艺美忒",
-    "jp_name": "神芸学徒 ファインメルト"
+    "jp_name": "神芸学徒 ファインメルト",
+    "en_name": "Artmage Finmel"
   },
   "60946049": {
     "type": "Monster",
     "cn_name": "神艺学徒 格拉弗莱尔",
     "sc_name": "神艺学徒 格拉弗雷鸦",
-    "jp_name": "神芸学徒 グラフレア"
+    "jp_name": "神芸学徒 グラフレア",
+    "en_name": "Artmage Graflare"
   },
   "97434754": {
     "type": "Monster",
     "cn_name": "神艺学徒 莉泰拉",
     "sc_name": "神艺学徒 璃天乐",
-    "jp_name": "神芸学徒 リテラ"
+    "jp_name": "神芸学徒 リテラ",
+    "en_name": "Artmage Litera"
   },
   "23829452": {
     "type": "Monster",
     "cn_name": "神艺学之狱神兽",
     "sc_name": "神艺之狱神兽",
-    "jp_name": "アルトメギアの獄神獣"
+    "jp_name": "アルトメギアの獄神獣",
+    "en_name": "Artmage Power Patron"
   },
   "9213491": {
     "type": "Monster",
     "cn_name": "静寂的念力少女",
     "sc_name": "静寂的念力女孩",
-    "jp_name": "静寂のサイコガール"
+    "jp_name": "静寂のサイコガール",
+    "en_name": "Serene Psychic Girl"
   },
   "36218106": {
     "type": "Monster",
     "cn_name": "寡默的念力牧师",
     "sc_name": "寡默的念力管理员",
-    "jp_name": "寡黙なるサイコミニスター"
+    "jp_name": "寡黙なるサイコミニスター",
+    "en_name": "Hushed Psychic Minister"
   },
   "62606805": {
     "type": "Monster",
     "cn_name": "精神循序者",
     "sc_name": "心灵推进者",
-    "jp_name": "メンタルプロシージャー"
+    "jp_name": "メンタルプロシージャー",
+    "en_name": "Mind Procedure"
   },
   "95091919": {
     "type": "Monster",
     "cn_name": "原型念力枪手",
     "sc_name": "原型念力枪手",
-    "jp_name": "プロトタイプサイコガンナー"
+    "jp_name": "プロトタイプサイコガンナー",
+    "en_name": "Prototype Psychic Blaster"
   },
   "31596518": {
     "type": "Monster",
     "cn_name": "冥帝王 哀多斯",
     "sc_name": "冥帝王厄多斯",
-    "jp_name": "冥帝王エイドス"
+    "jp_name": "冥帝王エイドス",
+    "en_name": "Eidos the Underworld Monarch"
   },
   "67584223": {
     "type": "Monster",
     "cn_name": "源帝从骑 特塞拉",
     "sc_name": "源帝从骑特塞拉",
-    "jp_name": "源帝従騎テセラ"
+    "jp_name": "源帝従騎テセラ",
+    "en_name": "Tessera the Primal Squire"
   },
   "94979322": {
     "type": "Monster",
     "cn_name": "黑炎之剑士",
     "sc_name": "黑炎之剑士",
-    "jp_name": "黒炎の剣士－ブラック・フレア・ソードマン－"
+    "jp_name": "黒炎の剣士－ブラック・フレア・ソードマン－",
+    "en_name": "Dark Flare Swordsman"
   },
   "30373970": {
     "type": "Monster",
     "cn_name": "结瘴龙 提斯蒂娜",
     "sc_name": "结瘴龙 提斯蒂娜",
-    "jp_name": "結瘴龍ティスティナ"
+    "jp_name": "結瘴龍ティスティナ",
+    "en_name": "Miasma Dragon Tistina"
   },
   "67768675": {
     "type": "Monster",
     "cn_name": "正义的传说 海马侠",
     "sc_name": "正义的传说 海马人",
-    "jp_name": "正義の伝説 カイバーマン"
+    "jp_name": "正義の伝説 カイバーマン",
+    "en_name": "Kaibaman the Legend"
   },
   "93156774": {
     "type": "Monster",
     "cn_name": "征服斗魂 霍丽·苏",
     "sc_name": "对击斗魂 神圣苏",
-    "jp_name": "VS ホーリー・スー"
+    "jp_name": "VS ホーリー・スー",
+    "en_name": "Vanquish Soul Hollie Sue"
   },
   "29251488": {
     "type": "Monster",
     "cn_name": "新式魔厨的料理长",
     "sc_name": "主厨・饿魔新飨",
-    "jp_name": "シェフ・ド・ヌーベルズ"
+    "jp_name": "シェフ・ド・ヌーベルズ",
+    "en_name": "Chef de Nouvelles"
   },
   "66646087": {
     "type": "Monster",
     "cn_name": "超级量子妖精 泽坦",
     "sc_name": "超级量子妖精 泽坦",
-    "jp_name": "超量妖精ゼータン"
+    "jp_name": "超量妖精ゼータン",
+    "en_name": "Super Quantal Fairy Zetan"
   },
   "92034192": {
     "type": "Monster",
     "cn_name": "超级量子战士 黑光层",
     "sc_name": "超级量子士 黑层",
-    "jp_name": "超量士ブラックレイヤー"
+    "jp_name": "超量士ブラックレイヤー",
+    "en_name": "Super Quantum Black Layer"
   },
   "29439831": {
     "type": "Monster",
     "cn_name": "瞳之魔女 梦根娜",
     "sc_name": "瞳之魔女 摩尔嘉娜",
-    "jp_name": "瞳の魔女モルガナ"
+    "jp_name": "瞳の魔女モルガナ",
+    "en_name": "Morgana the Witch of Eyes"
   },
   "55423549": {
     "type": "Monster",
     "cn_name": "黑色魔族-狮子男巫",
     "sc_name": "黑魔族－狮子男巫",
-    "jp_name": "黒き魔族－レオ・ウィザード"
+    "jp_name": "黒き魔族－レオ・ウィザード",
+    "en_name": "Leo Wizard the Dark Fiend"
   },
   "91818544": {
     "type": "Monster",
     "cn_name": "睡醒一杯！摩卡咖啡",
     "sc_name": "威咖杯！摩卡",
-    "jp_name": "WAKE CUP！ モカ"
+    "jp_name": "WAKE CUP！ モカ",
+    "en_name": "WAKE CUP! Mocha"
   },
   "28306253": {
     "type": "Monster",
     "cn_name": "愤怒的汉堡",
     "sc_name": "饥怒汉堡",
-    "jp_name": "アングリーバーガー"
+    "jp_name": "アングリーバーガー",
+    "en_name": "Angry Burger"
   },
   "54701958": {
     "type": "Monster",
     "cn_name": "月光舞狮子神姬",
     "sc_name": "月光舞狮子神姬",
-    "jp_name": "月光舞獅子神姫"
+    "jp_name": "月光舞獅子神姫",
+    "en_name": "Lunalight Liger Dancer"
   },
   "81196066": {
     "type": "Monster",
     "cn_name": "月光舞香姬",
     "sc_name": "月光舞香姬",
-    "jp_name": "月光舞香姫"
+    "jp_name": "月光舞香姫",
+    "en_name": "Lunalight Perfume Dancer"
   },
   "27184601": {
     "type": "Monster",
     "cn_name": "神艺狱徒 底亚克托罗斯",
     "sc_name": "神艺狱徒 迪亚克特罗斯",
-    "jp_name": "神芸獄徒 ディアクトロス"
+    "jp_name": "神芸獄徒 ディアクトロス",
+    "en_name": "Artmage Diactorus"
   },
   "53589300": {
     "type": "Monster",
     "cn_name": "创狱神 涅瓦",
     "sc_name": "创狱神 涅瓦",
-    "jp_name": "創獄神ネルヴァ"
+    "jp_name": "創獄神ネルヴァ",
+    "en_name": "Nerva the Power Patron of Creation"
   },
   "80073414": {
     "type": "Monster",
     "cn_name": "绝对念动力体",
     "sc_name": "绝对超能者",
-    "jp_name": "アブソリュートサイキッカー"
+    "jp_name": "アブソリュートサイキッカー",
+    "en_name": "Absolute Axon Kicker"
   },
   "26462013": {
     "type": "Monster",
     "cn_name": "原石龙 地下黄砷榴石龙",
     "sc_name": "原石龙 异狱玄矿",
-    "jp_name": "原石竜ネザー・ベルセリウス"
+    "jp_name": "原石竜ネザー・ベルセリウス",
+    "en_name": "Primite Dragon Nether Berzelius"
   },
   "53466722": {
     "type": "Monster",
     "cn_name": "始祖之龙王",
     "sc_name": "始祖的龙王",
-    "jp_name": "始祖の竜王"
+    "jp_name": "始祖の竜王",
+    "en_name": "First of the Dragonlords"
   },
   "89851827": {
     "type": "Monster",
     "cn_name": "圣秘之龙骑士",
     "sc_name": "圣秘龙骑士",
-    "jp_name": "聖秘なる竜騎士"
+    "jp_name": "聖秘なる竜騎士",
+    "en_name": "Secreterion Dragon"
   },
   "16246535": {
     "type": "Monster",
     "cn_name": "沉默的念力魔术师",
     "sc_name": "沉默的念力魔术师",
-    "jp_name": "沈黙のサイコマジシャン"
+    "jp_name": "沈黙のサイコマジシャン",
+    "en_name": "Silent Psychic Magician"
   },
   "52644170": {
     "type": "Monster",
     "cn_name": "精神交错恶魔",
     "sc_name": "心灵交错恶魔",
-    "jp_name": "メンタルクロス・デーモン"
+    "jp_name": "メンタルクロス・デーモン",
+    "en_name": "Crossmind Archfiend"
   },
   "88139289": {
     "type": "Monster",
     "cn_name": "念力枪手Mk-2",
     "sc_name": "念力枪手Mk－Ⅱ",
-    "jp_name": "サイコガンナーMk－Ⅱ"
+    "jp_name": "サイコガンナーMk－Ⅱ",
+    "en_name": "Psychic Blaster Mk-II"
   },
   "15123983": {
     "type": "Monster",
     "cn_name": "明星仓鼠",
     "sc_name": "星鼠侠",
-    "jp_name": "THE・スターハム"
+    "jp_name": "THE・スターハム",
+    "en_name": "THE Star Ham"
   },
   "41522092": {
     "type": "Monster",
     "cn_name": "未来No.0 未来皇 霍普·异热同心",
     "sc_name": "翼日编号0 未来皇霍普ZEXAL",
-    "jp_name": "FNo.0 未来皇ホープ・ゼアル"
+    "jp_name": "FNo.0 未来皇ホープ・ゼアル",
+    "en_name": "Number F0: Utopic Future Zexal"
   },
   "88917691": {
     "type": "Monster",
     "cn_name": "我我我我少女",
     "sc_name": "我我我我女孩",
-    "jp_name": "ガガガガガール"
+    "jp_name": "ガガガガガール",
+    "en_name": "Gagagaga Girl"
   },
   "14301396": {
     "type": "Monster",
     "cn_name": "英豪冠军 最强断钢剑王",
     "sc_name": "英豪胜利者 最强王者之剑",
-    "jp_name": "H－C マグナム・エクスカリバー"
+    "jp_name": "H－C マグナム・エクスカリバー",
+    "en_name": "Heroic Champion - Magnum Excalibur"
   },
   "40706444": {
     "type": "Monster",
     "cn_name": "阿尔戈☆群星-勇骏之阿里翁",
     "sc_name": "阿尔戈☆群星－勇骏的阿里翁",
-    "jp_name": "ARG☆S－勇駿のアリオン"
+    "jp_name": "ARG☆S－勇駿のアリオン",
+    "en_name": "Argostars - Adventurous Arion"
   },
   "77894049": {
     "type": "Monster",
     "cn_name": "征服斗魂 洛克斯",
     "sc_name": "对击斗魂 项",
-    "jp_name": "VS ロックス"
+    "jp_name": "VS ロックス",
+    "en_name": "Vanquish Soul Rocks"
   },
   "13289758": {
     "type": "Monster",
     "cn_name": "流丽之骑士 盖亚激流",
     "sc_name": "流丽骑士盖亚奔流",
-    "jp_name": "流麗の騎士ガイアストリーム"
+    "jp_name": "流麗の騎士ガイアストリーム",
+    "en_name": "Gaia Stream, the Graceful Force"
   },
   "40673853": {
     "type": "Monster",
     "cn_name": "超念铳士 瓦隆",
     "sc_name": "超念铳士瓦隆",
-    "jp_name": "超念銃士ヴァロン"
+    "jp_name": "超念銃士ヴァロン",
+    "en_name": "Vallon, the Super Psy Skyblaster"
   },
   "76072561": {
     "type": "Monster",
     "cn_name": "闪刀姬=零露",
     "sc_name": "闪刀姬＝零萝",
-    "jp_name": "閃刀姫＝ゼロ"
+    "jp_name": "閃刀姫＝ゼロ",
+    "en_name": "Sky Striker Ace = Zero"
   },
   "12067160": {
     "type": "Monster",
     "cn_name": "美丽的磁律机坏",
     "sc_name": "美丽的磁律机坏",
-    "jp_name": "麗しき磁律機壊"
+    "jp_name": "麗しき磁律機壊",
+    "en_name": "Gorgon of Zilofthonia"
   },
   "49451215": {
     "type": "Monster",
     "cn_name": "宇迦御狐之御稻成",
     "sc_name": "宇迦之御狐御成",
-    "jp_name": "うかのみつねのおなり"
+    "jp_name": "うかのみつねのおなり",
+    "en_name": "Ukanomitsune-no-Onari"
   },
   "75956913": {
     "type": "Spell",
     "cn_name": "我我我希望战术",
     "sc_name": "我我我霍普战术",
-    "jp_name": "ガガガ・ホープ・タクティクス"
+    "jp_name": "ガガガ・ホープ・タクティクス",
+    "en_name": "Gagaga Utopic Tactics"
   },
   "2344618": {
     "type": "Spell",
     "cn_name": "月光舞蹈会",
     "sc_name": "月光舞蹈会",
-    "jp_name": "月光舞踏会"
+    "jp_name": "月光舞踏会",
+    "en_name": "Lunalight Masquerade"
   },
   "74733322": {
     "type": "Spell",
     "cn_name": "神艺学都 神艺学园",
     "sc_name": "神艺学都",
-    "jp_name": "神芸学都アルトメギア"
+    "jp_name": "神芸学都アルトメギア",
+    "en_name": "Artmage Academic Arcane Arts Acropolis"
   },
   "48739627": {
     "type": "Spell",
     "cn_name": "无垢的预幻视",
     "sc_name": "无垢预幻视",
-    "jp_name": "無垢なる予幻視"
+    "jp_name": "無垢なる予幻視",
+    "en_name": "Theorealize"
   },
   "37517035": {
     "type": "Spell",
     "cn_name": "神艺学的杰作-继承-",
     "sc_name": "神艺杰作－继承－",
-    "jp_name": "アルトメギア・マスターワーク－継承－"
+    "jp_name": "アルトメギア・マスターワーク－継承－",
+    "en_name": "Artmage Masterwork -Succession-"
   },
   "1122030": {
     "type": "Spell",
     "cn_name": "神艺学的破坏-袭击-",
     "sc_name": "神艺亵渎－袭击－",
-    "jp_name": "アルトメギア・ヴァンダリズム－襲撃－"
+    "jp_name": "アルトメギア・ヴァンダリズム－襲撃－",
+    "en_name": "Artmage Vandalism -Assault-"
   },
   "74011784": {
     "type": "Spell",
     "cn_name": "神艺学的消失-改变-",
     "sc_name": "神艺护漆－改变－",
-    "jp_name": "アルトメギア・バーニッシュ－改変－"
+    "jp_name": "アルトメギア・バーニッシュ－改変－",
+    "en_name": "Artmage Varnish -Alteration-"
   },
   "483": {
     "type": "Spell",
     "cn_name": "平行瞬间移动",
     "sc_name": "平行瞬移",
-    "jp_name": "パラレル・テレポート"
+    "jp_name": "パラレル・テレポート",
+    "en_name": "Parallel Teleport"
   },
   "36494597": {
     "type": "Spell",
     "cn_name": "瞬间移动融合",
     "sc_name": "瞬移结合",
-    "jp_name": "テレポート・フュージョン"
+    "jp_name": "テレポート・フュージョン",
+    "en_name": "Teleport Fusion"
   },
   "63899196": {
     "type": "Spell",
     "cn_name": "帝王的策略",
     "sc_name": "帝王的策略",
-    "jp_name": "帝王の策略"
+    "jp_name": "帝王の策略",
+    "en_name": "The Monarchs Masterplan"
   },
   "9283801": {
     "type": "Spell",
     "cn_name": "叛逆的帝王",
     "sc_name": "叛逆的帝王",
-    "jp_name": "叛逆の帝王"
+    "jp_name": "叛逆の帝王",
+    "en_name": "The Monarchs Revolt"
   },
   "36672909": {
     "type": "Spell",
     "cn_name": "再世律",
     "sc_name": "再世律",
-    "jp_name": "再世律"
+    "jp_name": "再世律",
+    "en_name": "Regenesis Cycle"
   },
   "62767644": {
     "type": "Spell",
     "cn_name": "灰灭的劫火",
     "sc_name": "灰灭的劫火",
-    "jp_name": "灰滅の劫火"
+    "jp_name": "灰滅の劫火",
+    "en_name": "Inferno of the Ashened"
   },
   "99161253": {
     "type": "Spell",
     "cn_name": "原石融合",
     "sc_name": "原石融合",
-    "jp_name": "原石融合"
+    "jp_name": "原石融合",
+    "en_name": "Primite Fusion"
   },
   "35550352": {
     "type": "Spell",
     "cn_name": "向征服斗魂进发！",
     "sc_name": "对击斗魂开战！",
-    "jp_name": "Start for VS！"
+    "jp_name": "Start for VS！",
+    "en_name": "Vanquish Soul, Start!"
   },
   "61944066": {
     "type": "Spell",
     "cn_name": "新式魔厨的食谱本",
     "sc_name": "Recettes de Nouvellez～饿魔新飨的食谱～",
-    "jp_name": "Recettes de Nouvellez～ヌーベルズのレシピ帳～"
+    "jp_name": "Recettes de Nouvellez～ヌーベルズのレシピ帳～",
+    "en_name": "Nouvelles Recipe Book \"Recettes de Nouvellez\""
   },
   "98349765": {
     "type": "Spell",
     "cn_name": "第19层『袭来干涉！漆黑的超级量子战士！！』",
     "sc_name": "第19层 “袭来干涉！漆黑的超级量子士！！”",
-    "jp_name": "第１９層『襲来干渉！漆黒の超量士！！』"
+    "jp_name": "第１９層『襲来干渉！漆黒の超量士！！』",
+    "en_name": "Layer 19 \"Sudden Incursion! Super Quantum Black!!\""
   },
   "34433770": {
     "type": "Spell",
     "cn_name": "闪刀亚式-双纽闪门",
     "sc_name": "闪刀亚式－双纽无限门",
-    "jp_name": "閃刀亜式－レムニスゲート"
+    "jp_name": "閃刀亜式－レムニスゲート",
+    "en_name": "Sky Striker Special Maneuver - Lemnisgate!"
   },
   "61822419": {
     "type": "Spell",
     "cn_name": "拥抱过咎的魔瞳",
     "sc_name": "拥抱罪咎的绿柱魔瞳",
-    "jp_name": "咎を擁く魔瞳"
+    "jp_name": "咎を擁く魔瞳",
+    "en_name": "Guilt-Gripping Morganite"
   },
   "97227123": {
     "type": "Spell",
     "cn_name": "决斗者归来",
     "sc_name": "决斗者归来",
-    "jp_name": "リターン・オブ・ザ・デュエリスト"
+    "jp_name": "リターン・オブ・ザ・デュエリスト",
+    "en_name": "Return of the Duelist"
   },
   "23611122": {
     "type": "Spell",
     "cn_name": "急雷泥沼",
     "sc_name": "急雷之泥沼",
-    "jp_name": "急雷の泥沼"
+    "jp_name": "急雷の泥沼",
+    "en_name": "Sudden Thunder Swamp"
   },
   "60600821": {
     "type": "Spell",
     "cn_name": "春",
     "sc_name": "春",
-    "jp_name": "春"
+    "jp_name": "春",
+    "en_name": "Spring"
   },
   "96004535": {
     "type": "Trap",
     "cn_name": "超量不破罩壁",
     "sc_name": "超量不屈屏障",
-    "jp_name": "エクシーズ・アンブレイカブル・バリア"
+    "jp_name": "エクシーズ・アンブレイカブル・バリア",
+    "en_name": "Unbreakable Xyz Barrier"
   },
   "23599634": {
     "type": "Trap",
     "cn_name": "神艺狱的扶助-觉醒-",
     "sc_name": "神艺援助－觉醒－",
-    "jp_name": "アルトメギア・メセナ－覚醒－"
+    "jp_name": "アルトメギア・メセナ－覚醒－",
+    "en_name": "Artmage Pact -Awakening-"
   },
   "59983249": {
     "type": "Trap",
     "cn_name": "帝王的极致",
     "sc_name": "帝王的极致",
-    "jp_name": "帝王の極致"
+    "jp_name": "帝王の極致",
+    "en_name": "Monarchic Perfection"
   },
   "95382988": {
     "type": "Trap",
     "cn_name": "再世十戒",
     "sc_name": "再世十诫",
-    "jp_name": "再世十戒"
+    "jp_name": "再世十戒",
+    "en_name": "Regenesis Commands"
   },
   "22377092": {
     "type": "Trap",
     "cn_name": "沉迷陷溺",
     "sc_name": "陷阱痴迷",
-    "jp_name": "トラップホリック"
+    "jp_name": "トラップホリック",
+    "en_name": "Trap Holic"
   },
   "58761791": {
     "type": "Trap",
     "cn_name": "误出荷",
     "sc_name": "误出货",
-    "jp_name": "誤出荷"
+    "jp_name": "誤出荷",
+    "en_name": "Shipping Error"
   },
   "85150300": {
     "type": "Trap",
     "cn_name": "精灵狩人",
     "sc_name": "精灵猎人",
-    "jp_name": "精霊の狩人"
+    "jp_name": "精霊の狩人",
+    "en_name": "Spirit Poacher"
   },
   "57649113": {
     "type": "Monster",
@@ -86964,6 +87048,86 @@
     "type": "Monster",
     "cn_name": "轻水龙",
     "jp_name": "ライトウォーター・ドラゴン"
+  },
+  "101301081": {
+    "type": "Monster",
+    "cn_name": "夜明之光 布幽",
+    "en_name": "Buio the Dawn's Light"
+  },
+  "101301082": {
+    "type": "Monster",
+    "cn_name": "日暮之暗 露彻",
+    "en_name": "Luce the Dusk's Dark"
+  },
+  "101301083": {
+    "type": "Spell",
+    "cn_name": "天国之乱",
+    "en_name": "Mutiny in the Sky"
+  },
+  "101301084": {
+    "type": "Monster",
+    "cn_name": "奇迹的供物",
+    "en_name": "Miracle Raven"
+  },
+  "101301085": {
+    "type": "Monster",
+    "cn_name": "阿修LAN U1000",
+    "en_name": "ASHLAN U1000"
+  },
+  "101301086": {
+    "type": "Spell",
+    "cn_name": "仪式的筹备",
+    "en_name": "Readying of Rites"
+  },
+  "101301087": {
+    "type": "Monster",
+    "cn_name": "钢弦祭他手",
+    "en_name": "Steel-Stringed Sacrifice"
+  },
+  "101301088": {
+    "type": "Spell",
+    "cn_name": "超量迭光",
+    "en_name": "Xyz Lay"
+  },
+  "101301089": {
+    "type": "Monster",
+    "cn_name": "念力汇总破坏者",
+    "en_name": "Psychic Omnibuster"
+  },
+  "101301090": {
+    "type": "Monster",
+    "cn_name": "奏悦机组 筑工钻机",
+    "en_name": "R.B. Ga10 Driller"
+  },
+  "101301091": {
+    "type": "Monster",
+    "cn_name": "奏悦机组 筑工切割机",
+    "en_name": "R.B. Ga10 Cutter"
+  },
+  "101301092": {
+    "type": "Monster",
+    "cn_name": "奏悦机组 火神火箭",
+    "en_name": "R.B. VALCan Rocket"
+  },
+  "101301093": {
+    "type": "Monster",
+    "cn_name": "奏悦机组 火神推进器",
+    "en_name": "R.B. VALCan Booster"
+  },
+  "101301094": {
+    "type": "Monster",
+    "cn_name": "奏悦机组 狂放蓝调号",
+    "en_name": "R.B. The Brute Blues"
+  },
+  "101301095": {
+    "type": "Spell",
+    "cn_name": "奏悦机组 疯克对接站",
+    "en_name": "R.B. Funk Dock"
+  },
+  "101301096": {
+    "type": "Spell",
+    "cn_name": "奏悦机组 舞台登场",
+    "en_name": "R.B. Stage Landing"
   },
   "100200273": {
     "type": "Trap",
