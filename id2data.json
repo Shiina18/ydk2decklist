@@ -26229,7 +26229,7 @@
   },
   "26304459": {
     "type": "Monster",
-    "cn_name": "古代炎狱神",
+    "cn_name": "古代炎狱之神",
     "jp_name": "エンシェント・ゴッド・フレムベル",
     "en_name": "Ancient Flamvell Deity"
   },
@@ -80207,7 +80207,7 @@
   },
   "16240772": {
     "type": "Spell",
-    "cn_name": "死之罪宝-血蝠",
+    "cn_name": "死之罪宝-濡血蝠",
     "sc_name": "死之罪宝－露西耶拉",
     "jp_name": "死の罪宝－ルシエラ",
     "en_name": "Sinful Spoils of Doom - Rciela"
@@ -80340,7 +80340,7 @@
   },
   "38511382": {
     "type": "Trap",
-    "cn_name": "背叛之罪宝-森狼",
+    "cn_name": "背叛之罪宝-森厄狼",
     "sc_name": "背叛之罪宝－西尔维亚",
     "jp_name": "裏切りの罪宝－シルウィア",
     "en_name": "Sinful Spoils of Betrayal - Silvera"
@@ -82281,7 +82281,7 @@
   },
   "53329234": {
     "type": "Trap",
-    "cn_name": "微睡之罪宝-魇鸦",
+    "cn_name": "微睡之罪宝-梦王鸦",
     "sc_name": "微睡之罪宝－摩莉安",
     "jp_name": "微睡の罪宝－モーリアン",
     "en_name": "Sinful Spoils of Slumber - Morrian"
@@ -82642,14 +82642,14 @@
   },
   "98385955": {
     "type": "Monster",
-    "cn_name": "白森林的森儿",
+    "cn_name": "白森林的森厄维",
     "sc_name": "白森的西尔薇",
     "jp_name": "白き森のシルヴィ",
     "en_name": "Silvy of the White Forest"
   },
   "24779554": {
     "type": "Monster",
-    "cn_name": "白森林的蝠儿",
+    "cn_name": "白森林的濡血雅",
     "sc_name": "白森的露西亚",
     "jp_name": "白き森のルシア",
     "en_name": "Rucia of the White Forest"
@@ -82803,14 +82803,14 @@
   },
   "41924516": {
     "type": "Monster",
-    "cn_name": "白森林的魔狼 森狼",
+    "cn_name": "白森林的魔狼 森厄狼",
     "sc_name": "白森的魔狼 西尔维亚",
     "jp_name": "白き森の魔狼シルウィア",
     "en_name": "Silvera, Wolf Tamer of the White Forest"
   },
   "77313225": {
     "type": "Monster",
-    "cn_name": "白森林的魔性 血蝠",
+    "cn_name": "白森林的魔性 濡血蝠",
     "sc_name": "白森的魔性 露西耶拉",
     "jp_name": "白き森の魔性ルシエラ",
     "en_name": "Rciela, Sinister Soul of the White Forest"
@@ -83814,28 +83814,28 @@
   },
   "46396218": {
     "type": "Monster",
-    "cn_name": "背信圣徒 森恶狼母",
+    "cn_name": "背信圣徒 森厄狼母",
     "sc_name": "背信圣徒 雷亚西尔薇亚",
     "jp_name": "背信聖徒シルヴィア",
     "en_name": "Azamina Ilia Silvia"
   },
   "73391962": {
     "type": "Monster",
-    "cn_name": "告死圣徒 嗜血蝠鬼",
+    "cn_name": "告死圣徒 濡血蝠鬼",
     "sc_name": "告死圣徒 姆露西耶拉格",
     "jp_name": "告死聖徒ルシエラーゴ",
     "en_name": "Azamina Mu Rcielago"
   },
   "9785661": {
     "type": "Monster",
-    "cn_name": "饥渴圣徒 裂火日饕",
+    "cn_name": "饥渴圣徒 炎裂日饕",
     "sc_name": "饥渴圣徒 索尔厄律西克同",
     "jp_name": "飢渇聖徒エリュシクトーン",
     "en_name": "Azamina Sol Erysichthon"
   },
   "46174776": {
     "type": "Monster",
-    "cn_name": "杀戮圣徒 魇女王鸦",
+    "cn_name": "杀戮圣徒 梦王鸦女",
     "sc_name": "杀戮圣徒 摩尔蕾吉娜",
     "jp_name": "殺戮聖徒レジーナ",
     "en_name": "Azamina Moa Regina"
@@ -85440,7 +85440,7 @@
   },
   "17832359": {
     "type": "Monster",
-    "cn_name": "森之圣骑士 小汪",
+    "cn_name": "森之圣骑士 汪汪",
     "sc_name": "森之圣骑士 汪宝",
     "jp_name": "森の聖騎士 ワンコ",
     "en_name": "Wonko, Noble Knight of the Forest"
