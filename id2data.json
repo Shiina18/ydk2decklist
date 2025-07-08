@@ -3521,6 +3521,7 @@
   "34442949": {
     "type": "Monster",
     "cn_name": "机械蜗牛",
+    "sc_name": "机械蜗牛",
     "jp_name": "メカニカルスネイル",
     "en_name": "Mechanical Snail"
   },
@@ -5302,6 +5303,7 @@
   "34124316": {
     "type": "Monster",
     "cn_name": "电子壶",
+    "sc_name": "电子壶",
     "jp_name": "サイバーポッド",
     "en_name": "Cyber Jar"
   },
@@ -7944,6 +7946,7 @@
   "38699854": {
     "type": "Spell",
     "cn_name": "太阳之书",
+    "sc_name": "太阳之书",
     "jp_name": "太陽の書",
     "en_name": "Book of Taiyou"
   },
@@ -9158,6 +9161,7 @@
   "32362575": {
     "type": "Monster",
     "cn_name": "魔导杂货商人",
+    "sc_name": "魔导杂货商人",
     "jp_name": "魔導雑貨商人",
     "en_name": "Magical Merchant"
   },
@@ -9523,6 +9527,7 @@
   "68304813": {
     "type": "Spell",
     "cn_name": "冥界的宝札",
+    "sc_name": "冥界的宝牌",
     "jp_name": "冥界の宝札",
     "en_name": "Precious Cards from Beyond"
   },
@@ -10059,6 +10064,7 @@
   "47606319": {
     "type": "Monster",
     "cn_name": "基冈提斯",
+    "sc_name": "癸干忒斯",
     "jp_name": "ギガンテス",
     "en_name": "Gigantes"
   },
@@ -13981,6 +13987,7 @@
   "85852291": {
     "type": "Spell",
     "cn_name": "万宝槌",
+    "sc_name": "万宝槌",
     "jp_name": "打ち出の小槌",
     "en_name": "Magical Mallet"
   },
@@ -19222,6 +19229,7 @@
   "35011819": {
     "type": "Trap",
     "cn_name": "帝之敕命",
+    "sc_name": "帝皇勒令",
     "jp_name": "エンペラー・オーダー",
     "en_name": "By Order of the Emperor"
   },
@@ -22045,6 +22053,7 @@
   "37169670": {
     "type": "Monster",
     "cn_name": "超念力枪手/爆裂体",
+    "sc_name": "高能念力枪手／爆裂",
     "jp_name": "ハイパーサイコガンナー／バスター",
     "en_name": "Hyper Psychic Blaster/Assault Mode"
   },
@@ -22224,6 +22233,7 @@
   "29863101": {
     "type": "Spell",
     "cn_name": "爆裂瞬间移动",
+    "sc_name": "爆裂瞬移",
     "jp_name": "バスター・テレポート",
     "en_name": "Assault Teleport"
   },
@@ -28558,6 +28568,7 @@
   "67234805": {
     "type": "Trap",
     "cn_name": "能力吸收石",
+    "sc_name": "能力吸收石",
     "jp_name": "能力吸収石",
     "en_name": "Powersink Stone"
   },
@@ -34463,6 +34474,7 @@
   "35073065": {
     "type": "Monster",
     "cn_name": "幻想夺取者",
+    "sc_name": "幻想掠夺者",
     "jp_name": "イリュージョン・スナッチ",
     "en_name": "Illusory Snatcher"
   },
@@ -34487,6 +34499,7 @@
   "60645181": {
     "type": "Monster",
     "cn_name": "英豪冠军 断钢剑王",
+    "sc_name": "英豪胜利者 王者之剑",
     "jp_name": "H－C エクスカリバー",
     "en_name": "Heroic Champion - Excalibur"
   },
@@ -36844,6 +36857,7 @@
   "84877802": {
     "type": "Spell",
     "cn_name": "最强之盾",
+    "sc_name": "最强之盾",
     "jp_name": "最強の盾",
     "en_name": "Magnum Shield"
   },
@@ -37227,6 +37241,7 @@
   "71068247": {
     "type": "Monster",
     "cn_name": "图腾鸟",
+    "sc_name": "图腾鸟",
     "jp_name": "トーテムバード",
     "en_name": "Totem Bird"
   },
@@ -48915,6 +48930,7 @@
   "85551711": {
     "type": "Monster",
     "cn_name": "虚空之黑魔导师",
+    "sc_name": "虚空的黑之魔导师",
     "jp_name": "虚空の黒魔導師",
     "en_name": "Ebon High Magician"
   },
@@ -57435,6 +57451,7 @@
   "93377803": {
     "type": "Spell",
     "cn_name": "孤毒之剑",
+    "sc_name": "孤毒之剑",
     "jp_name": "孤毒の剣",
     "en_name": "Solitary Sword of Poison"
   },
@@ -57683,6 +57700,7 @@
   "35772782": {
     "type": "Monster",
     "cn_name": "No.67 平行骰子天堂锤手",
+    "sc_name": "编号67 天堂骰子锤手",
     "jp_name": "No.67 パラダイスマッシャー",
     "en_name": "Number 67: Pair-a-Dice Smasher"
   },
@@ -74737,6 +74755,7 @@
   "80040886": {
     "type": "Monster",
     "cn_name": "碧钢之机龙",
+    "sc_name": "碧钢机龙",
     "jp_name": "碧鋼の機竜",
     "en_name": "Navy Dragon Mech"
   },
