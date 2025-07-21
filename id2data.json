@@ -19938,6 +19938,7 @@
   "74029853": {
     "type": "Spell",
     "cn_name": "黄金色的竹光",
+    "sc_name": "金黄色的竹光",
     "jp_name": "黄金色の竹光",
     "en_name": "Golden Bamboo Sword"
   },
@@ -28048,6 +28049,7 @@
   "10808715": {
     "type": "Monster",
     "cn_name": "假面英雄 暮鸦",
+    "sc_name": "假面－英雄 暮鸦",
     "jp_name": "M・HERO ダスク・クロウ"
   },
   "82697428": {
@@ -42252,6 +42254,7 @@
   "42199039": {
     "type": "Spell",
     "cn_name": "妖刀竹光",
+    "sc_name": "妖刀竹光",
     "jp_name": "妖刀竹光",
     "en_name": "Cursed Bamboo Sword"
   },
@@ -50507,6 +50510,7 @@
   "26964762": {
     "type": "Monster",
     "cn_name": "命运英雄 暗黑天使",
+    "sc_name": "命运－英雄 暗黑天使",
     "jp_name": "D-HERO ダークエンジェル",
     "en_name": "Destiny HERO - Dark Angel"
   },
@@ -76414,6 +76418,7 @@
   "33578406": {
     "type": "Spell",
     "cn_name": "真刀竹光",
+    "sc_name": "真刀竹光",
     "jp_name": "真刀竹光",
     "en_name": "Original Bamboo Sword"
   },
@@ -79590,6 +79595,7 @@
   "58996839": {
     "type": "Monster",
     "cn_name": "阿育王铁柱",
+    "sc_name": "阿育王石柱",
     "jp_name": "アショカ・ピラー",
     "en_name": "Ashoka Pillar"
   },
@@ -87050,41 +87056,49 @@
   "59400890": {
     "type": "Monster",
     "cn_name": "毁灭之黑魔术师",
+    "sc_name": "毁灭的黑魔术师",
     "jp_name": "滅びの黒魔術師"
   },
   "85899505": {
     "type": "Monster",
     "cn_name": "合体魔龙 蒂迈欧",
+    "sc_name": "合体魔龙 提玛欧斯",
     "jp_name": "合体魔竜ティマイオス"
   },
   "22283204": {
     "type": "Spell",
     "cn_name": "蒂迈欧之眼光",
+    "sc_name": "提玛欧斯之眼光",
     "jp_name": "ティマイオスの眼光"
   },
   "58288218": {
     "type": "Monster",
     "cn_name": "假面英雄 炉火",
+    "sc_name": "假面－英雄 焰炉",
     "jp_name": "M・HERO ファーネス"
   },
   "85672957": {
     "type": "Monster",
     "cn_name": "假面英雄 原子火",
+    "sc_name": "假面－英雄 原子",
     "jp_name": "M・HERO アトミック"
   },
   "11161666": {
     "type": "Monster",
     "cn_name": "御巫奉 佐那伎",
+    "sc_name": "御巫奉 纱鸣",
     "jp_name": "御巫奉サナキ"
   },
   "57566760": {
     "type": "Monster",
     "cn_name": "贵日女之御巫",
+    "sc_name": "贵日女之御巫",
     "jp_name": "ウズヒメの御巫"
   },
   "84550369": {
     "type": "Spell",
     "cn_name": "御巫神舞-二贵子",
+    "sc_name": "御巫神舞－二贵子",
     "jp_name": "御巫神舞－二貴子"
   },
   "10949074": {
@@ -87196,6 +87210,7 @@
   "71440209": {
     "type": "Trap",
     "cn_name": "黑魔术的护符",
+    "sc_name": "黑魔术之护符",
     "jp_name": "黒魔術の護符"
   },
   "100238201": {
