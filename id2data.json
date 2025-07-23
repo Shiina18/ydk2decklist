@@ -86247,199 +86247,232 @@
     "type": "Monster",
     "cn_name": "星辰枪手 巨蟹魔",
     "sc_name": "星宿枪手 卢奇亚斯",
-    "jp_name": "星辰槍手ルキアス"
+    "jp_name": "星辰槍手ルキアス",
+    "en_name": "Dracotail Lukias"
   },
   "1498449": {
     "type": "Monster",
     "cn_name": "星辰炮手 宝瓶魔",
     "sc_name": "星宿炮手 法魅那",
-    "jp_name": "星辰砲手ファイメナ"
+    "jp_name": "星辰砲手ファイメナ",
+    "en_name": "Dracotail Faimena"
   },
   "44482554": {
     "type": "Monster",
     "cn_name": "星辰龙 摩羯龙",
     "sc_name": "星宿龙 潘",
-    "jp_name": "星辰竜パーン"
+    "jp_name": "星辰竜パーン",
+    "en_name": "Dracotail Pan"
   },
   "70871153": {
     "type": "Monster",
     "cn_name": "星辰龙 狮子龙",
     "sc_name": "星宿龙 乌尔格拉",
-    "jp_name": "星辰竜ウルグラ"
+    "jp_name": "星辰竜ウルグラ",
+    "en_name": "Dracotail Urgula"
   },
   "7375867": {
     "type": "Monster",
     "cn_name": "星辰龙 天蝎龙",
     "sc_name": "星宿龙 姆露露",
-    "jp_name": "星辰竜ムルル"
+    "jp_name": "星辰竜ムルル",
+    "en_name": "Dracotail Mululu"
   },
   "33760966": {
     "type": "Monster",
     "cn_name": "星辰爪龙 巨蟹摩羯龙魔",
     "sc_name": "星宿爪龙 阿尔扎里昂",
-    "jp_name": "星辰爪竜アルザリオン"
+    "jp_name": "星辰爪竜アルザリオン",
+    "en_name": "Dracotail Arthalion"
   },
   "79755671": {
     "type": "Monster",
     "cn_name": "星辰法宫 狮子宝瓶龙魔",
     "sc_name": "星宿法宫 格拉梅尔",
-    "jp_name": "星辰法宮グラメル"
+    "jp_name": "星辰法宮グラメル",
+    "en_name": "Dracotail Gulamel"
   },
   "6153210": {
     "type": "Spell",
     "cn_name": "计都星辰",
     "sc_name": "计都星宿",
-    "jp_name": "計都星辰"
+    "jp_name": "計都星辰",
+    "en_name": "Ketu Dracotail"
   },
   "32548318": {
     "type": "Spell",
     "cn_name": "罗睺星辰",
     "sc_name": "罗睺星宿",
-    "jp_name": "羅睺星辰"
+    "jp_name": "羅睺星辰",
+    "en_name": "Rahu Dracotail"
   },
   "69932023": {
     "type": "Trap",
     "cn_name": "星辰的裂角",
     "sc_name": "星宿之裂角",
-    "jp_name": "星辰の裂角"
+    "jp_name": "星辰の裂角",
+    "en_name": "Dracotail Horn"
   },
   "5431722": {
     "type": "Trap",
     "cn_name": "星辰的吼炎",
     "sc_name": "星宿之吼炎",
-    "jp_name": "星辰の吼炎"
+    "jp_name": "星辰の吼炎",
+    "en_name": "Dracotail Flame"
   },
   "31425736": {
     "type": "Monster",
     "cn_name": "奶油蛋糕杯猫☆味美喵",
     "sc_name": "杯糕喵☆黯蜜",
-    "jp_name": "カプシー☆ヤミー"
+    "jp_name": "カプシー☆ヤミー",
+    "en_name": "Cupsy☆Yummy"
   },
   "68810435": {
     "type": "Monster",
     "cn_name": "曲奇饼猫☆味美喵",
     "sc_name": "曲奇喵☆黯蜜",
-    "jp_name": "クッキィ☆ヤミー"
+    "jp_name": "クッキィ☆ヤミー",
+    "en_name": "Cooky☆Yummy"
   },
   "4215180": {
     "type": "Monster",
     "cn_name": "棒棒糖猫☆味美喵",
     "sc_name": "棒棒喵☆黯蜜",
-    "jp_name": "ロリポー☆ヤミー"
+    "jp_name": "ロリポー☆ヤミー",
+    "en_name": "Lollipo☆Yummy"
   },
   "31603289": {
     "type": "Monster",
     "cn_name": "奶油蛋糕杯猫★味美喵奖品",
     "sc_name": "杯糕喵★黯蜜味",
-    "jp_name": "カプシー★ヤミーウェイ"
+    "jp_name": "カプシー★ヤミーウェイ",
+    "en_name": "Cupsy★Yummy Way"
   },
   "67098897": {
     "type": "Monster",
     "cn_name": "曲奇饼猫★味美喵奖品",
     "sc_name": "曲奇喵★黯蜜味",
-    "jp_name": "クッキィ★ヤミーウェイ"
+    "jp_name": "クッキィ★ヤミーウェイ",
+    "en_name": "Cooky★Yummy Way"
   },
   "93192592": {
     "type": "Monster",
     "cn_name": "棒棒糖猫★味美喵奖品",
     "sc_name": "棒棒喵★黯蜜味",
-    "jp_name": "ロリポー★ヤミーウェイ"
+    "jp_name": "ロリポー★ヤミーウェイ",
+    "en_name": "Lollipo★Yummy Way"
   },
   "30581601": {
     "type": "Monster",
     "cn_name": "味美喵★点心抓取猫",
     "sc_name": "黯蜜★史拿奇",
-    "jp_name": "ヤミー★スナッチー"
+    "jp_name": "ヤミー★スナッチー",
+    "en_name": "Yummy★Snatchy"
   },
   "66975205": {
     "type": "Spell",
     "cn_name": "味美喵娱乐☆迷你抓物跟班",
     "sc_name": "黯蜜游乐☆小可爱",
-    "jp_name": "ヤミーズメント☆ミニヨン"
+    "jp_name": "ヤミーズメント☆ミニヨン",
+    "en_name": "Yummyusment☆Mignon"
   },
   "93360904": {
     "type": "Spell",
     "cn_name": "味美喵娱乐★握力幸运火箭",
     "sc_name": "黯蜜游乐★巨可口",
-    "jp_name": "ヤミーズメント★アクロッキー"
+    "jp_name": "ヤミーズメント★アクロッキー",
+    "en_name": "Yummyusment★Acroquey"
   },
   "29369059": {
     "type": "Spell",
     "cn_name": "味美喵☆惊喜奖品",
     "sc_name": "黯蜜☆惊喜",
-    "jp_name": "ヤミー☆サプライズ"
+    "jp_name": "ヤミー☆サプライズ",
+    "en_name": "Yummy☆Surprise"
   },
   "65853758": {
     "type": "Trap",
     "cn_name": "味美喵★兑换",
     "sc_name": "黯蜜★救赎",
-    "jp_name": "ヤミー★リデンプション"
+    "jp_name": "ヤミー★リデンプション",
+    "en_name": "Yummy★Redemption"
   },
   "92248362": {
     "type": "Monster",
     "cn_name": "K9-17号 饭纲",
     "sc_name": "K9－17号 饭纲",
-    "jp_name": "K９－１７号 イヅナ"
+    "jp_name": "K９－１７号 イヅナ",
+    "en_name": "K9-17 Izuna"
   },
   "28642461": {
     "type": "Monster",
     "cn_name": "K9-66a号 霜妖",
     "sc_name": "K9－66a号 冰精",
-    "jp_name": "K９－６６a号 ヨクル"
+    "jp_name": "K９－６６a号 ヨクル",
+    "en_name": "K9-66a Jokul"
   },
   "55031170": {
     "type": "Monster",
     "cn_name": "K9-66b号 灯鬼",
     "sc_name": "K9－66b号 灯笼",
-    "jp_name": "K９－６６b号 ランタン"
+    "jp_name": "K９－６６b号 ランタン",
+    "en_name": "K9-66b Lantern"
   },
   "91025875": {
     "type": "Monster",
     "cn_name": "K9-ØØ号 野狼",
     "sc_name": "K9－ØØ号 天狼",
-    "jp_name": "K９－ØØ号 ルプス"
+    "jp_name": "K９－ØØ号 ルプス",
+    "en_name": "K9-ØØ Lupis"
   },
   "27420823": {
     "type": "Monster",
     "cn_name": "K9-17号 “撕裂者”",
     "sc_name": "K9－17号 “割裂者”",
-    "jp_name": "K９－１７号 “Ripper”"
+    "jp_name": "K９－１７号 “Ripper”",
+    "en_name": "K9-17 \"Ripper\""
   },
   "54919528": {
     "type": "Monster",
     "cn_name": "K9-ØØ号 “猎犬”",
     "sc_name": "K9－ØØ号 “猎手”",
-    "jp_name": "K９－ØØ号 “Hound”"
+    "jp_name": "K９－ØØ号 “Hound”",
+    "en_name": "K9-ØØ \"Hound\""
   },
   "90303227": {
     "type": "Monster",
     "cn_name": "K9-EX “狼人”",
     "sc_name": "K9－EX “狼人”",
-    "jp_name": "K９－EX “Werewolf”"
+    "jp_name": "K９－EX “Werewolf”",
+    "en_name": "K9-X \"Werewolf\""
   },
   "27308231": {
     "type": "Spell",
     "cn_name": "K9-LC拘束解除",
     "sc_name": "K9－LC 拘束解除",
-    "jp_name": "K９－LC拘束解除"
+    "jp_name": "K９－LC拘束解除",
+    "en_name": "K9-LC Release Restraint"
   },
   "53792930": {
     "type": "Spell",
     "cn_name": "K9-EX强制解除",
     "sc_name": "K9－EX 强制解除",
-    "jp_name": "K９－EX強制解除"
+    "jp_name": "K９－EX強制解除",
+    "en_name": "K9-X Forced Release"
   },
   "80181649": {
     "type": "Spell",
     "cn_name": "“K9案件”",
     "sc_name": "“K9刑侦案件”",
-    "jp_name": "“Case of K９”"
+    "jp_name": "“Case of K９”",
+    "en_name": "\"A Case for K9\""
   },
   "26585784": {
     "type": "Trap",
     "cn_name": "K9-EW特殊解除实验",
     "sc_name": "K9－EW 特殊解除实验",
-    "jp_name": "K９－EW特殊解除実験"
+    "jp_name": "K９－EW特殊解除実験",
+    "en_name": "K9-EW Special Release Experiment"
   },
   "74941992": {
     "type": "Monster",
