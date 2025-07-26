@@ -87251,6 +87251,406 @@
     "cn_name": "迦楼加鲁之尸炼魔",
     "jp_name": "ガルガルドの屍煉魔"
   },
+  "101302201": {
+    "type": "Monster",
+    "cn_name": "DD 骑枪士兵",
+    "jp_name": "DDランス・ソルジャー"
+  },
+  "101302202": {
+    "type": "Monster",
+    "cn_name": "DD 防卫士兵",
+    "jp_name": "DDディフェンス・ソルジャー"
+  },
+  "101302203": {
+    "type": "Monster",
+    "cn_name": "DDD 零死王 零·机降神",
+    "jp_name": "DDD零死王ゼロ・マキナ"
+  },
+  "101302004": {
+    "type": "Monster",
+    "cn_name": "紫烈兰之魔女",
+    "jp_name": "バイオレンス・ウィッチ"
+  },
+  "101302005": {
+    "type": "Monster",
+    "cn_name": "夜蔷薇之黑骑士",
+    "jp_name": "夜薔薇の黒騎士"
+  },
+  "101302006": {
+    "type": "Monster",
+    "cn_name": "刚鬼 魔神过肩摔霸王龙",
+    "jp_name": "剛鬼マシン・スープレックス"
+  },
+  "101302007": {
+    "type": "Monster",
+    "cn_name": "拟声蜥蜴",
+    "jp_name": "オノマトカゲ"
+  },
+  "101302008": {
+    "type": "Monster",
+    "cn_name": "始时终刻龙机12-德剌斯忒亚",
+    "jp_name": "終刻竜機ⅩⅡ－ドラスティア"
+  },
+  "101302009": {
+    "type": "Monster",
+    "cn_name": "终刻龙机5-阿玛尔忒",
+    "jp_name": "終刻竜機Ⅴ－アマルテ"
+  },
+  "101302010": {
+    "type": "Monster",
+    "cn_name": "终刻龙机7-伊拉拉",
+    "jp_name": "終刻竜機Ⅶ－エララ"
+  },
+  "101302011": {
+    "type": "Monster",
+    "cn_name": "狱神机 终刻-至",
+    "jp_name": "獄神機Doom－Z"
+  },
+  "101302012": {
+    "type": "Monster",
+    "cn_name": "绚岚之弥迦罗",
+    "jp_name": "絢嵐たるメガラ"
+  },
+  "101302013": {
+    "type": "Monster",
+    "cn_name": "绚岚之楼陀沐",
+    "jp_name": "絢嵐たるエルダム"
+  },
+  "101302014": {
+    "type": "Monster",
+    "cn_name": "绚岚之戌延",
+    "jp_name": "絢嵐たるスエン"
+  },
+  "101302015": {
+    "type": "Monster",
+    "cn_name": "绚岚之鸠楼泽",
+    "jp_name": "絢嵐たるクローゼア"
+  },
+  "101302016": {
+    "type": "Monster",
+    "cn_name": "绚岚涡丽 伐楼风",
+    "jp_name": "絢嵐渦麗ヴァルルーン"
+  },
+  "101302017": {
+    "type": "Monster",
+    "cn_name": "绚岚豪火 凤皇",
+    "jp_name": "絢嵐豪火フォニクス"
+  },
+  "101302018": {
+    "type": "Monster",
+    "cn_name": "真龙魔王 卓辉星·拼图",
+    "jp_name": "真竜魔王マスターP"
+  },
+  "101302019": {
+    "type": "Monster",
+    "cn_name": "真龙凰骑 玛丽亚姆内·矛盾",
+    "jp_name": "真竜凰騎マリアムネP"
+  },
+  "101302020": {
+    "type": "Monster",
+    "cn_name": "七音服·梭菲奇娅",
+    "jp_name": "ドレミコード・ソルフェージア"
+  },
+  "101302021": {
+    "type": "Monster",
+    "cn_name": "七音服·普莉茉娅",
+    "jp_name": "ドレミコード・プリモア"
+  },
+  "101302022": {
+    "type": "Monster",
+    "cn_name": "葬世之神 狄瓦芮",
+    "jp_name": "葬世の神 デーヴァリーム"
+  },
+  "101302023": {
+    "type": "Monster",
+    "cn_name": "星辰响手 金牛魔",
+    "jp_name": "星辰響手プリクル"
+  },
+  "101302024": {
+    "type": "Monster",
+    "cn_name": "棉花软糖猫☆味美喵",
+    "jp_name": "マシュマオ☆ヤミー"
+  },
+  "101302025": {
+    "type": "Monster",
+    "cn_name": "K9-04号 咒",
+    "jp_name": "K９－０４号 咒"
+  },
+  "101302026": {
+    "type": "Monster",
+    "cn_name": "教导的雷霆 弗勒德莉丝",
+    "jp_name": "教導の雷霆フルルドリス"
+  },
+  "101302027": {
+    "type": "Monster",
+    "cn_name": "蹴神·界外回放主裁",
+    "jp_name": "蹴神－VARefar"
+  },
+  "101302028": {
+    "type": "Monster",
+    "cn_name": "转轮之斯芬克斯",
+    "jp_name": "転輪のスフィンクス"
+  },
+  "101302029": {
+    "type": "Monster",
+    "cn_name": "多利·多尔·多拉",
+    "jp_name": "ドリ・ドル・ドラ"
+  },
+  "101302030": {
+    "type": "Monster",
+    "cn_name": "斋狭依姬",
+    "jp_name": "斎キ狭依姫"
+  },
+  "101302031": {
+    "type": "Monster",
+    "cn_name": "阴阳师 桃桃",
+    "jp_name": "陰陽師 タオタオ"
+  },
+  "101302032": {
+    "type": "Monster",
+    "cn_name": "睡醒一杯！玛琪咖啡",
+    "jp_name": "WAKE CUP！ マキ"
+  },
+  "101302033": {
+    "type": "Monster",
+    "cn_name": "巨石遗物·富洛奥曲",
+    "jp_name": "メガリス・フローチュ"
+  },
+  "101302034": {
+    "type": "Monster",
+    "cn_name": "巨石遗物·诺特拉富尔龙",
+    "jp_name": "メガリス・ノートラ・プルーラ"
+  },
+  "101302204": {
+    "type": "Monster",
+    "cn_name": "DDDD 伟次元王 弧源危机神",
+    "jp_name": "DDDD偉次元王アーク・クライシス"
+  },
+  "101302036": {
+    "type": "Monster",
+    "cn_name": "刚鬼 暴君食人魔",
+    "jp_name": "剛鬼ザ・タイラント・オーガ"
+  },
+  "101302037": {
+    "type": "Monster",
+    "cn_name": "念动力体神谕人",
+    "jp_name": "サイキッカー・オラクル"
+  },
+  "101302205": {
+    "type": "Monster",
+    "cn_name": "DDD 创始王 克洛维",
+    "jp_name": "DDD創始王クロヴィス"
+  },
+  "101302039": {
+    "type": "Monster",
+    "cn_name": "黑蔷薇之破灭龙",
+    "jp_name": "黒薔薇の破滅竜"
+  },
+  "101302040": {
+    "type": "Monster",
+    "cn_name": "黑蔷薇与荆棘之魔女",
+    "jp_name": "黒薔薇と荊棘の魔女"
+  },
+  "101302041": {
+    "type": "Monster",
+    "cn_name": "刚鬼 飞龙食人魔",
+    "jp_name": "剛鬼ドラゴン・オーガ"
+  },
+  "101302042": {
+    "type": "Monster",
+    "cn_name": "静寂的念力女巫",
+    "jp_name": "静寂のサイコソーサレス"
+  },
+  "101302206": {
+    "type": "Monster",
+    "cn_name": "DDD 智慧王 所罗门",
+    "jp_name": "DDD智慧王ソロモン"
+  },
+  "101302044": {
+    "type": "Monster",
+    "cn_name": "坏狱神 朱庇特",
+    "jp_name": "壊獄神ユピテル"
+  },
+  "101302045": {
+    "type": "Monster",
+    "cn_name": "极时终狱龙机12-德剌斯托利斯",
+    "jp_name": "終獄龍機ⅩⅡ－ドラストリウス"
+  },
+  "101302046": {
+    "type": "Monster",
+    "cn_name": "终刻狱徒 底亚克托罗斯",
+    "jp_name": "終刻獄徒 ディアクトロス"
+  },
+  "101302047": {
+    "type": "Monster",
+    "cn_name": "K9-666号 “杰克对灯”",
+    "jp_name": "K９－６６６号 “Jacks”"
+  },
+  "101302048": {
+    "type": "Monster",
+    "cn_name": "漆梏之食兽 刻耳西卜斯",
+    "jp_name": "漆梏の喰獣 ケルゼブス"
+  },
+  "101302207": {
+    "type": "Monster",
+    "cn_name": "DDD 天空王 宙斯末日神",
+    "jp_name": "DDD天空王ゼウス・ラグナロク"
+  },
+  "101302050": {
+    "type": "Monster",
+    "cn_name": "刚鬼 长老食人魔",
+    "jp_name": "剛鬼シーク・オーガ"
+  },
+  "101302051": {
+    "type": "Monster",
+    "cn_name": "铁兽式击灭兵装“猎猫”",
+    "jp_name": "鉄獣式撃滅兵装“Mouser”"
+  },
+  "101302052": {
+    "type": "Monster",
+    "cn_name": "瘴烟之死灵术师",
+    "jp_name": "瘴煙の死霊術師"
+  },
+  "101302053": {
+    "type": "Monster",
+    "cn_name": "炎魔刃 雷瓦汀",
+    "jp_name": "炎魔刃レーヴァテイン"
+  },
+  "101302208": {
+    "type": "Spell",
+    "cn_name": "零王的契约书",
+    "jp_name": "零王の契約書"
+  },
+  "101302055": {
+    "type": "Spell",
+    "cn_name": "黑蔷薇之华园",
+    "jp_name": "黒薔薇の華園"
+  },
+  "101302056": {
+    "type": "Spell",
+    "cn_name": "刚鬼斗魂",
+    "jp_name": "剛鬼闘魂"
+  },
+  "101302057": {
+    "type": "Spell",
+    "cn_name": "终刻击针",
+    "jp_name": "終刻撃針"
+  },
+  "101302058": {
+    "type": "Spell",
+    "cn_name": "终刻起动『D.O.O.M.D.U.R.G』",
+    "jp_name": "終刻起動『D.O.O.M.D.U.R.G.』"
+  },
+  "101302059": {
+    "type": "Spell",
+    "cn_name": "破灭的预幻视",
+    "jp_name": "破滅なる予幻視"
+  },
+  "101302060": {
+    "type": "Spell",
+    "cn_name": "神艺学的运芯-血统-",
+    "jp_name": "アルトメギア・ムーヴメント－血統－"
+  },
+  "101302061": {
+    "type": "Spell",
+    "cn_name": "绚岚之献咏",
+    "jp_name": "絢嵐たる献詠"
+  },
+  "101302062": {
+    "type": "Spell",
+    "cn_name": "绚岚之显现",
+    "jp_name": "絢嵐たる顕現"
+  },
+  "101302063": {
+    "type": "Spell",
+    "cn_name": "绚岚之见神",
+    "jp_name": "絢嵐たる見神"
+  },
+  "101302064": {
+    "type": "Spell",
+    "cn_name": "龙呼双搏",
+    "jp_name": "竜呼双搏"
+  },
+  "101302065": {
+    "type": "Spell",
+    "cn_name": "幸福的多重奏",
+    "jp_name": "幸せの多重奏"
+  },
+  "101302066": {
+    "type": "Spell",
+    "cn_name": "巨石遗物复活",
+    "jp_name": "メガリス・アナスタシス"
+  },
+  "101302067": {
+    "type": "Spell",
+    "cn_name": "Yum☆Yum☆味美喵",
+    "jp_name": "Yum☆Yum☆ヤミーズ"
+  },
+  "101302068": {
+    "type": "Spell",
+    "cn_name": "铁兽的击铁",
+    "jp_name": "鉄獣の撃鉄"
+  },
+  "101302069": {
+    "type": "Spell",
+    "cn_name": "地狱处刑者",
+    "jp_name": "ヘル・パニッシャー"
+  },
+  "101302070": {
+    "type": "Spell",
+    "cn_name": "融合募兵",
+    "jp_name": "融合募兵"
+  },
+  "101302071": {
+    "type": "Spell",
+    "cn_name": "噫吁嚱 香消玉亦殒",
+    "jp_name": "あないみじや玉の緒ふたつ"
+  },
+  "101302072": {
+    "type": "Spell",
+    "cn_name": "默齿录",
+    "jp_name": "黙歯録"
+  },
+  "101302209": {
+    "type": "Trap",
+    "cn_name": "异次元的契约书",
+    "jp_name": "異次元の契約書"
+  },
+  "101302074": {
+    "type": "Trap",
+    "cn_name": "终刻决坏",
+    "jp_name": "終刻決壊"
+  },
+  "101302075": {
+    "type": "Trap",
+    "cn_name": "神艺学的转折-激荡-",
+    "jp_name": "アルトメギア・ペリペティア－激動－"
+  },
+  "101302076": {
+    "type": "Trap",
+    "cn_name": "绚岚之权能",
+    "jp_name": "絢嵐たる権能"
+  },
+  "101302077": {
+    "type": "Trap",
+    "cn_name": "星辰的刺毒",
+    "jp_name": "星辰の刺毒"
+  },
+  "101302078": {
+    "type": "Trap",
+    "cn_name": "凶导的圣兽",
+    "jp_name": "凶導の聖獣"
+  },
+  "101302079": {
+    "type": "Trap",
+    "cn_name": "命王的螺旋",
+    "jp_name": "命王の螺旋"
+  },
+  "101302080": {
+    "type": "Trap",
+    "cn_name": "菊姬的盘算术",
+    "jp_name": "お菊さんの皿算用"
+  },
   "100200277": {
     "type": "Monster",
     "cn_name": "萤焅圣 亚历库斯",
