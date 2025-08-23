@@ -87800,6 +87800,171 @@
     "sc_name": "阿菊的如意算盘",
     "jp_name": "お菊さんの皿算用"
   },
+  "100245001": {
+    "type": "Monster",
+    "cn_name": "不可见之手 诱天手",
+    "jp_name": "見えざる手イブエル"
+  },
+  "100245002": {
+    "type": "Monster",
+    "cn_name": "不可见之手 招天手",
+    "jp_name": "見えざる手ヤドエル"
+  },
+  "100245003": {
+    "type": "Monster",
+    "cn_name": "不可见之手 科托神手",
+    "jp_name": "見えざる手ゴッドス"
+  },
+  "100245004": {
+    "type": "Monster",
+    "cn_name": "不可见之手 古革鬼手",
+    "jp_name": "見えざる手ガイガス"
+  },
+  "100245005": {
+    "type": "Monster",
+    "cn_name": "不可见之手 布里刃手",
+    "jp_name": "見えざる手ブレアス"
+  },
+  "100245006": {
+    "type": "Monster",
+    "cn_name": "不可见之神 乔扎之手",
+    "jp_name": "見えざる神ジャウザー"
+  },
+  "100245007": {
+    "type": "Monster",
+    "cn_name": "不可见之神 宙斯异手",
+    "jp_name": "見えざる神ゼノ"
+  },
+  "100245008": {
+    "type": "Spell",
+    "cn_name": "神的不可见之手",
+    "jp_name": "神の見えざる手"
+  },
+  "100245009": {
+    "type": "Spell",
+    "cn_name": "不可见之幽狱",
+    "jp_name": "見えざる幽獄"
+  },
+  "100245010": {
+    "type": "Trap",
+    "cn_name": "不可见之诱引手",
+    "jp_name": "見えざる誘い手"
+  },
+  "100245011": {
+    "type": "Trap",
+    "cn_name": "不可见之招引手",
+    "jp_name": "見えざる招き手"
+  },
+  "100245016": {
+    "type": "Monster",
+    "cn_name": "纠罪巧α'-愤怒“orgIA”",
+    "jp_name": "糾罪巧α’－「orgIA」"
+  },
+  "100245017": {
+    "type": "Monster",
+    "cn_name": "纠罪巧β'-傲慢“alazoneIA”",
+    "jp_name": "糾罪巧β’－「alazoneIA」"
+  },
+  "100245018": {
+    "type": "Monster",
+    "cn_name": "纠罪巧ϝ'-恐怖“tromarIA”",
+    "jp_name": "糾罪巧ϝ’－「tromarIA」"
+  },
+  "100245019": {
+    "type": "Monster",
+    "cn_name": "纠罪巧θ'-怠惰“oknirIA”",
+    "jp_name": "糾罪巧θ’－「oknirIA」"
+  },
+  "100245020": {
+    "type": "Monster",
+    "cn_name": "纠罪巧-骄狮 Aizaβ.LEON",
+    "jp_name": "糾罪巧－Aizaβ.LEON"
+  },
+  "100245021": {
+    "type": "Monster",
+    "cn_name": "纠罪巧-诈狐 Astaγ.PIXIEA",
+    "jp_name": "糾罪巧－Astaγ.PIXIEA"
+  },
+  "100245022": {
+    "type": "Monster",
+    "cn_name": "纠罪巧-惧鲸 Atoriϝ.MAR",
+    "jp_name": "糾罪巧－Atoriϝ.MAR"
+  },
+  "100245023": {
+    "type": "Monster",
+    "cn_name": "纠罪巧-嗜蝎 Archaη.TAIL",
+    "jp_name": "糾罪巧－Archaη.TAIL"
+  },
+  "100245024": {
+    "type": "Spell",
+    "cn_name": "纠罪都市",
+    "jp_name": "糾罪都市－エニアポリス"
+  },
+  "100245025": {
+    "type": "Spell",
+    "cn_name": "纠罪巧-解放始导",
+    "jp_name": "糾罪巧－始導"
+  },
+  "100245026": {
+    "type": "Spell",
+    "cn_name": "纠罪巧-反转裁诞",
+    "jp_name": "糾罪巧－裁誕"
+  },
+  "100245031": {
+    "type": "Monster",
+    "cn_name": "杀手级调整曲·混音手",
+    "jp_name": "キラーチューン・ミクス"
+  },
+  "100245032": {
+    "type": "Monster",
+    "cn_name": "杀手级调整曲·削波手",
+    "jp_name": "キラーチューン・クリップ"
+  },
+  "100245033": {
+    "type": "Monster",
+    "cn_name": "杀手级调整曲·唱片师",
+    "jp_name": "キラーチューン・レコ"
+  },
+  "100245034": {
+    "type": "Monster",
+    "cn_name": "杀手级调整曲·指时手",
+    "jp_name": "キラーチューン・キュー"
+  },
+  "100245035": {
+    "type": "Monster",
+    "cn_name": "杀手级调整曲·音轨制作人",
+    "jp_name": "キラーチューン・トラックメイカー"
+  },
+  "100245036": {
+    "type": "Monster",
+    "cn_name": "杀手级调整曲·再混音手",
+    "jp_name": "キラーチューン・リミックス"
+  },
+  "100245037": {
+    "type": "Monster",
+    "cn_name": "杀手级调整曲·红印鉴唱片师",
+    "jp_name": "キラーチューン・レッドシール"
+  },
+  "100245038": {
+    "type": "Monster",
+    "cn_name": "杀手级调整曲响度战争",
+    "jp_name": "キラーチューン・ラウドネスウォー"
+  },
+  "100245039": {
+    "type": "Spell",
+    "cn_name": "杀手级调整曲同调",
+    "jp_name": "キラーチューン・シンクロ"
+  },
+  "100245040": {
+    "type": "Spell",
+    "cn_name": "点唱机酒吧“杀手级调整曲”",
+    "jp_name": "ジュークジョイント“Killer Tune”"
+  },
+  "100245041": {
+    "type": "Trap",
+    "cn_name": "杀手级调整曲播放列表",
+    "jp_name": "キラーチューン・プレイリスト"
+  },
   "40725446": {
     "type": "Monster",
     "cn_name": "荧焅圣 阿瑞库斯",
