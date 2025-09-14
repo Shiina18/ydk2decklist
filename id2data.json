@@ -8014,6 +8014,7 @@
   "38411870": {
     "type": "Trap",
     "cn_name": "吊顶",
+    "sc_name": "尖刺吊顶",
     "jp_name": "つり天井",
     "en_name": "Needle Ceiling"
   },
@@ -24381,6 +24382,7 @@
   "8233522": {
     "type": "Monster",
     "cn_name": "正义盟军 周期解读虫",
+    "sc_name": "A・O・J 循环读取者",
     "jp_name": "A・O・J サイクルリーダー",
     "en_name": "Ally of Justice Cycle Reader"
   },
@@ -32071,6 +32073,7 @@
   "33782437": {
     "type": "Spell",
     "cn_name": "一时休战",
+    "sc_name": "暂时休战",
     "jp_name": "一時休戦",
     "en_name": "One Day of Peace"
   },
@@ -44985,6 +44988,7 @@
   "84845628": {
     "type": "Monster",
     "cn_name": "狱落鸟",
+    "sc_name": "狱落鸟",
     "jp_name": "獄落鳥",
     "en_name": "Bird of Paradise Lost"
   },
@@ -46016,6 +46020,7 @@
   "91501248": {
     "type": "Monster",
     "cn_name": "禁忌之壶",
+    "sc_name": "禁忌之壶",
     "jp_name": "禁忌の壺",
     "en_name": "Pot of The Forbidden"
   },
@@ -48129,6 +48134,7 @@
   "26517393": {
     "type": "Monster",
     "cn_name": "里风之精灵",
+    "sc_name": "里风之精灵",
     "jp_name": "裏風の精霊",
     "en_name": "Spirit of the Fall Wind"
   },
@@ -49487,6 +49493,7 @@
   "21142671": {
     "type": "Monster",
     "cn_name": "红莲新星",
+    "sc_name": "暗红新星",
     "jp_name": "レッド・ノヴァ",
     "en_name": "Red Nova"
   },
@@ -50926,6 +50933,7 @@
   "27750191": {
     "type": "Monster",
     "cn_name": "横纲犬",
+    "sc_name": "横纲犬",
     "jp_name": "横綱犬",
     "en_name": "Yokotuner"
   },
@@ -52510,6 +52518,7 @@
   "56673480": {
     "type": "Spell",
     "cn_name": "上千主上的契约",
+    "sc_name": "上千主上的契约",
     "jp_name": "ドン・サウザンドの契約",
     "en_name": "Contract with Don Thousand"
   },
@@ -65957,6 +65966,7 @@
   "55702233": {
     "type": "Monster",
     "cn_name": "活回忆之羽衣精",
+    "sc_name": "锦丝幽魂悠思景",
     "jp_name": "生きる偲びのシルキィ",
     "en_name": "Ret-time Reviver Emit-ter"
   },
@@ -67495,6 +67505,7 @@
   "99666430": {
     "type": "Monster",
     "cn_name": "人造人-念力层叠者",
+    "sc_name": "人造人－念力层叠者",
     "jp_name": "人造人間－サイコ・レイヤー",
     "en_name": "Jinzo - Layered"
   },
@@ -74296,6 +74307,7 @@
   "19739265": {
     "type": "Spell",
     "cn_name": "太阳与月亮",
+    "sc_name": "日与月",
     "jp_name": "サン・アンド・ムーン",
     "en_name": "Sol and Luna"
   },
@@ -76486,6 +76498,7 @@
   "6589707": {
     "type": "Spell",
     "cn_name": "地中界的灾厄",
+    "sc_name": "地中界的厄灾",
     "jp_name": "地中界の厄災",
     "en_name": "Terrors in the Hidden City"
   },
@@ -81785,6 +81798,7 @@
   "79627627": {
     "type": "Monster",
     "cn_name": "半缠鸟官-转变鸟",
+    "sc_name": "半缠鸟官－翻飞鸟",
     "jp_name": "半纏鳥官－コンバード",
     "en_name": "Conbirdable"
   },
@@ -81797,6 +81811,7 @@
   "42510430": {
     "type": "Spell",
     "cn_name": "日落浪拍",
+    "sc_name": "日落律动",
     "jp_name": "サンセット・ビート",
     "en_name": "Sunset Beat"
   },
@@ -87918,166 +87933,199 @@
   "95365081": {
     "type": "Monster",
     "cn_name": "不可见之手 诱天手",
+    "sc_name": "百臂无形手 伊卜揶尔",
     "jp_name": "見えざる手イブエル"
   },
   "32759190": {
     "type": "Monster",
     "cn_name": "不可见之手 招天手",
+    "sc_name": "百臂无形手 雅多揶尔",
     "jp_name": "見えざる手ヤドエル"
   },
   "68144894": {
     "type": "Monster",
     "cn_name": "不可见之手 科托神手",
+    "sc_name": "百臂无形手 格多撕",
     "jp_name": "見えざる手ゴッドス"
   },
   "95132593": {
     "type": "Monster",
     "cn_name": "不可见之手 古革鬼手",
+    "sc_name": "百臂无形手 盖伽撕",
     "jp_name": "見えざる手ガイガス"
   },
   "21637502": {
     "type": "Monster",
     "cn_name": "不可见之手 布里刃手",
+    "sc_name": "百臂无形手 布瑞撕",
     "jp_name": "見えざる手ブレアス"
   },
   "67021206": {
     "type": "Monster",
     "cn_name": "不可见之神 乔扎之手",
+    "sc_name": "百臂无形神 迦乌撒",
     "jp_name": "見えざる神ジャウザー"
   },
   "94410955": {
     "type": "Monster",
     "cn_name": "不可见之神 宙斯异手",
+    "sc_name": "百臂无形神 慑挪",
     "jp_name": "見えざる神ゼノ"
   },
   "20415050": {
     "type": "Spell",
     "cn_name": "神的不可见之手",
+    "sc_name": "神之百臂无形手",
     "jp_name": "神の見えざる手"
   },
   "57809669": {
     "type": "Spell",
     "cn_name": "不可见之幽狱",
+    "sc_name": "百臂无形幽狱 塔尔塔洛撕",
     "jp_name": "見えざる幽獄"
   },
   "93294363": {
     "type": "Trap",
     "cn_name": "不可见之诱引手",
+    "sc_name": "百臂无形诱惑手",
     "jp_name": "見えざる誘い手"
   },
   "29792472": {
     "type": "Trap",
     "cn_name": "不可见之招引手",
+    "sc_name": "百臂无形招引手",
     "jp_name": "見えざる招き手"
   },
   "56187077": {
     "type": "Monster",
     "cn_name": "纠罪巧α'-愤怒“orgIA”",
+    "sc_name": "纠罪巧α’－愤怒“orgIA”",
     "jp_name": "糾罪巧α’－「orgIA」"
   },
   "92171126": {
     "type": "Monster",
     "cn_name": "纠罪巧β'-傲慢“alazoneIA”",
+    "sc_name": "纠罪巧β’－傲慢“alazoneIA”",
     "jp_name": "糾罪巧β’－「alazoneIA」"
   },
   "29570824": {
     "type": "Monster",
     "cn_name": "纠罪巧ϝ'-恐怖“tromarIA”",
+    "sc_name": "纠罪巧ϝ’－恐怖“tromarIA”",
     "jp_name": "糾罪巧ϝ’－「tromarIA」"
   },
   "55965529": {
     "type": "Monster",
     "cn_name": "纠罪巧θ'-怠惰“oknirIA”",
+    "sc_name": "纠罪巧θ’－怠惰“oknirIA”",
     "jp_name": "糾罪巧θ’－「oknirIA」"
   },
   "82359538": {
     "type": "Monster",
     "cn_name": "纠罪巧-骄狮 Aizaβ.LEON",
+    "sc_name": "纠罪巧－骄狮 Aizaβ.LEON",
     "jp_name": "糾罪巧－Aizaβ.LEON"
   },
   "28454232": {
     "type": "Monster",
     "cn_name": "纠罪巧-诈狐 Astaγ.PIXIEA",
+    "sc_name": "纠罪巧－诈狐 Astaγ.PIXIEA",
     "jp_name": "糾罪巧－Astaγ.PIXIEA"
   },
   "54842941": {
     "type": "Monster",
     "cn_name": "纠罪巧-惧鲸 Atoriϝ.MAR",
+    "sc_name": "纠罪巧－惧鲸 Atoriϝ.MAR",
     "jp_name": "糾罪巧－Atoriϝ.MAR"
   },
   "81237046": {
     "type": "Monster",
     "cn_name": "纠罪巧-嗜蝎 Archaη.TAIL",
+    "sc_name": "纠罪巧－嗜蝎 Archaη.TAIL",
     "jp_name": "糾罪巧－Archaη.TAIL"
   },
   "17621695": {
     "type": "Spell",
     "cn_name": "纠罪都市",
+    "sc_name": "纠罪都市",
     "jp_name": "糾罪都市－エニアポリス"
   },
   "54020393": {
     "type": "Spell",
     "cn_name": "纠罪巧-解放始导",
+    "sc_name": "纠罪巧－解放始导",
     "jp_name": "糾罪巧－始導"
   },
   "80015408": {
     "type": "Spell",
     "cn_name": "纠罪巧-反转裁诞",
+    "sc_name": "纠罪巧－反转裁诞",
     "jp_name": "糾罪巧－裁誕"
   },
   "16509007": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·混音手",
+    "sc_name": "杀手旋律・米可丝",
     "jp_name": "キラーチューン・ミクス"
   },
   "43904702": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·削波手",
+    "sc_name": "杀手旋律・酷莉普",
     "jp_name": "キラーチューン・クリップ"
   },
   "89392810": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·唱片师",
+    "sc_name": "杀手旋律・乐蔻",
     "jp_name": "キラーチューン・レコ"
   },
   "16387555": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·提示员",
+    "sc_name": "杀手旋律・绮悠",
     "jp_name": "キラーチューン・キュー"
   },
   "42781164": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·音轨制作人",
+    "sc_name": "杀手旋律・造轨者",
     "jp_name": "キラーチューン・トラックメイカー"
   },
   "88170262": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·再混音手",
+    "sc_name": "杀手旋律・重混",
     "jp_name": "キラーチューン・リミックス"
   },
   "15665977": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·红印鉴唱片师",
+    "sc_name": "杀手旋律・赤印",
     "jp_name": "キラーチューン・レッドシール"
   },
   "41069676": {
     "type": "Monster",
     "cn_name": "杀手级调整曲响度战争",
+    "sc_name": "杀手旋律・响度战争",
     "jp_name": "キラーチューン・ラウドネスウォー"
   },
   "78058681": {
     "type": "Spell",
     "cn_name": "杀手级调整曲同调",
+    "sc_name": "杀手旋律・同步",
     "jp_name": "キラーチューン・シンクロ"
   },
   "14442329": {
     "type": "Spell",
     "cn_name": "点唱机酒吧“杀手级调整曲”",
+    "sc_name": "地下俱乐部『杀手旋律』",
     "jp_name": "ジュークジョイント“Killer Tune”"
   },
   "40847034": {
     "type": "Trap",
     "cn_name": "杀手级调整曲播放列表",
+    "sc_name": "杀手旋律・歌单",
     "jp_name": "キラーチューン・プレイリスト"
   },
   "40725446": {
