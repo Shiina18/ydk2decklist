@@ -83599,81 +83599,97 @@
   "67694706": {
     "type": "Monster",
     "cn_name": "魔化变形溶胶",
+    "jp_name": "魔溶生物ゾル",
     "en_name": "Magicolloidal Sol"
   },
   "93683815": {
     "type": "Monster",
     "cn_name": "圣龙像 乌尔米纳",
+    "jp_name": "聖竜ヴルミナ像",
     "en_name": "Vulmina, Statue of the Sacred Dragon"
   },
   "20087414": {
     "type": "Trap",
     "cn_name": "久延毘古",
+    "jp_name": "久延毘古",
     "en_name": "Kuebiko"
   },
   "66472129": {
     "type": "Monster",
     "cn_name": "沉海魔鬼",
+    "jp_name": "ディプシーデビル",
     "en_name": "Dipsea Fiend"
   },
   "93860227": {
     "type": "Monster",
     "cn_name": "优丽的灵公主",
+    "jp_name": "優麗なる霊鏡姫",
     "en_name": "Necroquip Princess"
   },
   "29265962": {
     "type": "Spell",
     "cn_name": "同姓同名同盟罢业",
+    "jp_name": "同姓同名同盟罷業",
     "en_name": "The League of Uniform Nomenclature Strikes"
   },
   "55359571": {
     "type": "Monster",
     "cn_name": "人形神的雏祭",
+    "jp_name": "こちょぼの人形祀り",
     "en_name": "Kochobo's Hinamatsuri"
   },
   "92744676": {
     "type": "Monster",
     "cn_name": "电钳虾",
+    "jp_name": "デンジエビ",
     "en_name": "Zapper Shrimp"
   },
   "28143384": {
     "type": "Monster",
     "cn_name": "空气吞噬者",
+    "jp_name": "エアリアル・イーター",
     "en_name": "Aerial Eater"
   },
   "55537983": {
     "type": "Monster",
     "cn_name": "拟箱掳尸鬼主",
+    "jp_name": "ミミグル・マスター",
     "en_name": "Mimighoul Master"
   },
   "81522098": {
     "type": "Monster",
     "cn_name": "拟箱掳尸龙",
+    "jp_name": "ミミグル・ドラゴン",
     "en_name": "Mimighoul Dragon"
   },
   "23920796": {
     "type": "Monster",
     "cn_name": "拟箱掳尸三头犬",
+    "jp_name": "ミミグル・ケルベロス",
     "en_name": "Mimighoul Cerberus"
   },
   "50415441": {
     "type": "Monster",
     "cn_name": "拟箱掳尸恶魔",
+    "jp_name": "ミミグル・デーモン",
     "en_name": "Mimighoul Archfiend"
   },
   "86809440": {
     "type": "Spell",
     "cn_name": "拟箱掳尸的地城",
+    "jp_name": "ミミグル・ダンジョン",
     "en_name": "Mimighoul Dungeon"
   },
   "13204145": {
     "type": "Spell",
     "cn_name": "拟箱掳尸生成器",
+    "jp_name": "ミミグル・メーカー",
     "en_name": "Mimighoul Maker"
   },
   "59293853": {
     "type": "Trap",
     "cn_name": "拟箱掳尸宝室",
+    "jp_name": "ミミグル・ルーム",
     "en_name": "Mimighoul Room"
   },
   "85687952": {
@@ -84596,81 +84612,97 @@
   "23738096": {
     "type": "Monster",
     "cn_name": "无死虫团的补给兵",
+    "jp_name": "無死虫団の補給兵",
     "en_name": "Supply Soldier of the Indestructible Insects"
   },
   "50123605": {
     "type": "Monster",
     "cn_name": "无死虫团的重骑兵",
+    "jp_name": "無死虫団の重騎兵",
     "en_name": "Heavy Cavalry of the Indestructible Insects"
   },
   "86527709": {
     "type": "Spell",
     "cn_name": "昆虫的引诱",
+    "jp_name": "虫だけエリアー",
     "en_name": "Insect Invitation"
   },
   "22916418": {
     "type": "Monster",
     "cn_name": "超越人类 披风侠",
+    "jp_name": "超人伝－マントマン",
     "en_name": "Mantman the Ultrahuman"
   },
   "59901153": {
     "type": "Monster",
     "cn_name": "蝴蝶兰修女",
+    "jp_name": "胡蝶姉妹",
     "en_name": "Phalaenop Sisters"
   },
   "85395151": {
     "type": "Spell",
     "cn_name": "洗脑解放",
+    "jp_name": "洗脳解放",
     "en_name": "Release Brainwashing"
   },
   "12890860": {
     "type": "Monster",
     "cn_name": "拒否神 同担",
+    "jp_name": "拒神ドゥータン",
     "en_name": "Denial Deity Dotan"
   },
   "58288565": {
     "type": "Monster",
     "cn_name": "黄蝶飞鱼",
+    "jp_name": "バタフライ・フィッシュ",
     "en_name": "Butterfly Fish"
   },
   "84673574": {
     "type": "Monster",
     "cn_name": "QQ九角兽",
+    "jp_name": "QQエニアゴン",
     "en_name": "QQ Enneagon"
   },
   "11677278": {
     "type": "Monster",
     "cn_name": "拟箱掳尸铠甲",
+    "jp_name": "ミミグル・アーマー",
     "en_name": "Mimighoul Armor"
   },
   "43066927": {
     "type": "Monster",
     "cn_name": "拟箱掳尸妖精",
+    "jp_name": "ミミグル・フェアリー",
     "en_name": "Mimighoul Fairy"
   },
   "80551022": {
     "type": "Monster",
     "cn_name": "拟箱掳尸史莱姆",
+    "jp_name": "ミミグル・スライム",
     "en_name": "Mimighoul Slime"
   },
   "16955631": {
     "type": "Monster",
     "cn_name": "巨大拟箱掳尸",
+    "jp_name": "ジャイアント・ミミグル",
     "en_name": "Giant Mimighoul"
   },
   "42940335": {
     "type": "Monster",
     "cn_name": "拟箱掳尸的鬼王座",
+    "jp_name": "ミミグル・スローン",
     "en_name": "Mimighoul Throne"
   },
   "19338434": {
     "type": "Spell",
     "cn_name": "拟箱掳尸的分岔口",
+    "jp_name": "ミミグル・フォーク",
     "en_name": "Mimighoul Fork"
   },
   "55733143": {
     "type": "Spell",
     "cn_name": "拟箱掳尸的魅惑咒符",
+    "jp_name": "ミミグル・チャーム",
     "en_name": "Mimighoul Charm"
   },
   "54611591": {
@@ -85429,131 +85461,157 @@
   "97522863": {
     "type": "Monster",
     "cn_name": "刻文之人",
+    "jp_name": "刻印を持つ者",
     "en_name": "The Man with the Mark"
   },
   "34926568": {
     "type": "Monster",
     "cn_name": "灵蝎 塞勒凯特",
+    "jp_name": "守護獣セルケト",
     "en_name": "Merciless Scorpion of Serket"
   },
   "60411677": {
     "type": "Monster",
     "cn_name": "终焉判官 阿努比斯",
+    "jp_name": "ジャッジメント・オブ・アヌビス",
     "en_name": "Anubis the Last Judge"
   },
   "97800311": {
     "type": "Monster",
     "cn_name": "圣蛇之阿匹卜",
+    "jp_name": "聖神蛇アポピス",
     "en_name": "Divine Serpent Apophis"
   },
   "23804920": {
     "type": "Monster",
     "cn_name": "圣蝎兽 塞勒凯特",
+    "jp_name": "聖神獣セルケト",
     "en_name": "Divine Scorpion Beast of Serket"
   },
   "69299029": {
     "type": "Spell",
     "cn_name": "王家的神宝",
+    "jp_name": "王の遺宝祀りし聖域",
     "en_name": "Treasures of the Kings"
   },
   "96687733": {
     "type": "Spell",
     "cn_name": "神殿的守护",
+    "jp_name": "神殿の守護神",
     "en_name": "Defense of the Temple"
   },
   "22082432": {
     "type": "Spell",
     "cn_name": "神之威",
+    "jp_name": "神の怒り",
     "en_name": "Dangers of the Divine"
   },
   "59576447": {
     "type": "Trap",
     "cn_name": "阿努比斯的判词",
+    "jp_name": "アヌビスの審判",
     "en_name": "Verdict of Anubis"
   },
   "95561146": {
     "type": "Trap",
     "cn_name": "暗蛇 阿匹卜",
+    "jp_name": "アポピスの蛇神",
     "en_name": "Apophis the Serpent"
   },
   "21960890": {
     "type": "Monster",
     "cn_name": "暗黑死灵师",
+    "jp_name": "大屍教",
     "en_name": "Dark Necromancer"
   },
   "58354899": {
     "type": "Monster",
     "cn_name": "不死之腐食鸟",
+    "jp_name": "腐死鳥ヴァルコプス",
     "en_name": "Vulcarrion the Rotting Phoenix"
   },
   "94749594": {
     "type": "Spell",
     "cn_name": "古龟的诅咒",
+    "jp_name": "古代亀の呪い",
     "en_name": "Curse of the Ancient Turtle"
   },
   "21147203": {
     "type": "Monster",
     "cn_name": "微缩星人",
+    "jp_name": "ミニマリアン",
     "en_name": "Minimalian"
   },
   "57232301": {
     "type": "Spell",
     "cn_name": "断影刃",
+    "jp_name": "断影烈破",
     "en_name": "Shadow Severing Strike"
   },
   "83626916": {
     "type": "Trap",
     "cn_name": "D.D.邮筒",
+    "jp_name": "異次元ポスト",
     "en_name": "D.D. Post"
   },
   "20011655": {
     "type": "Monster",
     "cn_name": "塔瓦弯刀恶魔-达人剑艺",
+    "jp_name": "魔剣達士－タルワール・デーモン",
     "en_name": "Beast of Talwar - The Sword Summit"
   },
   "56410769": {
     "type": "Monster",
     "cn_name": "波形鸟",
+    "jp_name": "波紋鳥",
     "en_name": "Ripple Bird"
   },
   "83404468": {
     "type": "Trap",
     "cn_name": "一色之劳",
+    "jp_name": "一色万骨",
     "en_name": "The Toil of the Normal"
   },
   "19899073": {
     "type": "Monster",
     "cn_name": "天丛云之巳剑",
+    "jp_name": "天叢雲之巳剣",
     "en_name": "Ame no Murakumo no Mitsurugi"
   },
   "55397172": {
     "type": "Monster",
     "cn_name": "布都御魂之巳剑",
+    "jp_name": "布都御魂之巳剣",
     "en_name": "Futsu no Mitama no Mitsurugi"
   },
   "82782870": {
     "type": "Monster",
     "cn_name": "巳剑之尊 草薙",
+    "jp_name": "巳剣之尊 草那藝",
     "en_name": "Mitsurugi no Mikoto, Kusanagi"
   },
   "18176525": {
     "type": "Monster",
     "cn_name": "巳剑之命 佐士",
+    "jp_name": "巳剣之尊 佐士",
     "en_name": "Mitsurugi no Mikoto, Saji"
   },
   "45171524": {
     "type": "Spell",
     "cn_name": "巳剑之祈",
+    "jp_name": "巳剣勧請",
     "en_name": "Mitsurugi Prayers"
   },
   "81560239": {
     "type": "Spell",
     "cn_name": "巳剑降临",
+    "jp_name": "巳剣降臨",
     "en_name": "Mitsurugi Ritual"
   },
   "17954937": {
     "type": "Trap",
     "cn_name": "巳剑之大祓",
+    "jp_name": "巳剣大祓",
     "en_name": "Mitsurugi Great Purification"
   },
   "44459942": {
@@ -86274,81 +86332,97 @@
   "12500059": {
     "type": "Monster",
     "cn_name": "晓天使 肯比",
+    "jp_name": "暁天使カムビン",
     "en_name": "Dawn Angel Kambi"
   },
   "49904658": {
     "type": "Monster",
     "cn_name": "久远之神徒 赫利姆尼",
+    "jp_name": "久遠の神徒フリムニル",
     "en_name": "Hrimnir the Divine Follower"
   },
   "75493362": {
     "type": "Spell",
     "cn_name": "梵格尔夫的祝福",
+    "jp_name": "ヴィンゴルヴの祝福",
     "en_name": "Vingolf's Blessing"
   },
   "12888461": {
     "type": "Monster",
     "cn_name": "盔甲鱼群",
+    "jp_name": "アスピスクール",
     "en_name": "Aspischool"
   },
   "48882106": {
     "type": "Monster",
     "cn_name": "毒箱鲀",
+    "jp_name": "トックス・ボックス",
     "en_name": "Toxic Boxfish"
   },
   "74271714": {
     "type": "Spell",
     "cn_name": "鱼和竞标",
+    "jp_name": "フィッシュアンドビッズ",
     "en_name": "Fish and Bids"
   },
   "1665819": {
     "type": "Monster",
     "cn_name": "卡片速描开发员",
+    "jp_name": "レプリカルド・ラッド",
     "en_name": "Replicard LAD"
   },
   "47060528": {
     "type": "Monster",
     "cn_name": "雷霆之魔军神",
+    "jp_name": "雷霆ノ魔軍神",
     "en_name": "Sakra Vendirage"
   },
   "14554127": {
     "type": "Trap",
     "cn_name": "和平之像",
+    "jp_name": "ピース・オブ・スタチュー",
     "en_name": "Tiki Peace"
   },
   "40543231": {
     "type": "Monster",
     "cn_name": "巳剑之尊 麁正",
+    "jp_name": "巳剣之尊 麁正",
     "en_name": "Mitsurugi no Mikoto, Aramasa"
   },
   "76948970": {
     "type": "Monster",
     "cn_name": "巳剑之皇子 小碓",
+    "jp_name": "巳剣之皇子 小碓",
     "en_name": "Mitsurugi no Miko, Wousu"
   },
   "13332685": {
     "type": "Monster",
     "cn_name": "天羽羽斩之巳剑",
+    "jp_name": "天羽々斬之巳剣",
     "en_name": "Ame no Habakiri no Mitsurugi"
   },
   "49721684": {
     "type": "Spell",
     "cn_name": "巳剑之神镜",
+    "jp_name": "巳剣之神鏡",
     "en_name": "Mitsurugi Mirror"
   },
   "76725398": {
     "type": "Spell",
     "cn_name": "巳剑之勾玉",
+    "jp_name": "巳剣之勾玉",
     "en_name": "Mitsurugi Magatama"
   },
   "12210097": {
     "type": "Spell",
     "cn_name": "巳剑之磐境",
+    "jp_name": "巳剣之磐境",
     "en_name": "Mitsurugi Sacred Boundary"
   },
   "49604192": {
     "type": "Trap",
     "cn_name": "八云断巳剑",
+    "jp_name": "八雲断巳剣",
     "en_name": "Mitsurugi Tempest"
   },
   "75003700": {
@@ -87362,16 +87436,19 @@
   "100247147": {
     "type": "Monster",
     "cn_name": "炎域女王",
+    "jp_name": "陽炎殿の君主",
     "en_name": "Queen of the Blazing Domain"
   },
   "100247148": {
     "type": "Monster",
     "cn_name": "龙之门",
+    "jp_name": "闘龍門",
     "en_name": "Dragon Gate"
   },
   "100247149": {
     "type": "Spell",
     "cn_name": "自动机牧人",
+    "jp_name": "ボット・ハーダー",
     "en_name": "Bot Herder"
   },
   "71440209": {
