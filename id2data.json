@@ -15273,7 +15273,7 @@
     "jp_name": "HERO’S ボンド",
     "en_name": "HERO's Bond"
   },
-  "100200274": {
+  "3837261": {
     "type": "Monster",
     "cn_name": "缔结契约的龙之战士",
     "jp_name": "契約を結びし竜の戦士"
@@ -15595,7 +15595,7 @@
     "jp_name": "サイバー・プチ・エンジェル",
     "en_name": "Cyber Petit Angel"
   },
-  "100240007": {
+  "2507443": {
     "type": "Spell",
     "cn_name": "女主角之光",
     "jp_name": "プリマの光"
@@ -27087,7 +27087,7 @@
     "jp_name": "氷結界",
     "en_name": "Ice Barrier"
   },
-  "100200276": {
+  "60681372": {
     "type": "Monster",
     "cn_name": "妖魔 涂壁",
     "jp_name": "妖魔ヌリカベ"
@@ -29981,7 +29981,7 @@
     "jp_name": "薔薇恋人",
     "en_name": "Rose Lover"
   },
-  "100200275": {
+  "88039509": {
     "type": "Monster",
     "cn_name": "一型机人",
     "jp_name": "アイン・ロイド"
@@ -52514,6 +52514,7 @@
   "57496978": {
     "type": "Spell",
     "cn_name": "相互碰撞的灵魂",
+    "sc_name": "互相碰撞的灵魂",
     "jp_name": "ぶつかり合う魂",
     "en_name": "Clashing Souls"
   },
@@ -87263,12 +87264,12 @@
     "cn_name": "召唤兽 大贤者兽",
     "jp_name": "召喚獣マギストス・セリオン"
   },
-  "100246002": {
+  "212652": {
     "type": "Trap",
     "cn_name": "毒蝎的陷阱",
     "jp_name": "毒サソリの罠"
   },
-  "100246001": {
+  "37301660": {
     "type": "Spell",
     "cn_name": "胜利之风",
     "jp_name": "WINDS OF VICTORY",
@@ -87433,19 +87434,19 @@
     "cn_name": "奏悦机组 舞台登场",
     "en_name": "R.B. Stage Landing"
   },
-  "100247147": {
+  "72162751": {
     "type": "Monster",
     "cn_name": "炎域女王",
     "jp_name": "陽炎殿の君主",
     "en_name": "Queen of the Blazing Domain"
   },
-  "100247148": {
+  "9567495": {
     "type": "Monster",
     "cn_name": "龙之门",
     "jp_name": "闘龍門",
     "en_name": "Dragon Gate"
   },
-  "100247149": {
+  "45951104": {
     "type": "Spell",
     "cn_name": "自动机牧人",
     "jp_name": "ボット・ハーダー",
@@ -87457,47 +87458,47 @@
     "sc_name": "黑魔术之护符",
     "jp_name": "黒魔術の護符"
   },
-  "100240001": {
+  "8445808": {
     "type": "Monster",
     "cn_name": "恋爱的少女",
     "jp_name": "恋する乙女"
   },
-  "100240201": {
+  "44839512": {
     "type": "Monster",
     "cn_name": "超电导战士 线性磁炮王±",
     "jp_name": "超電導戦士 リニア・マグナム±"
   },
-  "100240003": {
+  "71228611": {
     "type": "Monster",
     "cn_name": "桉树鼹鼠",
     "jp_name": "ユーカリ・モール"
   },
-  "100240204": {
+  "7622360": {
     "type": "Monster",
     "cn_name": "恶魔斗牛士",
     "jp_name": "デーモンズ・マタドール"
   },
-  "100240005": {
+  "33017964": {
     "type": "Spell",
     "cn_name": "幻魔之扉",
     "jp_name": "幻魔の扉"
   },
-  "100240205": {
+  "70105073": {
     "type": "Spell",
     "cn_name": "斗牛士降临的仪式 暗之入场式",
     "jp_name": "マタドール降臨の儀式 ダーク・パセオ"
   },
-  "100240202": {
+  "6500778": {
     "type": "Spell",
     "cn_name": "炼金釜-混沌蒸馏釜",
     "jp_name": "錬金釜－カオス・ディスティル"
   },
-  "100240203": {
+  "33995387": {
     "type": "Trap",
     "cn_name": "英雄规则1 五大自由",
     "jp_name": "ヒーローズルール１ ファイブ・フリーダムス"
   },
-  "100240010": {
+  "69389481": {
     "type": "Trap",
     "cn_name": "魂之团结",
     "jp_name": "魂の結束－ソウル・ユニオン"
@@ -88070,41 +88071,49 @@
   "17201951": {
     "type": "Monster",
     "cn_name": "最高速战士",
+    "sc_name": "极驰高速战士",
     "jp_name": "フルスピード・ウォリアー"
   },
   "54656950": {
     "type": "Monster",
     "cn_name": "地脚螺丝刺猬",
+    "sc_name": "锚栓螺丝刺猬",
     "jp_name": "アンカーボルト・ヘッジホッグ"
   },
   "80054655": {
     "type": "Monster",
     "cn_name": "交叉路小走鹃",
+    "sc_name": "叉路小走鹃",
     "jp_name": "クロスロードランナー"
   },
   "16449363": {
     "type": "Monster",
     "cn_name": "废铁同调士",
+    "sc_name": "废铁同步士",
     "jp_name": "スクラップ・シンクロン"
   },
   "43834302": {
     "type": "Spell",
     "cn_name": "同调同伴",
+    "sc_name": "同步同伴",
     "jp_name": "シンクロ・フェローズ"
   },
   "89932017": {
     "type": "Trap",
     "cn_name": "同调单行道",
+    "sc_name": "同步独径",
     "jp_name": "シンクロ・ワンウェイ"
   },
   "16327715": {
     "type": "Monster",
     "cn_name": "废品战士·极限",
+    "sc_name": "废品战士・极致",
     "jp_name": "ジャンク・ウォリアー・エクストリーム"
   },
   "42711820": {
     "type": "Monster",
     "cn_name": "废铁战士",
+    "sc_name": "废铁战士",
     "jp_name": "スクラップ・ウォリアー"
   },
   "95365081": {
@@ -88310,82 +88319,82 @@
     "cn_name": "荧焅圣 阿瑞库斯",
     "jp_name": "熒焅聖 アレクゥス"
   },
-  "101302081": {
+  "87750925": {
     "type": "Monster",
     "cn_name": "效仿英杰 伪装者",
     "en_name": "Disguise, the Copycat Hero"
   },
-  "101302082": {
+  "23249029": {
     "type": "Spell",
     "cn_name": "咒怨仿品·圣剑",
     "en_name": "Cursed Copycat Noble Arms"
   },
-  "101302083": {
+  "50643638": {
     "type": "Monster",
     "cn_name": "灿荣之运动骑士 钱巴尔",
     "en_name": "Chanbar, the Flashy Sportsknight"
   },
-  "101302084": {
+  "86038337": {
     "type": "Monster",
     "cn_name": "深林狩哨 雉鸡",
     "en_name": "Faisan, Hunting Scout of the Deep Forest"
   },
-  "101302085": {
+  "13023431": {
     "type": "Monster",
     "cn_name": "深林狩哨 獐鹿",
     "en_name": "Chevreuil, Hunting Scout of the Deep Forest"
   },
-  "101302086": {
+  "55421040": {
     "type": "Spell",
     "cn_name": "狩猎号角",
     "en_name": "Hunting Horn"
   },
-  "101302087": {
+  "81916745": {
     "type": "Monster",
     "cn_name": "石蒜百合收割者",
     "en_name": "Lycoris Lilyreaper"
   },
-  "101302088": {
+  "18300894": {
     "type": "Monster",
     "cn_name": "丝爆弹蛾",
     "en_name": "Silk Bomb Moth"
   },
-  "101302089": {
+  "54399598": {
     "type": "Spell",
     "cn_name": "魔术师之瞬绽花",
     "en_name": "Fleeting Flower of the Magician"
   },
-  "101302090": {
+  "81794107": {
     "type": "Monster",
     "cn_name": "奏悦机组 λ羔羊炮",
     "en_name": "R.B. Lambda Cannon"
   },
-  "101302091": {
+  "17188206": {
     "type": "Monster",
     "cn_name": "奏悦机组 λ羔羊刃",
     "en_name": "R.B. Lambda Blade"
   },
-  "101302092": {
+  "44573911": {
     "type": "Monster",
     "cn_name": "奏悦机组 筑工冲击锥",
     "en_name": "R.B. Ga10 Pile Bunker"
   },
-  "101302093": {
+  "80071619": {
     "type": "Monster",
     "cn_name": "奏悦机组 牧羊人权杖",
     "en_name": "R.B. Shepherd's Crook"
   },
-  "101302094": {
+  "16066654": {
     "type": "Spell",
     "cn_name": "奏悦机组 运转试验",
     "en_name": "R.B. Operation Test"
   },
-  "101302095": {
+  "43450363": {
     "type": "Trap",
     "cn_name": "奏悦机组 背水一战",
     "en_name": "R.B. Last Stand"
   },
-  "101302096": {
+  "79859067": {
     "type": "Trap",
     "cn_name": "奏悦机组 阶段转换",
     "en_name": "R.B. Next Phase"
@@ -88395,7 +88404,7 @@
     "cn_name": "教导的死徒",
     "jp_name": "教導の死徒"
   },
-  "100200279": {
+  "84824728": {
     "type": "Monster",
     "cn_name": "寻宝豹",
     "jp_name": "トレジャー・パンサー"
