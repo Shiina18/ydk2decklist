@@ -88558,12 +88558,14 @@
   "100248019": {
     "type": "Spell",
     "cn_name": "落胤与圣女",
-    "jp_name": "The Fallen ＆ The Virtuous"
+    "jp_name": "The Fallen ＆ The Virtuous",
+    "en_name": "The Fallen & The Virtuous"
   },
   "100248041": {
     "type": "Monster",
     "cn_name": "吞食圣痕之龙",
-    "jp_name": "聖痕喰らいし竜"
+    "jp_name": "聖痕喰らいし竜",
+    "en_name": "The Dragon that Devours the Dogma"
   },
   "101303201": {
     "type": "Monster",
@@ -88689,6 +88691,11 @@
     "type": "Monster",
     "cn_name": "睡醒一杯！伯爵茶",
     "jp_name": "WAKE CUP！ アル"
+  },
+  "101303030": {
+    "type": "Monster",
+    "cn_name": "怒视苍穹的黑暗",
+    "jp_name": "ファースト・ペンギン"
   },
   "101303031": {
     "type": "Monster",
@@ -88915,10 +88922,25 @@
     "cn_name": "协助摆位★味美喵！",
     "jp_name": "アシスト★ヤミー！"
   },
+  "101303077": {
+    "type": "Trap",
+    "cn_name": "禁断仪式术",
+    "jp_name": "禁断儀式術"
+  },
   "101303078": {
     "type": "Trap",
     "cn_name": "武器库整理",
     "jp_name": "武器庫整理"
+  },
+  "101303079": {
+    "type": "Trap",
+    "cn_name": "舌尖减少",
+    "jp_name": "舌先減少"
+  },
+  "101303080": {
+    "type": "Trap",
+    "cn_name": "死地误算守护",
+    "jp_name": "死地誤算守護"
   },
   "84824728": {
     "type": "Monster",
