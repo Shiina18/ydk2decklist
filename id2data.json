@@ -88203,49 +88203,57 @@
     "type": "Monster",
     "cn_name": "最高速战士",
     "sc_name": "极驰高速战士",
-    "jp_name": "フルスピード・ウォリアー"
+    "jp_name": "フルスピード・ウォリアー",
+    "en_name": "Full-Speed Warrior"
   },
   "54656950": {
     "type": "Monster",
     "cn_name": "地脚螺丝刺猬",
     "sc_name": "锚栓螺丝刺猬",
-    "jp_name": "アンカーボルト・ヘッジホッグ"
+    "jp_name": "アンカーボルト・ヘッジホッグ",
+    "en_name": "Anchorbolt Hedgehog"
   },
   "80054655": {
     "type": "Monster",
     "cn_name": "交叉路小走鹃",
     "sc_name": "叉路小走鹃",
-    "jp_name": "クロスロードランナー"
+    "jp_name": "クロスロードランナー",
+    "en_name": "Crossroad Sonic Chick"
   },
   "16449363": {
     "type": "Monster",
     "cn_name": "废铁同调士",
     "sc_name": "废铁同步士",
-    "jp_name": "スクラップ・シンクロン"
+    "jp_name": "スクラップ・シンクロン",
+    "en_name": "Scrap Synchron"
   },
   "43834302": {
     "type": "Spell",
     "cn_name": "同调同伴",
     "sc_name": "同步同伴",
-    "jp_name": "シンクロ・フェローズ"
+    "jp_name": "シンクロ・フェローズ",
+    "en_name": "Synchro Fellowship"
   },
   "89932017": {
     "type": "Trap",
     "cn_name": "同调单行道",
     "sc_name": "同步独径",
-    "jp_name": "シンクロ・ワンウェイ"
+    "jp_name": "シンクロ・ワンウェイ",
+    "en_name": "One-Way Synchro"
   },
   "16327715": {
     "type": "Monster",
     "cn_name": "废品战士·极限",
     "sc_name": "废品战士・极致",
-    "jp_name": "ジャンク・ウォリアー・エクストリーム"
+    "jp_name": "ジャンク・ウォリアー・エクストリーム",
+    "en_name": "Junk Warrior Extreme"
   },
   "42711820": {
     "type": "Monster",
     "cn_name": "废铁战士",
     "sc_name": "废铁战士",
-    "jp_name": "スクラップ・ウォリアー"
+    "jp_name": "スクラップ・ウォリアー",
+    "en_name": "Scrap Warrior"
   },
   "95365081": {
     "type": "Monster",
@@ -88558,12 +88566,14 @@
   "100248019": {
     "type": "Spell",
     "cn_name": "落胤与圣女",
+    "sc_name": "落胤与圣女",
     "jp_name": "The Fallen ＆ The Virtuous",
     "en_name": "The Fallen & The Virtuous"
   },
   "100248041": {
     "type": "Monster",
     "cn_name": "吞食圣痕之龙",
+    "sc_name": "吞喰圣痕之龙",
     "jp_name": "聖痕喰らいし竜",
     "en_name": "The Dragon that Devours the Dogma"
   },
