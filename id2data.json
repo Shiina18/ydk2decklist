@@ -4357,6 +4357,7 @@
   "99785935": {
     "type": "Monster",
     "cn_name": "磁石战士α",
+    "sc_name": "磁石战士阿尔法",
     "jp_name": "磁石の戦士α",
     "en_name": "Alpha The Magnet Warrior"
   },
@@ -4477,6 +4478,7 @@
   "39256679": {
     "type": "Monster",
     "cn_name": "磁石战士β",
+    "sc_name": "磁石战士贝塔",
     "jp_name": "磁石の戦士β",
     "en_name": "Beta The Magnet Warrior"
   },
@@ -4623,6 +4625,7 @@
   "11549357": {
     "type": "Monster",
     "cn_name": "磁石战士γ",
+    "sc_name": "磁石战士伽玛",
     "jp_name": "磁石の戦士γ",
     "en_name": "Gamma The Magnet Warrior"
   },
@@ -5823,6 +5826,7 @@
   "75347539": {
     "type": "Monster",
     "cn_name": "磁石战士 电磁武神",
+    "sc_name": "磁石之战士 翔武机翁",
     "jp_name": "磁石の戦士マグネット・バルキリオン",
     "en_name": "Valkyrion the Magna Warrior"
   },
@@ -6472,6 +6476,7 @@
   "10992251": {
     "type": "Monster",
     "cn_name": "超时空战斗机 V形蛇",
+    "sc_name": "超时界战斗机 V型蛇",
     "jp_name": "超時空戦闘機ビック・バイパー",
     "en_name": "Gradius"
   },
@@ -7037,6 +7042,7 @@
   "5494820": {
     "type": "Spell",
     "cn_name": "旋风镭射",
+    "sc_name": "气旋镭射枪",
     "jp_name": "サイクロンレーザー",
     "en_name": "Cyclon Laser"
   },
@@ -7596,6 +7602,7 @@
   "14291024": {
     "type": "Monster",
     "cn_name": "子机",
+    "sc_name": "子机",
     "jp_name": "オプション",
     "en_name": "Gradius' Option"
   },
@@ -12093,6 +12100,7 @@
   "14148099": {
     "type": "Monster",
     "cn_name": "巨大战舰 巨核",
+    "sc_name": "巨大战舰 巨核",
     "jp_name": "巨大戦艦 ビッグ・コア",
     "en_name": "B.E.S. Big Core"
   },
@@ -13302,6 +13310,7 @@
   "22790789": {
     "type": "Monster",
     "cn_name": "巨大战舰 晶核",
+    "sc_name": "巨大战舰 晶核",
     "jp_name": "巨大戦艦 クリスタル・コア",
     "en_name": "B.E.S. Crystal Core"
   },
@@ -13744,6 +13753,7 @@
   "44954628": {
     "type": "Monster",
     "cn_name": "巨大战舰 四腕",
+    "sc_name": "巨大战舰 泰特朗",
     "jp_name": "巨大戦艦 テトラン",
     "en_name": "B.E.S. Tetran"
   },
@@ -13846,6 +13856,7 @@
   "66947414": {
     "type": "Spell",
     "cn_name": "头目连战",
+    "sc_name": "头目连战",
     "jp_name": "ボスラッシュ",
     "en_name": "Boss Rush"
   },
@@ -14232,6 +14243,7 @@
   "15317640": {
     "type": "Monster",
     "cn_name": "巨大战舰 盖核",
+    "sc_name": "巨大战舰 盖核",
     "jp_name": "巨大戦艦 カバード・コア",
     "en_name": "B.E.S. Covered Core"
   },
@@ -20209,6 +20221,7 @@
   "75937826": {
     "type": "Monster",
     "cn_name": "巨大战舰 巨核Mk-2",
+    "sc_name": "巨大战舰 巨核Mk－Ⅱ",
     "jp_name": "巨大戦艦 ビッグ・コアMk－Ⅱ",
     "en_name": "B.E.S. Big Core MK-2"
   },
@@ -20261,6 +20274,7 @@
   "36472900": {
     "type": "Monster",
     "cn_name": "小走鹃",
+    "sc_name": "小走鹃",
     "jp_name": "ロードランナー",
     "en_name": "Sonic Chick"
   },
@@ -20274,6 +20288,7 @@
   "9365703": {
     "type": "Monster",
     "cn_name": "高速战士",
+    "sc_name": "高速战士",
     "jp_name": "スピード・ウォリアー",
     "en_name": "Speed Warrior"
   },
@@ -21943,6 +21958,7 @@
   "92450185": {
     "type": "Trap",
     "cn_name": "限速解除",
+    "sc_name": "限速突破",
     "jp_name": "リミッター・ブレイク",
     "en_name": "Limiter Overload"
   },
@@ -22096,18 +22112,21 @@
   "14553285": {
     "type": "Monster",
     "cn_name": "奥金魔导师/爆裂体",
+    "sc_name": "奥法魔术士／爆裂",
     "jp_name": "アーカナイト・マジシャン／バスター",
     "en_name": "Arcanite Magician/Assault Mode"
   },
   "40048324": {
     "type": "Monster",
     "cn_name": "奥火法师",
+    "sc_name": "密术炼贤",
     "jp_name": "アーケイン・ファイロ",
     "en_name": "Arcane Apprentice"
   },
   "77036039": {
     "type": "Monster",
     "cn_name": "爆裂佣兵",
+    "sc_name": "爆裂佣兵",
     "jp_name": "バスター・マーセナリ",
     "en_name": "Assault Mercenary"
   },
@@ -22121,6 +22140,7 @@
   "49826746": {
     "type": "Monster",
     "cn_name": "黑翼的魔术师",
+    "sc_name": "黑翼的魔术师",
     "jp_name": "黒翼の魔術師",
     "en_name": "Night Wing Sorceress"
   },
@@ -22263,6 +22283,7 @@
   "93469007": {
     "type": "Spell",
     "cn_name": "爆裂爆发",
+    "sc_name": "爆裂爆发",
     "jp_name": "バスター・バースト",
     "en_name": "Assault Overload"
   },
@@ -22276,6 +22297,7 @@
   "56252810": {
     "type": "Spell",
     "cn_name": "再爆裂",
+    "sc_name": "再爆裂",
     "jp_name": "Re－BUSTER",
     "en_name": "Assault Revival"
   },
@@ -22406,12 +22428,14 @@
   "40012727": {
     "type": "Trap",
     "cn_name": "爆裂斩",
+    "sc_name": "爆裂横扫",
     "jp_name": "バスター・スラッシュ",
     "en_name": "Assault Slash"
   },
   "76407432": {
     "type": "Trap",
     "cn_name": "爆裂反击",
+    "sc_name": "爆裂反击",
     "jp_name": "バスター・カウンター",
     "en_name": "Assault Counter"
   },
@@ -22804,6 +22828,7 @@
   "38898779": {
     "type": "Monster",
     "cn_name": "巨人斗士/爆裂体",
+    "sc_name": "巨人斗士／爆裂",
     "jp_name": "ギガンテック・ファイター／バスター",
     "en_name": "Colossal Fighter/Assault Mode"
   },
@@ -31334,6 +31359,7 @@
   "6836211": {
     "type": "Monster",
     "cn_name": "大皇帝企鹅",
+    "sc_name": "大皇帝企鹅",
     "jp_name": "大皇帝ペンギン",
     "en_name": "The Great Emperor Penguin"
   },
@@ -35130,6 +35156,7 @@
   "76442347": {
     "type": "Monster",
     "cn_name": "子型企鹅",
+    "sc_name": "子型企鹅",
     "jp_name": "子型ペンギン",
     "en_name": "Puny Penguin"
   },
@@ -40192,6 +40219,7 @@
   "32623004": {
     "type": "Monster",
     "cn_name": "否定企鹅",
+    "sc_name": "否定企鹅",
     "jp_name": "否定ペンギン",
     "en_name": "Nopenguin"
   },
@@ -40389,6 +40417,7 @@
   "54773234": {
     "type": "Spell",
     "cn_name": "禁忌的圣典",
+    "sc_name": "禁忌的圣典",
     "jp_name": "禁じられた聖典",
     "en_name": "Forbidden Scripture"
   },
@@ -42571,6 +42600,7 @@
   "12822541": {
     "type": "Monster",
     "cn_name": "DD 莉莉丝",
+    "sc_name": "DD 莉莉丝",
     "jp_name": "DDリリス",
     "en_name": "D/D Lilith"
   },
@@ -42647,12 +42677,14 @@
   "72648577": {
     "type": "Trap",
     "cn_name": "DDD的人事权",
+    "sc_name": "DDD的人事权",
     "jp_name": "DDDの人事権",
     "en_name": "D/D/D Human Resources"
   },
   "8643186": {
     "type": "Trap",
     "cn_name": "DD征募",
+    "sc_name": "DD 征募",
     "jp_name": "DDリクルート",
     "en_name": "D/D Recruits"
   },
@@ -42699,6 +42731,7 @@
   "92536468": {
     "type": "Monster",
     "cn_name": "DDD 反骨王 列奥尼达",
+    "sc_name": "DDD 反骨王雷奥尼达",
     "jp_name": "DDD反骨王レオニダス",
     "en_name": "D/D/D Rebel King Leonidas"
   },
@@ -44051,6 +44084,7 @@
   "75078585": {
     "type": "Trap",
     "cn_name": "截敌蛋",
+    "sc_name": "破蛋",
     "jp_name": "スクランブル・エッグ",
     "en_name": "Scramble Egg"
   },
@@ -44675,6 +44709,7 @@
   "56619314": {
     "type": "Monster",
     "cn_name": "DDD 霸龙王 潘德拉刚",
+    "sc_name": "DDD 霸龙王潘德拉刚",
     "jp_name": "DDD覇龍王ペンドラゴン",
     "en_name": "D/D/D Dragon King Pendragon"
   },
@@ -44830,6 +44865,7 @@
   "32146097": {
     "type": "Monster",
     "cn_name": "DD 潘多拉",
+    "sc_name": "DD 潘朵拉",
     "jp_name": "DDパンドラ",
     "en_name": "D/D Pandora"
   },
@@ -46251,6 +46287,7 @@
   "811734": {
     "type": "Trap",
     "cn_name": "DDD的契约变更",
+    "sc_name": "DDD的契约变更",
     "jp_name": "DDDの契約変更",
     "en_name": "D/D/D Contract Change"
   },
@@ -47659,6 +47696,7 @@
   "71069715": {
     "type": "Trap",
     "cn_name": "DD重组",
+    "sc_name": "DD 重设",
     "jp_name": "DDリビルド",
     "en_name": "D/D Reroll"
   },
@@ -49713,12 +49751,14 @@
   "80352158": {
     "type": "Spell",
     "cn_name": "磁力再生",
+    "sc_name": "磁石反转",
     "jp_name": "マグネット・リバース",
     "en_name": "Magnet Reverse"
   },
   "17841166": {
     "type": "Trap",
     "cn_name": "磁力",
+    "sc_name": "磁石之力",
     "jp_name": "マグネット・フォース",
     "en_name": "Magnet Force"
   },
@@ -49744,24 +49784,28 @@
   "42023223": {
     "type": "Monster",
     "cn_name": "电磁石战士α",
+    "sc_name": "电磁石战士阿尔法",
     "jp_name": "電磁石の戦士α",
     "en_name": "Alpha The Electromagnet Warrior"
   },
   "79418928": {
     "type": "Monster",
     "cn_name": "电磁石战士β",
+    "sc_name": "电磁石战士贝塔",
     "jp_name": "電磁石の戦士β",
     "en_name": "Beta The Electromagnet Warrior"
   },
   "15502037": {
     "type": "Monster",
     "cn_name": "电磁石战士γ",
+    "sc_name": "电磁石战士伽玛",
     "jp_name": "電磁石の戦士γ",
     "en_name": "Gamma The Electromagnet Warrior"
   },
   "42901635": {
     "type": "Monster",
     "cn_name": "电磁石战士 电磁狂神",
+    "sc_name": "电磁石之战士 狂勇机翁",
     "jp_name": "電磁石の戦士マグネット・ベルセリオン",
     "en_name": "Berserkion the Electromagna Warrior"
   },
@@ -49774,6 +49818,7 @@
   "4740489": {
     "type": "Spell",
     "cn_name": "磁力场",
+    "sc_name": "磁石力场",
     "jp_name": "マグネット・フィールド",
     "en_name": "Magnetic Field"
   },
@@ -49787,12 +49832,14 @@
   "77133792": {
     "type": "Trap",
     "cn_name": "磁力变换",
+    "sc_name": "磁石转换",
     "jp_name": "マグネット・コンバージョン",
     "en_name": "Magnet Conversion"
   },
   "4628897": {
     "type": "Monster",
     "cn_name": "超电导战机 皇神磁炮王",
+    "sc_name": "超电导战机 帝皇机翁麦格农",
     "jp_name": "超電導戦機インペリオン・マグナム",
     "en_name": "Imperion Magnum the Superconductive Battlebot"
   },
@@ -50784,6 +50831,7 @@
   "12262393": {
     "type": "Monster",
     "cn_name": "磁石战士δ",
+    "sc_name": "磁石战士德尔塔",
     "jp_name": "磁石の戦士δ",
     "en_name": "Delta The Magnet Warrior"
   },
@@ -52207,6 +52255,7 @@
   "82821760": {
     "type": "Monster",
     "cn_name": "巨大战舰 巨核Mk-3",
+    "sc_name": "巨大战舰 巨核Mk－Ⅲ",
     "jp_name": "巨大戦艦 ビッグ・コアMk－Ⅲ",
     "en_name": "B.E.S. Big Core MK-3"
   },
@@ -52405,6 +52454,7 @@
   "975299": {
     "type": "Spell",
     "cn_name": "巨大要塞 泽洛斯",
+    "sc_name": "巨大要塞 泽洛斯",
     "jp_name": "巨大要塞ゼロス",
     "en_name": "B.E.F. Zelos"
   },
@@ -54752,6 +54802,7 @@
   "15627227": {
     "type": "Monster",
     "cn_name": "上弹龙",
+    "sc_name": "再装填龙",
     "jp_name": "リローダー・ドラゴン",
     "en_name": "Overburst Dragon"
   },
@@ -55375,6 +55426,7 @@
   "62753201": {
     "type": "Trap",
     "cn_name": "枪管冷却",
+    "sc_name": "枪管冷却",
     "jp_name": "ヴァレル・レフリジェレーション",
     "en_name": "Borrel Cooling"
   },
@@ -55861,12 +55913,14 @@
   "12023931": {
     "type": "Monster",
     "cn_name": "放大龙",
+    "sc_name": "助瞄龙",
     "jp_name": "ブースター・ドラゴン",
     "en_name": "Booster Dragon"
   },
   "58421530": {
     "type": "Trap",
     "cn_name": "战术交换膛室",
+    "sc_name": "战术换膛室",
     "jp_name": "タクティカル・エクスチェンバー",
     "en_name": "Tactical Exchanger"
   },
@@ -57427,6 +57481,7 @@
   "73341839": {
     "type": "Monster",
     "cn_name": "短枪管龙",
+    "sc_name": "短枪管龙",
     "jp_name": "ショートヴァレル・ドラゴン",
     "en_name": "Miniborrel Dragon"
   },
@@ -57927,12 +57982,14 @@
   "68987122": {
     "type": "Monster",
     "cn_name": "护木枪管龙",
+    "sc_name": "枪管守卫龙",
     "jp_name": "ヴァレルガード・ドラゴン",
     "en_name": "Borrelguard Dragon"
   },
   "95372220": {
     "type": "Monster",
     "cn_name": "枪口焰龙",
+    "sc_name": "枪口焰龙",
     "jp_name": "マズルフラッシュ・ドラゴン",
     "en_name": "Flash Charge Dragon"
   },
@@ -61031,6 +61088,7 @@
   "74431740": {
     "type": "Trap",
     "cn_name": "爆裂再起",
+    "sc_name": "爆裂重启",
     "jp_name": "バスター・リブート",
     "en_name": "Assault Reboot"
   },
@@ -61452,6 +61510,7 @@
   "36768783": {
     "type": "Monster",
     "cn_name": "星导龙 阿米莱尔",
+    "sc_name": "星导龙 阿米莱尔",
     "jp_name": "星導竜アーミライル",
     "en_name": "Armillyre, the Starleader Dragon"
   },
@@ -62002,6 +62061,7 @@
   "10642488": {
     "type": "Monster",
     "cn_name": "V形蛇T301",
+    "sc_name": "V型蛇 T301",
     "jp_name": "ビック・バイパー T３０１",
     "en_name": "Vic Viper T301"
   },
@@ -62953,6 +63013,7 @@
   "30131474": {
     "type": "Spell",
     "cn_name": "枪管供给点",
+    "sc_name": "枪管供给点",
     "jp_name": "ヴァレル・サプライヤー",
     "en_name": "Borrel Supplier"
   },
@@ -62973,6 +63034,7 @@
   "20419926": {
     "type": "Trap",
     "cn_name": "枪侠死刑弹",
+    "sc_name": "枪王处决",
     "jp_name": "ガンスリンガー・エクスキューション",
     "en_name": "Execute Protocols"
   },
@@ -67950,6 +68012,7 @@
   "91397409": {
     "type": "Monster",
     "cn_name": "企鹅勇者",
+    "sc_name": "企鹅勇者",
     "jp_name": "ペンギン勇者",
     "en_name": "Penguin Brave"
   },
@@ -71872,6 +71935,7 @@
   "54734082": {
     "type": "Spell",
     "cn_name": "磁力诱导",
+    "sc_name": "磁石诱导",
     "jp_name": "マグネット・インダクション",
     "en_name": "Magnet Induction"
   },
@@ -72045,18 +72109,21 @@
   "14761450": {
     "type": "Monster",
     "cn_name": "企鹅勇士",
+    "sc_name": "企鹅勇士",
     "jp_name": "ペンギン勇士",
     "en_name": "Penguin Squire"
   },
   "41255165": {
     "type": "Monster",
     "cn_name": "企鹅忍者",
+    "sc_name": "企鹅忍者",
     "jp_name": "ペンギン忍者",
     "en_name": "Penguin Ninja"
   },
   "73640163": {
     "type": "Monster",
     "cn_name": "企鹅僧侣",
+    "sc_name": "企鹅僧侣",
     "jp_name": "ペンギン僧侶",
     "en_name": "Penguin Cleric"
   },
@@ -72307,6 +72374,7 @@
   "80893872": {
     "type": "Spell",
     "cn_name": "王家企鹅花园",
+    "sc_name": "皇家企鹅花园",
     "jp_name": "ロイヤル・ペンギンズ・ガーデン",
     "en_name": "Royal Penguins Garden"
   },
@@ -72611,6 +72679,7 @@
   "87263576": {
     "type": "Monster",
     "cn_name": "爆发龙",
+    "sc_name": "爆发龙",
     "jp_name": "アウトバースト・ドラゴン",
     "en_name": "Outburst Dragon"
   },
@@ -73012,6 +73081,7 @@
   "52566270": {
     "type": "Monster",
     "cn_name": "磁石战士ε",
+    "sc_name": "磁石战士伊普西隆",
     "jp_name": "磁石の戦士ε",
     "en_name": "Epsilon The Magnet Warrior"
   },
@@ -87597,6 +87667,7 @@
   "44839512": {
     "type": "Monster",
     "cn_name": "超电导战士 线性磁炮王±",
+    "sc_name": "超电导战士 线性麦格农±",
     "jp_name": "超電導戦士 リニア・マグナム±"
   },
   "71228611": {
@@ -87607,6 +87678,7 @@
   "7622360": {
     "type": "Monster",
     "cn_name": "恶魔斗牛士",
+    "sc_name": "恶魔斗牛士",
     "jp_name": "デーモンズ・マタドール"
   },
   "33017964": {
@@ -87617,6 +87689,7 @@
   "70105073": {
     "type": "Spell",
     "cn_name": "斗牛士降临的仪式 暗之入场式",
+    "sc_name": "斗牛士降临之仪式 黑暗游行",
     "jp_name": "マタドール降臨の儀式 ダーク・パセオ"
   },
   "6500778": {
@@ -88541,21 +88614,25 @@
   "5121528": {
     "type": "Monster",
     "cn_name": "巨大战舰 德林加核",
+    "sc_name": "巨大战舰 德林杰核",
     "jp_name": "巨大戦艦 デリンジャー・コア"
   },
   "41516133": {
     "type": "Monster",
     "cn_name": "超巨大战舰 金属奴隶",
+    "sc_name": "超巨大战舰 金属仆从",
     "jp_name": "超巨大戦艦 メタル・スレイブ"
   },
   "78910832": {
     "type": "Monster",
     "cn_name": "V形蛇 L型",
+    "sc_name": "V型蛇 Type－L",
     "jp_name": "ビック・バイパー Type－L"
   },
   "4909946": {
     "type": "Spell",
     "cn_name": "头目大游行",
+    "sc_name": "头目轮战",
     "jp_name": "ボスオンパレード"
   },
   "30394645": {
@@ -88580,381 +88657,457 @@
   "25554552": {
     "type": "Monster",
     "cn_name": "弹丸快装龙",
+    "sc_name": "枪弹装填者",
     "jp_name": "ヴァレット・ローダー"
   },
   "51548207": {
     "type": "Monster",
     "cn_name": "空尖弹丸龙",
+    "sc_name": "空尖枪弹龙",
     "jp_name": "ホロウヴァレット・ドラゴン"
   },
   "98937206": {
     "type": "Monster",
     "cn_name": "弹丸引爆龙",
+    "sc_name": "枪弹导爆者",
     "jp_name": "ヴァレット・デトネイター"
   },
   "24431911": {
     "type": "Monster",
     "cn_name": "磁石战士 电磁地神",
+    "sc_name": "磁石之战士 大地机翁",
     "jp_name": "磁石の戦士マグネット・テルスリオン"
   },
   "51826619": {
     "type": "Monster",
     "cn_name": "磁石战士Σ+",
+    "sc_name": "磁石战士西格玛＋",
     "jp_name": "磁石の戦士Σ＋"
   },
   "87814728": {
     "type": "Monster",
     "cn_name": "磁石战士Σ-",
+    "sc_name": "磁石战士西格玛－",
     "jp_name": "磁石の戦士Σ－"
   },
   "23219323": {
     "type": "Monster",
     "cn_name": "废品战士/爆裂体",
+    "sc_name": "废品战士／爆裂",
     "jp_name": "ジャンク・ウォリアー／バスター"
   },
   "50604072": {
     "type": "Monster",
     "cn_name": "深红剑士/爆裂体",
+    "sc_name": "深红剑士／爆裂",
     "jp_name": "クリムゾン・ブレーダー／バスター"
   },
   "86098176": {
     "type": "Monster",
     "cn_name": "爆裂巫妖",
+    "sc_name": "爆裂巫妖",
     "jp_name": "バスター・リッチー"
   },
   "13597785": {
     "type": "Monster",
     "cn_name": "耀圣之花诗 卢西娜",
+    "sc_name": "耀圣之花诗 露西娜",
     "jp_name": "耀聖の花詩ルキナ"
   },
   "59581480": {
     "type": "Monster",
     "cn_name": "耀圣之波诗 狄娜",
+    "sc_name": "耀圣之波诗 蒂娜",
     "jp_name": "耀聖の波詩ディーナ"
   },
   "85976588": {
     "type": "Monster",
     "cn_name": "耀圣之月诗 福尔图娜",
+    "sc_name": "耀圣之月诗 福尔图娜",
     "jp_name": "耀聖の月詩フォルトナ"
   },
   "12375297": {
     "type": "Monster",
     "cn_name": "耀圣诗之狱神精",
+    "sc_name": "煌耀圣诗之狱神精",
     "jp_name": "燿ける聖詩の獄神精"
   },
   "58769832": {
     "type": "Monster",
     "cn_name": "王家恶魔",
+    "sc_name": "皇室恶魔",
     "jp_name": "ロワイヤル・デーモン"
   },
   "85154941": {
     "type": "Monster",
     "cn_name": "公爵恶魔",
+    "sc_name": "公爵恶魔",
     "jp_name": "デューク・デーモン"
   },
   "11248645": {
     "type": "Monster",
     "cn_name": "殿下恶魔",
+    "sc_name": "殿下恶魔",
     "jp_name": "ハイネス・デーモン"
   },
   "47647354": {
     "type": "Monster",
     "cn_name": "空牙团的疾风 雷克斯",
+    "sc_name": "空牙团的疾风 雷克斯",
     "jp_name": "空牙団の疾風 レクス"
   },
   "84031359": {
     "type": "Monster",
     "cn_name": "堕天使 骼骼他",
+    "sc_name": "堕天使 骨尔加尔塔",
     "jp_name": "堕天使グルガルタ"
   },
   "10426067": {
     "type": "Monster",
     "cn_name": "堕天使 杰胡提",
+    "sc_name": "堕天使 杰夫提",
     "jp_name": "堕天使ジェフティ"
   },
   "47425162": {
     "type": "Monster",
     "cn_name": "救援ACE队 消防摩托车",
+    "sc_name": "救援王牌 迅猛攻击机",
     "jp_name": "R－ACEクイック・アタッカー"
   },
   "73819701": {
     "type": "Monster",
     "cn_name": "白龙之落胤",
+    "sc_name": "白之落胤",
     "jp_name": "白き竜の落胤"
   },
   "19304410": {
     "type": "Monster",
     "cn_name": "铁兽炎工 姬特",
+    "sc_name": "铁兽守宝团 炎工之姬特",
     "jp_name": "鉄獣の炎工 キット"
   },
   "46708514": {
     "type": "Monster",
     "cn_name": "睨视苍穹的暗龙兽",
+    "sc_name": "凝视苍穹的蠕龙",
     "jp_name": "蒼穹を睨めるダーク"
   },
   "12197223": {
     "type": "Monster",
     "cn_name": "天雷之双风神 息那",
+    "sc_name": "天雷之双风神 息那",
     "jp_name": "天雷ノ双風神 シーナ"
   },
   "49181828": {
     "type": "Monster",
     "cn_name": "威胁武装龙",
+    "sc_name": "威慑武装龙",
     "jp_name": "スレット・アームド・ドラゴン"
   },
   "85586937": {
     "type": "Monster",
     "cn_name": "睡醒一杯！伯爵茶",
+    "sc_name": "威咖杯！格雷",
     "jp_name": "WAKE CUP！ アル"
   },
   "12975671": {
     "type": "Monster",
     "cn_name": "第一只企鹅",
+    "sc_name": "先驱企鹅",
     "jp_name": "ファースト・ペンギン"
   },
   "48469380": {
     "type": "Monster",
     "cn_name": "死亡皇帝恶魔",
+    "sc_name": "死亡皇帝恶魔",
     "jp_name": "デス・エンペラー・デーモン"
   },
   "84464389": {
     "type": "Monster",
     "cn_name": "装弹枪管死焰龙",
+    "sc_name": "枪管上膛绝焰龙",
     "jp_name": "ヴァレルロード・FF・ドラゴン"
   },
   "11852093": {
     "type": "Monster",
     "cn_name": "DDD 圣贤王 阿尔弗雷德",
+    "sc_name": "DDD 圣贤王阿尔弗雷德",
     "jp_name": "DDD聖賢王アルフレッド"
   },
   "47247792": {
     "type": "Monster",
     "cn_name": "超电导战骑 等离子磁炮王",
+    "sc_name": "超电导战骑 等离子麦格农",
     "jp_name": "超電導戦騎プラズマ・マグナム"
   },
   "74631897": {
     "type": "Monster",
     "cn_name": "神艺智慧少女",
+    "sc_name": "未竟神艺 智慧之少女",
     "jp_name": "神芸なる知恵の乙女"
   },
   "10136446": {
     "type": "Monster",
     "cn_name": "黄昏之堕天使 路西法",
+    "sc_name": "黄昏的堕天使 路西法",
     "jp_name": "黄昏の堕天使ルシファー"
   },
   "42125140": {
     "type": "Monster",
     "cn_name": "星辰铗龙 天蝎金牛龙魔",
+    "sc_name": "星宿钳龙 夏乌拉斯",
     "jp_name": "星辰鋏竜シャウラス"
   },
   "79519259": {
     "type": "Monster",
     "cn_name": "黑翼的祭司",
+    "sc_name": "夜翼祭司",
     "jp_name": "ナイトウィング・プリースト"
   },
   "5914858": {
     "type": "Monster",
     "cn_name": "调狱神 朱诺拉",
+    "sc_name": "调狱神 朱诺拉",
     "jp_name": "調獄神ジュノーラ"
   },
   "42302563": {
     "type": "Monster",
     "cn_name": "狱花之大耀圣 鹤望兰",
+    "sc_name": "狱花之大煌耀圣 斯特莉西亚",
     "jp_name": "獄花の大燿聖ストリチア"
   },
   "78397661": {
     "type": "Monster",
     "cn_name": "黑龙之艾克莉西娅",
+    "sc_name": "黑衣龙之艾克利西亚",
     "jp_name": "黒き竜のエクレシア"
   },
   "4891376": {
     "type": "Monster",
     "cn_name": "锁缚龙 锁镰",
+    "sc_name": "锁缚龙 扎连",
     "jp_name": "鎖縛竜ザレン"
   },
   "31286915": {
     "type": "Monster",
     "cn_name": "K9-EX “撕裂者/千年鼬”",
+    "sc_name": "K9－EX “割裂者／千”",
     "jp_name": "K９－EX “Ripper／M”"
   },
   "77675029": {
     "type": "Monster",
     "cn_name": "救祓少女·卡尔麦尔",
+    "sc_name": "驱魔姐妹・卡尔玛尔",
     "jp_name": "エクソシスター・カルマエル"
   },
   "4079728": {
     "type": "Monster",
     "cn_name": "起劲卖力！护宝炮妖！",
+    "sc_name": "共好！守宝团！",
     "jp_name": "ガンホー！スプリガンズ！"
   },
   "30064423": {
     "type": "Monster",
     "cn_name": "拓扑冲击波龙",
+    "sc_name": "拓扑逻辑冲击龙",
     "jp_name": "トポロジック・ブラスター・ドラゴン"
   },
   "66452432": {
     "type": "Monster",
     "cn_name": "套筒枪管龙",
+    "sc_name": "枪管战幕龙",
     "jp_name": "ヴァレルシュラウド・ドラゴン"
   },
   "3957130": {
     "type": "Monster",
     "cn_name": "三枪管龙",
+    "sc_name": "三叶枪管龙",
     "jp_name": "トゥリスヴァレル・ドラゴン"
   },
   "39341885": {
     "type": "Monster",
     "cn_name": "绚岚之海灵 派比安",
+    "sc_name": "绚岚之海灵 伐楼仑",
     "jp_name": "絢嵐たる海霊ヴァルルーン"
   },
   "66736884": {
     "type": "Monster",
     "cn_name": "空牙团的船匠 基尔",
+    "sc_name": "空牙团的船匠 基尔",
     "jp_name": "空牙団の船匠 キール"
   },
   "2725599": {
     "type": "Monster",
     "cn_name": "救援ACE队 仲裁消防战车",
+    "sc_name": "救援王牌 裁焰者",
     "jp_name": "R－ACEアビトレイター"
   },
   "38129297": {
     "type": "Spell",
     "cn_name": "双式扳机",
+    "sc_name": "双重扳机",
     "jp_name": "ダブル・トリガー"
   },
   "65514302": {
     "type": "Spell",
     "cn_name": "磁力结合术",
+    "sc_name": "磁石键结",
     "jp_name": "マグネット・ボンディング"
   },
   "91002901": {
     "type": "Spell",
     "cn_name": "决斗进化-爆裂区域",
+    "sc_name": "决斗进化－爆裂领域",
     "jp_name": "決闘進化－バスター・ゾーン"
   },
   "38007649": {
     "type": "Spell",
     "cn_name": "终刻转变",
+    "sc_name": "终刻变转",
     "jp_name": "終刻変転"
   },
   "64491754": {
     "type": "Spell",
     "cn_name": "耀圣之诗～回乡之平行体～",
+    "sc_name": "耀圣诗章～归乡之排比句～",
     "jp_name": "エルフェンノーツ～廻郷のパラレリズム～"
   },
   "90880453": {
     "type": "Spell",
     "cn_name": "耀圣之诗～再邂之三行体～",
+    "sc_name": "耀圣诗章～再会的三重唱～",
     "jp_name": "エルフェンノーツ～再邂のテルチェット～"
   },
   "27285068": {
     "type": "Spell",
     "cn_name": "开辟的预幻视",
+    "sc_name": "开辟预幻视",
     "jp_name": "開闢なる予幻視"
   },
   "63679166": {
     "type": "Spell",
     "cn_name": "恶魔们的玉座",
+    "sc_name": "恶魔王座",
     "jp_name": "スローン・オブ・デーモンズ"
   },
   "90764871": {
     "type": "Spell",
     "cn_name": "恶魔的盘上游戏",
+    "sc_name": "恶魔的棋盘游戏",
     "jp_name": "デーモンの盤上遊戯"
   },
   "26162470": {
     "type": "Spell",
     "cn_name": "飞龙战艇-幻舵拉",
+    "sc_name": "飞龙战艇－帆朵拉",
     "jp_name": "飛竜戦艇－ファンドラ"
   },
   "53557529": {
     "type": "Spell",
     "cn_name": "飙风之空牙团",
+    "sc_name": "飙风的空牙团",
     "jp_name": "飆風の空牙団"
   },
   "99941223": {
     "type": "Spell",
     "cn_name": "佚乐之堕天使",
+    "sc_name": "佚乐的堕天使",
     "jp_name": "佚楽の堕天使"
   },
   "25940932": {
     "type": "Spell",
     "cn_name": "绚岚之轩昂",
+    "sc_name": "绚岚之轩昂",
     "jp_name": "絢嵐たる軒昂"
   },
   "52335937": {
     "type": "Spell",
     "cn_name": "救祓少女圣母悼歌",
+    "sc_name": "驱魔姐妹・圣母悼歌",
     "jp_name": "エクソシスター・バト・マーテル"
   },
   "98829635": {
     "type": "Spell",
     "cn_name": "禁忌的圣冠",
+    "sc_name": "禁忌的圣冠",
     "jp_name": "禁じられた聖冠"
   },
   "25224340": {
     "type": "Spell",
     "cn_name": "幻惑之操手",
+    "sc_name": "幻惑的操手",
     "jp_name": "幻惑の操手"
   },
   "51612489": {
     "type": "Spell",
     "cn_name": "骚动",
+    "sc_name": "骚动",
     "jp_name": "騒動"
   },
   "87607094": {
     "type": "Trap",
     "cn_name": "枪管重启",
+    "sc_name": "枪管重启",
     "jp_name": "ヴァレル・リブート"
   },
   "24092792": {
     "type": "Trap",
     "cn_name": "耀圣之诗～狂奏之狂想曲～",
+    "sc_name": "耀圣诗章～激奏之狂想曲～",
     "jp_name": "エルフェンノーツ～狂奏のラプソディア～"
   },
   "50590801": {
     "type": "Trap",
     "cn_name": "耀圣之诗～托选之蓝星鸢尾～",
+    "sc_name": "耀圣诗章～托选之武功歌～",
     "jp_name": "エルフェンノーツ～託選のアリスティア～"
   },
   "87985506": {
     "type": "Trap",
     "cn_name": "恶魔的谐谑",
+    "sc_name": "恶魔的谐谑",
     "jp_name": "デーモンの諧謔"
   },
   "13379114": {
     "type": "Trap",
     "cn_name": "恶魔的气魄",
+    "sc_name": "恶魔的气魄",
     "jp_name": "デーモンの気魄"
   },
   "59374259": {
     "type": "Trap",
     "cn_name": "空牙团的奥义",
+    "sc_name": "空牙团的奥义",
     "jp_name": "空牙団の奥義"
   },
   "86762958": {
     "type": "Trap",
     "cn_name": "协助摆位★味美喵！",
+    "sc_name": "协助★黯蜜！",
     "jp_name": "アシスト★ヤミー！"
   },
   "12157563": {
     "type": "Trap",
     "cn_name": "禁断仪式术",
+    "sc_name": "禁断仪式术",
     "jp_name": "禁断儀式術"
   },
   "49652661": {
     "type": "Trap",
     "cn_name": "武器库整理",
+    "sc_name": "武器库整理",
     "jp_name": "武器庫整理"
   },
   "85640370": {
     "type": "Trap",
     "cn_name": "舌尖减少",
+    "sc_name": "舌尖短少",
     "jp_name": "舌先減少"
   },
   "11035075": {
     "type": "Trap",
     "cn_name": "死地误算守护",
+    "sc_name": "死地误算守护",
     "jp_name": "死地誤算守護"
   },
   "84824728": {
@@ -88970,6 +89123,7 @@
   "86289475": {
     "type": "Monster",
     "cn_name": "磁石战士Ω+",
+    "sc_name": "磁石战士欧米伽＋",
     "jp_name": "磁石の戦士Ω＋"
   }
 }
