@@ -87532,6 +87532,7 @@
   "10949074": {
     "type": "Monster",
     "cn_name": "异宇宙军神",
+    "sc_name": "异宇宙战煌",
     "jp_name": "アナザー・バース・ストラディオス",
     "en_name": "Anotherverse Stratios"
   },
@@ -88639,6 +88640,11 @@
     "type": "Monster",
     "cn_name": "教导的死徒",
     "jp_name": "教導の死徒"
+  },
+  "100249001": {
+    "type": "Monster",
+    "cn_name": "魔弹恶魔 卡斯帕",
+    "jp_name": "魔弾の悪魔 カスパール"
   },
   "30271097": {
     "type": "Spell",
