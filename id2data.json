@@ -20314,13 +20314,13 @@
     "type": "Spell",
     "cn_name": "精神同调波",
     "jp_name": "精神同調波",
-    "en_name": "Synchro Blast Wave"
+    "en_name": "Synch Blast Wave"
   },
   "61032879": {
     "type": "Spell",
     "cn_name": "共有精神世界",
     "jp_name": "コモンメンタルワールド",
-    "en_name": "Synchronized Realm"
+    "en_name": "Synch Realm"
   },
   "98427577": {
     "type": "Trap",
@@ -69486,7 +69486,7 @@
   },
   "91957038": {
     "type": "Spell",
-    "cn_name": "妖精传姬",
+    "cn_name": "妖精之传姬",
     "jp_name": "妖精の伝姫",
     "en_name": "Fairy Tail Tales"
   },
@@ -88333,199 +88333,232 @@
     "type": "Monster",
     "cn_name": "不可见之手 诱天手",
     "sc_name": "百臂无形手 伊卜揶尔",
-    "jp_name": "見えざる手イブエル"
+    "jp_name": "見えざる手イブエル",
+    "en_name": "Hecahands Ibtel"
   },
   "32759190": {
     "type": "Monster",
     "cn_name": "不可见之手 招天手",
     "sc_name": "百臂无形手 雅多揶尔",
-    "jp_name": "見えざる手ヤドエル"
+    "jp_name": "見えざる手ヤドエル",
+    "en_name": "Hecahands Yadel"
   },
   "68144894": {
     "type": "Monster",
     "cn_name": "不可见之手 科托神手",
     "sc_name": "百臂无形手 格多撕",
-    "jp_name": "見えざる手ゴッドス"
+    "jp_name": "見えざる手ゴッドス",
+    "en_name": "Hecahands Godos"
   },
   "95132593": {
     "type": "Monster",
     "cn_name": "不可见之手 古革鬼手",
     "sc_name": "百臂无形手 盖伽撕",
-    "jp_name": "見えざる手ガイガス"
+    "jp_name": "見えざる手ガイガス",
+    "en_name": "Hecahands Gaigas"
   },
   "21637502": {
     "type": "Monster",
     "cn_name": "不可见之手 布里刃手",
     "sc_name": "百臂无形手 布瑞撕",
-    "jp_name": "見えざる手ブレアス"
+    "jp_name": "見えざる手ブレアス",
+    "en_name": "Hecahands Breus"
   },
   "67021206": {
     "type": "Monster",
     "cn_name": "不可见之神 乔扎之手",
     "sc_name": "百臂无形神 迦乌撒",
-    "jp_name": "見えざる神ジャウザー"
+    "jp_name": "見えざる神ジャウザー",
+    "en_name": "Hecahands Jauzah"
   },
   "94410955": {
     "type": "Monster",
     "cn_name": "不可见之神 宙斯异手",
     "sc_name": "百臂无形神 慑挪",
-    "jp_name": "見えざる神ゼノ"
+    "jp_name": "見えざる神ゼノ",
+    "en_name": "Hecahands Xeno"
   },
   "20415050": {
     "type": "Spell",
     "cn_name": "神的不可见之手",
     "sc_name": "神之百臂无形手",
-    "jp_name": "神の見えざる手"
+    "jp_name": "神の見えざる手",
+    "en_name": "The Hidden Hecahands"
   },
   "57809669": {
     "type": "Spell",
     "cn_name": "不可见之幽狱",
     "sc_name": "百臂无形幽狱 塔尔塔洛撕",
-    "jp_name": "見えざる幽獄"
+    "jp_name": "見えざる幽獄",
+    "en_name": "Hecahands Tartaros"
   },
   "93294363": {
     "type": "Trap",
     "cn_name": "不可见之诱引手",
     "sc_name": "百臂无形诱惑手",
-    "jp_name": "見えざる誘い手"
+    "jp_name": "見えざる誘い手",
+    "en_name": "Ib'al-Hecahands"
   },
   "29792472": {
     "type": "Trap",
     "cn_name": "不可见之招引手",
     "sc_name": "百臂无形招引手",
-    "jp_name": "見えざる招き手"
+    "jp_name": "見えざる招き手",
+    "en_name": "Yad'al-Hecahands"
   },
   "56187077": {
     "type": "Monster",
     "cn_name": "纠罪巧α'-愤怒“orgIA”",
     "sc_name": "纠罪巧α’－愤怒“orgIA”",
-    "jp_name": "糾罪巧α’－「orgIA」"
+    "jp_name": "糾罪巧α’－「orgIA」",
+    "en_name": "Proto Enneacraft - \"orgIA\""
   },
   "92171126": {
     "type": "Monster",
     "cn_name": "纠罪巧β'-傲慢“alazoneIA”",
     "sc_name": "纠罪巧β’－傲慢“alazoneIA”",
-    "jp_name": "糾罪巧β’－「alazoneIA」"
+    "jp_name": "糾罪巧β’－「alazoneIA」",
+    "en_name": "Deftero Enneacraft - \"alazoneIA\""
   },
   "29570824": {
     "type": "Monster",
     "cn_name": "纠罪巧ϝ'-恐怖“tromarIA”",
     "sc_name": "纠罪巧ϝ’－恐怖“tromarIA”",
-    "jp_name": "糾罪巧ϝ’－「tromarIA」"
+    "jp_name": "糾罪巧ϝ’－「tromarIA」",
+    "en_name": "Ekto Enneacraft - \"tromarIA\""
   },
   "55965529": {
     "type": "Monster",
     "cn_name": "纠罪巧θ'-怠惰“oknirIA”",
     "sc_name": "纠罪巧θ’－怠惰“oknirIA”",
-    "jp_name": "糾罪巧θ’－「oknirIA」"
+    "jp_name": "糾罪巧θ’－「oknirIA」",
+    "en_name": "Enato Enneacraft - \"oknirIA\""
   },
   "82359538": {
     "type": "Monster",
     "cn_name": "纠罪巧-骄狮 Aizaβ.LEON",
     "sc_name": "纠罪巧－骄狮 Aizaβ.LEON",
-    "jp_name": "糾罪巧－Aizaβ.LEON"
+    "jp_name": "糾罪巧－Aizaβ.LEON",
+    "en_name": "Enneacraft - Aiza.LEON"
   },
   "28454232": {
     "type": "Monster",
     "cn_name": "纠罪巧-诈狐 Astaγ.PIXIEA",
     "sc_name": "纠罪巧－诈狐 Astaγ.PIXIEA",
-    "jp_name": "糾罪巧－Astaγ.PIXIEA"
+    "jp_name": "糾罪巧－Astaγ.PIXIEA",
+    "en_name": "Enneacraft - Asta.PIXEA"
   },
   "54842941": {
     "type": "Monster",
     "cn_name": "纠罪巧-惧鲸 Atoriϝ.MAR",
     "sc_name": "纠罪巧－惧鲸 Atoriϝ.MAR",
-    "jp_name": "糾罪巧－Atoriϝ.MAR"
+    "jp_name": "糾罪巧－Atoriϝ.MAR",
+    "en_name": "Enneacraft - Atori.MAR"
   },
   "81237046": {
     "type": "Monster",
     "cn_name": "纠罪巧-嗜蝎 Archaη.TAIL",
     "sc_name": "纠罪巧－嗜蝎 Archaη.TAIL",
-    "jp_name": "糾罪巧－Archaη.TAIL"
+    "jp_name": "糾罪巧－Archaη.TAIL",
+    "en_name": "Enneacraft - Archa.TAIL"
   },
   "17621695": {
     "type": "Spell",
     "cn_name": "纠罪都市",
     "sc_name": "纠罪都市",
-    "jp_name": "糾罪都市－エニアポリス"
+    "jp_name": "糾罪都市－エニアポリス",
+    "en_name": "Enneapolis"
   },
   "54020393": {
     "type": "Spell",
     "cn_name": "纠罪巧-解放始导",
     "sc_name": "纠罪巧－解放始导",
-    "jp_name": "糾罪巧－始導"
+    "jp_name": "糾罪巧－始導",
+    "en_name": "Enneacraft Release"
   },
   "80015408": {
     "type": "Spell",
     "cn_name": "纠罪巧-反转裁诞",
     "sc_name": "纠罪巧－反转裁诞",
-    "jp_name": "糾罪巧－裁誕"
+    "jp_name": "糾罪巧－裁誕",
+    "en_name": "Enneacraft Reverth"
   },
   "16509007": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·混音手",
     "sc_name": "杀手旋律・米可丝",
-    "jp_name": "キラーチューン・ミクス"
+    "jp_name": "キラーチューン・ミクス",
+    "en_name": "Kewl Tune Mix"
   },
   "43904702": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·削波手",
     "sc_name": "杀手旋律・酷莉普",
-    "jp_name": "キラーチューン・クリップ"
+    "jp_name": "キラーチューン・クリップ",
+    "en_name": "Kewl Tune Clip"
   },
   "89392810": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·唱片师",
     "sc_name": "杀手旋律・乐蔻",
-    "jp_name": "キラーチューン・レコ"
+    "jp_name": "キラーチューン・レコ",
+    "en_name": "Kewl Tune Reco"
   },
   "16387555": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·提示员",
     "sc_name": "杀手旋律・绮悠",
-    "jp_name": "キラーチューン・キュー"
+    "jp_name": "キラーチューン・キュー",
+    "en_name": "Kewl Tune Cue"
   },
   "42781164": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·音轨制作人",
     "sc_name": "杀手旋律・造轨者",
-    "jp_name": "キラーチューン・トラックメイカー"
+    "jp_name": "キラーチューン・トラックメイカー",
+    "en_name": "Kewl Tune Track Maker"
   },
   "88170262": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·再混音手",
     "sc_name": "杀手旋律・重混",
-    "jp_name": "キラーチューン・リミックス"
+    "jp_name": "キラーチューン・リミックス",
+    "en_name": "Kewl Tune Remix"
   },
   "15665977": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·红印鉴唱片师",
     "sc_name": "杀手旋律・赤印",
-    "jp_name": "キラーチューン・レッドシール"
+    "jp_name": "キラーチューン・レッドシール",
+    "en_name": "Kewl Tune RS"
   },
   "41069676": {
     "type": "Monster",
     "cn_name": "杀手级调整曲响度战争",
     "sc_name": "杀手旋律・响度战争",
-    "jp_name": "キラーチューン・ラウドネスウォー"
+    "jp_name": "キラーチューン・ラウドネスウォー",
+    "en_name": "Kewl Tune Loudness War"
   },
   "78058681": {
     "type": "Spell",
     "cn_name": "杀手级调整曲同调",
     "sc_name": "杀手旋律・同步",
-    "jp_name": "キラーチューン・シンクロ"
+    "jp_name": "キラーチューン・シンクロ",
+    "en_name": "Kewl Tune Synchro"
   },
   "14442329": {
     "type": "Spell",
     "cn_name": "点唱机酒吧“杀手级调整曲”",
     "sc_name": "地下俱乐部『杀手旋律』",
-    "jp_name": "ジュークジョイント“Killer Tune”"
+    "jp_name": "ジュークジョイント“Killer Tune”",
+    "en_name": "JJ \"Kewl Tune\""
   },
   "40847034": {
     "type": "Trap",
     "cn_name": "杀手级调整曲播放列表",
     "sc_name": "杀手旋律・歌单",
-    "jp_name": "キラーチューン・プレイリスト"
+    "jp_name": "キラーチューン・プレイリスト",
+    "en_name": "Kewl Tune Playlist"
   },
   "40725446": {
     "type": "Monster",
@@ -88641,7 +88674,7 @@
     "cn_name": "教导的死徒",
     "jp_name": "教導の死徒"
   },
-  "100249001": {
+  "3287359": {
     "type": "Monster",
     "cn_name": "魔弹恶魔 卡斯帕",
     "jp_name": "魔弾の悪魔 カスパール"
@@ -89126,102 +89159,102 @@
     "cn_name": "魔龙阁-邪灵恶龙",
     "jp_name": "魔竜閣－ドラルヴァイス"
   },
-  "100250206": {
+  "9978697": {
     "type": "Monster",
     "cn_name": "X-剑士 佩里娜",
     "jp_name": "X－セイバー ペリナ"
   },
-  "100250207": {
+  "45462306": {
     "type": "Monster",
     "cn_name": "X-剑士 布鲁诺",
     "jp_name": "X－セイバー ブルノ"
   },
-  "100250208": {
+  "72867001": {
     "type": "Monster",
     "cn_name": "总剑司令 索萨",
     "jp_name": "総剣司令 ソウザ"
   },
-  "100250209": {
+  "8252010": {
     "type": "Monster",
     "cn_name": "X-剑士 加特姆士",
     "jp_name": "X－セイバー ガトムズ"
   },
-  "100250005": {
+  "35240714": {
     "type": "Spell",
     "cn_name": "剑之合击",
     "jp_name": "セイバー・コンビネーション"
   },
-  "100250018": {
+  "71645463": {
     "type": "Monster",
     "cn_name": "龙骑兵团-持枪神",
     "jp_name": "ドラグニティ－クイリヌス"
   },
-  "100250019": {
+  "8039562": {
     "type": "Monster",
     "cn_name": "龙骑兵团-弯形大刀龙",
     "jp_name": "ドラグニティ－ファルシオン"
   },
-  "100250020": {
+  "34528176": {
     "type": "Monster",
     "cn_name": "龙骑兵团骑士-战枪龙骑士",
     "jp_name": "ドラグニティナイト－アーレウス"
   },
-  "100250021": {
+  "70522875": {
     "type": "Monster",
     "cn_name": "龙骑兵团支配者-乔治",
     "jp_name": "ドラグニティロード－ゲオルギアス"
   },
-  "100250022": {
+  "7917970": {
     "type": "Spell",
     "cn_name": "神风之龙骑兵团",
     "jp_name": "神風のドラグニティ"
   },
-  "100250201": {
+  "33302589": {
     "type": "Monster",
     "cn_name": "星圣·北河二",
     "jp_name": "セイクリッド・カストル"
   },
-  "100250202": {
+  "60700283": {
     "type": "Monster",
     "cn_name": "星骑士 天津四星",
     "jp_name": "星騎士 キュグニ"
   },
-  "100250203": {
+  "6195332": {
     "type": "Monster",
     "cn_name": "超神星辉士 星圣神龙 托勒密星团Ω7",
     "jp_name": "超神星輝士 セイクリッド・トレミスΩ７"
   },
-  "100250204": {
+  "32289031": {
     "type": "Monster",
     "cn_name": "星骑士 星圣·夏三角",
     "jp_name": "星騎士 セイクリッド・デルタテロス"
   },
-  "100250044": {
+  "69678646": {
     "type": "Spell",
     "cn_name": "神星系束",
     "jp_name": "神星なる繋束"
   },
-  "100250062": {
+  "95072744": {
     "type": "Monster",
     "cn_name": "影雄之烬 神子晶",
     "jp_name": "影雄の烬 エグリスタ"
   },
-  "100250063": {
+  "32467459": {
     "type": "Monster",
     "cn_name": "神影依·米沙赫雷恶",
     "jp_name": "エルシャドール・メシャフレール"
   },
-  "100250064": {
+  "8852158": {
     "type": "Monster",
     "cn_name": "影灵翼骑 影文蒂",
     "jp_name": "影霊翼騎 ウェンディクルフ"
   },
-  "100250065": {
+  "34950192": {
     "type": "Spell",
     "cn_name": "冻结之心映照的神影",
     "jp_name": "凍てし心が映す神影"
   },
-  "100250066": {
+  "61345801": {
     "type": "Spell",
     "cn_name": "炼狱的乖放",
     "jp_name": "煉獄の乖放"
@@ -89232,7 +89265,7 @@
     "sc_name": "磁石战士欧米伽＋",
     "jp_name": "磁石の戦士Ω＋"
   },
-  "100200281": {
+  "74405783": {
     "type": "Monster",
     "cn_name": "三英之相剑师",
     "jp_name": "三英の相剣師"
