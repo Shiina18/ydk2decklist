@@ -19351,6 +19351,7 @@
   "90508760": {
     "type": "Monster",
     "cn_name": "X-剑士 艾尔伯恩",
+    "sc_name": "X－军刀 艾亚贝伦",
     "jp_name": "X－セイバー エアベルン",
     "en_name": "X-Saber Airbellum"
   },
@@ -19436,6 +19437,7 @@
   "80108118": {
     "type": "Monster",
     "cn_name": "X-剑士 乌尔贝鲁姆",
+    "sc_name": "X－军刀 乌尔贝尔姆",
     "jp_name": "X－セイバー ウルベルム",
     "en_name": "X-Saber Urbellum"
   },
@@ -21002,6 +21004,7 @@
   "23115241": {
     "type": "Monster",
     "cn_name": "X-剑士 安娜佩瑞拉",
+    "sc_name": "X－军刀 安娜佩雷拉",
     "jp_name": "X－セイバー アナペレラ",
     "en_name": "X-Saber Anu Piranha"
   },
@@ -21020,6 +21023,7 @@
   "23093604": {
     "type": "Monster",
     "cn_name": "X-剑士 珀修尔",
+    "sc_name": "X－军刀 帕修尔",
     "jp_name": "X－セイバー パシウル",
     "en_name": "X-Saber Pashuul"
   },
@@ -21087,6 +21091,7 @@
   "83810690": {
     "type": "Monster",
     "cn_name": "X-剑士 韦恩",
+    "sc_name": "X－军刀 韦恩",
     "jp_name": "X－セイバー ウェイン",
     "en_name": "X-Saber Wayne"
   },
@@ -23682,6 +23687,7 @@
   "13504844": {
     "type": "Trap",
     "cn_name": "加特姆士的紧急指令",
+    "sc_name": "加特姆士的紧急指令",
     "jp_name": "ガトムズの緊急指令",
     "en_name": "Gottoms' Emergency Call"
   },
@@ -23932,12 +23938,14 @@
   "51808422": {
     "type": "Monster",
     "cn_name": "XX-剑士 福特罗尔",
+    "sc_name": "XX－军刀 佛洛托尔",
     "jp_name": "XX－セイバー フォルトロール",
     "en_name": "XX-Saber Faultroll"
   },
   "87292536": {
     "type": "Monster",
     "cn_name": "XX-剑士 雷吉格拉",
+    "sc_name": "XX－军刀 雷金古拉",
     "jp_name": "XX－セイバー レイジグラ",
     "en_name": "XX-Saber Ragigura"
   },
@@ -23984,6 +23992,7 @@
   "52352005": {
     "type": "Monster",
     "cn_name": "XX-剑士 加特姆士",
+    "sc_name": "XX－军刀 加特姆士",
     "jp_name": "XX－セイバー ガトムズ",
     "en_name": "XX-Saber Gottoms"
   },
@@ -24070,6 +24079,7 @@
   "11052544": {
     "type": "Spell",
     "cn_name": "剑斩",
+    "sc_name": "军刀斩",
     "jp_name": "セイバー・スラッシュ",
     "en_name": "Saber Slash"
   },
@@ -24303,12 +24313,14 @@
   "81962318": {
     "type": "Monster",
     "cn_name": "龙骑兵团-军事官",
+    "sc_name": "龙骑兵团－保民官",
     "jp_name": "ドラグニティ－トリブル",
     "en_name": "Dragunity Tribus"
   },
   "13361027": {
     "type": "Monster",
     "cn_name": "龙骑兵团-黑枪龙",
+    "sc_name": "龙骑兵团－黑矛",
     "jp_name": "ドラグニティ－ブラックスピア",
     "en_name": "Dragunity Darkspear"
   },
@@ -24458,6 +24470,7 @@
   "900787": {
     "type": "Monster",
     "cn_name": "龙骑兵团骑士-魔枪龙骑士",
+    "sc_name": "龙骑兵团骑士－凡界死枪",
     "jp_name": "ドラグニティナイト－ゲイボルグ",
     "en_name": "Dragunity Knight - Gae Bulg"
   },
@@ -25101,12 +25114,14 @@
   "42024143": {
     "type": "Monster",
     "cn_name": "XX-剑士 加德斯特莱克",
+    "sc_name": "XX－军刀 突击守卫",
     "jp_name": "XX－セイバー ガルドストライク",
     "en_name": "XX-Saber Gardestrike"
   },
   "78422252": {
     "type": "Monster",
     "cn_name": "XX-剑士 富勒姆奈特",
+    "sc_name": "XX－军刀 佛兰姆骑士",
     "jp_name": "XX－セイバー フラムナイト",
     "en_name": "XX-Saber Fulhelmknight"
   },
@@ -25302,6 +25317,7 @@
   "18060565": {
     "type": "Monster",
     "cn_name": "龙骑兵团-首席百夫长",
+    "sc_name": "龙骑兵团－首席百夫长",
     "jp_name": "ドラグニティ－プリムス・ピルス",
     "en_name": "Dragunity Primus Pilus"
   },
@@ -25410,6 +25426,7 @@
   "80159717": {
     "type": "Monster",
     "cn_name": "龙骑兵团骑士-三叉龙骑士",
+    "sc_name": "龙骑兵团骑士－三叉之枪",
     "jp_name": "ドラグニティナイト－トライデント",
     "en_name": "Dragunity Knight - Trident"
   },
@@ -25870,6 +25887,7 @@
   "2203790": {
     "type": "Monster",
     "cn_name": "XX-剑士 迅雷",
+    "sc_name": "XX－军刀 迅雷",
     "jp_name": "XX－セイバー ヒュンレイ",
     "en_name": "XX-Saber Hyunlei"
   },
@@ -26047,6 +26065,7 @@
   "44901281": {
     "type": "Trap",
     "cn_name": "剑之落穴",
+    "sc_name": "军刀空洞",
     "jp_name": "セイバー・ホール",
     "en_name": "Saber Hole"
   },
@@ -26411,6 +26430,7 @@
   "42737833": {
     "type": "Monster",
     "cn_name": "XX-剑士 埃默斯布莱德",
+    "sc_name": "XX－军刀 埃摩斯剑刃",
     "jp_name": "XX－セイバー エマーズブレイド",
     "en_name": "XX-Saber Emmersblade"
   },
@@ -27904,12 +27924,14 @@
   "5998840": {
     "type": "Monster",
     "cn_name": "XX-剑士 波加特骑士",
+    "sc_name": "XX－军刀 波加骑士",
     "jp_name": "XX－セイバー ボガーナイト",
     "en_name": "XX-Saber Boggart Knight"
   },
   "31383545": {
     "type": "Monster",
     "cn_name": "XX-剑士 暗黑之魂",
+    "sc_name": "XX－军刀 暗魂",
     "jp_name": "XX－セイバー ダークソウル",
     "en_name": "XX-Saber Darksoul"
   },
@@ -30115,6 +30137,7 @@
   "63612442": {
     "type": "Monster",
     "cn_name": "X-剑士 索萨",
+    "sc_name": "X－军刀 索扎",
     "jp_name": "X－セイバー ソウザ",
     "en_name": "X-Saber Souza"
   },
@@ -32326,12 +32349,14 @@
   "41269771": {
     "type": "Monster",
     "cn_name": "星圣·牛宿二",
+    "sc_name": "星圣 摩羯格雷迪",
     "jp_name": "セイクリッド・グレディ",
     "en_name": "Constellar Algiedi"
   },
   "78364470": {
     "type": "Monster",
     "cn_name": "星圣·北河三",
+    "sc_name": "星圣 双子波鲁克斯",
     "jp_name": "セイクリッド・ポルクス",
     "en_name": "Constellar Pollux"
   },
@@ -33431,6 +33456,7 @@
   "70908596": {
     "type": "Monster",
     "cn_name": "星圣·箕宿三",
+    "sc_name": "星圣 射手考斯特",
     "jp_name": "セイクリッド・カウスト",
     "en_name": "Constellar Kaus"
   },
@@ -33532,13 +33558,14 @@
   "2091298": {
     "type": "Monster",
     "cn_name": "星圣·鬼星团",
+    "sc_name": "星圣 蜂巢星团",
     "jp_name": "セイクリッド・ビーハイブ",
     "en_name": "Constellar Praesepe"
   },
   "38495396": {
     "type": "Monster",
     "cn_name": "星圣神龙 托勒密星团M7",
-    "sc_name": "星圣 托勒密星团M７",
+    "sc_name": "星圣 托勒密星团M7",
     "jp_name": "セイクリッド・トレミスM７",
     "en_name": "Constellar Ptolemy M7"
   },
@@ -33569,6 +33596,7 @@
   "90156158": {
     "type": "Spell",
     "cn_name": "星圣的超新生",
+    "sc_name": "星圣的超新生",
     "jp_name": "セイクリッドの超新生",
     "en_name": "Constellar Star Cradle"
   },
@@ -33593,6 +33621,7 @@
   "26329679": {
     "type": "Monster",
     "cn_name": "星圣·欧米伽星云",
+    "sc_name": "星圣 欧米伽星团",
     "jp_name": "セイクリッド・オメガ",
     "en_name": "Constellar Omega"
   },
@@ -36313,6 +36342,7 @@
   "78358521": {
     "type": "Monster",
     "cn_name": "星圣·草帽星系",
+    "sc_name": "星圣 索恩布雷斯",
     "jp_name": "セイクリッド・ソンブレス",
     "en_name": "Constellar Sombre"
   },
@@ -43460,12 +43490,14 @@
   "35544402": {
     "type": "Spell",
     "cn_name": "闪烁星圣",
+    "sc_name": "闪烁星圣",
     "jp_name": "ティンクル・セイクリッド",
     "en_name": "Constellar Twinkle"
   },
   "61948106": {
     "type": "Spell",
     "cn_name": "加特姆士的非常召集",
+    "sc_name": "加特姆士的紧急召集",
     "jp_name": "ガトムズの非常召集",
     "en_name": "Gottoms' Second Call"
   },
@@ -68873,6 +68905,7 @@
   "82913020": {
     "type": "Monster",
     "cn_name": "星圣商神杖使",
+    "sc_name": "星圣 卡多克乌斯",
     "jp_name": "セイクリッド・カドケウス",
     "en_name": "Constellar Caduceus"
   },
@@ -89162,101 +89195,121 @@
   "9978697": {
     "type": "Monster",
     "cn_name": "X-剑士 佩里娜",
+    "sc_name": "X－军刀 佩利那",
     "jp_name": "X－セイバー ペリナ"
   },
   "45462306": {
     "type": "Monster",
     "cn_name": "X-剑士 布鲁诺",
+    "sc_name": "X－军刀 布鲁诺",
     "jp_name": "X－セイバー ブルノ"
   },
   "72867001": {
     "type": "Monster",
     "cn_name": "总剑司令 索萨",
+    "sc_name": "总剑司令 索扎",
     "jp_name": "総剣司令 ソウザ"
   },
   "8252010": {
     "type": "Monster",
     "cn_name": "X-剑士 加特姆士",
+    "sc_name": "X－军刀 加特姆士",
     "jp_name": "X－セイバー ガトムズ"
   },
   "35240714": {
     "type": "Spell",
     "cn_name": "剑之合击",
+    "sc_name": "军刀合击",
     "jp_name": "セイバー・コンビネーション"
   },
   "71645463": {
     "type": "Monster",
     "cn_name": "龙骑兵团-持枪神",
+    "sc_name": "龙骑兵团－奎里纳斯",
     "jp_name": "ドラグニティ－クイリヌス"
   },
   "8039562": {
     "type": "Monster",
     "cn_name": "龙骑兵团-弯形大刀龙",
+    "sc_name": "龙骑兵团－弯刃大刀",
     "jp_name": "ドラグニティ－ファルシオン"
   },
   "34528176": {
     "type": "Monster",
     "cn_name": "龙骑兵团骑士-战枪龙骑士",
+    "sc_name": "龙骑兵团骑士－阿瑞斯",
     "jp_name": "ドラグニティナイト－アーレウス"
   },
   "70522875": {
     "type": "Monster",
     "cn_name": "龙骑兵团支配者-乔治",
+    "sc_name": "龙骑兵团领主－格奥鲁吉亚斯",
     "jp_name": "ドラグニティロード－ゲオルギアス"
   },
   "7917970": {
     "type": "Spell",
     "cn_name": "神风之龙骑兵团",
+    "sc_name": "神风之龙骑兵团",
     "jp_name": "神風のドラグニティ"
   },
   "33302589": {
     "type": "Monster",
     "cn_name": "星圣·北河二",
+    "sc_name": "星圣 双子卡斯托尔",
     "jp_name": "セイクリッド・カストル"
   },
   "60700283": {
     "type": "Monster",
     "cn_name": "星骑士 天津四星",
+    "sc_name": "星骑士 天鹅丘格尼",
     "jp_name": "星騎士 キュグニ"
   },
   "6195332": {
     "type": "Monster",
     "cn_name": "超神星辉士 星圣神龙 托勒密星团Ω7",
+    "sc_name": "超神辉星骑士 星圣 托勒密星团欧米伽7",
     "jp_name": "超神星輝士 セイクリッド・トレミスΩ７"
   },
   "32289031": {
     "type": "Monster",
     "cn_name": "星骑士 星圣·夏三角",
+    "sc_name": "星骑士 星圣 德塔特洛斯",
     "jp_name": "星騎士 セイクリッド・デルタテロス"
   },
   "69678646": {
     "type": "Spell",
     "cn_name": "神星系束",
+    "sc_name": "神星之系束",
     "jp_name": "神星なる繋束"
   },
   "95072744": {
     "type": "Monster",
     "cn_name": "影雄之烬 神子晶",
+    "sc_name": "英雄之烬影依 古利水晶",
     "jp_name": "影雄の烬 エグリスタ"
   },
   "32467459": {
     "type": "Monster",
     "cn_name": "神影依·米沙赫雷恶",
+    "sc_name": "神影依・弥赛芙蕾尔",
     "jp_name": "エルシャドール・メシャフレール"
   },
   "8852158": {
     "type": "Monster",
     "cn_name": "影灵翼骑 影文蒂",
+    "sc_name": "翼影依灵骑 温蒂玖琉布",
     "jp_name": "影霊翼騎 ウェンディクルフ"
   },
   "34950192": {
     "type": "Spell",
     "cn_name": "冻结之心映照的神影",
+    "sc_name": "心影依结合",
     "jp_name": "凍てし心が映す神影"
   },
   "61345801": {
     "type": "Spell",
     "cn_name": "炼狱的乖放",
+    "sc_name": "炼狱的乖放",
     "jp_name": "煉獄の乖放"
   },
   "86289475": {
