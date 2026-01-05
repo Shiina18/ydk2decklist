@@ -2172,6 +2172,7 @@
   "5628232": {
     "type": "Monster",
     "cn_name": "飞企鹅",
+    "sc_name": "飞天企鹅",
     "jp_name": "トビペンギン",
     "en_name": "Flying Penguin"
   },
@@ -6950,6 +6951,7 @@
   "12800777": {
     "type": "Monster",
     "cn_name": "风之精灵 迦楼罗",
+    "sc_name": "风之精灵 迦楼罗",
     "jp_name": "風の精霊 ガルーダ",
     "en_name": "Garuda the Wind Spirit"
   },
@@ -7917,6 +7919,7 @@
   "3549275": {
     "type": "Monster",
     "cn_name": "骰子壶",
+    "sc_name": "骰子壶",
     "jp_name": "ダイス・ポット",
     "en_name": "Dice Jar"
   },
@@ -14829,6 +14832,7 @@
   "93730409": {
     "type": "Monster",
     "cn_name": "真空鼬鼠",
+    "sc_name": "真空鼬",
     "jp_name": "真空イタチ",
     "en_name": "Whirlwind Weasel"
   },
@@ -18814,6 +18818,7 @@
   "51196174": {
     "type": "Monster",
     "cn_name": "计算器人",
+    "sc_name": "计算器人",
     "jp_name": "ザ・カリキュレーター",
     "en_name": "The Calculator"
   },
@@ -30819,6 +30824,7 @@
   "38296564": {
     "type": "Trap",
     "cn_name": "安全地带",
+    "sc_name": "安全地带",
     "jp_name": "安全地帯",
     "en_name": "Safe Zone"
   },
@@ -33303,6 +33309,7 @@
   "51858306": {
     "type": "Monster",
     "cn_name": "日食翼龙",
+    "sc_name": "日蚀飞龙",
     "jp_name": "エクリプス・ワイバーン",
     "en_name": "Eclipse Wyvern"
   },
@@ -39507,6 +39514,7 @@
   "84401683": {
     "type": "Monster",
     "cn_name": "蛇头守护者",
+    "sc_name": "蛇魔・守护者",
     "jp_name": "ゴルゴニック・ガーディアン",
     "en_name": "Gorgonic Guardian"
   },
@@ -39554,6 +39562,7 @@
   "8561192": {
     "type": "Monster",
     "cn_name": "神树的守护兽-牙王",
+    "sc_name": "神树的守护兽－牙王",
     "jp_name": "神樹の守護獣－牙王",
     "en_name": "Leo, the Keeper of the Sacred Tree"
   },
@@ -40291,6 +40300,7 @@
   "68018709": {
     "type": "Monster",
     "cn_name": "失乐之圣女",
+    "sc_name": "失乐圣女",
     "jp_name": "失楽の聖女",
     "en_name": "Condemned Maiden"
   },
@@ -45023,6 +45033,7 @@
   "66752837": {
     "type": "Monster",
     "cn_name": "灵庙守护者",
+    "sc_name": "灵庙的守卫者",
     "jp_name": "霊廟の守護者",
     "en_name": "Keeper of the Shrine"
   },
@@ -49727,6 +49738,7 @@
   "54358015": {
     "type": "Monster",
     "cn_name": "银河影龙",
+    "sc_name": "银河影龙",
     "jp_name": "銀河影竜",
     "en_name": "Galaxy Stealth Dragon"
   },
@@ -56311,6 +56323,7 @@
   "84976088": {
     "type": "Monster",
     "cn_name": "后盾龙",
+    "sc_name": "后台龙",
     "jp_name": "バックグランド・ドラゴン",
     "en_name": "Background Dragon"
   },
@@ -58941,6 +58954,7 @@
   "79266769": {
     "type": "Monster",
     "cn_name": "暗钢龙 暗钢",
+    "sc_name": "暗钢龙 暗铁",
     "jp_name": "闇鋼龍 ダークネスメタル",
     "en_name": "Darkness Metal, the Dragon of Dark Steel"
   },
@@ -59647,6 +59661,7 @@
   "12950294": {
     "type": "Monster",
     "cn_name": "快速装弹龙",
+    "sc_name": "速装龙",
     "jp_name": "スピードローダー・ドラゴン",
     "en_name": "Speedburst Dragon"
   },
@@ -67240,6 +67255,7 @@
   "18954366": {
     "type": "Spell",
     "cn_name": "优丽的灵镜",
+    "sc_name": "优丽的灵镜",
     "jp_name": "優麗なる霊鏡",
     "en_name": "Necroquip Prism"
   },
@@ -71668,6 +71684,7 @@
   "69792699": {
     "type": "Spell",
     "cn_name": "企鹅剑",
+    "sc_name": "企鹅剑",
     "jp_name": "ペンギン・ソード",
     "en_name": "Penguin Sword"
   },
@@ -76787,6 +76804,7 @@
   "94423983": {
     "type": "Trap",
     "cn_name": "同契魔术",
+    "sc_name": "同契恶魔术",
     "jp_name": "同契魔術",
     "en_name": "Simul Archfiends"
   },
@@ -89457,6 +89475,11 @@
     "type": "Monster",
     "cn_name": "圣月之皇太子 雷古勒斯",
     "jp_name": "聖月の皇太子レグルス"
+  },
+  "100228003": {
+    "type": "Monster",
+    "cn_name": "恩底弥翁的侍女 玻璃",
+    "jp_name": "エンディミオンの侍女ヴェール"
   },
   "59011257": {
     "type": "Monster",
