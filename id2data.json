@@ -89468,17 +89468,19 @@
     "cn_name": "雷古勒斯之矢",
     "jp_name": "レグルスの矢"
   },
-  "100254202": {
+  "11911336": {
     "type": "Spell",
     "cn_name": "大轮之魔导书",
     "sc_name": "大轮之魔导书",
-    "jp_name": "大輪の魔導書"
+    "jp_name": "大輪の魔導書",
+    "en_name": "Spellbook of the Grand Circle"
   },
-  "100254201": {
+  "48016074": {
     "type": "Monster",
     "cn_name": "大轮之灵使",
     "sc_name": "大轮之灵使",
-    "jp_name": "大輪の霊使い"
+    "jp_name": "大輪の霊使い",
+    "en_name": "Charmers of the Grand Circle"
   },
   "74405783": {
     "type": "Monster",
@@ -89930,7 +89932,7 @@
     "cn_name": "隐密天使-摇篮镰天使",
     "jp_name": "ステルス・アンジュ－クレイドル"
   },
-  "100200283": {
+  "89693655": {
     "type": "Spell",
     "cn_name": "亚空间战斗",
     "jp_name": "亜空間バトル"
