@@ -4315,6 +4315,7 @@
   "64631466": {
     "type": "Monster",
     "cn_name": "纳祭之魔",
+    "sc_name": "纳祭魔",
     "jp_name": "サクリファイス",
     "en_name": "Relinquished"
   },
@@ -4327,12 +4328,14 @@
   "27125110": {
     "type": "Monster",
     "cn_name": "千眼邪教神",
+    "sc_name": "千眼邪教神",
     "jp_name": "千眼の邪教神",
     "en_name": "Thousand-Eyes Idol"
   },
   "63519819": {
     "type": "Monster",
     "cn_name": "千眼纳祭神",
+    "sc_name": "千眼纳祭魔",
     "jp_name": "サウザンド・アイズ・サクリファイス",
     "en_name": "Thousand-Eyes Restrict"
   },
@@ -4663,6 +4666,7 @@
   "41426869": {
     "type": "Spell",
     "cn_name": "幻想的仪式",
+    "sc_name": "幻象之仪式",
     "jp_name": "イリュージョンの儀式",
     "en_name": "Black Illusion Ritual"
   },
@@ -13535,6 +13539,7 @@
   "32549749": {
     "type": "Spell",
     "cn_name": "武装再生",
+    "sc_name": "武装再生",
     "jp_name": "武装再生",
     "en_name": "Arms Regeneration"
   },
@@ -13965,6 +13970,7 @@
   "55424270": {
     "type": "Monster",
     "cn_name": "魔导兽 刻耳柏洛斯",
+    "sc_name": "魔导兽 刻耳柏洛斯",
     "jp_name": "魔導獣 ケルベロス",
     "en_name": "Mythical Beast Cerberus"
   },
@@ -14375,12 +14381,14 @@
   "46427957": {
     "type": "Monster",
     "cn_name": "破灭之女神 露茵",
+    "sc_name": "破灭之女神 露茵",
     "jp_name": "破滅の女神ルイン",
     "en_name": "Ruin, Queen of Oblivion"
   },
   "72426662": {
     "type": "Monster",
     "cn_name": "终焉之王 迪米斯",
+    "sc_name": "终焉之王 迪米斯",
     "jp_name": "終焉の王デミス",
     "en_name": "Demise, King of Armageddon"
   },
@@ -14405,6 +14413,7 @@
   "8198712": {
     "type": "Spell",
     "cn_name": "世界末日",
+    "sc_name": "世界终灭",
     "jp_name": "エンド・オブ・ザ・ワールド",
     "en_name": "End of the World"
   },
@@ -14465,11 +14474,13 @@
   "32126000": {
     "type": "Monster",
     "cn_name": "学习精灵",
+    "sc_name": "学习妖精",
     "jp_name": "ラーニング・エルフ"
   },
   "95915457": {
     "type": "Trap",
     "cn_name": "反射镜防护罩",
+    "sc_name": "镜罩",
     "jp_name": "ミラーバリア"
   },
   "20065322": {
@@ -14543,6 +14554,7 @@
   "53770666": {
     "type": "Spell",
     "cn_name": "武装转生",
+    "sc_name": "武装转生",
     "jp_name": "武装転生"
   },
   "89943723": {
@@ -14656,6 +14668,7 @@
   "38430673": {
     "type": "Spell",
     "cn_name": "大十字",
+    "sc_name": "大十字",
     "jp_name": "グランドクロス",
     "en_name": "Grand Convergence"
   },
@@ -15639,6 +15652,7 @@
   "2507443": {
     "type": "Spell",
     "cn_name": "女主角之光",
+    "sc_name": "首席之光",
     "jp_name": "プリマの光"
   },
   "39996157": {
@@ -18825,6 +18839,7 @@
   "87685879": {
     "type": "Monster",
     "cn_name": "树熊海獭",
+    "sc_name": "考拉考",
     "jp_name": "コアラッコ",
     "en_name": "Sea Koala"
   },
@@ -19255,6 +19270,7 @@
   "561300": {
     "type": "Monster",
     "cn_name": "猛毒蝮",
+    "sc_name": "剧毒蝮蛇",
     "jp_name": "猛毒マムシ"
   },
   "37955049": {
@@ -21174,12 +21190,14 @@
   "71759912": {
     "type": "Monster",
     "cn_name": "海獭树熊",
+    "sc_name": "拉考拉",
     "jp_name": "ラッコアラ",
     "en_name": "Tree Otter"
   },
   "7243511": {
     "type": "Monster",
     "cn_name": "树熊海獭树熊",
+    "sc_name": "考拉考拉",
     "jp_name": "コアラッコアラ",
     "en_name": "Koalo-Koala"
   },
@@ -22821,6 +22839,7 @@
   "40732515": {
     "type": "Monster",
     "cn_name": "神圣魔导王 恩底弥翁",
+    "sc_name": "神圣魔导王 恩底弥翁",
     "jp_name": "神聖魔導王 エンディミオン",
     "en_name": "Endymion, the Master Magician"
   },
@@ -22839,12 +22858,14 @@
   "39910367": {
     "type": "Spell",
     "cn_name": "魔法都市 恩底弥翁",
+    "sc_name": "魔法都市 恩底弥翁",
     "jp_name": "魔法都市エンディミオン",
     "en_name": "Magical Citadel of Endymion"
   },
   "75014062": {
     "type": "Spell",
     "cn_name": "魔力掌握",
+    "sc_name": "魔力掌握",
     "jp_name": "魔力掌握",
     "en_name": "Spell Power Grasp"
   },
@@ -24310,6 +24331,7 @@
   "93023136": {
     "type": "Trap",
     "cn_name": "堕入黑暗的天使",
+    "sc_name": "堕入黑暗的天使",
     "jp_name": "闇に堕ちた天使"
   },
   "92807548": {
@@ -24799,6 +24821,7 @@
   "73853830": {
     "type": "Monster",
     "cn_name": "恩底弥翁的十字军",
+    "sc_name": "恩底弥翁之十字军",
     "jp_name": "クルセイダー・オブ・エンディミオン",
     "en_name": "Crusader of Endymion"
   },
@@ -25619,6 +25642,7 @@
   "58242947": {
     "type": "Monster",
     "cn_name": "废品收集者",
+    "sc_name": "废品收集者",
     "jp_name": "ジャンク・コレクター",
     "en_name": "Junk Collector"
   },
@@ -26537,6 +26561,7 @@
   "91215724": {
     "type": "Monster",
     "cn_name": "废品铠甲",
+    "sc_name": "废品装甲",
     "jp_name": "ジャンク・アーマー"
   },
   "64104037": {
@@ -29252,6 +29277,7 @@
   "66206748": {
     "type": "Monster",
     "cn_name": "假面英雄 泉水",
+    "sc_name": "假面－英雄 喷泉",
     "jp_name": "M・HERO ファウンティン"
   },
   "93600443": {
@@ -30336,6 +30362,7 @@
   "78922939": {
     "type": "Monster",
     "cn_name": "废品从者",
+    "sc_name": "废品仆从",
     "jp_name": "ジャンク・サーバント",
     "en_name": "Junk Servant"
   },
@@ -36399,12 +36426,14 @@
   "30741334": {
     "type": "Monster",
     "cn_name": "热血指导王 巨人教练",
+    "sc_name": "热血指导王 巨人训练师",
     "jp_name": "熱血指導王ジャイアントレーナー",
     "en_name": "Coach King Giantrainer"
   },
   "67136033": {
     "type": "Monster",
     "cn_name": "热血兽王 熊人",
+    "sc_name": "热血兽王 熊人",
     "jp_name": "熱血獣王ベアーマン",
     "en_name": "Coach Captain Bearman"
   },
@@ -38098,6 +38127,7 @@
   "88754763": {
     "type": "Monster",
     "cn_name": "混沌超量 热血指导神 究极教练",
+    "sc_name": "混沌超量 热血指导神 究极训练师",
     "jp_name": "CX 熱血指導神アルティメットレーナー",
     "en_name": "CXyz Coach Lord Ultimatrainer"
   },
@@ -39962,12 +39992,14 @@
   "34408491": {
     "type": "Monster",
     "cn_name": "魔王龙 蝇王",
+    "sc_name": "魔王龙 别西",
     "jp_name": "魔王龍 ベエルゼ",
     "en_name": "Beelze of the Diabolic Dragons"
   },
   "60992105": {
     "type": "Monster",
     "cn_name": "玄翼龙 黑翼",
+    "sc_name": "玄翼龙 黑翅",
     "jp_name": "玄翼竜 ブラック・フェザー",
     "en_name": "Blackfeather Darkrage Dragon"
   },
@@ -40007,12 +40039,14 @@
   "69058960": {
     "type": "Monster",
     "cn_name": "No.13 该隐恶魔",
+    "sc_name": "编号13 该隐魔鬼",
     "jp_name": "No.13 ケインズ・デビル",
     "en_name": "Number 13: Embodiment of Crime"
   },
   "95442074": {
     "type": "Monster",
     "cn_name": "No.31 亚伯恶魔",
+    "sc_name": "编号31 亚伯魔鬼",
     "jp_name": "No.31 アベルズ・デビル",
     "en_name": "Number 31: Embodiment of Punishment"
   },
@@ -43147,6 +43181,7 @@
   "8763963": {
     "type": "Monster",
     "cn_name": "魔王超龙 天蝇王",
+    "sc_name": "魔王超龙 别西宙斯",
     "jp_name": "魔王超龍 ベエルゼウス",
     "en_name": "Beelzeus of the Diabolic Dragons"
   },
@@ -43959,6 +43994,7 @@
   "34492631": {
     "type": "Monster",
     "cn_name": "废品巨人",
+    "sc_name": "废品巨人",
     "jp_name": "ジャンク・ジャイアント",
     "en_name": "Junk Giant"
   },
@@ -44866,6 +44902,7 @@
   "43436049": {
     "type": "Monster",
     "cn_name": "废品破坏者",
+    "sc_name": "废品破坏者",
     "jp_name": "ジャンク・ブレイカー",
     "en_name": "Junk Breaker"
   },
@@ -47935,6 +47972,7 @@
   "1006081": {
     "type": "Monster",
     "cn_name": "废品变更者",
+    "sc_name": "废品变换者",
     "jp_name": "ジャンク・チェンジャー",
     "en_name": "Junk Changer"
   },
@@ -55197,36 +55235,42 @@
   "91182675": {
     "type": "Monster",
     "cn_name": "魔导兽 胡狼",
+    "sc_name": "魔导兽 胡狼",
     "jp_name": "魔導獣 ジャッカル",
     "en_name": "Mythical Beast Jackal"
   },
   "28570310": {
     "type": "Monster",
     "cn_name": "魔导兽 迦楼罗",
+    "sc_name": "魔导兽 迦楼罗",
     "jp_name": "魔導獣 ガルーダ",
     "en_name": "Mythical Beast Garuda"
   },
   "54965929": {
     "type": "Monster",
     "cn_name": "魔导兽 美杜莎水母",
+    "sc_name": "魔导兽 美杜莎",
     "jp_name": "魔導獣 メデューサ",
     "en_name": "Mythical Beast Medusa"
   },
   "80959027": {
     "type": "Monster",
     "cn_name": "魔导兽 巴西利斯克冠蜥",
+    "sc_name": "魔导兽 巴西利斯克",
     "jp_name": "魔導獣 バジリスク",
     "en_name": "Mythical Beast Bashilisk"
   },
   "27354732": {
     "type": "Monster",
     "cn_name": "魔导兽 胡狼王",
+    "sc_name": "魔导兽 胡狼王",
     "jp_name": "魔導獣 キングジャッカル",
     "en_name": "Mythical Beast Jackal King"
   },
   "53842431": {
     "type": "Monster",
     "cn_name": "魔导兽 刻耳柏洛斯尊主",
+    "sc_name": "魔导兽 刻耳柏洛斯尊主",
     "jp_name": "魔導獣 マスターケルベロス",
     "en_name": "Mythical Beast Master Cerberus"
   },
@@ -55541,6 +55585,7 @@
   "24429467": {
     "type": "Trap",
     "cn_name": "魔导变换",
+    "sc_name": "魔导变换",
     "jp_name": "魔導変換",
     "en_name": "Mythical Bestiamorph"
   },
@@ -55661,12 +55706,14 @@
   "89785779": {
     "type": "Monster",
     "cn_name": "千年眼幻想师",
+    "sc_name": "千年眼幻象师",
     "jp_name": "ミレニアム・アイズ・イリュージョニスト",
     "en_name": "Millennium-Eyes Illusionist"
   },
   "15173384": {
     "type": "Monster",
     "cn_name": "无脸幻想魔术师",
+    "sc_name": "魔术幻象师 无面",
     "jp_name": "幻想魔術師・ノー・フェイス",
     "en_name": "Illusionist Faceless Magician"
   },
@@ -55680,6 +55727,7 @@
   "78063197": {
     "type": "Spell",
     "cn_name": "纳祭融合",
+    "sc_name": "纳祭魔结合",
     "jp_name": "サクリファイス・フュージョン",
     "en_name": "Relinquished Fusion"
   },
@@ -57477,24 +57525,28 @@
   "50139096": {
     "type": "Monster",
     "cn_name": "破灭之天使 露茵",
+    "sc_name": "破灭之天使 露茵",
     "jp_name": "破滅の天使ルイン",
     "en_name": "Ruin, Angel of Oblivion"
   },
   "86124104": {
     "type": "Monster",
     "cn_name": "终焉之恶魔 迪米斯",
+    "sc_name": "终焉之魔鬼 迪米斯",
     "jp_name": "終焉の悪魔デミス",
     "en_name": "Demise, Agent of Armageddon"
   },
   "13518809": {
     "type": "Monster",
     "cn_name": "破灭之美神 露茵",
+    "sc_name": "破灭之美神 露茵",
     "jp_name": "破滅の美神ルイン",
     "en_name": "Ruin, Supreme Queen of Oblivion"
   },
   "59913418": {
     "type": "Monster",
     "cn_name": "终焉之霸王 迪米斯",
+    "sc_name": "终焉之霸王 迪米斯",
     "jp_name": "終焉の覇王デミス",
     "en_name": "Demise, Supreme King of Armageddon"
   },
@@ -57681,18 +57733,21 @@
   "32828635": {
     "type": "Spell",
     "cn_name": "世界不灭",
+    "sc_name": "世界不灭",
     "jp_name": "エンドレス・オブ・ザ・ワールド",
     "en_name": "Cycle of the World"
   },
   "69217334": {
     "type": "Spell",
     "cn_name": "世界破坏",
+    "sc_name": "世界粉碎",
     "jp_name": "ブレイク・オブ・ザ・ワールド",
     "en_name": "Breaking of the World"
   },
   "95612049": {
     "type": "Spell",
     "cn_name": "世界逆转",
+    "sc_name": "世界轮转",
     "jp_name": "リバース・オブ・ザ・ワールド",
     "en_name": "Turning of the World"
   },
@@ -57713,12 +57768,14 @@
   "94599451": {
     "type": "Spell",
     "cn_name": "魔导研究所",
+    "sc_name": "魔导研究所",
     "jp_name": "魔導研究所",
     "en_name": "Mythical Institution"
   },
   "21984400": {
     "type": "Spell",
     "cn_name": "兽·魔·导",
+    "sc_name": "兽・魔・导",
     "jp_name": "獣・魔・導",
     "en_name": "Beast Magic Attack"
   },
@@ -57792,6 +57849,7 @@
   "81306186": {
     "type": "Trap",
     "cn_name": "世界再生",
+    "sc_name": "世界回归",
     "jp_name": "リターン・オブ・ザ・ワールド",
     "en_name": "Renewal of the World"
   },
@@ -61930,36 +61988,42 @@
   "3611830": {
     "type": "Monster",
     "cn_name": "创圣魔导王 恩底弥翁",
+    "sc_name": "创圣魔导王 恩底弥翁",
     "jp_name": "創聖魔導王 エンディミオン",
     "en_name": "Endymion, the Mighty Master of Magic"
   },
   "39000945": {
     "type": "Monster",
     "cn_name": "恩底弥翁的皇后",
+    "sc_name": "恩底弥翁之女皇",
     "jp_name": "エンプレス・オブ・エンディミオン",
     "en_name": "Reflection of Endymion"
   },
   "66104644": {
     "type": "Monster",
     "cn_name": "恩底弥翁的统领",
+    "sc_name": "恩底弥翁之导师",
     "jp_name": "マギステル・オブ・エンディミオン",
     "en_name": "Magister of Endymion"
   },
   "92559258": {
     "type": "Monster",
     "cn_name": "恩底弥翁的仆从",
+    "sc_name": "恩底弥翁之侍从",
     "jp_name": "サーヴァント・オブ・エンディミオン",
     "en_name": "Servant of Endymion"
   },
   "38943357": {
     "type": "Spell",
     "cn_name": "魔力统辖",
+    "sc_name": "魔力统辖",
     "jp_name": "魔力統轄",
     "en_name": "Spell Power Mastery"
   },
   "65342096": {
     "type": "Spell",
     "cn_name": "魔法都市的实验设施",
+    "sc_name": "恩底弥翁的实验设施",
     "jp_name": "魔法都市の実験施設",
     "en_name": "Endymion's Lab"
   },
@@ -62614,6 +62678,7 @@
   "44640691": {
     "type": "Monster",
     "cn_name": "恩底弥翁的盗贼",
+    "sc_name": "恩底弥翁之刺客",
     "jp_name": "ローグ・オブ・エンディミオン",
     "en_name": "Rogue of Endymion"
   },
@@ -64413,36 +64478,42 @@
   "40140448": {
     "type": "Monster",
     "cn_name": "战华之仲-孙谋",
+    "sc_name": "战华之仲－孙谋",
     "jp_name": "戦華の仲－孫謀",
     "en_name": "Ancient Warriors - Masterful Sun Mou"
   },
   "77539547": {
     "type": "Monster",
     "cn_name": "战华之美-周公",
+    "sc_name": "战华之美－周公",
     "jp_name": "戦華の美－周公",
     "en_name": "Ancient Warriors - Graceful Zhou Gong"
   },
   "13923256": {
     "type": "Monster",
     "cn_name": "战华之妙-鲁敬",
+    "sc_name": "战华之妙－鲁敬",
     "jp_name": "戦華の妙－魯敬",
     "en_name": "Ancient Warriors - Eccentric Lu Jing"
   },
   "40428851": {
     "type": "Monster",
     "cn_name": "战华之德-刘玄",
+    "sc_name": "战华之德－刘玄",
     "jp_name": "戦華の徳－劉玄",
     "en_name": "Ancient Warriors - Virtuous Liu Xuan"
   },
   "76416959": {
     "type": "Monster",
     "cn_name": "战华之义-关云",
+    "sc_name": "战华之义－关云",
     "jp_name": "戦華の義－関雲",
     "en_name": "Ancient Warriors - Loyal Guan Yun"
   },
   "2801664": {
     "type": "Monster",
     "cn_name": "战华之雄-张德",
+    "sc_name": "战华之雄－张德",
     "jp_name": "戦華の雄－張徳",
     "en_name": "Ancient Warriors - Valiant Zhang De"
   },
@@ -64729,12 +64800,14 @@
   "11711438": {
     "type": "Spell",
     "cn_name": "战华史略-三顾礼迎",
+    "sc_name": "战华史略－三顾礼迎",
     "jp_name": "戦華史略－三顧礼迎",
     "en_name": "Ancient Warriors Saga - Three Visits"
   },
   "58116537": {
     "type": "Spell",
     "cn_name": "战华史略-孙刘同盟",
+    "sc_name": "战华史略－孙刘同盟",
     "jp_name": "戦華史略－孫劉同盟",
     "en_name": "Ancient Warriors Saga - Sun-Liu Alliance"
   },
@@ -64831,6 +64904,7 @@
   "4810585": {
     "type": "Trap",
     "cn_name": "战华史略-长坂之雄",
+    "sc_name": "战华史略－长坂之雄",
     "jp_name": "戦華史略－長坂之雄",
     "en_name": "Ancient Warriors Saga - Defense of Changban"
   },
@@ -65685,24 +65759,28 @@
   "33545259": {
     "type": "Monster",
     "cn_name": "战华之孟-曹德",
+    "sc_name": "战华之孟－曹德",
     "jp_name": "戦華の孟－曹徳",
     "en_name": "Ancient Warriors - Ambitious Cao De"
   },
   "60033398": {
     "type": "Monster",
     "cn_name": "战华之来-张远",
+    "sc_name": "战华之来－张远",
     "jp_name": "戦華の来－張遠",
     "en_name": "Ancient Warriors - Fearsome Zhang Yuan"
   },
   "6438003": {
     "type": "Monster",
     "cn_name": "战华之诡-贾文",
+    "sc_name": "战华之诡－贾文",
     "jp_name": "戦華の詭－賈文",
     "en_name": "Ancient Warriors - Deceptive Jia Wen"
   },
   "32422602": {
     "type": "Monster",
     "cn_name": "战华之智-诸葛孔",
+    "sc_name": "战华之智－诸葛孔",
     "jp_name": "戦華の智－諸葛孔",
     "en_name": "Ancient Warriors - Ingenious Zhuge Kong"
   },
@@ -66018,6 +66096,7 @@
   "33609093": {
     "type": "Spell",
     "cn_name": "战华史略-十万之矢",
+    "sc_name": "战华史略－十万之箭",
     "jp_name": "戦華史略－十万之矢",
     "en_name": "Ancient Warriors Saga - Borrowing of Arrows"
   },
@@ -67006,6 +67085,7 @@
   "65711558": {
     "type": "Monster",
     "cn_name": "战华盟将-双龙",
+    "sc_name": "战华盟将－双龙",
     "jp_name": "戦華盟将－双龍",
     "en_name": "Ancient Warriors Oath - Double Dragon Lords"
   },
@@ -67089,6 +67169,7 @@
   "62528292": {
     "type": "Spell",
     "cn_name": "战华史略-东南之风",
+    "sc_name": "战华史略－东南之风",
     "jp_name": "戦華史略－東南之風",
     "en_name": "Ancient Warriors Saga - East-by-South Winds"
   },
@@ -68977,6 +69058,7 @@
   "82791472": {
     "type": "Monster",
     "cn_name": "战华之叛-吕奉",
+    "sc_name": "战华之叛－吕奉",
     "jp_name": "戦華の叛－呂奉",
     "en_name": "Ancient Warriors - Rebellious Lu Feng"
   },
@@ -69308,6 +69390,7 @@
   "82255872": {
     "type": "Trap",
     "cn_name": "战华史略-大丈夫之义",
+    "sc_name": "战华史略－大丈夫之义",
     "jp_name": "戦華史略－大丈夫之義",
     "en_name": "Ancient Warriors Saga - Chivalrous Path"
   },
@@ -69493,6 +69576,7 @@
   "78642798": {
     "type": "Monster",
     "cn_name": "黄金邪教神",
+    "sc_name": "黄金邪教神",
     "jp_name": "黄金の邪教神",
     "en_name": "Golden-Eyes Idol"
   },
@@ -74152,6 +74236,7 @@
   "79582540": {
     "type": "Monster",
     "cn_name": "战华之暴-董颖",
+    "sc_name": "战华之暴－董颖",
     "jp_name": "戦華の暴－董穎",
     "en_name": "Ancient Warriors - Savage Don Ying"
   },
@@ -74412,6 +74497,7 @@
   "45115956": {
     "type": "Spell",
     "cn_name": "战华史略-矫诏之叛",
+    "sc_name": "战华史略－矫诏之叛",
     "jp_name": "戦華史略－矯詔之叛",
     "en_name": "Ancient Warriors Saga - Deception and Betrayal"
   },
@@ -75988,24 +76074,28 @@
   "79663524": {
     "type": "Monster",
     "cn_name": "油油蝉",
+    "sc_name": "油蝉",
     "jp_name": "オイリーゼミ",
     "en_name": "Oily Cicada"
   },
   "5068132": {
     "type": "Monster",
     "cn_name": "梦蝉 睡鸣鸣蝉",
+    "sc_name": "梦蝉 睡鸣眠",
     "jp_name": "夢蝉スイミンミン",
     "en_name": "Dream Cicada"
   },
   "32453837": {
     "type": "Monster",
     "cn_name": "No.2 蚊学忍者 影蚊",
+    "sc_name": "编号2 蚊学忍者 影蚊",
     "jp_name": "No.2 蚊学忍者シャドー・モスキート",
     "en_name": "Number 2: Ninja Shadow Mosquito"
   },
   "68441986": {
     "type": "Spell",
     "cn_name": "蚊学忍法·军蚊进行曲",
+    "sc_name": "蚊学忍法・军蚊行军",
     "jp_name": "蚊学忍法・軍蚊マーチ",
     "en_name": "Ninjitsu Art of Mosquito Marching"
   },
@@ -80755,17 +80845,20 @@
   "3121655": {
     "type": "Monster",
     "cn_name": "废品插座龙",
+    "sc_name": "废品插座龙",
     "jp_name": "ジャンク・ドラゴンセント",
     "en_name": "Junk Dragonlet"
   },
   "39520293": {
     "type": "Monster",
     "cn_name": "废品盔甲",
+    "sc_name": "废品盔甲",
     "jp_name": "ジャンク・メイル"
   },
   "65892310": {
     "type": "Monster",
     "cn_name": "冰魔龙 光枪龙",
+    "sc_name": "冰魔龙 光枪龙",
     "jp_name": "氷魔龍 ブリューナク",
     "en_name": "Brionac, the Magical Ice Dragon"
   },
@@ -81829,6 +81922,7 @@
   "48486809": {
     "type": "Monster",
     "cn_name": "羽翼栗子球 LV6",
+    "sc_name": "羽翼库里波 LV6",
     "jp_name": "ハネクリボー LV６",
     "en_name": "Winged Kuriboh LV6"
   },
@@ -83480,6 +83574,7 @@
   "19316241": {
     "type": "Monster",
     "cn_name": "银河战龙",
+    "sc_name": "银河战龙",
     "jp_name": "銀河戦竜",
     "en_name": "Galaxy War Drake"
   },
@@ -83980,6 +84075,7 @@
   "93053159": {
     "type": "Monster",
     "cn_name": "白之枢机龙",
+    "sc_name": "白教导枢机龙",
     "jp_name": "白の枢機竜",
     "en_name": "Alba System Dogmatikalamity"
   },
@@ -83993,6 +84089,7 @@
   "29325276": {
     "type": "Monster",
     "cn_name": "异色眼日焰龙",
+    "sc_name": "异色眼阳焰龙",
     "jp_name": "オッドアイズ・ソルブレイズ・ドラゴン"
   },
   "28103028": {
@@ -86566,6 +86663,7 @@
   "20714553": {
     "type": "Monster",
     "cn_name": "圣月之魔导士 恩底弥翁",
+    "sc_name": "圣月之伟魔导士 恩底弥翁",
     "jp_name": "聖月の魔導士エンディミオン",
     "en_name": "Endymion, the Crescent Magistus"
   },
@@ -86597,6 +86695,7 @@
   "66429798": {
     "type": "Monster",
     "cn_name": "吟幽狮神 佩桑塔",
+    "sc_name": "吟幽狮神 佩桑塔",
     "jp_name": "吟幽獅神ペサンタ"
   },
   "93413793": {
@@ -86966,16 +87065,19 @@
   "73129314": {
     "type": "Monster",
     "cn_name": "宿魂的暗黑骑士 盖亚",
+    "sc_name": "寄托于魂的暗黑骑士盖亚",
     "jp_name": "魂宿りし暗黒騎士ガイア"
   },
   "613013": {
     "type": "Monster",
     "cn_name": "白煞鲨",
+    "sc_name": "白煞鲨",
     "jp_name": "バイス・シャーク"
   },
   "36608728": {
     "type": "Monster",
     "cn_name": "战刀匠 再刃",
+    "sc_name": "战刀匠 再刃",
     "jp_name": "戦刀匠サイバ"
   },
   "62006866": {
@@ -87541,6 +87643,7 @@
   "57649113": {
     "type": "Monster",
     "cn_name": "退电之刺卫",
+    "sc_name": "退电针刺",
     "jp_name": "退電のスティンガー"
   },
   "1035143": {
@@ -87551,6 +87654,7 @@
   "38423248": {
     "type": "Monster",
     "cn_name": "召唤兽 大贤者兽",
+    "sc_name": "召唤兽 伟魔・瑟利昂",
     "jp_name": "召喚獣マギストス・セリオン"
   },
   "212652": {
@@ -87567,6 +87671,7 @@
   "25072579": {
     "type": "Monster",
     "cn_name": "试号闪刀姬-天津",
+    "sc_name": "试作闪刀姬－天津",
     "jp_name": "試号閃刀姫－アマツ"
   },
   "59400890": {
@@ -87627,21 +87732,25 @@
   "83838727": {
     "type": "Spell",
     "cn_name": "抽卡面包",
+    "sc_name": "抽牌面包",
     "jp_name": "ドローパン"
   },
   "19222426": {
     "type": "Monster",
     "cn_name": "元素英雄 雷霆巨人-电流雷击",
+    "sc_name": "元素－英雄 雷霆巨人－雷霆漩涡",
     "jp_name": "E・HERO サンダー・ジャイアント－ボルティック・サンダー"
   },
   "46221535": {
     "type": "Monster",
     "cn_name": "钻头武装龙",
+    "sc_name": "钻头武装龙",
     "jp_name": "ドリル・アームド・ドラゴン"
   },
   "82616239": {
     "type": "Monster",
     "cn_name": "轻水龙",
+    "sc_name": "超轻水合龙",
     "jp_name": "ライトウォーター・ドラゴン"
   },
   "19000848": {
@@ -87751,6 +87860,7 @@
   "8445808": {
     "type": "Monster",
     "cn_name": "恋爱的少女",
+    "sc_name": "恋爱少女",
     "jp_name": "恋する乙女"
   },
   "44839512": {
@@ -87762,6 +87872,7 @@
   "71228611": {
     "type": "Monster",
     "cn_name": "桉树鼹鼠",
+    "sc_name": "桉树鼹鼠",
     "jp_name": "ユーカリ・モール"
   },
   "7622360": {
@@ -87773,6 +87884,7 @@
   "33017964": {
     "type": "Spell",
     "cn_name": "幻魔之扉",
+    "sc_name": "幻魔之扉",
     "jp_name": "幻魔の扉"
   },
   "70105073": {
@@ -87784,21 +87896,25 @@
   "6500778": {
     "type": "Spell",
     "cn_name": "炼金釜-混沌蒸馏釜",
+    "sc_name": "炼金釜－混沌蒸馏",
     "jp_name": "錬金釜－カオス・ディスティル"
   },
   "33995387": {
     "type": "Trap",
     "cn_name": "英雄规则1 五大自由",
+    "sc_name": "英雄法则1 五大自由",
     "jp_name": "ヒーローズルール１ ファイブ・フリーダムス"
   },
   "69389481": {
     "type": "Trap",
     "cn_name": "魂之团结",
+    "sc_name": "魂之团结－灵魂联合",
     "jp_name": "魂の結束－ソウル・ユニオン"
   },
   "32872239": {
     "type": "Monster",
     "cn_name": "迦楼加鲁之尸炼魔",
+    "sc_name": "加尔加尔德炼尸魔",
     "jp_name": "ガルガルドの屍煉魔"
   },
   "67322708": {
@@ -88760,11 +88876,13 @@
   "30394645": {
     "type": "Monster",
     "cn_name": "教导的死徒",
+    "sc_name": "教导之死徒",
     "jp_name": "教導の死徒"
   },
   "3287359": {
     "type": "Monster",
     "cn_name": "魔弹恶魔 卡斯帕",
+    "sc_name": "魔弹邪魔 卡斯帕",
     "jp_name": "魔弾の悪魔 カスパール"
   },
   "30271097": {
@@ -89245,6 +89363,7 @@
   "11212437": {
     "type": "Monster",
     "cn_name": "魔龙阁-邪灵恶龙",
+    "sc_name": "魔龙阁－德拉尔维斯",
     "jp_name": "魔竜閣－ドラルヴァイス"
   },
   "9978697": {
@@ -89370,31 +89489,37 @@
   "3739500": {
     "type": "Monster",
     "cn_name": "破灭与终焉之支配者",
+    "sc_name": "世界终灭支配者",
     "jp_name": "破滅と終焉の支配者"
   },
   "30138615": {
     "type": "Monster",
     "cn_name": "幻惑眼纳祭神",
+    "sc_name": "幻惑眼纳祭魔",
     "jp_name": "ナイトメア・アイズ・サクリファイス"
   },
   "66122213": {
     "type": "Monster",
     "cn_name": "地狱俯冲轰炸机",
+    "sc_name": "地狱俯冲轰炸机",
     "jp_name": "ヘル・ダイブ・ボンバー"
   },
   "92517928": {
     "type": "Monster",
     "cn_name": "银河眼反物质龙",
+    "sc_name": "银河眼反物质龙",
     "jp_name": "ギャラクシーアイズ・アンチマター・ドラゴン"
   },
   "39016067": {
     "type": "Monster",
     "cn_name": "龙剑士 风麒麟·平行",
+    "sc_name": "龙剑士 乘风独角麒麟 别型",
     "jp_name": "竜剣士ウィンドユニコーンP"
   },
   "65400671": {
     "type": "Monster",
     "cn_name": "水晶机巧-继承玻纤·棱镜",
+    "sc_name": "水晶机巧－玻璃光纤 棱彩",
     "jp_name": "水晶機巧－ハリファイバーP"
   },
   "86289475": {
@@ -89406,66 +89531,79 @@
   "73218792": {
     "type": "Monster",
     "cn_name": "废品大王",
+    "sc_name": "废品大师",
     "jp_name": "ジャンク・マイスター"
   },
   "613496": {
     "type": "Spell",
     "cn_name": "过度调和",
+    "sc_name": "超频协调",
     "jp_name": "オーバー・チューニング"
   },
   "46001505": {
     "type": "Trap",
     "cn_name": "王者的鼓动",
+    "sc_name": "王者的鼓动",
     "jp_name": "王者の鼓動"
   },
   "73496100": {
     "type": "Spell",
     "cn_name": "我我我幻术",
+    "sc_name": "我我我幻象",
     "jp_name": "ガガガイリュージョン"
   },
   "9591819": {
     "type": "Trap",
     "cn_name": "我我我的脱出剧",
+    "sc_name": "我我我逃脱剧",
     "jp_name": "ガガガの脱出劇"
   },
   "35989913": {
     "type": "Spell",
     "cn_name": "永远的牵绊",
+    "sc_name": "永远之绊",
     "jp_name": "永遠の絆"
   },
   "72374522": {
     "type": "Spell",
     "cn_name": "紫毒之棘牙",
+    "sc_name": "紫毒之茨牙",
     "jp_name": "紫毒の茨牙"
   },
   "8778267": {
     "type": "Spell",
     "cn_name": "渗透融合",
+    "sc_name": "贯穿结合",
     "jp_name": "ペネトレーション・フュージョン"
   },
   "35167375": {
     "type": "Spell",
     "cn_name": "惊喜融合",
+    "sc_name": "惊喜结合",
     "jp_name": "サプライズ・フュージョン"
   },
   "61151074": {
     "type": "Monster",
     "cn_name": "闪刀机-正义刀剑",
+    "sc_name": "闪刀机－正义军刀",
     "jp_name": "閃刀機－アディルセイバー"
   },
   "7656689": {
     "type": "Monster",
     "cn_name": "恩底弥翁的侍女 杰妮",
+    "sc_name": "恩底弥翁的侍女 杰妮",
     "jp_name": "エンディミオンの侍女ジェニー"
   },
   "34041788": {
     "type": "Spell",
     "cn_name": "恩底弥翁皇国",
+    "sc_name": "恩底弥翁皇国",
     "jp_name": "エンディミオン皇国"
   },
   "60439482": {
     "type": "Spell",
     "cn_name": "雷古勒斯之矢",
+    "sc_name": "雷格鲁斯之箭",
     "jp_name": "レグルスの矢"
   },
   "11911336": {
@@ -89485,16 +89623,19 @@
   "74405783": {
     "type": "Monster",
     "cn_name": "三英之相剑师",
+    "sc_name": "三英的相剑师",
     "jp_name": "三英の相剣師"
   },
   "96228804": {
     "type": "Monster",
     "cn_name": "圣月之皇太子 雷古勒斯",
+    "sc_name": "恩底弥翁之圣月皇太子 雷格鲁斯",
     "jp_name": "聖月の皇太子レグルス"
   },
   "22623509": {
     "type": "Monster",
     "cn_name": "恩底弥翁的侍女 玻璃",
+    "sc_name": "恩底弥翁的侍女 薇儿",
     "jp_name": "エンディミオンの侍女ヴェール"
   },
   "59011257": {
