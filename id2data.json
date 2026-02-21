@@ -6193,7 +6193,8 @@
   "24514503": {
     "type": "Monster",
     "cn_name": "冻结心灵的雪晶怪",
-    "jp_name": "心を凍らせるスノークリスタル"
+    "jp_name": "心を凍らせるスノークリスタル",
+    "en_name": "Soulicer Crystal"
   },
   "87303357": {
     "type": "Monster",
@@ -15337,7 +15338,8 @@
     "type": "Monster",
     "cn_name": "缔结契约的龙之战士",
     "sc_name": "缔结契约的龙之战士",
-    "jp_name": "契約を結びし竜の戦士"
+    "jp_name": "契約を結びし竜の戦士",
+    "en_name": "Dragonic Warrior"
   },
   "75220074": {
     "type": "Monster",
@@ -15662,7 +15664,8 @@
     "type": "Spell",
     "cn_name": "女主角之光",
     "sc_name": "首席之光",
-    "jp_name": "プリマの光"
+    "jp_name": "プリマの光",
+    "en_name": "Prima Light"
   },
   "39996157": {
     "type": "Spell",
@@ -27235,7 +27238,8 @@
   "60681372": {
     "type": "Monster",
     "cn_name": "妖魔 涂壁",
-    "jp_name": "妖魔ヌリカベ"
+    "jp_name": "妖魔ヌリカベ",
+    "en_name": "Nurikabe"
   },
   "65569724": {
     "type": "Spell",
@@ -28234,7 +28238,8 @@
     "type": "Monster",
     "cn_name": "假面英雄 暮鸦",
     "sc_name": "假面－英雄 暮鸦",
-    "jp_name": "M・HERO ダスク・クロウ"
+    "jp_name": "M・HERO ダスク・クロウ",
+    "en_name": "Masked HERO Dusk Crow"
   },
   "82697428": {
     "type": "Monster",
@@ -30130,7 +30135,8 @@
   "89974735": {
     "type": "Monster",
     "cn_name": "魔法妖精 勃艮第",
-    "jp_name": "魔法妖精 バーガンディ"
+    "jp_name": "魔法妖精 バーガンディ",
+    "en_name": "Burgundy the Magic Elf"
   },
   "89252157": {
     "type": "Monster",
@@ -30142,7 +30148,8 @@
   "88039509": {
     "type": "Monster",
     "cn_name": "一型机人",
-    "jp_name": "アイン・ロイド"
+    "jp_name": "アイン・ロイド",
+    "en_name": "Einroid"
   },
   "13302026": {
     "type": "Monster",
@@ -75209,7 +75216,8 @@
   "54878729": {
     "type": "Monster",
     "cn_name": "年代记女巫",
-    "jp_name": "クロニクル・ソーサレス"
+    "jp_name": "クロニクル・ソーサレス",
+    "en_name": "Chronicle Sorceress"
   },
   "91262474": {
     "type": "Monster",
@@ -80906,7 +80914,8 @@
     "type": "Spell",
     "cn_name": "超未来融合",
     "sc_name": "超未来融合－超永望结合",
-    "jp_name": "超未来融合－オーバーフューチャー・フュージョン"
+    "jp_name": "超未来融合－オーバーフューチャー・フュージョン",
+    "en_name": "Overload Future Fusion"
   },
   "3121655": {
     "type": "Monster",
@@ -80919,7 +80928,8 @@
     "type": "Monster",
     "cn_name": "废品盔甲",
     "sc_name": "废品盔甲",
-    "jp_name": "ジャンク・メイル"
+    "jp_name": "ジャンク・メイル",
+    "en_name": "Junk Mail"
   },
   "65892310": {
     "type": "Monster",
@@ -82942,7 +82952,8 @@
   "53246495": {
     "type": "Monster",
     "cn_name": "永火王后",
-    "jp_name": "インフェルニティ・クイーン"
+    "jp_name": "インフェルニティ・クイーン",
+    "en_name": "Infernity Queen"
   },
   "15735108": {
     "type": "Spell",
@@ -86743,27 +86754,32 @@
   "6696168": {
     "type": "Monster",
     "cn_name": "庆典气球",
-    "jp_name": "フェスティバルーン"
+    "jp_name": "フェスティバルーン",
+    "en_name": "Festiballoon"
   },
   "42081767": {
     "type": "Monster",
     "cn_name": "隐藏坚果的粗心松鼠",
-    "jp_name": "きのみ隠しのうっかりす"
+    "jp_name": "きのみ隠しのうっかりす",
+    "en_name": "Sloppy Stasher Squirrel"
   },
   "79480466": {
     "type": "Monster",
     "cn_name": "食魂魔兽 巴祖",
-    "jp_name": "魂喰魔獣 バズー"
+    "jp_name": "魂喰魔獣 バズー",
+    "en_name": "Bazoo the Soul-Devourer"
   },
   "5574510": {
     "type": "Spell",
     "cn_name": "射敌",
-    "jp_name": "射敵"
+    "jp_name": "射敵",
+    "en_name": "Shateki"
   },
   "31969219": {
     "type": "Trap",
     "cn_name": "影之灾厄",
-    "jp_name": "影の災い"
+    "jp_name": "影の災い",
+    "en_name": "Baneshade"
   },
   "66429798": {
     "type": "Monster",
@@ -87134,19 +87150,22 @@
   "37720300": {
     "type": "Monster",
     "cn_name": "星舰调节机",
-    "jp_name": "スターシップ・アジャスト・プレーン"
+    "jp_name": "スターシップ・アジャスト・プレーン",
+    "en_name": "Starship Adjust Plane"
   },
   "73129314": {
     "type": "Monster",
     "cn_name": "宿魂的暗黑骑士 盖亚",
     "sc_name": "寄托于魂的暗黑骑士盖亚",
-    "jp_name": "魂宿りし暗黒騎士ガイア"
+    "jp_name": "魂宿りし暗黒騎士ガイア",
+    "en_name": "Heart of Gaia"
   },
   "613013": {
     "type": "Monster",
     "cn_name": "白煞鲨",
     "sc_name": "白煞鲨",
-    "jp_name": "バイス・シャーク"
+    "jp_name": "バイス・シャーク",
+    "en_name": "Veiss Shark"
   },
   "36608728": {
     "type": "Monster",
@@ -87718,12 +87737,14 @@
     "type": "Monster",
     "cn_name": "退电之刺卫",
     "sc_name": "退电针刺",
-    "jp_name": "退電のスティンガー"
+    "jp_name": "退電のスティンガー",
+    "en_name": "Stinger the Electric Expeller"
   },
   "1035143": {
     "type": "Monster",
     "cn_name": "暗黑栗子球",
-    "jp_name": "ダークリボー"
+    "jp_name": "ダークリボー",
+    "en_name": "Darkuriboh"
   },
   "38423248": {
     "type": "Monster",
@@ -87753,49 +87774,57 @@
     "type": "Monster",
     "cn_name": "毁灭之黑魔术师",
     "sc_name": "毁灭的黑魔术师",
-    "jp_name": "滅びの黒魔術師"
+    "jp_name": "滅びの黒魔術師",
+    "en_name": "Dark Magician of Destruction"
   },
   "85899505": {
     "type": "Monster",
     "cn_name": "合体魔龙 蒂迈欧",
     "sc_name": "合体魔龙 提玛欧斯",
-    "jp_name": "合体魔竜ティマイオス"
+    "jp_name": "合体魔竜ティマイオス",
+    "en_name": "Timaeus the United Magical Dragon"
   },
   "22283204": {
     "type": "Spell",
     "cn_name": "蒂迈欧之眼光",
     "sc_name": "提玛欧斯之眼光",
-    "jp_name": "ティマイオスの眼光"
+    "jp_name": "ティマイオスの眼光",
+    "en_name": "The Gaze of Timaeus"
   },
   "58288218": {
     "type": "Monster",
     "cn_name": "假面英雄 炉火",
     "sc_name": "假面－英雄 焰炉",
-    "jp_name": "M・HERO ファーネス"
+    "jp_name": "M・HERO ファーネス",
+    "en_name": "Masked HERO Furnace"
   },
   "85672957": {
     "type": "Monster",
     "cn_name": "假面英雄 原子火",
     "sc_name": "假面－英雄 原子",
-    "jp_name": "M・HERO アトミック"
+    "jp_name": "M・HERO アトミック",
+    "en_name": "Masked HERO Atomic"
   },
   "11161666": {
     "type": "Monster",
     "cn_name": "御巫奉 佐那伎",
     "sc_name": "御巫奉 纱鸣",
-    "jp_name": "御巫奉サナキ"
+    "jp_name": "御巫奉サナキ",
+    "en_name": "Sanaki the Mikanko Devotee"
   },
   "57566760": {
     "type": "Monster",
     "cn_name": "贵日女之御巫",
     "sc_name": "贵日女之御巫",
-    "jp_name": "ウズヒメの御巫"
+    "jp_name": "ウズヒメの御巫",
+    "en_name": "Uzuhime the Manifested Mikanko"
   },
   "84550369": {
     "type": "Spell",
     "cn_name": "御巫神舞-二贵子",
     "sc_name": "御巫神舞－二贵子",
-    "jp_name": "御巫神舞－二貴子"
+    "jp_name": "御巫神舞－二貴子",
+    "en_name": "Mikanko Shinbu - Noble Twins"
   },
   "10949074": {
     "type": "Monster",
@@ -87808,25 +87837,29 @@
     "type": "Spell",
     "cn_name": "抽卡面包",
     "sc_name": "抽牌面包",
-    "jp_name": "ドローパン"
+    "jp_name": "ドローパン",
+    "en_name": "Sandwich Day"
   },
   "19222426": {
     "type": "Monster",
     "cn_name": "元素英雄 雷霆巨人-电流雷击",
     "sc_name": "元素－英雄 雷霆巨人－雷霆漩涡",
-    "jp_name": "E・HERO サンダー・ジャイアント－ボルティック・サンダー"
+    "jp_name": "E・HERO サンダー・ジャイアント－ボルティック・サンダー",
+    "en_name": "Elemental HERO Thunder Giant - Voltic Thunder"
   },
   "46221535": {
     "type": "Monster",
     "cn_name": "钻头武装龙",
     "sc_name": "钻头武装龙",
-    "jp_name": "ドリル・アームド・ドラゴン"
+    "jp_name": "ドリル・アームド・ドラゴン",
+    "en_name": "Drill Armed Dragon"
   },
   "82616239": {
     "type": "Monster",
     "cn_name": "轻水龙",
     "sc_name": "超轻水合龙",
-    "jp_name": "ライトウォーター・ドラゴン"
+    "jp_name": "ライトウォーター・ドラゴン",
+    "en_name": "Light Water Dragon"
   },
   "19000848": {
     "type": "Monster",
@@ -87930,13 +87963,15 @@
     "type": "Trap",
     "cn_name": "黑魔术的护符",
     "sc_name": "黑魔术之护符",
-    "jp_name": "黒魔術の護符"
+    "jp_name": "黒魔術の護符",
+    "en_name": "Dark Magic Talisman"
   },
   "8445808": {
     "type": "Monster",
     "cn_name": "恋爱的少女",
     "sc_name": "恋爱少女",
-    "jp_name": "恋する乙女"
+    "jp_name": "恋する乙女",
+    "en_name": "Maiden in Love"
   },
   "44839512": {
     "type": "Monster",
@@ -87949,49 +87984,57 @@
     "type": "Monster",
     "cn_name": "桉树鼹鼠",
     "sc_name": "桉树鼹鼠",
-    "jp_name": "ユーカリ・モール"
+    "jp_name": "ユーカリ・モール",
+    "en_name": "Eucalyptus Mole"
   },
   "7622360": {
     "type": "Monster",
     "cn_name": "恶魔斗牛士",
     "sc_name": "恶魔斗牛士",
-    "jp_name": "デーモンズ・マタドール"
+    "jp_name": "デーモンズ・マタドール",
+    "en_name": "Matador Archfiend"
   },
   "33017964": {
     "type": "Spell",
     "cn_name": "幻魔之扉",
     "sc_name": "幻魔之扉",
-    "jp_name": "幻魔の扉"
+    "jp_name": "幻魔の扉",
+    "en_name": "Illusion Gate"
   },
   "70105073": {
     "type": "Spell",
     "cn_name": "斗牛士降临的仪式 暗之入场式",
     "sc_name": "斗牛士降临之仪式 黑暗游行",
-    "jp_name": "マタドール降臨の儀式 ダーク・パセオ"
+    "jp_name": "マタドール降臨の儀式 ダーク・パセオ",
+    "en_name": "Ritual of the Matador"
   },
   "6500778": {
     "type": "Spell",
     "cn_name": "炼金釜-混沌蒸馏釜",
     "sc_name": "炼金釜－混沌蒸馏",
-    "jp_name": "錬金釜－カオス・ディスティル"
+    "jp_name": "錬金釜－カオス・ディスティル",
+    "en_name": "Chaos Distill"
   },
   "33995387": {
     "type": "Trap",
     "cn_name": "英雄规则1 五大自由",
     "sc_name": "英雄法则1 五大自由",
-    "jp_name": "ヒーローズルール１ ファイブ・フリーダムス"
+    "jp_name": "ヒーローズルール１ ファイブ・フリーダムス",
+    "en_name": "Hero's Rule 1: Five Freedoms"
   },
   "69389481": {
     "type": "Trap",
     "cn_name": "魂之团结",
     "sc_name": "魂之团结－灵魂联合",
-    "jp_name": "魂の結束－ソウル・ユニオン"
+    "jp_name": "魂の結束－ソウル・ユニオン",
+    "en_name": "Soul Union"
   },
   "32872239": {
     "type": "Monster",
     "cn_name": "迦楼加鲁之尸炼魔",
     "sc_name": "加尔加尔德炼尸魔",
-    "jp_name": "ガルガルドの屍煉魔"
+    "jp_name": "ガルガルドの屍煉魔",
+    "en_name": "Gallugallud the Endless Enigma"
   },
   "67322708": {
     "type": "Monster",
@@ -88843,7 +88886,8 @@
   "40725446": {
     "type": "Monster",
     "cn_name": "荧焅圣 阿瑞库斯",
-    "jp_name": "熒焅聖 アレクゥス"
+    "jp_name": "熒焅聖 アレクゥス",
+    "en_name": "Arequus the Shining Mars Saint"
   },
   "87750925": {
     "type": "Monster",
@@ -88957,7 +89001,8 @@
     "type": "Monster",
     "cn_name": "教导的死徒",
     "sc_name": "教导之死徒",
-    "jp_name": "教導の死徒"
+    "jp_name": "教導の死徒",
+    "en_name": "Dogmatika Lawbringer"
   },
   "3287359": {
     "type": "Monster",
@@ -89515,7 +89560,8 @@
     "type": "Monster",
     "cn_name": "寻宝豹",
     "sc_name": "寻宝豹",
-    "jp_name": "トレジャー・パンサー"
+    "jp_name": "トレジャー・パンサー",
+    "en_name": "Treasure Panther"
   },
   "11212437": {
     "type": "Monster",
@@ -89683,7 +89729,8 @@
     "type": "Monster",
     "cn_name": "磁石战士Ω+",
     "sc_name": "磁石战士欧米伽＋",
-    "jp_name": "磁石の戦士Ω＋"
+    "jp_name": "磁石の戦士Ω＋",
+    "en_name": "Magnet Warrior Omega Plus"
   },
   "73218792": {
     "type": "Monster",
@@ -89842,6 +89889,56 @@
     "type": "Spell",
     "cn_name": "GMX应用试验55号",
     "en_name": "GMX Applied Experiment #55"
+  },
+  "100259001": {
+    "type": "Monster",
+    "cn_name": "骨冢幽灵王-南瓜王-",
+    "en_name": "Pumpking the King of Grave Ghosts"
+  },
+  "100259002": {
+    "type": "Monster",
+    "cn_name": "活死人的军势",
+    "en_name": "Army of the Haunted"
+  },
+  "100259003": {
+    "type": "Monster",
+    "cn_name": "美杜莎的凝视",
+    "en_name": "Stare of the Snake Hair"
+  },
+  "100259004": {
+    "type": "Monster",
+    "cn_name": "冥界的猛犸",
+    "en_name": "Great Mammoth of the Netherworld"
+  },
+  "100259005": {
+    "type": "Monster",
+    "cn_name": "幽灵大王-南瓜王-",
+    "en_name": "Pumpking the Great Ghost King"
+  },
+  "100259006": {
+    "type": "Monster",
+    "cn_name": "不死者军团",
+    "en_name": "The Undying Legion"
+  },
+  "100259007": {
+    "type": "Spell",
+    "cn_name": "怨念的呼声",
+    "en_name": "Call of the Forgotten"
+  },
+  "100259008": {
+    "type": "Spell",
+    "cn_name": "灵魂物质供给",
+    "en_name": "Ectoplasmic Fortification"
+  },
+  "100259009": {
+    "type": "Spell",
+    "cn_name": "时间漩涡",
+    "en_name": "Vortex of Time"
+  },
+  "100259010": {
+    "type": "Trap",
+    "cn_name": "腐朽之吐息",
+    "en_name": "Deadly Zombie Breath"
   },
   "11911336": {
     "type": "Spell",
@@ -90394,5 +90491,10 @@
     "type": "Spell",
     "cn_name": "亚空间战斗",
     "jp_name": "亜空間バトル"
+  },
+  "100200284": {
+    "type": "Monster",
+    "cn_name": "凭依共鸣-薇茵",
+    "jp_name": "憑依共鳴－ウィン"
   }
 }
