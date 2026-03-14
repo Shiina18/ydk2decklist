@@ -79984,7 +79984,8 @@
     "type": "Monster",
     "cn_name": "闪刀姬-卡米丽娅",
     "sc_name": "闪刀姬－卡梅莉娅",
-    "jp_name": "閃刀姫－カメリア"
+    "jp_name": "閃刀姫－カメリア",
+    "en_name": "Sky Striker Ace - Camellia"
   },
   "62991792": {
     "type": "Monster",
@@ -82104,7 +82105,8 @@
     "type": "Monster",
     "cn_name": "闪术兵器-斯佩克特拉",
     "sc_name": "闪术兵器－S.P.E.C.T.R.A.",
-    "jp_name": "閃術兵器－S.P.E.C.T.R.A."
+    "jp_name": "閃術兵器－S.P.E.C.T.R.A.",
+    "en_name": "Surgical Striker - S.P.E.C.T.R.A."
   },
   "69925461": {
     "type": "Monster",
@@ -82865,7 +82867,8 @@
     "type": "Monster",
     "cn_name": "合体术式-交闪零式",
     "sc_name": "合体术式－交闪零式",
-    "jp_name": "合体術式－エンゲージ・ゼロ"
+    "jp_name": "合体術式－エンゲージ・ゼロ",
+    "en_name": "Combined Maneuver - Engage Zero!"
   },
   "44201739": {
     "type": "Monster",
@@ -87768,7 +87771,8 @@
     "type": "Monster",
     "cn_name": "试号闪刀姬-天津",
     "sc_name": "试作闪刀姬－天津",
-    "jp_name": "試号閃刀姫－アマツ"
+    "jp_name": "試号閃刀姫－アマツ",
+    "en_name": "Prototype Sky Striker Ace - Amatsu"
   },
   "59400890": {
     "type": "Monster",
@@ -89573,31 +89577,36 @@
     "type": "Monster",
     "cn_name": "X-剑士 佩里娜",
     "sc_name": "X－军刀 佩利那",
-    "jp_name": "X－セイバー ペリナ"
+    "jp_name": "X－セイバー ペリナ",
+    "en_name": "X-Saber Pellina"
   },
   "45462306": {
     "type": "Monster",
     "cn_name": "X-剑士 布鲁诺",
     "sc_name": "X－军刀 布鲁诺",
-    "jp_name": "X－セイバー ブルノ"
+    "jp_name": "X－セイバー ブルノ",
+    "en_name": "X-Saber Bruno"
   },
   "72867001": {
     "type": "Monster",
     "cn_name": "总剑司令 索萨",
     "sc_name": "总剑司令 索扎",
-    "jp_name": "総剣司令 ソウザ"
+    "jp_name": "総剣司令 ソウザ",
+    "en_name": "Commander Souza, Swordmaster"
   },
   "8252010": {
     "type": "Monster",
     "cn_name": "X-剑士 加特姆士",
     "sc_name": "X－军刀 加特姆士",
-    "jp_name": "X－セイバー ガトムズ"
+    "jp_name": "X－セイバー ガトムズ",
+    "en_name": "X-Saber Gottoms"
   },
   "35240714": {
     "type": "Spell",
     "cn_name": "剑之合击",
     "sc_name": "军刀合击",
-    "jp_name": "セイバー・コンビネーション"
+    "jp_name": "セイバー・コンビネーション",
+    "en_name": "Saber Combination"
   },
   "71645463": {
     "type": "Monster",
@@ -89790,7 +89799,8 @@
     "type": "Monster",
     "cn_name": "闪刀机-正义刀剑",
     "sc_name": "闪刀机－正义军刀",
-    "jp_name": "閃刀機－アディルセイバー"
+    "jp_name": "閃刀機－アディルセイバー",
+    "en_name": "Sky Striker Mecha - Adil Saber"
   },
   "7656689": {
     "type": "Monster",
