@@ -2777,6 +2777,7 @@
   "48531733": {
     "type": "Monster",
     "cn_name": "电击企鹅",
+    "sc_name": "电击企鹅",
     "jp_name": "ボルト・ペンギン",
     "en_name": "Bolt Penguin"
   },
@@ -6104,6 +6105,7 @@
   "84550200": {
     "type": "Monster",
     "cn_name": "声波干扰虫",
+    "sc_name": "音速干扰虫",
     "jp_name": "ソニックジャマー",
     "en_name": "Sonic Jammer"
   },
@@ -7562,6 +7564,7 @@
   "17484499": {
     "type": "Trap",
     "cn_name": "现世与冥界的逆转",
+    "sc_name": "现世与冥界的逆转",
     "jp_name": "現世と冥界の逆転",
     "en_name": "Exchange of the Spirit"
   },
@@ -15929,6 +15932,7 @@
   "65450690": {
     "type": "Spell",
     "cn_name": "限定解除",
+    "sc_name": "限定解除",
     "jp_name": "限定解除",
     "en_name": "Ritual Foregone"
   },
@@ -17409,6 +17413,7 @@
   "34334692": {
     "type": "Monster",
     "cn_name": "仪式的供物",
+    "sc_name": "仪式的供品",
     "jp_name": "儀式の供物",
     "en_name": "Ritual Raven"
   },
@@ -19523,6 +19528,7 @@
   "89086566": {
     "type": "Spell",
     "cn_name": "机雷化",
+    "sc_name": "机雷化",
     "jp_name": "機雷化",
     "en_name": "Detonate"
   },
@@ -22123,6 +22129,7 @@
   "13821299": {
     "type": "Monster",
     "cn_name": "陷阱吞噬者",
+    "sc_name": "陷阱吞噬者",
     "jp_name": "トラップ・イーター",
     "en_name": "Trap Eater"
   },
@@ -25667,6 +25674,7 @@
   "95453143": {
     "type": "Monster",
     "cn_name": "百眼龙",
+    "sc_name": "百目龙",
     "jp_name": "ワンハンドレッド・アイ・ドラゴン",
     "en_name": "Hundred Eyes Dragon"
   },
@@ -29138,6 +29146,7 @@
   "94515289": {
     "type": "Monster",
     "cn_name": "冰结之菲茨杰拉德",
+    "sc_name": "冰结的菲兹杰拉德",
     "jp_name": "氷結のフィッツジェラルド",
     "en_name": "Frozen Fitzgerald"
   },
@@ -33741,6 +33750,7 @@
   "27541267": {
     "type": "Spell",
     "cn_name": "侵略的泛发感染",
+    "sc_name": "侵略的泛发感染",
     "jp_name": "侵略の汎発感染",
     "en_name": "Infestation Pandemic"
   },
@@ -34795,6 +34805,7 @@
   "65301952": {
     "type": "Monster",
     "cn_name": "炼金魔术师",
+    "sc_name": "炼金魔术师",
     "jp_name": "アルケミック・マジシャン",
     "en_name": "Alchemic Magician"
   },
@@ -37185,6 +37196,7 @@
   "18114794": {
     "type": "Spell",
     "cn_name": "召唤断路器",
+    "sc_name": "召唤断路器",
     "jp_name": "サモンブレーカー",
     "en_name": "Summon Breaker"
   },
@@ -45517,6 +45529,7 @@
   "67443336": {
     "type": "Trap",
     "cn_name": "裁决的天秤",
+    "sc_name": "裁决之天平",
     "jp_name": "裁きの天秤",
     "en_name": "Balance of Judgment"
   },
@@ -60248,6 +60261,7 @@
   "48015771": {
     "type": "Spell",
     "cn_name": "召唤过度",
+    "sc_name": "召唤过载",
     "jp_name": "サモンオーバー",
     "en_name": "Summon Over"
   },
@@ -60636,6 +60650,7 @@
   "47963370": {
     "type": "Monster",
     "cn_name": "混沌之魔术师",
+    "sc_name": "混沌之魔导",
     "jp_name": "マジシャン・オブ・カオス",
     "en_name": "Magician of Chaos"
   },
@@ -67770,6 +67785,7 @@
   "79169622": {
     "type": "Monster",
     "cn_name": "极冰兽 极地企鹅",
+    "sc_name": "极冰兽 极地企鹅",
     "jp_name": "極氷獣ポーラ・ペンギン",
     "en_name": "Glacial Beast Polar Penguin"
   },
@@ -86029,6 +86045,7 @@
   "83626916": {
     "type": "Trap",
     "cn_name": "异次元邮筒",
+    "sc_name": "异次元邮箱",
     "jp_name": "異次元ポスト",
     "en_name": "D.D. Post"
   },
@@ -90844,5 +90861,10 @@
     "type": "Spell",
     "cn_name": "月轮镜",
     "jp_name": "月輪鏡"
+  },
+  "100262001": {
+    "type": "Monster",
+    "cn_name": "勒克纳斯之吸雷 布里泽",
+    "jp_name": "ルクナスの吸雷 ブリーゼ"
   }
 }
