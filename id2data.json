@@ -31786,6 +31786,7 @@
   "74530899": {
     "type": "Monster",
     "cn_name": "时械神 梅塔伊恩",
+    "sc_name": "时械神 梅塔翁",
     "jp_name": "時械神メタイオン",
     "en_name": "Metaion, the Timelord"
   },
@@ -33725,6 +33726,7 @@
   "91279700": {
     "type": "Monster",
     "cn_name": "入魔龙主 俄菲翁",
+    "sc_name": "邪蚀俄菲翁",
     "jp_name": "ヴェルズ・オピオン",
     "en_name": "Evilswarm Ophion"
   },
@@ -53849,6 +53851,7 @@
   "28929131": {
     "type": "Monster",
     "cn_name": "时械神 亚法恩",
+    "sc_name": "时械神 扎菲翁",
     "jp_name": "時械神ザフィオン",
     "en_name": "Zaphion, the Timelord"
   },
@@ -53861,6 +53864,7 @@
   "91712985": {
     "type": "Monster",
     "cn_name": "时械神 卡米恩",
+    "sc_name": "时械神 卡弥翁",
     "jp_name": "時械神カミオン",
     "en_name": "Kamion, the Timelord"
   },
@@ -65349,6 +65353,7 @@
   "10669138": {
     "type": "Monster",
     "cn_name": "连神龙",
+    "sc_name": "连接神龙",
     "jp_name": "L・G・D",
     "en_name": "Five-Headed Link Dragon"
   },
@@ -75961,12 +75966,14 @@
   "63542003": {
     "type": "Monster",
     "cn_name": "宿神像 凯尔多",
+    "sc_name": "宿神像 凯尔多",
     "jp_name": "宿神像ケルドウ",
     "en_name": "Keldo the Sacred Protector"
   },
   "99937011": {
     "type": "Monster",
     "cn_name": "剑神官 姆多拉",
+    "sc_name": "剑神官 姆多拉",
     "jp_name": "剣神官ムドラ",
     "en_name": "Mudora the Sword Oracle"
   },
@@ -75985,6 +75992,7 @@
   "98715423": {
     "type": "Trap",
     "cn_name": "守墓的陷阱",
+    "sc_name": "守墓的陷阱",
     "jp_name": "墓守の罠",
     "en_name": "Gravekeeper's Trap"
   },
@@ -80165,6 +80173,7 @@
   "10666000": {
     "type": "Monster",
     "cn_name": "No.1 感染蝇王 巴力·西卜",
+    "sc_name": "编号1 感染蝇王",
     "jp_name": "No.1 インフェクション・バアル・ゼブル",
     "en_name": "Number 1: Infection Buzzking"
   },
@@ -90705,141 +90714,169 @@
   "30397786": {
     "type": "Monster",
     "cn_name": "白色幻兽-青眼白龙",
+    "sc_name": "白之幻兽－青眼白龙",
     "jp_name": "白き幻獣－青眼の白龍"
   },
   "67886895": {
     "type": "Monster",
     "cn_name": "苍之深渊 渊眼白龙",
+    "sc_name": "苍之深渊 渊眼白龙",
     "jp_name": "蒼の深淵 ディープアイズ・ホワイト・ドラゴン"
   },
   "93871599": {
     "type": "Spell",
     "cn_name": "龙引导呼笛",
+    "sc_name": "龙之引导唤笛",
     "jp_name": "ドラゴン・導きの呼笛"
   },
   "30275298": {
     "type": "Monster",
     "cn_name": "终击龙-电子终结龙",
+    "sc_name": "终击龙－电子终极龙",
     "jp_name": "終撃竜－サイバー・エンド・ドラゴン"
   },
   "66664203": {
     "type": "Monster",
     "cn_name": "机光龙-电子龙",
+    "sc_name": "机光龙－电子龙",
     "jp_name": "機光竜－サイバー・ドラゴン"
   },
   "92058902": {
     "type": "Spell",
     "cn_name": "未来融合·新星",
+    "sc_name": "未来融合－永望结合・新星",
     "jp_name": "未来融合－フューチャー・フュージョン・ノヴァ"
   },
   "29053656": {
     "type": "Monster",
     "cn_name": "红龙 魁札尔科亚特尔",
+    "sc_name": "赤龙 克察尔科亚特尔",
     "jp_name": "赤き竜 ケッツァーコアトル"
   },
   "65541655": {
     "type": "Monster",
     "cn_name": "真红莲新星龙-燃烧之魂",
+    "sc_name": "绯暗红新星龙－燃烧之魂",
     "jp_name": "スカーレッド・ノヴァ・ドラゴン－バーニング・ソウル"
   },
   "92936364": {
     "type": "Trap",
     "cn_name": "红莲魔族之链",
+    "sc_name": "暗红恶魔锁链",
     "jp_name": "レッド・デーモンズ・チェーン"
   },
   "28331069": {
     "type": "Monster",
     "cn_name": "超银河眼光子龙-光子咆哮",
+    "sc_name": "超银河眼光子龙－光子咆哮",
     "jp_name": "超銀河眼の光子龍－フォトン・ハウリング"
   },
   "54725177": {
     "type": "Monster",
     "cn_name": "银河眼辉光子龙",
+    "sc_name": "银河眼辉光子龙",
     "jp_name": "銀河眼の輝光子竜"
   },
   "91714772": {
     "type": "Monster",
     "cn_name": "银河防卫机器人·轨道 7",
+    "sc_name": "银河防卫机器人・奥比塔尔 7",
     "jp_name": "GDロボ・オービタル ７"
   },
   "27118421": {
     "type": "Monster",
     "cn_name": "四天之龙 凶饿毒融合龙",
+    "sc_name": "四天之龙 凶饿猛毒结合龙",
     "jp_name": "四天の龍 スターヴ・ヴェノム・フュージョン・ドラゴン"
   },
   "54603525": {
     "type": "Monster",
     "cn_name": "四天之龙 幻透翼同调龙",
+    "sc_name": "四天之龙 清透翼同步龙",
     "jp_name": "四天の龍 クリアウィング・シンクロ・ドラゴン"
   },
   "90091224": {
     "type": "Monster",
     "cn_name": "四天之龙 暗叛逆超量龙",
+    "sc_name": "四天之龙 暗反叛超量龙",
     "jp_name": "四天の龍 ダーク・リベリオン・エクシーズ・ドラゴン"
   },
   "27096833": {
     "type": "Monster",
     "cn_name": "装弹枪管解放龙",
+    "sc_name": "枪管上膛戒放龙",
     "jp_name": "ヴァレルロード・L・ドラゴン"
   },
   "53481938": {
     "type": "Monster",
     "cn_name": "弹丸雨幕龙",
+    "sc_name": "枪弹网幕",
     "jp_name": "ヴァレット・バラージュ"
   },
   "89875646": {
     "type": "Spell",
     "cn_name": "三重枪管旋转",
+    "sc_name": "三重枪管轮转",
     "jp_name": "トリプル・ヴァレル・リボルブ"
   },
   "26364381": {
     "type": "Monster",
     "cn_name": "造物主 埃玛",
+    "sc_name": "巨匠造物主 EMA",
     "jp_name": "デミウルゴスEMA"
   },
   "52768390": {
     "type": "Monster",
     "cn_name": "暗之神",
+    "sc_name": "暗之神",
     "jp_name": "闇の神－ダークゴッド"
   },
   "89753095": {
     "type": "Spell",
     "cn_name": "神鸣",
+    "sc_name": "神鸣",
     "jp_name": "神鳴り"
   },
   "15141103": {
     "type": "Monster",
     "cn_name": "暗黑调整 灾祸盗贼",
+    "sc_name": "黑暗协调 灾祸恶棍",
     "jp_name": "DTカタストローグ"
   },
   "51546708": {
     "type": "Monster",
     "cn_name": "暗黑调整 梦魇鬼手",
+    "sc_name": "黑暗协调 梦魇之手",
     "jp_name": "DTナイトメア・ハンド"
   },
   "88931417": {
     "type": "Monster",
     "cn_name": "机炮食人魔",
+    "sc_name": "加特林食人魔",
     "jp_name": "ガトリング・オーガ"
   },
   "14425515": {
     "type": "Monster",
     "cn_name": "永火死亡枪手",
+    "sc_name": "无限狱死亡枪手",
     "jp_name": "インフェルニティ・デス・ガンマン"
   },
   "41424250": {
     "type": "Monster",
     "cn_name": "混沌终结支配者-开辟与终焉的支配者-",
+    "sc_name": "混沌终末统御者 －开辟与终焉的支配者－",
     "jp_name": "カオスエンド・ルーラー －開闢と終焉の支配者－"
   },
   "87818869": {
     "type": "Spell",
     "cn_name": "超升阶魔法-究极之力",
+    "sc_name": "超升阶魔法－究极之力",
     "jp_name": "HRUM－アルティメット・フォース"
   },
   "13203964": {
     "type": "Monster",
     "cn_name": "完美电子多元驱动蛇·神龙",
+    "sc_name": "完美智能・海德拉驱动龙",
     "jp_name": "パーフェクトロン・ハイドライブ・ドラゴン"
   },
   "60516416": {
