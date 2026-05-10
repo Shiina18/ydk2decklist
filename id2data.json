@@ -80292,7 +80292,8 @@
     "type": "Monster",
     "cn_name": "炎魔刃 火舌",
     "sc_name": "炎魔刃 火舌",
-    "jp_name": "炎魔刃フレイムタン"
+    "jp_name": "炎魔刃フレイムタン",
+    "en_name": "Flametongue the Burning Blade"
   },
   "24454387": {
     "type": "Monster",
@@ -89624,7 +89625,8 @@
     "type": "Monster",
     "cn_name": "魔龙阁-邪灵恶龙",
     "sc_name": "魔龙阁－德拉尔维斯",
-    "jp_name": "魔竜閣－ドラルヴァイス"
+    "jp_name": "魔竜閣－ドラルヴァイス",
+    "en_name": "Draluvice the Diabolic Dragon Fortress"
   },
   "9978697": {
     "type": "Monster",
@@ -90064,486 +90066,567 @@
     "type": "Monster",
     "cn_name": "暗冥共鸣者",
     "sc_name": "暗冥共鸣者",
-    "jp_name": "ダークネス・リゾネーター"
+    "jp_name": "ダークネス・リゾネーター",
+    "en_name": "Darkness Resonator"
   },
   "19434243": {
     "type": "Monster",
     "cn_name": "强力恶龙",
     "sc_name": "力量恶龙",
-    "jp_name": "パワー・バイス・ドラゴン"
+    "jp_name": "パワー・バイス・ドラゴン",
+    "en_name": "Power Vice Dragon"
   },
   "56838842": {
     "type": "Monster",
     "cn_name": "魔块石人",
     "sc_name": "噩块魔像",
-    "jp_name": "デモン・ピース・ゴーレム"
+    "jp_name": "デモン・ピース・ゴーレム",
+    "en_name": "Fiend Piece Golem"
   },
   "82323997": {
     "type": "Monster",
     "cn_name": "真红莲新星龙/爆裂体",
     "sc_name": "绯暗红新星龙／爆裂",
-    "jp_name": "スカーレッド・ノヴァ・ドラゴン／バスター"
+    "jp_name": "スカーレッド・ノヴァ・ドラゴン／バスター",
+    "en_name": "Red Nova Dragon/Assault Mode"
   },
   "18711696": {
     "type": "Monster",
     "cn_name": "爆裂音速战士",
     "sc_name": "爆裂音速战士",
-    "jp_name": "バスターソニック・ウォリアー"
+    "jp_name": "バスターソニック・ウォリアー",
+    "en_name": "Assault Sonic Warrior"
   },
   "45116390": {
     "type": "Monster",
     "cn_name": "重装骑士 通天双层列车",
     "sc_name": "重装骑士 巴别双层列车",
-    "jp_name": "重装騎士バベルデッカー"
+    "jp_name": "重装騎士バベルデッカー",
+    "en_name": "Heavy Armored Knight Babeldecker"
   },
   "81101309": {
     "type": "Monster",
     "cn_name": "夜光列车 蓝色旅人列车",
     "sc_name": "夜光列车 蓝色旅人",
-    "jp_name": "夜光列車ブルートラベラー"
+    "jp_name": "夜光列車ブルートラベラー",
+    "en_name": "Night Train Blue Traveler"
   },
   "18595008": {
     "type": "Monster",
     "cn_name": "捕食植物 喷瓜蜥蜴",
     "sc_name": "捕食植物 铁炮瓜蜥蜴",
-    "jp_name": "捕食植物テッポウリザード"
+    "jp_name": "捕食植物テッポウリザード",
+    "en_name": "Predaplant Lilizard"
   },
   "44994712": {
     "type": "Monster",
     "cn_name": "捕食植物 长叶挖耳草络新妇",
     "sc_name": "捕食植物 长叶狸藻新妇蛛",
-    "jp_name": "捕食植物ロンギネフィラ"
+    "jp_name": "捕食植物ロンギネフィラ",
+    "en_name": "Predaplant Longinephila"
   },
   "70488851": {
     "type": "Monster",
     "cn_name": "混绝狱神 比托利姆",
     "sc_name": "混绝狱神 皮托里姆",
-    "jp_name": "混絶獄神ヴィードリウム"
+    "jp_name": "混絶獄神ヴィードリウム",
+    "en_name": "Vidolium the Unstable Power Patron of Unity"
   },
   "17473466": {
     "type": "Monster",
     "cn_name": "狱神影兽-涅瓦红化兽",
     "sc_name": "狱神影兽－涅尔绯多",
-    "jp_name": "獄神影獣－ネルヴェド"
+    "jp_name": "獄神影獣－ネルヴェド",
+    "en_name": "Nervedo the Shadebeast Power Patron"
   },
   "43871165": {
     "type": "Monster",
     "cn_name": "狱神影机-宙斯黑化机",
     "sc_name": "狱神影机－宙格黎多",
-    "jp_name": "獄神影機－ゼグレド"
+    "jp_name": "獄神影機－ゼグレド",
+    "en_name": "Jupredo the Shademachine Power Patron"
   },
   "10266279": {
     "type": "Monster",
     "cn_name": "狱神影精-朱诺白化精",
     "sc_name": "狱神影精－朱诺璐多",
-    "jp_name": "獄神影精－ジュノルド"
+    "jp_name": "獄神影精－ジュノルド",
+    "en_name": "Junoldo the Shadespirit Power Patron"
   },
   "56651978": {
     "type": "Monster",
     "cn_name": "耀圣之风诗 蕾吉娜",
     "sc_name": "耀圣之风诗 蕾绮娜",
-    "jp_name": "耀聖の風詩レギナ"
+    "jp_name": "耀聖の風詩レギナ",
+    "en_name": "Elfnote Regina"
   },
   "82159583": {
     "type": "Monster",
     "cn_name": "道化一座 白脸小丑",
     "sc_name": "小丑戏帮 白脸",
-    "jp_name": "道化の一座 ホワイトフェイス"
+    "jp_name": "道化の一座 ホワイトフェイス",
+    "en_name": "Clown Crew Biancaviso"
   },
   "19144622": {
     "type": "Monster",
     "cn_name": "妖精传姬-玛奇莉勒",
     "sc_name": "妖精传姬－火柴莉儿",
-    "jp_name": "妖精伝姫－マチリル"
+    "jp_name": "妖精伝姫－マチリル",
+    "en_name": "Fairy Tail - Matchgiru"
   },
   "45538320": {
     "type": "Monster",
     "cn_name": "精灵术的使魔",
     "sc_name": "精灵术的使役魔",
-    "jp_name": "精霊術の使い魔"
+    "jp_name": "精霊術の使い魔",
+    "en_name": "Spiritual Art Familiars"
   },
   "82933935": {
     "type": "Monster",
     "cn_name": "迷拟宝箱鬼·食人花",
     "sc_name": "迷拟宝箱鬼・食人花",
-    "jp_name": "ミミグル・フラワー"
+    "jp_name": "ミミグル・フラワー",
+    "en_name": "Mimighoul Flower"
   },
   "18321034": {
     "type": "Monster",
     "cn_name": "不可见之手 诱招天手",
     "sc_name": "百臂无形手 马基卜揶尔",
-    "jp_name": "見えざる手マキブエル"
+    "jp_name": "見えざる手マキブエル",
+    "en_name": "Hecahands Mankibuel"
   },
   "44716748": {
     "type": "Monster",
     "cn_name": "纠罪巧γ'-欺瞒“exapatisIA”",
     "sc_name": "纠罪巧γ’－欺瞒“exapatisIA”",
-    "jp_name": "糾罪巧γ’－「exapatisIA」"
+    "jp_name": "糾罪巧γ’－「exapatisIA」",
+    "en_name": "Trito Enneacraft - \"exapatisIA\""
   },
   "71801447": {
     "type": "Monster",
     "cn_name": "纠罪巧-欲蛛 Atilε.SPIA",
     "sc_name": "纠罪巧－欲蛛 Atilε.SPIA",
-    "jp_name": "糾罪巧－Atilε.SPIA"
+    "jp_name": "糾罪巧－Atilε.SPIA",
+    "en_name": "Enneacraft - Atil.SPIA"
   },
   "17209452": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·旋钮手",
     "sc_name": "杀手旋律・萝塔丽",
-    "jp_name": "キラーチューン・ロタリー"
+    "jp_name": "キラーチューン・ロタリー",
+    "en_name": "Kewl Tune Rotary"
   },
   "44694191": {
     "type": "Monster",
     "cn_name": "假初之幻脸师",
     "sc_name": "假形幻脸师",
-    "jp_name": "仮初の幻臉師"
+    "jp_name": "仮初の幻臉師",
+    "en_name": "Fleeting Phantom Mask Master"
   },
   "70088809": {
     "type": "Monster",
     "cn_name": "调和之天救龙",
     "sc_name": "调和之天救龙",
-    "jp_name": "調和ノ天救竜"
+    "jp_name": "調和ノ天救竜",
+    "en_name": "Fydraulis Harmonia"
   },
   "6083904": {
     "type": "Monster",
     "cn_name": "妖光之布罗肯恶魔",
     "sc_name": "妖光之迪亚布罗肯",
-    "jp_name": "妖光のディアーブロッケン"
+    "jp_name": "妖光のディアーブロッケン",
+    "en_name": "Diabrocken the Ominous Specter"
   },
   "43471513": {
     "type": "Monster",
     "cn_name": "钢卷尺骑士",
     "sc_name": "卷尺骑士",
-    "jp_name": "コンベックス・ナイト"
+    "jp_name": "コンベックス・ナイト",
+    "en_name": "Convex Knight"
   },
   "79966218": {
     "type": "Monster",
     "cn_name": "血树龙姬 龙血树鬼",
     "sc_name": "血树龙姬 朵拉塞蕾尔",
-    "jp_name": "血樹竜姫ドラセレア"
+    "jp_name": "血樹竜姫ドラセレア",
+    "en_name": "Princess Dracaena, the Thirsting Tree"
   },
   "6361316": {
     "type": "Monster",
     "cn_name": "睡醒一杯！玉露茶",
     "sc_name": "威咖杯！玉露",
-    "jp_name": "WAKE CUP！ クロ"
+    "jp_name": "WAKE CUP！ クロ",
+    "en_name": "WAKE CUP! Kuro"
   },
   "42759961": {
     "type": "Monster",
     "cn_name": "道化一座 调酒火小丑",
     "sc_name": "小丑戏帮 弗蕾娅",
-    "jp_name": "道化の一座 フレア"
+    "jp_name": "道化の一座 フレア",
+    "en_name": "Clown Crew Flair"
   },
   "78744660": {
     "type": "Monster",
     "cn_name": "死亡女王恶魔",
     "sc_name": "死亡女后恶魔",
-    "jp_name": "デス・レジーナ・デーモン"
+    "jp_name": "デス・レジーナ・デーモン",
+    "en_name": "Archfiend Matriarch"
   },
   "5148778": {
     "type": "Monster",
     "cn_name": "霸王暴龙 凶饿毒辉翼龙",
     "sc_name": "霸王暴龙 凶饿猛毒透翼龙",
-    "jp_name": "覇王暴竜スターヴ・ヴェノム・ウィング・ドラゴン"
+    "jp_name": "覇王暴竜スターヴ・ヴェノム・ウィング・ドラゴン",
+    "en_name": "Starving Venom Wing Dragon"
   },
   "31533473": {
     "type": "Monster",
     "cn_name": "道化一座 空竹魔小丑",
     "sc_name": "小丑戏帮 迪亚波罗",
-    "jp_name": "道化の一座 ディアボロ"
+    "jp_name": "道化の一座 ディアボロ",
+    "en_name": "Clown Crew Diabolo"
   },
   "78021082": {
     "type": "Monster",
     "cn_name": "妖精传姬的编写者",
     "sc_name": "编织妖精传姬之人",
-    "jp_name": "妖精伝姫を紡ぐ者"
+    "jp_name": "妖精伝姫を紡ぐ者",
+    "en_name": "Weaver of Fairy Tails"
   },
   "4026187": {
     "type": "Monster",
     "cn_name": "妖精传姬的讲述者",
     "sc_name": "讲述妖精传姬之人",
-    "jp_name": "妖精伝姫を語る者"
+    "jp_name": "妖精伝姫を語る者",
+    "en_name": "Teller of Fairy Tails"
   },
   "31411835": {
     "type": "Monster",
     "cn_name": "不可见之手 塔耳塔线手",
     "sc_name": "百臂无形手 坦达洛撕",
-    "jp_name": "見えざる手ダンダロス"
+    "jp_name": "見えざる手ダンダロス",
+    "en_name": "Hecahands Dandalos"
   },
   "67809530": {
     "type": "Monster",
     "cn_name": "红莲王者",
     "sc_name": "红莲的王者",
-    "jp_name": "紅蓮の王者"
+    "jp_name": "紅蓮の王者",
+    "en_name": "The Crimson King"
   },
   "3294539": {
     "type": "Monster",
     "cn_name": "深红剑龙",
     "sc_name": "深红剑龙",
-    "jp_name": "クリムゾン・ブレード・ドラゴン"
+    "jp_name": "クリムゾン・ブレード・ドラゴン",
+    "en_name": "Crimson Blade Dragon"
   },
   "30698243": {
     "type": "Monster",
     "cn_name": "真红莲极超新星龙",
     "sc_name": "绯暗红极超新星龙",
-    "jp_name": "スカーレッド・ハイパーノヴァ・ドラゴン"
+    "jp_name": "スカーレッド・ハイパーノヴァ・ドラゴン",
+    "en_name": "Red Hypernova Dragon"
   },
   "66787942": {
     "type": "Monster",
     "cn_name": "捕食植物 羊角麻蝇王",
     "sc_name": "捕食植物 羊角麻蝇王",
-    "jp_name": "捕食植物バアル・テア"
+    "jp_name": "捕食植物バアル・テア",
+    "en_name": "Predaplant Bal Teah"
   },
   "93172951": {
     "type": "Monster",
     "cn_name": "道化一座 舞流星小丑",
     "sc_name": "小丑戏帮 梅特欧",
-    "jp_name": "道化の一座 メテオ"
+    "jp_name": "道化の一座 メテオ",
+    "en_name": "Clown Crew Meteor"
   },
   "39576656": {
     "type": "Monster",
     "cn_name": "杀手级调整曲·噼啪削波手",
     "sc_name": "杀手旋律・爆响",
-    "jp_name": "キラーチューン・クラックル"
+    "jp_name": "キラーチューン・クラックル",
+    "en_name": "Kewl Tune Crackle"
   },
   "65961304": {
     "type": "Monster",
     "cn_name": "杀手级调整曲 B2B",
     "sc_name": "杀手旋律・背靠背",
-    "jp_name": "キラーチューン B２B"
+    "jp_name": "キラーチューン B２B",
+    "en_name": "Kewl Tune B2B"
   },
   "92359409": {
     "type": "Monster",
     "cn_name": "超重型炮塔列车 古斯塔夫火箭大炮",
     "sc_name": "超重型炮塔列车 古斯塔夫火箭炮",
-    "jp_name": "超弩級砲塔列車グスタフ・ロケット"
+    "jp_name": "超弩級砲塔列車グスタフ・ロケット",
+    "en_name": "Superdreadnought Rail Cannon Gustav Rocket"
   },
   "38354018": {
     "type": "Monster",
     "cn_name": "超重型炮塔列车 冲天火箭炮",
     "sc_name": "超重型炮塔列车 飞行发射器",
-    "jp_name": "超弩級砲塔列車フライング・ランチャー"
+    "jp_name": "超弩級砲塔列車フライング・ランチャー",
+    "en_name": "Superdreadnought Rail Cannon Flying Launcher"
   },
   "65848113": {
     "type": "Monster",
     "cn_name": "终刻龙机13-格拉弗莱伊俄",
     "sc_name": "终刻龙机ⅩⅢ－格拉弗雷欧",
-    "jp_name": "終刻竜機ⅩⅢ－グラフレイオ"
+    "jp_name": "終刻竜機ⅩⅢ－グラフレイオ",
+    "en_name": "DoomZ XIII Over - Graflareio"
   },
   "91237821": {
     "type": "Monster",
     "cn_name": "道化一座 双魔棍小丑",
     "sc_name": "小丑戏帮 德比鲁兹",
-    "jp_name": "道化の一座 デビルズ"
+    "jp_name": "道化の一座 デビルズ",
+    "en_name": "Clown Crew Fiends"
   },
   "27632520": {
     "type": "Monster",
     "cn_name": "妖精传姬-威凯特",
     "sc_name": "妖精传姬－猫巫婆",
-    "jp_name": "妖精伝姫－ウィキャット"
+    "jp_name": "妖精伝姫－ウィキャット",
+    "en_name": "Fairy Tail - Wiccat"
   },
   "64626565": {
     "type": "Monster",
     "cn_name": "黑智天至 伊里斯斐尔",
     "sc_name": "黑智天至 伊莉丝菲尔",
-    "jp_name": "黒智天至イリスフィール"
+    "jp_name": "黒智天至イリスフィール",
+    "en_name": "Dark Ceruvim Irisfil"
   },
   "90011273": {
     "type": "Monster",
     "cn_name": "后膛枪管龙",
     "sc_name": "违犯枪管龙",
-    "jp_name": "ブリーチヴァレル・ドラゴン"
+    "jp_name": "ブリーチヴァレル・ドラゴン",
+    "en_name": "Breachborrel Dragon"
   },
   "27519978": {
     "type": "Monster",
     "cn_name": "四花缭乱之灵使",
     "sc_name": "四花缭乱之灵使",
-    "jp_name": "四花繚乱の霊使い"
+    "jp_name": "四花繚乱の霊使い",
+    "en_name": "Charmer Quartet in Bloom"
   },
   "53904087": {
     "type": "Monster",
     "cn_name": "神书的使者 拉哈穆",
     "sc_name": "神书之使 拉哈姆",
-    "jp_name": "神書の使いラハムゥ"
+    "jp_name": "神書の使いラハムゥ",
+    "en_name": "Rahamu, Envoy of the Sacred Tome"
   },
   "99398682": {
     "type": "Spell",
     "cn_name": "深红狱呼唤",
     "sc_name": "深红地狱呼唤",
-    "jp_name": "クリムゾン・ヘルコール"
+    "jp_name": "クリムゾン・ヘルコール",
+    "en_name": "Crimson Call"
   },
   "26387390": {
     "type": "Spell",
     "cn_name": "废品信号",
     "sc_name": "废品信号",
-    "jp_name": "ジャンク・シグナル"
+    "jp_name": "ジャンク・シグナル",
+    "en_name": "Junk Signal"
   },
   "52782439": {
     "type": "Spell",
     "cn_name": "特别行车时间表",
     "sc_name": "特别时刻表",
-    "jp_name": "特別ダイヤ"
+    "jp_name": "特別ダイヤ",
+    "en_name": "Exceptional Schedule"
   },
   "89176044": {
     "type": "Spell",
     "cn_name": "捕食原生",
     "sc_name": "捕食原生",
-    "jp_name": "捕食原生"
+    "jp_name": "捕食原生",
+    "en_name": "Predaprimitive"
   },
   "25661743": {
     "type": "Spell",
     "cn_name": "绝解的狱神门-忒耳弥努斯",
     "sc_name": "绝解狱神门－特尔米纳斯",
-    "jp_name": "絶解なる獄神門－テルミナス"
+    "jp_name": "絶解なる獄神門－テルミナス",
+    "en_name": "Prohibited Power Patron Portal - Terminus"
   },
   "51669847": {
     "type": "Spell",
     "cn_name": "绝无的狱神界-比托利亚",
     "sc_name": "绝无狱神界－皮托里亚",
-    "jp_name": "絶無なる獄神界－ヴィードリア"
+    "jp_name": "絶無なる獄神界－ヴィードリア",
+    "en_name": "Plundered Power Patron Plane - Vidolia"
   },
   "84054556": {
     "type": "Spell",
     "cn_name": "终刻反转『阿德剌斯忒亚』",
     "sc_name": "终刻反转《A.D.R.A.S.T.E.I.A.》",
-    "jp_name": "終刻反転『A.D.R.A.S.T.E.I.A.』"
+    "jp_name": "終刻反転『A.D.R.A.S.T.E.I.A.』",
+    "en_name": "DoomZ Command \"A.D.R.A.S.T.E.I.A.\""
   },
   "20448151": {
     "type": "Spell",
     "cn_name": "道化一座『排练』",
     "sc_name": "小丑戏帮《排练》",
-    "jp_name": "道化の一座『下稽古』"
+    "jp_name": "道化の一座『下稽古』",
+    "en_name": "Clown Crew Rehearsal"
   },
   "57847269": {
     "type": "Spell",
     "cn_name": "道化一座『开演』",
     "sc_name": "小丑戏帮《开演》",
-    "jp_name": "道化の一座『開演』"
+    "jp_name": "道化の一座『開演』",
+    "en_name": "Clown Crew Matinee Operatics"
   },
   "83232904": {
     "type": "Spell",
     "cn_name": "道化一座『极艺』",
     "sc_name": "小丑戏帮《极艺》",
-    "jp_name": "道化の一座『極芸』"
+    "jp_name": "道化の一座『極芸』",
+    "en_name": "Clown Crew Malabarisme"
   },
   "19326613": {
     "type": "Spell",
     "cn_name": "妖精传姬开始啦开始啦",
     "sc_name": "妖精传姬要开始啰要开始啰",
-    "jp_name": "妖精伝姫のはじまりはじまり"
+    "jp_name": "妖精伝姫のはじまりはじまり",
+    "en_name": "Once Upon a Fairy Tail"
   },
   "56725612": {
     "type": "Spell",
     "cn_name": "妖精传姬的舞蹈会",
     "sc_name": "妖精传姬的舞会",
-    "jp_name": "妖精伝姫の舞踏会"
+    "jp_name": "妖精伝姫の舞踏会",
+    "en_name": "Fairy Tail Ball"
   },
   "82119326": {
     "type": "Spell",
     "cn_name": "妖精传姬的故事尾巴",
     "sc_name": "妖精传姬之尾",
-    "jp_name": "テールズオブ妖精伝姫"
+    "jp_name": "テールズオブ妖精伝姫",
+    "en_name": "Tails of the Fairy Tails"
   },
   "19504025": {
     "type": "Spell",
     "cn_name": "纠罪巧-重置再巧",
     "sc_name": "纠罪巧－重置再巧",
-    "jp_name": "糾罪巧－再巧"
+    "jp_name": "糾罪巧－再巧",
+    "en_name": "Enneacraft Reset"
   },
   "45508030": {
     "type": "Spell",
     "cn_name": "凭依共鸣",
     "sc_name": "凭依共鸣",
-    "jp_name": "憑依共鳴"
+    "jp_name": "憑依共鳴",
+    "en_name": "Possessed Destiny"
   },
   "82997779": {
     "type": "Spell",
     "cn_name": "恶魔的篡夺",
     "sc_name": "恶魔的篡夺",
-    "jp_name": "デーモンの簒奪"
+    "jp_name": "デーモンの簒奪",
+    "en_name": "Archfiend's Usurpation"
   },
   "18482473": {
     "type": "Spell",
     "cn_name": "H·E·R·O 一闪！",
     "sc_name": "H・E・R・O 闪光！",
-    "jp_name": "H・E・R・O フラッシュ！"
+    "jp_name": "H・E・R・O フラッシュ！",
+    "en_name": "H.E.R.O. Flash!"
   },
   "44886582": {
     "type": "Spell",
     "cn_name": "超逸融合",
     "sc_name": "超逸融合",
-    "jp_name": "超逸融合"
+    "jp_name": "超逸融合",
+    "en_name": "Super Duper Polymerization"
   },
   "71275181": {
     "type": "Spell",
     "cn_name": "2选1",
     "sc_name": "二选一",
-    "jp_name": "２つに１つ"
+    "jp_name": "２つに１つ",
+    "en_name": "Fifty Fifty?"
   },
   "17269895": {
     "type": "Trap",
     "cn_name": "霸者的鸣动",
     "sc_name": "霸者之鸣动",
-    "jp_name": "覇者の鳴動"
+    "jp_name": "覇者の鳴動",
+    "en_name": "King's Resonance"
   },
   "44654994": {
     "type": "Trap",
     "cn_name": "神艺学的厚涂-夺还-",
     "sc_name": "神艺厚涂－夺还－",
-    "jp_name": "アルトメギア・インパスト－奪還－"
+    "jp_name": "アルトメギア・インパスト－奪還－",
+    "en_name": "Artmage Impasto -Recapture-"
   },
   "70058649": {
     "type": "Trap",
     "cn_name": "道化一座『怪演』",
     "sc_name": "小丑戏帮《怪演》",
-    "jp_name": "道化の一座『怪演』"
+    "jp_name": "道化の一座『怪演』",
+    "en_name": "Clown Crew Soiree Operations"
   },
   "6547248": {
     "type": "Trap",
     "cn_name": "道化一座『新加入』",
     "sc_name": "小丑戏帮《新加入》",
-    "jp_name": "道化の一座『新加入』"
+    "jp_name": "道化の一座『新加入』",
+    "en_name": "Clown Crew New Face"
   },
   "43932352": {
     "type": "Trap",
     "cn_name": "不可见之导引手",
     "sc_name": "百臂无形引导手",
-    "jp_name": "見えざる導き手"
+    "jp_name": "見えざる導き手",
+    "en_name": "Hecahands Bait"
   },
   "79936051": {
     "type": "Trap",
     "cn_name": "北十字星火力",
     "sc_name": "北十字炮击",
-    "jp_name": "ノーザンクロスファイア"
+    "jp_name": "ノーザンクロスファイア",
+    "en_name": "Northern Crossfire"
   },
   "6325660": {
     "type": "Trap",
     "cn_name": "霆王的闪光",
     "sc_name": "霆主王之闪光",
-    "jp_name": "霆王の閃光"
+    "jp_name": "霆王の閃光",
+    "en_name": "Dominus Spark"
   },
   "42719764": {
     "type": "Trap",
     "cn_name": "召唤电击",
     "sc_name": "召唤冲击",
-    "jp_name": "サモンショック"
+    "jp_name": "サモンショック",
+    "en_name": "Summon Shock"
   },
   "78114463": {
     "type": "Trap",
     "cn_name": "神之密告",
     "sc_name": "神之密告",
-    "jp_name": "神の密告"
+    "jp_name": "神の密告",
+    "en_name": "Solemn Accusation"
   },
   "5208118": {
     "type": "Trap",
     "cn_name": "动点的心慌灵摆",
     "sc_name": "灵摆动点P",
-    "jp_name": "動点するP"
+    "jp_name": "動点するP",
+    "en_name": "Solving for Pendulum"
   },
   "30875635": {
     "type": "Monster",
     "cn_name": "奇迹除外士",
-    "jp_name": "ミラクル・エクスクルーダー"
+    "jp_name": "ミラクル・エクスクルーダー",
+    "en_name": "Miracle Ejector"
   },
   "64413994": {
     "type": "Monster",
@@ -90553,7 +90636,8 @@
   "89693655": {
     "type": "Spell",
     "cn_name": "亚空间战斗",
-    "jp_name": "亜空間バトル"
+    "jp_name": "亜空間バトル",
+    "en_name": "Subspace Battle"
   },
   "88570003": {
     "type": "Monster",
@@ -90893,6 +90977,86 @@
     "type": "Monster",
     "cn_name": "捕食植物 魔爪花蛮勇鬼",
     "jp_name": "捕食植物デェアデビル"
+  },
+  "101304081": {
+    "type": "Monster",
+    "cn_name": "游戏玩家GG",
+    "en_name": "Gaming Gamer GG"
+  },
+  "101304082": {
+    "type": "Monster",
+    "cn_name": "妖灵龙",
+    "en_name": "Fata Dragna"
+  },
+  "101304083": {
+    "type": "Monster",
+    "cn_name": "无明者 阴暗",
+    "en_name": "Shade the Obscure"
+  },
+  "101304084": {
+    "type": "Monster",
+    "cn_name": "贵宾鲸",
+    "en_name": "VIP Whale"
+  },
+  "101304085": {
+    "type": "Monster",
+    "cn_name": "戒指的魔灵",
+    "en_name": "Genia of the Ring"
+  },
+  "101304086": {
+    "type": "Monster",
+    "cn_name": "检固机工",
+    "en_name": "Checkker"
+  },
+  "101304087": {
+    "type": "Monster",
+    "cn_name": "锈蚀猛犸",
+    "en_name": "Rustin Mammoth"
+  },
+  "101304088": {
+    "type": "Monster",
+    "cn_name": "尸会的空想",
+    "en_name": "Officiating Reverie"
+  },
+  "101304089": {
+    "type": "Monster",
+    "cn_name": "死萨缪尔的尸会者",
+    "en_name": "Officiator of Doom Samuel"
+  },
+  "101304090": {
+    "type": "Monster",
+    "cn_name": "GMX合作伙伴 塞兰特亚",
+    "en_name": "GMX Partner Selandea"
+  },
+  "101304091": {
+    "type": "Monster",
+    "cn_name": "GMX镇压小队",
+    "en_name": "GMX Suppression Squad"
+  },
+  "101304093": {
+    "type": "Monster",
+    "cn_name": "GMX-完美复合霸王龙",
+    "en_name": "GMX - COMPREX"
+  },
+  "101304092": {
+    "type": "Monster",
+    "cn_name": "遂进龙 丹宁",
+    "en_name": "Evolved Daneen"
+  },
+  "101304094": {
+    "type": "Spell",
+    "cn_name": "GMX第55次试验报告",
+    "en_name": "GMX 55th Experiment Report"
+  },
+  "101304095": {
+    "type": "Spell",
+    "cn_name": "GMX5号实验室",
+    "en_name": "GMX Lab #5"
+  },
+  "101304096": {
+    "type": "Trap",
+    "cn_name": "对GMX最终试验",
+    "en_name": "Anti-GMX Final Experiment"
   },
   "101305001": {
     "type": "Monster",
