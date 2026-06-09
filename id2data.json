@@ -14493,13 +14493,15 @@
     "type": "Monster",
     "cn_name": "学习精灵",
     "sc_name": "学习妖精",
-    "jp_name": "ラーニング・エルフ"
+    "jp_name": "ラーニング・エルフ",
+    "en_name": "Learning Elf"
   },
   "95915457": {
     "type": "Trap",
     "cn_name": "反射镜防护罩",
     "sc_name": "镜罩",
-    "jp_name": "ミラーバリア"
+    "jp_name": "ミラーバリア",
+    "en_name": "Mirror Barrier"
   },
   "20065322": {
     "type": "Spell",
@@ -14573,7 +14575,8 @@
     "type": "Spell",
     "cn_name": "武装转生",
     "sc_name": "武装转生",
-    "jp_name": "武装転生"
+    "jp_name": "武装転生",
+    "en_name": "Armament Reincarnation"
   },
   "89943723": {
     "type": "Monster",
@@ -19308,7 +19311,8 @@
     "type": "Monster",
     "cn_name": "猛毒蝮",
     "sc_name": "剧毒蝮蛇",
-    "jp_name": "猛毒マムシ"
+    "jp_name": "猛毒マムシ",
+    "en_name": "Poisonous Viper"
   },
   "37955049": {
     "type": "Monster",
@@ -24392,7 +24396,8 @@
     "type": "Trap",
     "cn_name": "堕入黑暗的天使",
     "sc_name": "堕入黑暗的天使",
-    "jp_name": "闇に堕ちた天使"
+    "jp_name": "闇に堕ちた天使",
+    "en_name": "Fallen Angel in Darkness"
   },
   "92807548": {
     "type": "Monster",
@@ -26637,7 +26642,8 @@
     "type": "Monster",
     "cn_name": "废品铠甲",
     "sc_name": "废品装甲",
-    "jp_name": "ジャンク・アーマー"
+    "jp_name": "ジャンク・アーマー",
+    "en_name": "Junk Armor"
   },
   "64104037": {
     "type": "Monster",
@@ -29363,7 +29369,8 @@
     "type": "Monster",
     "cn_name": "假面英雄 泉水",
     "sc_name": "假面－英雄 喷泉",
-    "jp_name": "M・HERO ファウンティン"
+    "jp_name": "M・HERO ファウンティン",
+    "en_name": "Masked HERO Fountain"
   },
   "93600443": {
     "type": "Spell",
@@ -89732,91 +89739,106 @@
     "type": "Monster",
     "cn_name": "龙骑兵团-持枪神",
     "sc_name": "龙骑兵团－奎里纳斯",
-    "jp_name": "ドラグニティ－クイリヌス"
+    "jp_name": "ドラグニティ－クイリヌス",
+    "en_name": "Dragunity Quirinus"
   },
   "8039562": {
     "type": "Monster",
     "cn_name": "龙骑兵团-弯形大刀龙",
     "sc_name": "龙骑兵团－弯刃大刀",
-    "jp_name": "ドラグニティ－ファルシオン"
+    "jp_name": "ドラグニティ－ファルシオン",
+    "en_name": "Dragunity Falchion"
   },
   "34528176": {
     "type": "Monster",
     "cn_name": "龙骑兵团骑士-战枪龙骑士",
     "sc_name": "龙骑兵团骑士－阿瑞斯",
-    "jp_name": "ドラグニティナイト－アーレウス"
+    "jp_name": "ドラグニティナイト－アーレウス",
+    "en_name": "Dragunity Knight - Areus"
   },
   "70522875": {
     "type": "Monster",
     "cn_name": "龙骑兵团支配者-乔治",
     "sc_name": "龙骑兵团领主－格奥鲁吉亚斯",
-    "jp_name": "ドラグニティロード－ゲオルギアス"
+    "jp_name": "ドラグニティロード－ゲオルギアス",
+    "en_name": "Dragunity Lord - Georgius"
   },
   "7917970": {
     "type": "Spell",
     "cn_name": "神风之龙骑兵团",
     "sc_name": "神风之龙骑兵团",
-    "jp_name": "神風のドラグニティ"
+    "jp_name": "神風のドラグニティ",
+    "en_name": "Dragunity Divine Wind"
   },
   "33302589": {
     "type": "Monster",
     "cn_name": "星圣·北河二",
     "sc_name": "星圣 双子卡斯托尔",
-    "jp_name": "セイクリッド・カストル"
+    "jp_name": "セイクリッド・カストル",
+    "en_name": "Constellar Castor"
   },
   "60700283": {
     "type": "Monster",
     "cn_name": "星骑士 天津四星",
     "sc_name": "星骑士 天鹅丘格尼",
-    "jp_name": "星騎士 キュグニ"
+    "jp_name": "星騎士 キュグニ",
+    "en_name": "Tellarknight Cygnian"
   },
   "6195332": {
     "type": "Monster",
     "cn_name": "超神星辉士 星圣神龙 托勒密星团Ω7",
     "sc_name": "超神辉星骑士 星圣 托勒密星团欧米伽7",
-    "jp_name": "超神星輝士 セイクリッド・トレミスΩ７"
+    "jp_name": "超神星輝士 セイクリッド・トレミスΩ７",
+    "en_name": "Exstellarknight Constellar Ptolemy Ω7"
   },
   "32289031": {
     "type": "Monster",
     "cn_name": "星骑士 星圣·夏三角",
     "sc_name": "星骑士 星圣 德塔特洛斯",
-    "jp_name": "星騎士 セイクリッド・デルタテロス"
+    "jp_name": "星騎士 セイクリッド・デルタテロス",
+    "en_name": "Tellarknight Constellar Delteros"
   },
   "69678646": {
     "type": "Spell",
     "cn_name": "神星系束",
     "sc_name": "神星之系束",
-    "jp_name": "神星なる繋束"
+    "jp_name": "神星なる繋束",
+    "en_name": "Stellarnova Binding"
   },
   "95072744": {
     "type": "Monster",
     "cn_name": "影雄之烬 神子晶",
     "sc_name": "英雄之烬影依 古利水晶",
-    "jp_name": "影雄の烬 エグリスタ"
+    "jp_name": "影雄の烬 エグリスタ",
+    "en_name": "Tohushaddoll Grysta"
   },
   "32467459": {
     "type": "Monster",
     "cn_name": "神影依·米沙赫雷恶",
     "sc_name": "神影依・弥赛芙蕾尔",
-    "jp_name": "エルシャドール・メシャフレール"
+    "jp_name": "エルシャドール・メシャフレール",
+    "en_name": "El Shaddoll Meshachrer"
   },
   "8852158": {
     "type": "Monster",
     "cn_name": "影灵翼骑 影文蒂",
     "sc_name": "翼影依灵骑 温蒂玖琉布",
-    "jp_name": "影霊翼騎 ウェンディクルフ"
+    "jp_name": "影霊翼騎 ウェンディクルフ",
+    "en_name": "Reeshaddoll Wendikuruhu"
   },
   "34950192": {
     "type": "Spell",
     "cn_name": "冻结之心映照的神影",
     "sc_name": "心影依结合",
-    "jp_name": "凍てし心が映す神影"
+    "jp_name": "凍てし心が映す神影",
+    "en_name": "Lev Shaddoll Fusion"
   },
   "61345801": {
     "type": "Spell",
     "cn_name": "炼狱的乖放",
     "sc_name": "炼狱的乖放",
-    "jp_name": "煉獄の乖放"
+    "jp_name": "煉獄の乖放",
+    "en_name": "Void Unleashing"
   },
   "3739500": {
     "type": "Monster",
@@ -89865,55 +89887,64 @@
     "type": "Monster",
     "cn_name": "废品大王",
     "sc_name": "废品大师",
-    "jp_name": "ジャンク・マイスター"
+    "jp_name": "ジャンク・マイスター",
+    "en_name": "Junk Meister"
   },
   "613496": {
     "type": "Spell",
     "cn_name": "过度调和",
     "sc_name": "超频协调",
-    "jp_name": "オーバー・チューニング"
+    "jp_name": "オーバー・チューニング",
+    "en_name": "Over Tuning"
   },
   "46001505": {
     "type": "Trap",
     "cn_name": "王者的鼓动",
     "sc_name": "王者的鼓动",
-    "jp_name": "王者の鼓動"
+    "jp_name": "王者の鼓動",
+    "en_name": "Champion's Pulse"
   },
   "73496100": {
     "type": "Spell",
     "cn_name": "我我我幻术",
     "sc_name": "我我我幻象",
-    "jp_name": "ガガガイリュージョン"
+    "jp_name": "ガガガイリュージョン",
+    "en_name": "Gagaga Illusion"
   },
   "9591819": {
     "type": "Trap",
     "cn_name": "我我我的脱出剧",
     "sc_name": "我我我逃脱剧",
-    "jp_name": "ガガガの脱出劇"
+    "jp_name": "ガガガの脱出劇",
+    "en_name": "Gagaga Escape"
   },
   "35989913": {
     "type": "Spell",
     "cn_name": "永远的牵绊",
     "sc_name": "永远之绊",
-    "jp_name": "永遠の絆"
+    "jp_name": "永遠の絆",
+    "en_name": "Endless Bond"
   },
   "72374522": {
     "type": "Spell",
     "cn_name": "紫毒之棘牙",
     "sc_name": "紫毒之茨牙",
-    "jp_name": "紫毒の茨牙"
+    "jp_name": "紫毒の茨牙",
+    "en_name": "Thorns of Violet Poison"
   },
   "8778267": {
     "type": "Spell",
     "cn_name": "渗透融合",
     "sc_name": "贯穿结合",
-    "jp_name": "ペネトレーション・フュージョン"
+    "jp_name": "ペネトレーション・フュージョン",
+    "en_name": "Penetration Fusion"
   },
   "35167375": {
     "type": "Spell",
     "cn_name": "惊喜融合",
     "sc_name": "惊喜结合",
-    "jp_name": "サプライズ・フュージョン"
+    "jp_name": "サプライズ・フュージョン",
+    "en_name": "Surprise Fusion"
   },
   "61151074": {
     "type": "Monster",
@@ -89926,19 +89957,22 @@
     "type": "Monster",
     "cn_name": "恩底弥翁的侍女 杰妮",
     "sc_name": "恩底弥翁的侍女 杰妮",
-    "jp_name": "エンディミオンの侍女ジェニー"
+    "jp_name": "エンディミオンの侍女ジェニー",
+    "en_name": "Genni, the Maid of Endymion"
   },
   "34041788": {
     "type": "Spell",
     "cn_name": "恩底弥翁皇国",
     "sc_name": "恩底弥翁皇国",
-    "jp_name": "エンディミオン皇国"
+    "jp_name": "エンディミオン皇国",
+    "en_name": "Empire of Endymion"
   },
   "60439482": {
     "type": "Spell",
     "cn_name": "雷古勒斯之矢",
     "sc_name": "雷格鲁斯之箭",
-    "jp_name": "レグルスの矢"
+    "jp_name": "レグルスの矢",
+    "en_name": "Arrow of Regulus"
   },
   "22106558": {
     "type": "Monster",
@@ -90094,7 +90128,8 @@
     "type": "Monster",
     "cn_name": "圣月之皇太子 雷古勒斯",
     "sc_name": "恩底弥翁之圣月皇太子 雷格鲁斯",
-    "jp_name": "聖月の皇太子レグルス"
+    "jp_name": "聖月の皇太子レグルス",
+    "en_name": "Regulus, the Prince of Endymion"
   },
   "22623509": {
     "type": "Monster",
@@ -90105,27 +90140,32 @@
   "59011257": {
     "type": "Monster",
     "cn_name": "坠入情网的猎豹",
-    "jp_name": "フォーリンチーター"
+    "jp_name": "フォーリンチーター",
+    "en_name": "Fallin' Cheatah"
   },
   "95506252": {
     "type": "Monster",
     "cn_name": "影装骑士 黑杰克",
-    "jp_name": "影装騎士 ブラック・ジャック"
+    "jp_name": "影装騎士 ブラック・ジャック",
+    "en_name": "Shadowreaver Knight 21"
   },
   "21501961": {
     "type": "Spell",
     "cn_name": "恐依的情侣款凶熊！！",
-    "jp_name": "恐依のペアルックマ！！"
+    "jp_name": "恐依のペアルックマ！！",
+    "en_name": "Pair Bear Scare!!"
   },
   "58995660": {
     "type": "Spell",
     "cn_name": "先手必掌",
-    "jp_name": "先手必掌"
+    "jp_name": "先手必掌",
+    "en_name": "First Striker Advantage"
   },
   "94384774": {
     "type": "Trap",
     "cn_name": "海老须神鲜祭",
-    "jp_name": "海老須神鮮まつり"
+    "jp_name": "海老須神鮮まつり",
+    "en_name": "Ebisu Shinsen Matsuri"
   },
   "83445539": {
     "type": "Monster",
@@ -91621,122 +91661,122 @@
     "cn_name": "黑阳龙 伊利俄斯",
     "jp_name": "黒陽竜イリオス"
   },
-  "100261001": {
+  "45536531": {
     "type": "Monster",
     "cn_name": "滑稽暗黑兔",
     "jp_name": "ファニー・ダーク・ラビット"
   },
-  "100261002": {
+  "72921536": {
     "type": "Monster",
     "cn_name": "漫画猫",
     "jp_name": "コミックキャット"
   },
-  "100261003": {
+  "8915275": {
     "type": "Monster",
     "cn_name": "邪魔箱",
     "jp_name": "エビル・ボックス"
   },
-  "100261004": {
+  "34314989": {
     "type": "Monster",
     "cn_name": "暗眼幻想师·无脸幻想师",
     "jp_name": "闇の眼を持つ幻想師・ノー・フェイス"
   },
-  "100261005": {
+  "71808988": {
     "type": "Monster",
     "cn_name": "青眼卡通究极龙",
     "jp_name": "ブルーアイズ・トゥーン・アルティメットドラゴン"
   },
-  "100261006": {
+  "7293697": {
     "type": "Spell",
     "cn_name": "完美世界 卡通世界",
     "jp_name": "完全なる世界 トゥーン・ワールド"
   },
-  "100261007": {
+  "34298391": {
     "type": "Trap",
     "cn_name": "看透心灵之眼",
     "jp_name": "心を見通す眼"
   },
-  "100261023": {
+  "70686400": {
     "type": "Monster",
     "cn_name": "魔女术赤陶偶",
     "jp_name": "ウィッチクラフト・テラコッタン"
   },
-  "100261024": {
+  "6071005": {
     "type": "Monster",
     "cn_name": "魔女术工匠·商标女巫",
     "jp_name": "ウィッチクラフト・マルカ"
   },
-  "100261025": {
+  "33475154": {
     "type": "Monster",
     "cn_name": "大魔女 桑德里永",
     "jp_name": "大魔女サンドリヨン"
   },
-  "100261026": {
+  "69964858": {
     "type": "Monster",
     "cn_name": "魔女术学童组合",
     "jp_name": "ウィッチクラフト・ピューピルズ"
   },
-  "100261027": {
+  "6958567": {
     "type": "Spell",
     "cn_name": "魔女术的庆祝会",
     "jp_name": "ウィッチクラフト・セレブレーション"
   },
-  "100261028": {
+  "32353566": {
     "type": "Spell",
     "cn_name": "魔女的圣夜行",
     "jp_name": "魔女の聖夜行"
   },
-  "100261029": {
+  "69748261": {
     "type": "Trap",
     "cn_name": "魔女术的歪曲",
     "jp_name": "ウィッチクラフト・ディストーション"
   },
-  "100261047": {
+  "95136979": {
     "type": "Monster",
     "cn_name": "破械式鬼 萨拉",
     "jp_name": "破械式鬼シャラ"
   },
-  "100261048": {
+  "31531914": {
     "type": "Monster",
     "cn_name": "破械式鬼 斯玛",
     "jp_name": "破械式鬼シュマ"
   },
-  "100261049": {
+  "68625623": {
     "type": "Monster",
-    "cn_name": "破械冥官 神丛",
+    "cn_name": "破械冥官 篁",
     "jp_name": "破械冥官カムラ"
   },
-  "100261050": {
+  "94014327": {
     "type": "Monster",
     "cn_name": "破械焰魔天 阎摩",
     "jp_name": "破械焔魔天ヤマ"
   },
-  "100261051": {
+  "21419436": {
     "type": "Monster",
     "cn_name": "破械神双 罗寂刹",
     "jp_name": "破械神雙ラギア"
   },
-  "100261052": {
+  "67803035": {
     "type": "Spell",
     "cn_name": "破械转生",
     "jp_name": "破械転生"
   },
-  "100261053": {
+  "93898740": {
     "type": "Trap",
     "cn_name": "破械习合",
     "jp_name": "破械習合"
   },
-  "100200290": {
+  "42232157": {
     "type": "Trap",
     "cn_name": "命运之盘上",
     "jp_name": "運命の盤上"
   },
-  "100264002": {
+  "79621896": {
     "type": "Monster",
     "cn_name": "恶魔根源",
     "jp_name": "デーモンの根源"
   },
-  "100264003": {
+  "15725501": {
     "type": "Spell",
     "cn_name": "魔降雷",
     "jp_name": "魔降雷"
