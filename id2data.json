@@ -4298,12 +4298,14 @@
   "65458948": {
     "type": "Monster",
     "cn_name": "卡通人鱼",
+    "sc_name": "卡通美人鱼",
     "jp_name": "トゥーン・マーメイド",
     "en_name": "Toon Mermaid"
   },
   "91842653": {
     "type": "Monster",
     "cn_name": "卡通恶魔",
+    "sc_name": "卡通恶魔",
     "jp_name": "トゥーン・デーモン",
     "en_name": "Toon Summoned Skull"
   },
@@ -4540,6 +4542,7 @@
   "53183600": {
     "type": "Monster",
     "cn_name": "青眼卡通龙",
+    "sc_name": "青眼卡通龙",
     "jp_name": "ブルーアイズ・トゥーン・ドラゴン",
     "en_name": "Blue-Eyes Toon Dragon"
   },
@@ -8092,6 +8095,7 @@
   "90960358": {
     "type": "Monster",
     "cn_name": "卡通黑魔术少女",
+    "sc_name": "卡通黑魔导女孩",
     "jp_name": "トゥーン・ブラック・マジシャン・ガール",
     "en_name": "Toon Dark Magician Girl"
   },
@@ -8122,18 +8126,21 @@
   "89997728": {
     "type": "Spell",
     "cn_name": "卡通目录",
+    "sc_name": "卡通目录",
     "jp_name": "トゥーンのもくじ",
     "en_name": "Toon Table of Contents"
   },
   "16392422": {
     "type": "Monster",
     "cn_name": "卡通假面魔道士",
+    "sc_name": "卡通假面魔道士",
     "jp_name": "トゥーン・仮面魔道士",
     "en_name": "Toon Masked Sorcerer"
   },
   "42386471": {
     "type": "Monster",
     "cn_name": "卡通双生精灵",
+    "sc_name": "卡通双生精灵",
     "jp_name": "トゥーン・ヂェミナイ・エルフ",
     "en_name": "Toon Gemini Elf"
   },
@@ -45342,6 +45349,7 @@
   "83629030": {
     "type": "Monster",
     "cn_name": "卡通电子龙",
+    "sc_name": "卡通电子龙",
     "jp_name": "トゥーン・サイバー・ドラゴン",
     "en_name": "Toon Cyber Dragon"
   },
@@ -45849,6 +45857,7 @@
   "5832914": {
     "type": "Trap",
     "cn_name": "卡通手提箱",
+    "sc_name": "卡通手提箱",
     "jp_name": "トゥーンのかばん",
     "en_name": "Toon Briefcase"
   },
@@ -48458,6 +48467,7 @@
   "31733941": {
     "type": "Monster",
     "cn_name": "真红眼卡通龙",
+    "sc_name": "真红眼卡通龙",
     "jp_name": "レッドアイズ・トゥーン・ドラゴン",
     "en_name": "Red-Eyes Toon Dragon"
   },
@@ -49189,6 +49199,7 @@
   "21296502": {
     "type": "Monster",
     "cn_name": "卡通黑魔术师",
+    "sc_name": "卡通黑魔导",
     "jp_name": "トゥーン・ブラック・マジシャン",
     "en_name": "Toon Dark Magician"
   },
@@ -68035,18 +68046,21 @@
   "28711704": {
     "type": "Monster",
     "cn_name": "卡通混沌战士",
+    "sc_name": "卡通混沌士兵",
     "jp_name": "トゥーン・カオス・ソルジャー",
     "en_name": "Toon Black Luster Soldier"
   },
   "64116319": {
     "type": "Monster",
     "cn_name": "卡通鹰身女郎",
+    "sc_name": "卡通神鹰女郎",
     "jp_name": "トゥーン・ハーピィ・レディ",
     "en_name": "Toon Harpie Lady"
   },
   "91500017": {
     "type": "Spell",
     "cn_name": "卡通书签",
+    "sc_name": "卡通书签",
     "jp_name": "トゥーンのしおり",
     "en_name": "Toon Bookmark"
   },
@@ -68059,6 +68073,7 @@
   "53094821": {
     "type": "Trap",
     "cn_name": "卡通恐怖",
+    "sc_name": "卡通恐怖",
     "jp_name": "トゥーン・テラー",
     "en_name": "Toon Terror"
   },
@@ -91664,21 +91679,25 @@
   "45536531": {
     "type": "Monster",
     "cn_name": "滑稽暗黑兔",
+    "sc_name": "滑稽暗黑兔",
     "jp_name": "ファニー・ダーク・ラビット"
   },
   "72921536": {
     "type": "Monster",
     "cn_name": "漫画猫",
+    "sc_name": "漫画猫",
     "jp_name": "コミックキャット"
   },
   "8915275": {
     "type": "Monster",
     "cn_name": "邪魔箱",
+    "sc_name": "邪恶之箱",
     "jp_name": "エビル・ボックス"
   },
   "34314989": {
     "type": "Monster",
     "cn_name": "暗眼幻想师·无脸幻想师",
+    "sc_name": "暗眼幻象师 无面",
     "jp_name": "闇の眼を持つ幻想師・ノー・フェイス"
   },
   "71808988": {
@@ -91689,81 +91708,97 @@
   "7293697": {
     "type": "Spell",
     "cn_name": "完美世界 卡通世界",
+    "sc_name": "完美卡通世界",
     "jp_name": "完全なる世界 トゥーン・ワールド"
   },
   "34298391": {
     "type": "Trap",
     "cn_name": "看透心灵之眼",
+    "sc_name": "心灵透视眼",
     "jp_name": "心を見通す眼"
   },
   "70686400": {
     "type": "Monster",
     "cn_name": "魔女术赤陶偶",
+    "sc_name": "魔女工艺・陶俑魔像",
     "jp_name": "ウィッチクラフト・テラコッタン"
   },
   "6071005": {
     "type": "Monster",
     "cn_name": "魔女术工匠·商标女巫",
+    "sc_name": "魔女工艺・书匠玛尔卡",
     "jp_name": "ウィッチクラフト・マルカ"
   },
   "33475154": {
     "type": "Monster",
     "cn_name": "大魔女 桑德里永",
+    "sc_name": "魔女工艺掌门・大魔女桑德里永",
     "jp_name": "大魔女サンドリヨン"
   },
   "69964858": {
     "type": "Monster",
     "cn_name": "魔女术学童组合",
+    "sc_name": "魔女工艺・学徒组",
     "jp_name": "ウィッチクラフト・ピューピルズ"
   },
   "6958567": {
     "type": "Spell",
     "cn_name": "魔女术的庆祝会",
+    "sc_name": "魔女工艺・庆典",
     "jp_name": "ウィッチクラフト・セレブレーション"
   },
   "32353566": {
     "type": "Spell",
     "cn_name": "魔女的圣夜行",
+    "sc_name": "魔女工艺・瓦尔普吉斯夜行",
     "jp_name": "魔女の聖夜行"
   },
   "69748261": {
     "type": "Trap",
     "cn_name": "魔女术的歪曲",
+    "sc_name": "魔女工艺・消散",
     "jp_name": "ウィッチクラフト・ディストーション"
   },
   "95136979": {
     "type": "Monster",
     "cn_name": "破械式鬼 萨拉",
+    "sc_name": "破械式鬼 奢罗",
     "jp_name": "破械式鬼シャラ"
   },
   "31531914": {
     "type": "Monster",
     "cn_name": "破械式鬼 斯玛",
+    "sc_name": "破械式鬼 修摩",
     "jp_name": "破械式鬼シュマ"
   },
   "68625623": {
     "type": "Monster",
     "cn_name": "破械冥官 篁",
+    "sc_name": "破械冥官 迦牟罗",
     "jp_name": "破械冥官カムラ"
   },
   "94014327": {
     "type": "Monster",
     "cn_name": "破械焰魔天 阎摩",
+    "sc_name": "破械焰魔天 阎魔",
     "jp_name": "破械焔魔天ヤマ"
   },
   "21419436": {
     "type": "Monster",
     "cn_name": "破械神双 罗寂刹",
+    "sc_name": "破械神双 拉基安",
     "jp_name": "破械神雙ラギア"
   },
   "67803035": {
     "type": "Spell",
     "cn_name": "破械转生",
+    "sc_name": "破械转生",
     "jp_name": "破械転生"
   },
   "93898740": {
     "type": "Trap",
     "cn_name": "破械习合",
+    "sc_name": "破械习合",
     "jp_name": "破械習合"
   },
   "42232157": {
@@ -91780,5 +91815,10 @@
     "type": "Spell",
     "cn_name": "魔降雷",
     "jp_name": "魔降雷"
+  },
+  "100200291": {
+    "type": "Spell",
+    "cn_name": "胶囊怪兽棋",
+    "jp_name": "カプセル・モンスター・チェス"
   }
 }
