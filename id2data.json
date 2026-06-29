@@ -87176,14 +87176,14 @@
   },
   "66975205": {
     "type": "Spell",
-    "cn_name": "味美喵娱乐☆迷你抓物跟班",
+    "cn_name": "味美喵娱乐☆小巧可爱箱庭",
     "sc_name": "黯蜜游乐☆小可爱",
     "jp_name": "ヤミーズメント☆ミニヨン",
     "en_name": "Yummyusment☆Mignon"
   },
   "93360904": {
     "type": "Spell",
-    "cn_name": "味美喵娱乐★握力幸运火箭",
+    "cn_name": "味美喵娱乐★大开胃口火箭",
     "sc_name": "黯蜜游乐★巨可口",
     "jp_name": "ヤミーズメント★アクロッキー",
     "en_name": "Yummyusment★Acroquey"
@@ -87197,7 +87197,7 @@
   },
   "65853758": {
     "type": "Trap",
-    "cn_name": "味美喵★兑换",
+    "cn_name": "味美喵★重新抓取",
     "sc_name": "黯蜜★救赎",
     "jp_name": "ヤミー★リデンプション",
     "en_name": "Yummy★Redemption"
@@ -88008,97 +88008,97 @@
   },
   "19000848": {
     "type": "Monster",
-    "cn_name": "夜明之光 布幽",
+    "cn_name": "晓光之暗使",
     "jp_name": "暁光のブイオ",
     "en_name": "Buio the Dawn's Light"
   },
   "45409943": {
     "type": "Monster",
-    "cn_name": "日暮之暗 露彻",
+    "cn_name": "宵暗之光使",
     "jp_name": "宵闇のルーチェ",
     "en_name": "Luce the Dusk's Dark"
   },
   "71593652": {
     "type": "Spell",
-    "cn_name": "天国之乱",
+    "cn_name": "扑天之叛逆",
     "jp_name": "天至る叛逆",
     "en_name": "Mutiny in the Sky"
   },
   "18988396": {
     "type": "Monster",
-    "cn_name": "奇迹的供物",
+    "cn_name": "奇迹之供物-供物的仪式-",
     "jp_name": "ミラクル・レイヴン－供物の儀式－",
     "en_name": "Miracle Raven"
   },
   "44376395": {
     "type": "Monster",
-    "cn_name": "阿修LAN U1000",
+    "cn_name": "阿修罗LAN-U1000型",
     "jp_name": "ASHLAN－U１０００型",
     "en_name": "ASHLAN U1000"
   },
   "71771004": {
     "type": "Spell",
-    "cn_name": "仪式的筹备",
+    "cn_name": "供物的事前预备",
     "jp_name": "供物の下ごしらえ",
     "en_name": "Readying of Rites"
   },
   "7166709": {
     "type": "Monster",
-    "cn_name": "钢弦祭他手",
+    "cn_name": "铁弦之牺打职人",
     "jp_name": "鉄絃の犠打職人",
     "en_name": "Steel-Stringed Sacrifice"
   },
   "43150717": {
     "type": "Spell",
-    "cn_name": "超量迭光",
+    "cn_name": "超量光",
     "jp_name": "エクシーズ・レイ",
     "en_name": "Xyz Lay"
   },
   "70659412": {
     "type": "Monster",
-    "cn_name": "念力汇总破坏者",
+    "cn_name": "念力全类别破坏者",
     "jp_name": "サイコ・オムニバスター",
     "en_name": "Psychic Omnibuster"
   },
   "6043161": {
     "type": "Monster",
-    "cn_name": "奏悦机组 筑工钻机",
+    "cn_name": "反叛曲机器人土木十钻机",
     "jp_name": "R.B.GA１０ドリラー",
     "en_name": "R.B. Ga10 Driller"
   },
   "33438265": {
     "type": "Monster",
-    "cn_name": "奏悦机组 筑工切割机",
+    "cn_name": "反叛曲机器人土木十切割器",
     "jp_name": "R.B.GA１０カッター",
     "en_name": "R.B. Ga10 Cutter"
   },
   "79436874": {
     "type": "Monster",
-    "cn_name": "奏悦机组 火神火箭",
+    "cn_name": "反叛曲机器人武尔敢火箭",
     "jp_name": "R.B.バルカンロケット",
     "en_name": "R.B. VALCan Rocket"
   },
   "6821579": {
     "type": "Monster",
-    "cn_name": "奏悦机组 火神推进器",
+    "cn_name": "反叛曲机器人武尔敢助推器",
     "jp_name": "R.B.バルカンブースター",
     "en_name": "R.B. VALCan Booster"
   },
   "32216688": {
     "type": "Monster",
-    "cn_name": "奏悦机组 狂放蓝调号",
+    "cn_name": "反叛曲机器人 粗暴蓝调斗牛犬",
     "jp_name": "R.B.ブルート・ブルース",
     "en_name": "R.B. The Brute Blues"
   },
   "78710386": {
     "type": "Spell",
-    "cn_name": "奏悦机组 疯克对接站",
+    "cn_name": "反叛曲机器人放克码头",
     "jp_name": "R.B.ファンク・ドック",
     "en_name": "R.B. Funk Dock"
   },
   "5109321": {
     "type": "Spell",
-    "cn_name": "奏悦机组 舞台登场",
+    "cn_name": "反叛曲机器人跳跃曲目",
     "jp_name": "R.B.ジャンプ・ナンバー",
     "en_name": "R.B. Stage Landing"
   },
@@ -89052,97 +89052,97 @@
   },
   "87750925": {
     "type": "Monster",
-    "cn_name": "效仿英杰 伪装者",
+    "cn_name": "虚英雄 伪貌人",
     "jp_name": "虚英雄ディスガイス",
     "en_name": "Disguise, the Copycat Hero"
   },
   "23249029": {
     "type": "Spell",
-    "cn_name": "咒怨仿品·圣剑",
+    "cn_name": "天魔伏圣剑",
     "jp_name": "天魔伏聖剣",
     "en_name": "Cursed Copycat Noble Arms"
   },
   "50643638": {
     "type": "Monster",
-    "cn_name": "灿荣之运动骑士 钱巴尔",
+    "cn_name": "明灭骑士 剑霸乐运动员",
     "jp_name": "明滅騎士チャンバル",
     "en_name": "Chanbar, the Flashy Sportsknight"
   },
   "86038337": {
     "type": "Monster",
-    "cn_name": "深林狩哨 雉鸡",
+    "cn_name": "密林的狩猎者 雉",
     "jp_name": "密林の狩猟者フザン",
     "en_name": "Faisan, Hunting Scout of the Deep Forest"
   },
   "13023431": {
     "type": "Monster",
-    "cn_name": "深林狩哨 獐鹿",
+    "cn_name": "密林的狩猎者 狍",
     "jp_name": "密林の狩猟者シュヴルイユ",
     "en_name": "Chevreuil, Hunting Scout of the Deep Forest"
   },
   "55421040": {
     "type": "Spell",
-    "cn_name": "狩猎号角",
+    "cn_name": "狩猎之角笛",
     "jp_name": "ハンティングホーン",
     "en_name": "Hunting Horn"
   },
   "81916745": {
     "type": "Monster",
-    "cn_name": "石蒜百合收割者",
+    "cn_name": "石蒜花死神",
     "jp_name": "リコリス・リリィパー",
     "en_name": "Lycoris Lilyreaper"
   },
   "18300894": {
     "type": "Monster",
-    "cn_name": "丝爆弹蛾",
+    "cn_name": "丝绸炸弹蚕蛾",
     "jp_name": "シルクボムモース",
     "en_name": "Silk Bomb Moth"
   },
   "54399598": {
     "type": "Spell",
-    "cn_name": "魔术师之瞬绽花",
+    "cn_name": "魔术师的空华",
     "jp_name": "魔術師の空華",
     "en_name": "Fleeting Flower of the Magician"
   },
   "81794107": {
     "type": "Monster",
-    "cn_name": "奏悦机组 λ羔羊炮",
+    "cn_name": "反叛曲机器人拉牧达加农炮",
     "jp_name": "R.B.ラムダキャノン",
     "en_name": "R.B. Lambda Cannon"
   },
   "17188206": {
     "type": "Monster",
-    "cn_name": "奏悦机组 λ羔羊刃",
+    "cn_name": "反叛曲机器人拉牧达剑",
     "jp_name": "R.B.ラムダブレード",
     "en_name": "R.B. Lambda Blade"
   },
   "44573911": {
     "type": "Monster",
-    "cn_name": "奏悦机组 筑工冲击锥",
+    "cn_name": "反叛曲机器人土木十贯钉打桩机",
     "jp_name": "R.B.GA１０パイルバンカー",
     "en_name": "R.B. Ga10 Pile Bunker"
   },
   "80071619": {
     "type": "Monster",
-    "cn_name": "奏悦机组 牧羊人权杖",
+    "cn_name": "反叛曲机器人 谢泼德音谋牧羊犬",
     "jp_name": "R.B.シェパード・クルーク",
     "en_name": "R.B. Shepherd's Crook"
   },
   "16066654": {
     "type": "Spell",
-    "cn_name": "奏悦机组 运转试验",
+    "cn_name": "反叛曲机器人运行试验",
     "jp_name": "R.B.オペレーション・テスト",
     "en_name": "R.B. Operation Test"
   },
   "43450363": {
     "type": "Trap",
-    "cn_name": "奏悦机组 背水一战",
+    "cn_name": "反叛曲机器人最后抵抗",
     "jp_name": "R.B.ラスト・スタンド",
     "en_name": "R.B. Last Stand"
   },
   "79859067": {
     "type": "Trap",
-    "cn_name": "奏悦机组 阶段转换",
+    "cn_name": "反叛曲机器人下一阶段",
     "jp_name": "R.B.ネクスト・フェーズ",
     "en_name": "R.B. Next Phase"
   },
@@ -90023,43 +90023,43 @@
   },
   "22106558": {
     "type": "Monster",
-    "cn_name": "机械型机械师",
+    "cn_name": "机睿之腹内强化调整员",
     "jp_name": "機叡のメカチューナー",
     "en_name": "Mechanical Mechanic"
   },
   "69191257": {
     "type": "Monster",
-    "cn_name": "翠铁之机龙",
+    "cn_name": "翠铝之机龙",
     "jp_name": "翠鋁の機竜",
     "en_name": "Jade Dragon Mech"
   },
   "95589901": {
     "type": "Spell",
-    "cn_name": "饿狼的恶作剧",
+    "cn_name": "大狼的恶作剧",
     "jp_name": "大狼のいたずら",
     "en_name": "Mischief of the Wolves"
   },
   "22984000": {
     "type": "Monster",
-    "cn_name": "鲜活水银 汞合兽",
+    "cn_name": "生命之汞 墨丘利",
     "jp_name": "生命の汞 メルクリウム",
     "en_name": "Mercurium the Living Quicksilver"
   },
   "68378605": {
     "type": "Monster",
-    "cn_name": "泉之精灵 沃德尼卡",
+    "cn_name": "还流之精 水老爹",
     "jp_name": "還流の精ヴォドニカ",
     "en_name": "Vodnika the Fountain Spirit"
   },
   "94467314": {
     "type": "Trap",
-    "cn_name": "降青蛙",
+    "cn_name": "恶鵺死之雨",
     "jp_name": "悪鵺死ノ雨",
     "en_name": "Rain of Frogs"
   },
   "21861412": {
     "type": "Monster",
-    "cn_name": "磁通量排斥者",
+    "cn_name": "磁通之奥克森菲尔德",
     "jp_name": "フラックス・オクセンフェルト",
     "en_name": "Flux Ochsenfeld"
   },
@@ -90071,73 +90071,73 @@
   },
   "94641726": {
     "type": "Monster",
-    "cn_name": "岚祸龙 迪斯托宾",
+    "cn_name": "岚忌龙 死风布涅",
     "jp_name": "嵐忌竜デストゥビム",
     "en_name": "Storm-Bane Dragon Destorbim"
   },
   "20049870": {
     "type": "Monster",
-    "cn_name": "GMX研究员 塞兰特",
+    "cn_name": "基因组混合研究员 塞兰",
     "jp_name": "GMX研究員セラン",
     "en_name": "GMX Researcher Selande"
   },
   "56034579": {
     "type": "Monster",
-    "cn_name": "GMX理事长 基默里奇",
+    "cn_name": "基因组混合主任教授 钦莫利",
     "jp_name": "GMX主任教授キンリッジ",
     "en_name": "GMX Chairman Kimridge"
   },
   "83528184": {
     "type": "Monster",
-    "cn_name": "GMX合伙人 诺曼",
+    "cn_name": "基因组混合准教授 诺曼",
     "jp_name": "GMX准教授ノーマ",
     "en_name": "GMX Associate Noma"
   },
   "29927283": {
     "type": "Monster",
-    "cn_name": "返祖小龙 丹宁",
+    "cn_name": "新世龙 丹",
     "jp_name": "新世竜ダニアン",
     "en_name": "Returned Dino Daneen"
   },
   "56311997": {
     "type": "Monster",
-    "cn_name": "GMX-异特人龙",
+    "cn_name": "基因组混合-异特龙",
     "jp_name": "GMX－ALLOS",
     "en_name": "GMX - ALLOS"
   },
   "82706696": {
     "type": "Monster",
-    "cn_name": "GMX-似鸟人龙",
+    "cn_name": "基因组混合-迅猛龙",
     "jp_name": "GMX－VELOX",
     "en_name": "GMX - VELOX"
   },
   "18795635": {
     "type": "Spell",
-    "cn_name": "GMX应用试验55号",
+    "cn_name": "第55次基因组混合应用试验",
     "jp_name": "第５５次GMX応用試験",
     "en_name": "GMX Applied Experiment #55"
   },
   "81684048": {
     "type": "Monster",
-    "cn_name": "骨冢幽灵王-南瓜王-",
+    "cn_name": "墓场的幽灵王-南瓜王-",
     "jp_name": "墓場のゴースト王－パンプキング－",
     "en_name": "Pumpking the King of Grave Ghosts"
   },
   "18078153": {
     "type": "Monster",
-    "cn_name": "活死人的军势",
+    "cn_name": "活死人的军团",
     "jp_name": "生ける屍の軍団",
     "en_name": "Army of the Haunted"
   },
   "54077752": {
     "type": "Monster",
-    "cn_name": "美杜莎的凝视",
+    "cn_name": "冻结眼光美杜莎",
     "jp_name": "凍てつく眼光のメデューサ",
     "en_name": "Stare of the Snake Hair"
   },
   "80461466": {
     "type": "Monster",
-    "cn_name": "冥界的猛犸",
+    "cn_name": "冥界的魔象",
     "jp_name": "冥界の魔象",
     "en_name": "Great Mammoth of the Netherworld"
   },
@@ -90149,31 +90149,31 @@
   },
   "43355214": {
     "type": "Monster",
-    "cn_name": "不死者军团",
+    "cn_name": "不死的大军团",
     "jp_name": "不死の大軍団",
     "en_name": "The Undying Legion"
   },
   "80749819": {
     "type": "Spell",
-    "cn_name": "怨念的呼声",
+    "cn_name": "来自活死人的呼声",
     "jp_name": "生ける屍の呼び声",
     "en_name": "Call of the Forgotten"
   },
   "16734927": {
     "type": "Spell",
-    "cn_name": "灵魂物质供给",
+    "cn_name": "灵魂物质",
     "jp_name": "霊魂プラズマ",
     "en_name": "Ectoplasmic Fortification"
   },
   "42138622": {
     "type": "Spell",
-    "cn_name": "时间漩涡",
+    "cn_name": "时空之涡",
     "jp_name": "時空の渦",
     "en_name": "Vortex of Time"
   },
   "75527221": {
     "type": "Trap",
-    "cn_name": "腐朽之吐息",
+    "cn_name": "腐朽的吐息",
     "jp_name": "朽ち果ての吐息",
     "en_name": "Deadly Zombie Breath"
   },
@@ -91161,97 +91161,97 @@
   },
   "15778492": {
     "type": "Monster",
-    "cn_name": "游戏玩家GG",
+    "cn_name": "玩游戏玩家GG",
     "jp_name": "ゲーミング・ゲーマーGG",
     "en_name": "Gaming Gamer GG"
   },
   "41763141": {
     "type": "Monster",
-    "cn_name": "妖灵龙",
+    "cn_name": "蜃欺龙",
     "jp_name": "蜃欺龍",
     "en_name": "Fata Dragna"
   },
   "77157846": {
     "type": "Monster",
-    "cn_name": "无明者 阴暗",
+    "cn_name": "暗翳之信仰者",
     "jp_name": "暗翳の信仰者",
     "en_name": "Shade the Obscure"
   },
   "14556954": {
     "type": "Monster",
-    "cn_name": "贵宾鲸",
+    "cn_name": "豪回游鲸 VIP巨鲸",
     "jp_name": "豪回遊鯨 VIPホエール",
     "en_name": "VIP Whale"
   },
   "40041559": {
     "type": "Monster",
-    "cn_name": "戒指的魔灵",
+    "cn_name": "指环的精灵 精尼",
     "jp_name": "指環の精霊ジーニャ",
     "en_name": "Genia of the Ring"
   },
   "77435268": {
     "type": "Monster",
-    "cn_name": "检固机工",
+    "cn_name": "检测机器人",
     "jp_name": "チェツカー",
     "en_name": "Checkker"
   },
   "3434362": {
     "type": "Monster",
-    "cn_name": "锈蚀猛犸",
+    "cn_name": "锈锡猛犸",
     "jp_name": "ラスティン・マンモス",
     "en_name": "Rustin Mammoth"
   },
   "49828011": {
     "type": "Monster",
-    "cn_name": "尸会的空想",
+    "cn_name": "祭司 莉娃莉",
     "jp_name": "祭司 レヴァリー",
     "en_name": "Officiating Reverie"
   },
   "76213610": {
     "type": "Monster",
-    "cn_name": "死萨缪尔的尸会者",
+    "cn_name": "死宰 萨麦尔",
     "jp_name": "死宰 サムエル",
     "en_name": "Officiator of Doom Samuel"
   },
   "2618725": {
     "type": "Monster",
-    "cn_name": "GMX合作伙伴 塞兰特亚",
+    "cn_name": "基因组混合同绊者 塞兰特",
     "jp_name": "GMX同絆者セランディア",
     "en_name": "GMX Partner Selandea"
   },
   "39706423": {
     "type": "Monster",
-    "cn_name": "GMX镇压小队",
+    "cn_name": "基因组混合镇压小队 阿普特",
     "jp_name": "GMX鎮圧部隊アプト",
     "en_name": "GMX Suppression Squad"
   },
   "75191028": {
     "type": "Monster",
-    "cn_name": "GMX-完美复合霸王龙",
+    "cn_name": "基因组混合-复合霸王龙",
     "jp_name": "GMX－COMPREX",
     "en_name": "GMX - COMPREX"
   },
   "1595137": {
     "type": "Monster",
-    "cn_name": "遂进龙 丹宁",
+    "cn_name": "晓世龙 丹",
     "jp_name": "暁世竜ダニアン",
     "en_name": "Evolved Daneen"
   },
   "38984832": {
     "type": "Spell",
-    "cn_name": "GMX第55次试验报告",
+    "cn_name": "第55次基因组混合试验报告",
     "jp_name": "第５５次GMX試験報告",
     "en_name": "GMX 55th Experiment Report"
   },
   "74378580": {
     "type": "Spell",
-    "cn_name": "GMX5号实验室",
+    "cn_name": "旧基因组混合第5研究所",
     "jp_name": "旧GMX第５研究所",
     "en_name": "GMX Lab #5"
   },
   "1463589": {
     "type": "Trap",
-    "cn_name": "对GMX最终试验",
+    "cn_name": "反基因组混合最终检证",
     "jp_name": "A－GMX最終検証",
     "en_name": "Anti-GMX Final Experiment"
   },
