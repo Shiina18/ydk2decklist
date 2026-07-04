@@ -7155,6 +7155,7 @@
   "66765023": {
     "type": "Monster",
     "cn_name": "飞行象",
+    "sc_name": "飞行象",
     "jp_name": "飛行エレファント",
     "en_name": "Flying Elephant"
   },
@@ -8936,6 +8937,7 @@
   "91781589": {
     "type": "Trap",
     "cn_name": "霸者的独揽",
+    "sc_name": "霸者的横扫",
     "jp_name": "覇者の一括",
     "en_name": "Thunder of Ruler"
   },
@@ -11661,6 +11663,7 @@
   "66690411": {
     "type": "Monster",
     "cn_name": "本性暴露",
+    "sc_name": "心灵窥探者",
     "jp_name": "マインド・オン・エア",
     "en_name": "Mind on Air"
   },
@@ -12646,6 +12649,7 @@
   "61411502": {
     "type": "Trap",
     "cn_name": "元素爆发",
+    "sc_name": "元素爆裂",
     "jp_name": "エレメンタルバースト",
     "en_name": "Elemental Burst"
   },
@@ -13778,6 +13782,7 @@
   "7459013": {
     "type": "Monster",
     "cn_name": "暗黑界的骑士 祖尔",
+    "sc_name": "暗黑界之骑士 蔚蓝祖尔",
     "jp_name": "暗黒界の騎士 ズール",
     "en_name": "Zure, Knight of Dark World"
   },
@@ -26216,6 +26221,7 @@
   "43889633": {
     "type": "Trap",
     "cn_name": "忘却的海底神殿",
+    "sc_name": "忘却之海底神殿",
     "jp_name": "忘却の海底神殿",
     "en_name": "Forgotten Temple of the Deep"
   },
@@ -30043,6 +30049,7 @@
   "74064212": {
     "type": "Monster",
     "cn_name": "大日棱柱体",
+    "sc_name": "大日神械・棱柱体",
     "jp_name": "ヴァイロン・プリズム",
     "en_name": "Vylon Prism"
   },
@@ -35512,6 +35519,7 @@
   "34103656": {
     "type": "Spell",
     "cn_name": "忘却之都 利莫里亚",
+    "sc_name": "忘却之都 雷缪利亚",
     "jp_name": "忘却の都 レミューリア",
     "en_name": "Lemuria, the Forgotten City"
   },
@@ -38205,6 +38213,7 @@
   "80764541": {
     "type": "Monster",
     "cn_name": "No.44 白天马",
+    "sc_name": "编号44 白天马 天空佩伽萨斯",
     "jp_name": "No.44 白天馬スカイ・ペガサス",
     "en_name": "Number 44: Sky Pegasus"
   },
@@ -38436,12 +38445,14 @@
   "97064649": {
     "type": "Monster",
     "cn_name": "暗跃的德鲁伊·智者",
+    "sc_name": "暗跃的德鲁伊・维德",
     "jp_name": "暗躍のドルイド・ウィド",
     "en_name": "Secret Sect Druid Wid"
   },
   "24062258": {
     "type": "Monster",
     "cn_name": "暗跃的德鲁伊·橡木",
+    "sc_name": "暗跃的德鲁伊・德律斯",
     "jp_name": "暗躍のドルイド・ドリュース",
     "en_name": "Secret Sect Druid Dru"
   },
@@ -43568,6 +43579,7 @@
   "14309486": {
     "type": "Monster",
     "cn_name": "核成过量体",
+    "sc_name": "核成・过载体",
     "jp_name": "コアキメイル・オーバードーズ",
     "en_name": "Koa'ki Meiru Overload"
   },
@@ -55661,6 +55673,7 @@
   "38325384": {
     "type": "Spell",
     "cn_name": "魔导加速",
+    "sc_name": "魔导加速",
     "jp_name": "魔導加速",
     "en_name": "Mythical Bestiary"
   },
@@ -56088,6 +56101,7 @@
   "50756327": {
     "type": "Monster",
     "cn_name": "魔导原典 克劳利",
+    "sc_name": "魔导原典 克劳利",
     "jp_name": "魔導原典 クロウリー",
     "en_name": "Crowley, the First Propheseer"
   },
@@ -84316,7 +84330,8 @@
     "type": "Monster",
     "cn_name": "火马天龙",
     "sc_name": "火马天龙",
-    "jp_name": "イグニホース・ドラゴニス"
+    "jp_name": "イグニホース・ドラゴニス",
+    "en_name": "Ignihorse Dragonis"
   },
   "55697723": {
     "type": "Monster",
@@ -90195,7 +90210,8 @@
     "type": "Monster",
     "cn_name": "三英之相剑师",
     "sc_name": "三英的相剑师",
-    "jp_name": "三英の相剣師"
+    "jp_name": "三英の相剣師",
+    "en_name": "The Three Champions of Swordsoul"
   },
   "96228804": {
     "type": "Monster",
@@ -90809,7 +90825,8 @@
   "64413994": {
     "type": "Monster",
     "cn_name": "隐密天使-摇篮镰天使",
-    "jp_name": "ステルス・アンジュ－クレイドル"
+    "jp_name": "ステルス・アンジュ－クレイドル",
+    "en_name": "Stealth Angecradle"
   },
   "89693655": {
     "type": "Spell",
@@ -91145,7 +91162,13 @@
     "type": "Monster",
     "cn_name": "凭依共鸣-薇茵",
     "sc_name": "凭依共鸣－薇茵",
-    "jp_name": "憑依共鳴－ウィン"
+    "jp_name": "憑依共鳴－ウィン",
+    "en_name": "Possessed Destiny - Wynn"
+  },
+  "100260001": {
+    "type": "Monster",
+    "cn_name": "道化一座 帽隐士小丑",
+    "jp_name": "道化の一座 ハット"
   },
   "46985799": {
     "type": "Monster",
@@ -91259,481 +91282,561 @@
     "type": "Monster",
     "cn_name": "超魔剑士 黑混沌",
     "sc_name": "超魔剑士 黑暗混沌",
-    "jp_name": "超魔剣士ブラック・カオス"
+    "jp_name": "超魔剣士ブラック・カオス",
+    "en_name": "Black Chaos"
   },
   "24088928": {
     "type": "Monster",
     "cn_name": "混沌之魔王-骸骨恶魔",
     "sc_name": "混沌之魔王－骷髅恶魔",
-    "jp_name": "混沌の魔王－スカル・デーモン"
+    "jp_name": "混沌の魔王－スカル・デーモン",
+    "en_name": "Skull Archfiend of Chaos"
   },
   "50073633": {
     "type": "Monster",
     "cn_name": "精灵圣贤者",
     "sc_name": "精灵圣贤者",
-    "jp_name": "エルフの聖賢者"
+    "jp_name": "エルフの聖賢者",
+    "en_name": "Celtic Mystic"
   },
   "97462632": {
     "type": "Monster",
     "cn_name": "栗球兽卫",
     "sc_name": "咕里佛",
-    "jp_name": "グリフォー"
+    "jp_name": "グリフォー",
+    "en_name": "Griffoh"
   },
   "23856331": {
     "type": "Monster",
     "cn_name": "劫火之三幻魔-神炎皇 乌利亚",
     "sc_name": "劫火之三幻魔－神炎皇乌利亚",
-    "jp_name": "劫火の三幻魔－神炎皇ウリア"
+    "jp_name": "劫火の三幻魔－神炎皇ウリア",
+    "en_name": "Inferno of the Sacred Beasts - Uria, Lord of Searing Flames"
   },
   "50251045": {
     "type": "Monster",
     "cn_name": "罪祸之三幻魔-降雷皇 哈蒙",
     "sc_name": "罪祸之三幻魔－降雷皇哈蒙",
-    "jp_name": "罪禍の三幻魔－降雷皇ハモン"
+    "jp_name": "罪禍の三幻魔－降雷皇ハモン",
+    "en_name": "Calamity of the Sacred Beasts - Hamon, Lord of Striking Thunder"
   },
   "96345184": {
     "type": "Monster",
     "cn_name": "无穷之三幻魔-幻魔皇 拉比艾尔",
     "sc_name": "无穷之三幻魔－幻魔皇拉比艾尔",
-    "jp_name": "無窮の三幻魔－幻魔皇ラビエル"
+    "jp_name": "無窮の三幻魔－幻魔皇ラビエル",
+    "en_name": "Infinity of the Sacred Beasts - Raviel, Lord of Phantasms"
   },
   "22734799": {
     "type": "Monster",
     "cn_name": "三幻魔的操世者",
     "sc_name": "三幻魔操世者",
-    "jp_name": "三幻魔の操世者"
+    "jp_name": "三幻魔の操世者",
+    "en_name": "Summoner of the Sacred Beasts"
   },
   "59138498": {
     "type": "Monster",
     "cn_name": "三幻魔的殉教者",
     "sc_name": "三幻魔殉教者",
-    "jp_name": "三幻魔の殉教者"
+    "jp_name": "三幻魔の殉教者",
+    "en_name": "Martyr of the Sacred Beasts"
   },
   "85523502": {
     "type": "Monster",
     "cn_name": "晶须雷盟兵",
     "sc_name": "威斯卡・雷盟",
-    "jp_name": "ウィスカ・ブリッツクリーク"
+    "jp_name": "ウィスカ・ブリッツクリーク",
+    "en_name": "Whisker Blitzclique"
   },
   "22912101": {
     "type": "Monster",
     "cn_name": "浪涌雷盟兵",
     "sc_name": "萨吉・雷盟",
-    "jp_name": "サージ・ブリッツクリーク"
+    "jp_name": "サージ・ブリッツクリーク",
+    "en_name": "Surge Blitzclique"
   },
   "58916810": {
     "type": "Monster",
     "cn_name": "裂纹雷盟兵",
     "sc_name": "克拉克・雷盟",
-    "jp_name": "クラック・ブリッツクリーク"
+    "jp_name": "クラック・ブリッツクリーク",
+    "en_name": "Crackle Blitzclique"
   },
   "84401954": {
     "type": "Monster",
     "cn_name": "晶粒雷盟兵",
     "sc_name": "格瑞恩・雷盟",
-    "jp_name": "グレイン・ブリッツクリーク"
+    "jp_name": "グレイン・ブリッツクリーク",
+    "en_name": "Grain Blitzclique"
   },
   "11895663": {
     "type": "Monster",
     "cn_name": "电磁干扰雷盟兵",
     "sc_name": "艾米・雷盟",
-    "jp_name": "エミ・ブリッツクリーク"
+    "jp_name": "エミ・ブリッツクリーク",
+    "en_name": "Emi Blitzclique"
   },
   "57294268": {
     "type": "Monster",
     "cn_name": "追忆的阿莱斯特",
     "sc_name": "追忆之阿莱斯特",
-    "jp_name": "追憶のアレイスター"
+    "jp_name": "追憶のアレイスター",
+    "en_name": "Aleister the Reminiscent"
   },
   "84288367": {
     "type": "Monster",
     "cn_name": "法之神灵 艾华斯",
     "sc_name": "法之神灵 爱华斯",
-    "jp_name": "法の神霊アイワス"
+    "jp_name": "法の神霊アイワス",
+    "en_name": "Aiwass, Divine Spirit of the Law"
   },
   "10673071": {
     "type": "Monster",
     "cn_name": "人工神灵 维拉卡姆",
     "sc_name": "人工神灵 薇拉卡姆",
-    "jp_name": "人工神霊ヴィラカム"
+    "jp_name": "人工神霊ヴィラカム",
+    "en_name": "Virakam, the Divine Spirit of Artifice"
   },
   "46072770": {
     "type": "Monster",
     "cn_name": "幻影骑士团 衰亡斗篷",
     "sc_name": "魅影骑士团衰朽斗篷",
-    "jp_name": "幻影騎士団ディケイクローク"
+    "jp_name": "幻影騎士団ディケイクローク",
+    "en_name": "The Phantom Knights of Decayed Cloak"
   },
   "83566725": {
     "type": "Monster",
     "cn_name": "幻影骑士团 厄运钢甲靴",
     "sc_name": "魅影骑士团末日护胫",
-    "jp_name": "幻影騎士団ドゥームソルレット"
+    "jp_name": "幻影騎士団ドゥームソルレット",
+    "en_name": "The Phantom Knights of Doomed Soleret"
   },
   "19951423": {
     "type": "Monster",
     "cn_name": "治安战警队 天鹅侠",
     "sc_name": "超元特防队 征义",
-    "jp_name": "S－Force シグナス"
+    "jp_name": "S－Force シグナス",
+    "en_name": "S-Force Signify"
   },
   "46955132": {
     "type": "Monster",
     "cn_name": "童话动物·小兔子家族",
     "sc_name": "梅尔菲・拉比好朋友",
-    "jp_name": "メルフィー・ラビィーズ"
+    "jp_name": "メルフィー・ラビィーズ",
+    "en_name": "Melffy Rabbys"
   },
   "82344137": {
     "type": "Monster",
     "cn_name": "初始之神 法拉",
     "sc_name": "原初之神 法拉",
-    "jp_name": "始まりの神ファーラ"
+    "jp_name": "始まりの神ファーラ",
+    "en_name": "Phara the Primordial Goddess"
   },
   "18738846": {
     "type": "Monster",
     "cn_name": "系星之雷后",
     "sc_name": "牵星之雷后",
-    "jp_name": "繋星の雷后"
+    "jp_name": "繋星の雷后",
+    "en_name": "Astrazma Urania"
   },
   "45223540": {
     "type": "Monster",
     "cn_name": "沼地的魔道王",
     "sc_name": "沼地魔道王",
-    "jp_name": "沼地の魔道王"
+    "jp_name": "沼地の魔道王",
+    "en_name": "Sorcerer of the Swamp"
   },
   "71222649": {
     "type": "Monster",
     "cn_name": "薄明之魔 勒莱耶光蜃",
     "sc_name": "薄明之魔 雷拉曙",
-    "jp_name": "薄明の魔 レイラージュ"
+    "jp_name": "薄明の魔 レイラージュ",
+    "en_name": "Twilight Specter Rayrage"
   },
   "18616294": {
     "type": "Monster",
     "cn_name": "灰色铺叠者",
     "sc_name": "灰层",
-    "jp_name": "グレイレイヤー"
+    "jp_name": "グレイレイヤー",
+    "en_name": "Gray Layer"
   },
   "44001993": {
     "type": "Monster",
     "cn_name": "黑色混沌之魔术师 黑混沌",
     "sc_name": "黑色混元之魔术师 黑暗混沌",
-    "jp_name": "黒き混沌の魔術師ブラック・カオス"
+    "jp_name": "黒き混沌の魔術師ブラック・カオス",
+    "en_name": "Magician of Dark Chaos - Black Chaos"
   },
   "70405001": {
     "type": "Monster",
     "cn_name": "光与暗之战士 混沌战士",
     "sc_name": "光与暗的战士 混沌士兵",
-    "jp_name": "光と闇の戦士カオス・ソルジャー"
+    "jp_name": "光と闇の戦士カオス・ソルジャー",
+    "en_name": "Black Luster Soldier - Soldier of Light and Darkness"
   },
   "7894706": {
     "type": "Monster",
     "cn_name": "混沌之三幻魔",
     "sc_name": "混沌三幻魔",
-    "jp_name": "混沌の三幻魔"
+    "jp_name": "混沌の三幻魔",
+    "en_name": "The Chaotic Phantasmal Sacred Beasts"
   },
   "43989315": {
     "type": "Monster",
     "cn_name": "召唤兽 索拉特",
     "sc_name": "召唤兽 索拉特",
-    "jp_name": "召喚獣ソラト"
+    "jp_name": "召喚獣ソラト",
+    "en_name": "Invoked Sorath"
   },
   "70383419": {
     "type": "Monster",
     "cn_name": "召唤兽 巴巴伦",
     "sc_name": "召唤兽 贝巴隆",
-    "jp_name": "召喚獣ベイバロン"
+    "jp_name": "召喚獣ベイバロン",
+    "en_name": "Invoked Baybarron"
   },
   "6772168": {
     "type": "Monster",
     "cn_name": "召唤兽 俄刻阿诺斯",
     "sc_name": "召唤兽 俄刻阿诺斯",
-    "jp_name": "召喚獣オーケアノス"
+    "jp_name": "召喚獣オーケアノス",
+    "en_name": "Invoked Oceanus"
   },
   "33166263": {
     "type": "Monster",
     "cn_name": "超越召唤兽 纪元",
     "sc_name": "超越召唤兽 埃翁",
-    "jp_name": "超越召喚獣アイオーン"
+    "jp_name": "超越召喚獣アイオーン",
+    "en_name": "Hyperinvoked Aeon"
   },
   "79561872": {
     "type": "Monster",
     "cn_name": "兴奋心跳童话动物家族",
     "sc_name": "怦然期待的梅尔菲们",
-    "jp_name": "わくどきメルフィーズ"
+    "jp_name": "わくどきメルフィーズ",
+    "en_name": "Melffys' Joyful Surprise"
   },
   "5559570": {
     "type": "Monster",
     "cn_name": "高傲自豪之耀圣诗-耀圣之诗",
     "sc_name": "荣耀圣洁之诗－妖精颂歌",
-    "jp_name": "誇り高き耀聖の詩－エルフェンノーツ"
+    "jp_name": "誇り高き耀聖の詩－エルフェンノーツ",
+    "en_name": "Elfnote June Pride"
   },
   "32044675": {
     "type": "Monster",
     "cn_name": "无现坏收 获无玩家",
     "sc_name": "无现坏收 无之获取者",
-    "jp_name": "無現壊収 ヌルゲイナー"
+    "jp_name": "無現壊収 ヌルゲイナー",
+    "en_name": "Glitch Clutch Nullgainer"
   },
   "78449284": {
     "type": "Monster",
     "cn_name": "幻影骑士团 敌意死镰",
     "sc_name": "魅影骑士团凶恶之镰",
-    "jp_name": "幻影騎士団マレヴォレンスサイス"
+    "jp_name": "幻影騎士団マレヴォレンスサイス",
+    "en_name": "The Phantom Knights of Malevolent Scythe"
   },
   "5833929": {
     "type": "Monster",
     "cn_name": "童话动物神仙教母·魔魅妈咪",
     "sc_name": "梅尔菲教母・玛咪",
-    "jp_name": "メルフィーゴッド・マミィ"
+    "jp_name": "メルフィーゴッド・マミィ",
+    "en_name": "Melffy Godmommy"
   },
   "31822037": {
     "type": "Monster",
     "cn_name": "无垢祈祷之狱神使",
     "sc_name": "无垢祈祷的狱神使",
-    "jp_name": "無垢なる祈りの獄神使"
+    "jp_name": "無垢なる祈りの獄神使",
+    "en_name": "Purification Power Patron"
   },
   "67216732": {
     "type": "Monster",
     "cn_name": "治安战警队 黑夜杀戮者",
     "sc_name": "超元特防队 暗夜屠杀者",
-    "jp_name": "S－Force ナイトスレイヤー"
+    "jp_name": "S－Force ナイトスレイヤー",
+    "en_name": "S-Force Nightcatcher"
   },
   "4611341": {
     "type": "Monster",
     "cn_name": "治安战警队 莫名者",
     "sc_name": "超元特防队 诡义",
-    "jp_name": "S－Force ミスティファイ"
+    "jp_name": "S－Force ミスティファイ",
+    "en_name": "S-Force Mystify"
   },
   "30109445": {
     "type": "Monster",
     "cn_name": "道化一座 花切泪小丑",
     "sc_name": "小丑戏帮 朵莉诗",
-    "jp_name": "道化の一座 ドリッシュ"
+    "jp_name": "道化の一座 ドリッシュ",
+    "en_name": "Clown Crew Dristy"
   },
   "7594154": {
     "type": "Monster",
     "cn_name": "禅那之追傩仪姬",
     "sc_name": "禅那乃追傩戏姬",
-    "jp_name": "ぜんなのついなぎひめ"
+    "jp_name": "ぜんなのついなぎひめ",
+    "en_name": "Zenna's Deceiving Doll Maidens"
   },
   "33599853": {
     "type": "Spell",
     "cn_name": "光与暗的仪式",
     "sc_name": "光与暗的仪式",
-    "jp_name": "光と闇の儀式"
+    "jp_name": "光と闇の儀式",
+    "en_name": "Light and Darkness Ritual"
   },
   "75983808": {
     "type": "Spell",
     "cn_name": "混沌之魔术箱",
     "sc_name": "混沌魔术箱",
-    "jp_name": "混沌のマジック・ボックス"
+    "jp_name": "混沌のマジック・ボックス",
+    "en_name": "Chaos Mystic Box"
   },
   "2372506": {
     "type": "Spell",
     "cn_name": "混沌礼帽",
     "sc_name": "混沌礼帽",
-    "jp_name": "カオスシルクハット"
+    "jp_name": "カオスシルクハット",
+    "en_name": "Chaos Magical Hats"
   },
   "38776201": {
     "type": "Spell",
     "cn_name": "三幻魔解放",
     "sc_name": "三幻魔解放",
-    "jp_name": "三幻魔解放"
+    "jp_name": "三幻魔解放",
+    "en_name": "Sacred Beasts Released"
   },
   "65861210": {
     "type": "Spell",
     "cn_name": "三幻魔的失乐园",
     "sc_name": "三幻魔之失乐园",
-    "jp_name": "三幻魔の失楽園"
+    "jp_name": "三幻魔の失楽園",
+    "en_name": "Fallen Paradise of the Sacred Beasts"
   },
   "1259915": {
     "type": "Spell",
     "cn_name": "三幻魔的霹雳",
     "sc_name": "三幻魔之霹雳",
-    "jp_name": "三幻魔の霹靂"
+    "jp_name": "三幻魔の霹靂",
+    "en_name": "Sacred Beasts Thunderclap"
   },
   "37654623": {
     "type": "Spell",
     "cn_name": "天空城塞 库仑城寨",
     "sc_name": "天空城塞 库龙",
-    "jp_name": "天空城塞クーロン"
+    "jp_name": "天空城塞クーロン",
+    "en_name": "Hideout in the Sky, Coulomb"
   },
   "64049762": {
     "type": "Spell",
     "cn_name": "雷盟-可断开式",
     "sc_name": "雷盟－断离粉碎",
-    "jp_name": "雷盟－ブレイクアウェイ"
+    "jp_name": "雷盟－ブレイクアウェイ",
+    "en_name": "Blitzclique - Breakaway"
   },
   "433377": {
     "type": "Spell",
     "cn_name": "雷盟-梯级先导",
     "sc_name": "雷盟－先导云步",
-    "jp_name": "雷盟－ステップリーダ"
+    "jp_name": "雷盟－ステップリーダ",
+    "en_name": "Blitzclique - Steppleader"
   },
   "37432075": {
     "type": "Spell",
     "cn_name": "召唤魔术-「剑」",
     "sc_name": "召唤魔术－“剑”",
-    "jp_name": "召喚魔術－「剣」"
+    "jp_name": "召喚魔術－「剣」",
+    "en_name": "Invocation - \"Sword\""
   },
   "63926180": {
     "type": "Spell",
     "cn_name": "神灵剑 艾华斯",
     "sc_name": "神灵剑 爱华斯",
-    "jp_name": "神霊剣アイワス"
+    "jp_name": "神霊剣アイワス",
+    "en_name": "Sacred Spirit Sword Aiwass"
   },
   "99311889": {
     "type": "Spell",
     "cn_name": "绝境的狱神域-威利亚",
     "sc_name": "绝境狱神域－皮莱亚",
-    "jp_name": "絶境なる獄神域－ヴィライア"
+    "jp_name": "絶境なる獄神域－ヴィライア",
+    "en_name": "Prohibitive Power Patron Purview - Vilaea"
   },
   "36709484": {
     "type": "Spell",
     "cn_name": "无预幻日子的幻象",
     "sc_name": "无预幻的牧歌日常",
-    "jp_name": "予幻なき日々のまぼろし"
+    "jp_name": "予幻なき日々のまぼろし",
+    "en_name": "Theorealize Past Lull"
   },
   "62104532": {
     "type": "Spell",
     "cn_name": "升阶魔法-幻影骑士团的镇魂歌",
     "sc_name": "升阶魔法－魅影骑士团镇魂曲",
-    "jp_name": "RUM－幻影騎士団レクイエム"
+    "jp_name": "RUM－幻影騎士団レクイエム",
+    "en_name": "The Phantom Knights' Rank-Up-Magic Requiem"
   },
   "99199231": {
     "type": "Spell",
     "cn_name": "治安战警队原点",
     "sc_name": "超元特防队 本源",
-    "jp_name": "S－Force オリジン"
+    "jp_name": "S－Force オリジン",
+    "en_name": "S-Force Origin"
   },
   "25687946": {
     "type": "Spell",
     "cn_name": "童话动物木头人游戏",
     "sc_name": "梅尔菲摔倒倒",
-    "jp_name": "メルフィーがころんだ"
+    "jp_name": "メルフィーがころんだ",
+    "en_name": "Melffy Footsteps"
   },
   "61082944": {
     "type": "Spell",
     "cn_name": "灵力回复药",
     "sc_name": "灵力回复药",
-    "jp_name": "霊力回復薬"
+    "jp_name": "霊力回復薬",
+    "en_name": "Spiritual Power Recovery Potion"
   },
   "98476659": {
     "type": "Spell",
     "cn_name": "怠慢之壶",
     "sc_name": "怠慢之壶",
-    "jp_name": "怠慢な壺"
+    "jp_name": "怠慢な壺",
+    "en_name": "Pot of Sloth"
   },
   "24461358": {
     "type": "Spell",
     "cn_name": "朽坏的祭仪要录",
     "sc_name": "腐朽的祭仪要录",
-    "jp_name": "朽ちた祭儀要録"
+    "jp_name": "朽ちた祭儀要録",
+    "en_name": "Ragged Records of Rites"
   },
   "51869363": {
     "type": "Spell",
     "cn_name": "超电导闪辉 等离子爆破",
     "sc_name": "超电导闪辉 等离子风暴",
-    "jp_name": "超電導閃輝プラズマ・ブラスト"
+    "jp_name": "超電導閃輝プラズマ・ブラスト",
+    "en_name": "Superconductive Plasma Blast"
   },
   "97254001": {
     "type": "Spell",
     "cn_name": "夏",
     "sc_name": "夏",
-    "jp_name": "夏"
+    "jp_name": "夏",
+    "en_name": "Summer"
   },
   "24749710": {
     "type": "Trap",
     "cn_name": "两颗心灵",
     "sc_name": "双心切换",
-    "jp_name": "二つの心"
+    "jp_name": "二つの心",
+    "en_name": "Mind Shuffle"
   },
   "50147815": {
     "type": "Trap",
     "cn_name": "三幻魔合杀",
     "sc_name": "三幻魔合杀",
-    "jp_name": "三幻魔合殺"
+    "jp_name": "三幻魔合殺",
+    "en_name": "Sacred Beasts Combined Assault"
   },
   "86132414": {
     "type": "Trap",
     "cn_name": "三幻魔的神渊",
     "sc_name": "三幻魔之神渊",
-    "jp_name": "三幻魔の神淵"
+    "jp_name": "三幻魔の神淵",
+    "en_name": "Abyss of the Sacred Beasts"
   },
   "23526128": {
     "type": "Trap",
     "cn_name": "雷盟-回击",
     "sc_name": "雷盟－回击电冲",
-    "jp_name": "雷盟－リターンストローク"
+    "jp_name": "雷盟－リターンストローク",
+    "en_name": "Blitzclique Return Stroke"
   },
   "59921227": {
     "type": "Trap",
     "cn_name": "雷盟-交流发电机",
     "sc_name": "雷盟－交电夹击",
-    "jp_name": "雷盟－オルタネータ"
+    "jp_name": "雷盟－オルタネータ",
+    "en_name": "Blitzclique Alternator"
   },
   "86319972": {
     "type": "Trap",
     "cn_name": "魔法名-「新世界之始」",
     "sc_name": "魔法名－“洛萨门蒂”新世界的开始",
-    "jp_name": "魔法名－「新しき世界の始まり」"
+    "jp_name": "魔法名－「新しき世界の始まり」",
+    "en_name": "Gamma Summon"
   },
   "22404570": {
     "type": "Trap",
     "cn_name": "终刻的狱神影",
     "sc_name": "终末时刻的狱神影",
-    "jp_name": "終刻なる獄神影"
+    "jp_name": "終刻なる獄神影",
+    "en_name": "Power Patron Shade of the Final Hour"
   },
   "58809685": {
     "type": "Trap",
     "cn_name": "耀圣之诗～继唱之四行体～",
     "sc_name": "耀圣诗章～继唱之四重奏～",
-    "jp_name": "エルフェンノーツ～継唱のクウォートレイン～"
+    "jp_name": "エルフェンノーツ～継唱のクウォートレイン～",
+    "en_name": "Elfnotes: Quatrain of Succession"
   },
   "85257384": {
     "type": "Trap",
     "cn_name": "幻影骑士团 本影烈焰剑苍骑",
     "sc_name": "魅影骑士团愤恨披幕",
-    "jp_name": "幻影騎士団アンブレイジベイル"
+    "jp_name": "幻影騎士団アンブレイジベイル",
+    "en_name": "The Phantom Knights of Umbrage Veil"
   },
   "11642993": {
     "type": "Trap",
     "cn_name": "治安战警队多世界排序",
     "sc_name": "超元特防队 理序世界",
-    "jp_name": "S－Force ソート・ワールド"
+    "jp_name": "S－Force ソート・ワールド",
+    "en_name": "S-Force World Sorting"
   },
   "58036097": {
     "type": "Trap",
     "cn_name": "心跳童话动物时间",
     "sc_name": "扑通通梅尔菲时间",
-    "jp_name": "どきどきメルフィータイム"
+    "jp_name": "どきどきメルフィータイム",
+    "en_name": "Melffy Playtime Surprise"
   },
   "84031736": {
     "type": "Trap",
     "cn_name": "道化一座『终演』",
     "sc_name": "小丑戏帮《终演》",
-    "jp_name": "道化の一座『終演』"
+    "jp_name": "道化の一座『終演』",
+    "en_name": "Clown Crew Finale"
   },
   "10529441": {
     "type": "Trap",
     "cn_name": "呜呼的落穴",
     "sc_name": "呜呼落穴",
-    "jp_name": "嗚呼な落とし穴"
+    "jp_name": "嗚呼な落とし穴",
+    "en_name": "Foolish Trap Hole"
   },
   "47914440": {
     "type": "Trap",
     "cn_name": "车道限制",
     "sc_name": "车道管制",
-    "jp_name": "レーン・リストリクション"
+    "jp_name": "レーン・リストリクション",
+    "en_name": "Lane Restriction"
   },
   "83319154": {
     "type": "Trap",
     "cn_name": "穿透时空的溯光",
     "sc_name": "溯时的穿光",
-    "jp_name": "時空穿つ遡光"
+    "jp_name": "時空穿つ遡光",
+    "en_name": "Annihilate Retroglight"
   },
   "10307853": {
     "type": "Trap",
     "cn_name": "护石的作庭",
     "sc_name": "护石庭园",
-    "jp_name": "護石の作庭"
+    "jp_name": "護石の作庭",
+    "en_name": "Garden of Talistones"
   },
   "44857722": {
     "type": "Spell",
@@ -91875,6 +91978,86 @@
     "sc_name": "破械习合",
     "jp_name": "破械習合"
   },
+  "101305081": {
+    "type": "Monster",
+    "cn_name": "远古者的见证人",
+    "en_name": "Witness of the Ancient"
+  },
+  "101305082": {
+    "type": "Trap",
+    "cn_name": "不信妄想症",
+    "en_name": "Distrust Paranoia"
+  },
+  "101305083": {
+    "type": "Monster",
+    "cn_name": "幻影火精 约马格努",
+    "en_name": "Yomagna the Fire Phantom"
+  },
+  "101305084": {
+    "type": "Monster",
+    "cn_name": "设陷雷轰稻草人",
+    "en_name": "Thundercrash Snarecrow"
+  },
+  "101305085": {
+    "type": "Monster",
+    "cn_name": "权柄交络者 米克修希亚",
+    "en_name": "Mixousia the Confounder"
+  },
+  "101305086": {
+    "type": "Monster",
+    "cn_name": "方解黑骑士",
+    "en_name": "Shamanite Shamanknight"
+  },
+  "101305087": {
+    "type": "Monster",
+    "cn_name": "森之圣兽 龙面花牝鹿",
+    "en_name": "Cerynemesia, Mystical Beast of the Forest"
+  },
+  "101305088": {
+    "type": "Spell",
+    "cn_name": "欺诈转移",
+    "en_name": "Imposter Shift"
+  },
+  "101305089": {
+    "type": "Monster",
+    "cn_name": "悼光之希路伯",
+    "en_name": "Mortilux Heruvur"
+  },
+  "101305090": {
+    "type": "Monster",
+    "cn_name": "四军之具象天使",
+    "en_name": "Angelechy Shatranga"
+  },
+  "101305091": {
+    "type": "Monster",
+    "cn_name": "牙城之具象天使",
+    "en_name": "Angelechy Bastion"
+  },
+  "101305092": {
+    "type": "Monster",
+    "cn_name": "战马之具象天使",
+    "en_name": "Angelechy Destrier"
+  },
+  "101305093": {
+    "type": "Monster",
+    "cn_name": "应召之具象天使",
+    "en_name": "Angelechy Enlisted"
+  },
+  "101305094": {
+    "type": "Spell",
+    "cn_name": "具象天使之问",
+    "en_name": "Angelechy Problem"
+  },
+  "101305095": {
+    "type": "Trap",
+    "cn_name": "具象天使之乱",
+    "en_name": "Angelechy Disturbance"
+  },
+  "101305096": {
+    "type": "Trap",
+    "cn_name": "具象天使e4开局",
+    "en_name": "Angelechy Opening to e4"
+  },
   "42232157": {
     "type": "Trap",
     "cn_name": "命运之盘上",
@@ -91894,5 +92077,15 @@
     "type": "Spell",
     "cn_name": "胶囊怪兽棋",
     "jp_name": "カプセル・モンスター・チェス"
+  },
+  "100265002": {
+    "type": "Monster",
+    "cn_name": "魔女术工匠·种子女巫",
+    "jp_name": "ウィッチクラフト・シード"
+  },
+  "100262101": {
+    "type": "Monster",
+    "cn_name": "泽塔次元的魔术王",
+    "jp_name": "ゼータ次元の魔術王"
   }
 }
