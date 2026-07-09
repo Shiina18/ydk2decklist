@@ -7522,6 +7522,7 @@
   "16435215": {
     "type": "Spell",
     "cn_name": "墓穴的同路人",
+    "sc_name": "墓穴的同路人",
     "jp_name": "墓穴の道連れ",
     "en_name": "Dragged Down into the Grave"
   },
@@ -10726,6 +10727,7 @@
   "39552864": {
     "type": "Monster",
     "cn_name": "神圣球体",
+    "sc_name": "神圣球体",
     "jp_name": "神聖なる球体",
     "en_name": "Mystical Shine Ball"
   },
@@ -10751,6 +10753,7 @@
   "64734921": {
     "type": "Monster",
     "cn_name": "创造之代行者 维纳斯",
+    "sc_name": "创造之代行者 维纳斯",
     "jp_name": "創造の代行者 ヴィーナス",
     "en_name": "The Agent of Creation - Venus"
   },
@@ -10929,6 +10932,7 @@
   "56433456": {
     "type": "Spell",
     "cn_name": "天空的圣域",
+    "sc_name": "天空的圣域",
     "jp_name": "天空の聖域",
     "en_name": "The Sanctuary in the Sky"
   },
@@ -13808,6 +13812,7 @@
   "33731070": {
     "type": "Monster",
     "cn_name": "暗黑界的尖兵 贝基",
+    "sc_name": "暗黑界之尖兵 米黄贝基",
     "jp_name": "暗黒界の尖兵 ベージ",
     "en_name": "Beiige, Vanguard of Dark World"
   },
@@ -13827,12 +13832,14 @@
   "32619583": {
     "type": "Monster",
     "cn_name": "暗黑界的军神 希尔瓦",
+    "sc_name": "暗黑界之军神 银希尔巴",
     "jp_name": "暗黒界の軍神 シルバ",
     "en_name": "Sillva, Warlord of Dark World"
   },
   "78004197": {
     "type": "Monster",
     "cn_name": "暗黑界的武神 高尔德",
+    "sc_name": "暗黑界之武神 金格尔德",
     "jp_name": "暗黒界の武神 ゴルド",
     "en_name": "Goldd, Wu-Lord of Dark World"
   },
@@ -13880,6 +13887,7 @@
   "93554166": {
     "type": "Spell",
     "cn_name": "暗黑界之雷",
+    "sc_name": "暗黑界之雷",
     "jp_name": "暗黒界の雷",
     "en_name": "Dark World Lightning"
   },
@@ -14431,6 +14439,7 @@
   "45305419": {
     "type": "Spell",
     "cn_name": "继承之印",
+    "sc_name": "继承之印",
     "jp_name": "継承の印",
     "en_name": "Symbol of Heritage"
   },
@@ -18513,6 +18522,7 @@
   "88643579": {
     "type": "Monster",
     "cn_name": "暗黑终结龙",
+    "sc_name": "暗黑终极龙",
     "jp_name": "ダークエンド・ドラゴン",
     "en_name": "Dark End Dragon"
   },
@@ -18822,6 +18832,7 @@
   "53257892": {
     "type": "Monster",
     "cn_name": "巨型植物",
+    "sc_name": "巨型植物",
     "jp_name": "ギガプラント",
     "en_name": "Gigaplant"
   },
@@ -22769,6 +22780,7 @@
   "98437424": {
     "type": "Monster",
     "cn_name": "自然甜菜菊",
+    "sc_name": "大植然波斯菊株",
     "jp_name": "ナチュル・コスモスビート",
     "en_name": "Naturia Cosmobeet"
   },
@@ -24711,6 +24723,7 @@
   "95750695": {
     "type": "Spell",
     "cn_name": "超二重召唤",
+    "sc_name": "超二之力",
     "jp_name": "スーペルヴィス",
     "en_name": "Supervise"
   },
@@ -24982,6 +24995,7 @@
   "96029574": {
     "type": "Monster",
     "cn_name": "黑兽龙",
+    "sc_name": "黑色残暴龙",
     "jp_name": "ブラック・ブルドラゴ",
     "en_name": "Black Brutdrago"
   },
@@ -25055,6 +25069,7 @@
   "33846209": {
     "type": "Spell",
     "cn_name": "二重电光",
+    "sc_name": "二重电光",
     "jp_name": "デュアルスパーク",
     "en_name": "Gemini Spark"
   },
@@ -26780,6 +26795,7 @@
   "48868994": {
     "type": "Monster",
     "cn_name": "变形斗士·吸尘器",
+    "sc_name": "变形斗士・吸尘机",
     "jp_name": "D・クリーナン",
     "en_name": "Morphtronic Vacuumen"
   },
@@ -26811,6 +26827,7 @@
   "525110": {
     "type": "Monster",
     "cn_name": "迷你番茄小子",
+    "sc_name": "小番茄仔",
     "jp_name": "プチトマボー",
     "en_name": "Cherry Inmato"
   },
@@ -27531,6 +27548,7 @@
   "8085950": {
     "type": "Monster",
     "cn_name": "燃烧龙",
+    "sc_name": "燃烧龙",
     "jp_name": "バーニング・ドラゴン",
     "en_name": "Burning Dragon"
   },
@@ -29474,18 +29492,21 @@
   "55794644": {
     "type": "Monster",
     "cn_name": "主宰者·许珀里翁",
+    "sc_name": "主宰者・许珀里翁",
     "jp_name": "マスター・ヒュペリオン",
     "en_name": "Master Hyperion"
   },
   "91188343": {
     "type": "Monster",
     "cn_name": "神秘之代行者 厄斯",
+    "sc_name": "神秘之代行者 娅丝",
     "jp_name": "神秘の代行者 アース",
     "en_name": "The Agent of Mystery - Earth"
   },
   "28573958": {
     "type": "Monster",
     "cn_name": "奇迹之代行者 朱庇特",
+    "sc_name": "奇迹之代行者 朱庇特",
     "jp_name": "奇跡の代行者 ジュピター",
     "en_name": "The Agent of Miracles - Jupiter"
   },
@@ -30205,6 +30226,7 @@
   "80196387": {
     "type": "Spell",
     "cn_name": "天启之蔷薇钟",
+    "sc_name": "天启的蔷薇之钟",
     "jp_name": "天啓の薔薇の鐘",
     "en_name": "Rose Bell of Revelation"
   },
@@ -30918,6 +30940,7 @@
   "76641981": {
     "type": "Trap",
     "cn_name": "TG1-EM1",
+    "sc_name": "TG1－EM1",
     "jp_name": "TG1－EM1",
     "en_name": "TG1-EM1"
   },
@@ -31112,6 +31135,7 @@
   "10002346": {
     "type": "Monster",
     "cn_name": "硬邦邦岩铁",
+    "sc_name": "硬梆梆岩铁",
     "jp_name": "ガチガチガンテツ",
     "en_name": "Gachi Gachi Gantetsu"
   },
@@ -31293,6 +31317,7 @@
   "2766877": {
     "type": "Monster",
     "cn_name": "大薰风凤凰",
+    "sc_name": "大薰风不死鸟",
     "jp_name": "ダイガスタ・フェニクス",
     "en_name": "Daigusto Phoenix"
   },
@@ -31336,6 +31361,7 @@
   "37926346": {
     "type": "Monster",
     "cn_name": "侵入魔鬼·蟑蠊",
+    "sc_name": "侵邪蚀蜚蠊",
     "jp_name": "インヴェルズ・ローチ",
     "en_name": "Steelswarm Roach"
   },
@@ -31926,24 +31952,28 @@
   "34230233": {
     "type": "Monster",
     "cn_name": "暗黑界的龙神 格拉法",
+    "sc_name": "暗黑界之龙神 漆黑古拉法",
     "jp_name": "暗黒界の龍神 グラファ",
     "en_name": "Grapha, Dragon Lord of Dark World"
   },
   "60228941": {
     "type": "Monster",
     "cn_name": "暗黑界的术师 丝诺",
+    "sc_name": "暗黑界之术师 雪白斯诺",
     "jp_name": "暗黒界の術師 スノウ",
     "en_name": "Snoww, Unlight of Dark World"
   },
   "7623640": {
     "type": "Monster",
     "cn_name": "暗黑界的导师 塞鲁利",
+    "sc_name": "暗黑界之导师 蔚蓝赛尔利",
     "jp_name": "暗黒界の導師 セルリ",
     "en_name": "Ceruli, Guru of Dark World"
   },
   "33017655": {
     "type": "Spell",
     "cn_name": "暗黑界之门",
+    "sc_name": "暗黑界之门",
     "jp_name": "暗黒界の門",
     "en_name": "The Gates of Dark World"
   },
@@ -32917,6 +32947,7 @@
   "78156759": {
     "type": "Monster",
     "cn_name": "发条机雷 发条雷",
+    "sc_name": "弹簧机雷 发条爆具",
     "jp_name": "発条機雷ゼンマイン",
     "en_name": "Wind-Up Zenmaines"
   },
@@ -32929,6 +32960,7 @@
   "41930553": {
     "type": "Trap",
     "cn_name": "暗黑瘴气",
+    "sc_name": "暗黑的瘴气",
     "jp_name": "暗黒の瘴気",
     "en_name": "Dark Smog"
   },
@@ -33161,6 +33193,7 @@
   "94283662": {
     "type": "Monster",
     "cn_name": "传送恶魔",
+    "sc_name": "传送恶魔",
     "jp_name": "トランス・デーモン",
     "en_name": "Trance Archfiend"
   },
@@ -33201,6 +33234,7 @@
   "82944432": {
     "type": "Monster",
     "cn_name": "机甲忍者 刃心",
+    "sc_name": "机甲忍者 刃心",
     "jp_name": "機甲忍者ブレード・ハート",
     "en_name": "Blade Armor Ninja"
   },
@@ -34555,6 +34589,7 @@
   "51735257": {
     "type": "Monster",
     "cn_name": "No.50 黑玉米号",
+    "sc_name": "编号50 黑玉米号",
     "jp_name": "No.50 ブラック・コーン号",
     "en_name": "Number 50: Blackship of Corn"
   },
@@ -36359,6 +36394,7 @@
   "95169481": {
     "type": "Monster",
     "cn_name": "恐牙狼 钻石恐狼",
+    "sc_name": "恐牙狼 钻石狼",
     "jp_name": "恐牙狼 ダイヤウルフ",
     "en_name": "Diamond Dire Wolf"
   },
@@ -37103,6 +37139,7 @@
   "15561463": {
     "type": "Monster",
     "cn_name": "手甲射手",
+    "sc_name": "手甲射手",
     "jp_name": "ガントレット・シューター",
     "en_name": "Gauntlet Launcher"
   },
@@ -37128,6 +37165,7 @@
   "86848580": {
     "type": "Monster",
     "cn_name": "零鸟兽 水风女精",
+    "sc_name": "零鸟兽 希尔菲尼",
     "jp_name": "零鳥獣シルフィーネ",
     "en_name": "Ice Beast Zerofyne"
   },
@@ -37489,6 +37527,7 @@
   "51852507": {
     "type": "Monster",
     "cn_name": "蔷薇之圣弓手",
+    "sc_name": "蔷薇圣弓手",
     "jp_name": "薔薇の聖弓手",
     "en_name": "Rose Archer"
   },
@@ -38207,6 +38246,7 @@
   "54366836": {
     "type": "Monster",
     "cn_name": "No.54 反骨斗士 狮心",
+    "sc_name": "编号54 反骨斗士 狮心",
     "jp_name": "No.54 反骨の闘士ライオンハート",
     "en_name": "Number 54: Lion Heart"
   },
@@ -38962,6 +39002,7 @@
   "42216237": {
     "type": "Monster",
     "cn_name": "杰拉的天使",
+    "sc_name": "杰拉的天使",
     "jp_name": "ゼラの天使",
     "en_name": "Angel of Zera"
   },
@@ -39699,6 +39740,7 @@
   "10406322": {
     "type": "Monster",
     "cn_name": "森罗的守神 森精",
+    "sc_name": "森罗守神 森精",
     "jp_name": "森羅の守神 アルセイ",
     "en_name": "Alsei, the Sylvan High Protector"
   },
@@ -41165,6 +41207,7 @@
   "72930878": {
     "type": "Trap",
     "cn_name": "黑翼音速",
+    "sc_name": "黑色音速",
     "jp_name": "ブラック・ソニック",
     "en_name": "Black Sonic"
   },
@@ -44844,6 +44887,7 @@
   "98954106": {
     "type": "Trap",
     "cn_name": "贪欲之瓶",
+    "sc_name": "贪欲之瓶",
     "jp_name": "貪欲な瓶",
     "en_name": "Jar of Avarice"
   },
@@ -46631,6 +46675,7 @@
   "75249652": {
     "type": "Trap",
     "cn_name": "业炎防护罩 -火焰之力-",
+    "sc_name": "业炎防护罩 －火焰之力－",
     "jp_name": "業炎のバリア －ファイヤー・フォース－",
     "en_name": "Blazing Mirror Force"
   },
@@ -46662,6 +46707,7 @@
   "33909817": {
     "type": "Monster",
     "cn_name": "森罗的姬芽宫",
+    "sc_name": "森罗姬芽宫",
     "jp_name": "森羅の姫芽宮",
     "en_name": "Sylvan Princessprite"
   },
@@ -47662,6 +47708,7 @@
   "40838625": {
     "type": "Trap",
     "cn_name": "沙尘防护罩 -尘埃之力-",
+    "sc_name": "沙尘防护罩 －尘埃之力－",
     "jp_name": "砂塵のバリア －ダスト・フォース－",
     "en_name": "Quaking Mirror Force"
   },
@@ -48358,6 +48405,7 @@
   "19462747": {
     "type": "Monster",
     "cn_name": "黑羽-吊风之戴思",
+    "sc_name": "黑羽－吊风之德斯",
     "jp_name": "BF－弔風のデス",
     "en_name": "Blackwing - Decay the Ill Wind"
   },
@@ -53658,6 +53706,7 @@
   "10131855": {
     "type": "Trap",
     "cn_name": "暗黑界的洗脑",
+    "sc_name": "暗黑界的洗脑",
     "jp_name": "暗黒界の洗脳",
     "en_name": "Dark World Brainwashing"
   },
@@ -63939,6 +63988,7 @@
   "41440817": {
     "type": "Trap",
     "cn_name": "心太炮式",
+    "sc_name": "心太炮式",
     "jp_name": "心太砲式",
     "en_name": "Jelly Cannon"
   },
@@ -68543,6 +68593,7 @@
   "85325774": {
     "type": "Spell",
     "cn_name": "暗黑界的援军",
+    "sc_name": "暗黑界的援军",
     "jp_name": "暗黒界の援軍",
     "en_name": "Charge Into a Dark World"
   },
@@ -72522,6 +72573,7 @@
   "72427512": {
     "type": "Monster",
     "cn_name": "拟态的食人虫",
+    "sc_name": "拟态食人虫",
     "jp_name": "擬態する人喰い虫",
     "en_name": "Mimicking Man-Eater Bug"
   },
@@ -72788,6 +72840,7 @@
   "42560034": {
     "type": "Spell",
     "cn_name": "夜之逃飞行",
+    "sc_name": "夜之逃飞行",
     "jp_name": "夜の逃飛行",
     "en_name": "Night Flight"
   },
@@ -72990,12 +73043,14 @@
   "91434602": {
     "type": "Monster",
     "cn_name": "权威者·许珀里翁",
+    "sc_name": "至尊者・许珀里翁",
     "jp_name": "マジェスティ・ヒュペリオン",
     "en_name": "Majesty Hyperion"
   },
   "38529357": {
     "type": "Monster",
     "cn_name": "命之代行者 尼普顿",
+    "sc_name": "命之代行者 涅普顿",
     "jp_name": "命の代行者 ネプチューン",
     "en_name": "The Agent of Life - Neptune"
   },
@@ -73014,6 +73069,7 @@
   "37706769": {
     "type": "Monster",
     "cn_name": "冥府的执行者 普鲁托",
+    "sc_name": "冥府之执行者 普鲁特",
     "jp_name": "冥府の執行者 プルート",
     "en_name": "The Executor of the Underworld - Pluto"
   },
@@ -73026,12 +73082,14 @@
   "90290572": {
     "type": "Monster",
     "cn_name": "代行者的近卫 穆恩",
+    "sc_name": "代行者的近卫 沐恩",
     "jp_name": "代行者の近衛 ムーン",
     "en_name": "Protector of The Agents - Moon"
   },
   "26684111": {
     "type": "Spell",
     "cn_name": "天空的圣水",
+    "sc_name": "天空的圣水",
     "jp_name": "天空の聖水",
     "en_name": "The Sacred Waters in the Sky"
   },
@@ -73467,6 +73525,7 @@
   "99054885": {
     "type": "Monster",
     "cn_name": "破坏之代行者 维纳斯",
+    "sc_name": "破坏之代行者 维纳斯",
     "jp_name": "破壊の代行者 ヴィーナス",
     "en_name": "The Agent of Destruction - Venus"
   },
@@ -74495,6 +74554,7 @@
   "30037118": {
     "type": "Monster",
     "cn_name": "死制棺 石棺",
+    "sc_name": "死制棺 冥椁",
     "jp_name": "死製棺サルコファガス",
     "en_name": "Devouring Sarcoughagus"
   },
@@ -77135,12 +77195,14 @@
   "41406613": {
     "type": "Monster",
     "cn_name": "暗黑界的魔神王 雷恩",
+    "sc_name": "暗黑界之魔神王 虹莲",
     "jp_name": "暗黒界の魔神王 レイン",
     "en_name": "Reign-Beaux, Overking of Dark World"
   },
   "77895328": {
     "type": "Monster",
     "cn_name": "暗黑界的门番 真塔",
+    "sc_name": "暗黑界之门卫 品红赞塔",
     "jp_name": "暗黒界の門番 ゼンタ",
     "en_name": "Genta, Gateman of Dark World"
   },
@@ -77165,6 +77227,7 @@
   "3167439": {
     "type": "Trap",
     "cn_name": "暗黑界的惩罚",
+    "sc_name": "暗黑界的惩罚",
     "jp_name": "暗黒界の懲罰",
     "en_name": "Dark World Punishment"
   },
@@ -77442,6 +77505,7 @@
   "78077209": {
     "type": "Monster",
     "cn_name": "魔龙将 迪亚波利卡",
+    "sc_name": "魔龙将 蒂娅波莉卡",
     "jp_name": "魔竜将ディアボリカ",
     "en_name": "Diabolica the Draconique General"
   },
@@ -79395,6 +79459,7 @@
   "76823930": {
     "type": "Trap",
     "cn_name": "血肉之代偿",
+    "sc_name": "血肉的代价",
     "jp_name": "血肉の代償",
     "en_name": "Ultimeat Offering"
   },
@@ -83039,6 +83104,7 @@
   "83589191": {
     "type": "Spell",
     "cn_name": "生命入侵",
+    "sc_name": "生命骇入",
     "jp_name": "ライフハック",
     "en_name": "Life Hack"
   },
@@ -90831,6 +90897,7 @@
   "89693655": {
     "type": "Spell",
     "cn_name": "亚空间战斗",
+    "sc_name": "亚空间战斗",
     "jp_name": "亜空間バトル",
     "en_name": "Subspace Battle"
   },
@@ -91880,6 +91947,7 @@
   "71808988": {
     "type": "Monster",
     "cn_name": "青眼卡通究极龙",
+    "sc_name": "青眼卡通究极龙",
     "jp_name": "ブルーアイズ・トゥーン・アルティメットドラゴン"
   },
   "7293697": {
