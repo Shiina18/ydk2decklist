@@ -15591,6 +15591,11 @@
     "jp_name": "大地震",
     "en_name": "Seismic Shockwave"
   },
+  "100263005": {
+    "type": "Monster",
+    "cn_name": "白骑士团的支配者",
+    "jp_name": "白騎士団のロード"
+  },
   "41230939": {
     "type": "Monster",
     "cn_name": "电子暗黑魔角",
@@ -92017,6 +92022,51 @@
     "type": "Monster",
     "cn_name": "黑阳龙 伊利俄斯",
     "jp_name": "黒陽竜イリオス"
+  },
+  "100263001": {
+    "type": "Monster",
+    "cn_name": "暗恐兽",
+    "jp_name": "ダークティラノ"
+  },
+  "100263002": {
+    "type": "Monster",
+    "cn_name": "秘仪之力12-倒吊人",
+    "jp_name": "アルカナフォースⅩⅡ－THE HANGED MAN"
+  },
+  "100263003": {
+    "type": "Monster",
+    "cn_name": "光幻兽 烛光多头龙",
+    "jp_name": "光幻獣 カンデラード"
+  },
+  "100263004": {
+    "type": "Monster",
+    "cn_name": "等离子战士 原子八雷王",
+    "jp_name": "プラズマ戦士エイトム"
+  },
+  "100263006": {
+    "type": "Monster",
+    "cn_name": "不死之死亡神",
+    "jp_name": "不死のデスロード"
+  },
+  "100263007": {
+    "type": "Monster",
+    "cn_name": "元素英雄 黏土守卫侠",
+    "jp_name": "E・HERO クレイガードマン"
+  },
+  "100263008": {
+    "type": "Spell",
+    "cn_name": "人偶之锤",
+    "jp_name": "ドールハンマー"
+  },
+  "100263009": {
+    "type": "Spell",
+    "cn_name": "速攻召唤",
+    "jp_name": "速攻召喚"
+  },
+  "100263010": {
+    "type": "Spell",
+    "cn_name": "D-爆裂",
+    "jp_name": "D－バースト"
   },
   "45536531": {
     "type": "Monster",
