@@ -84426,7 +84426,8 @@
     "type": "Monster",
     "cn_name": "异色眼日焰龙",
     "sc_name": "异色眼阳焰龙",
-    "jp_name": "オッドアイズ・ソルブレイズ・ドラゴン"
+    "jp_name": "オッドアイズ・ソルブレイズ・ドラゴン",
+    "en_name": "Odd-Eyes Solblaze Dragon"
   },
   "28103028": {
     "type": "Monster",
@@ -92698,6 +92699,21 @@
     "type": "Monster",
     "cn_name": "魔女术工匠·种子女巫",
     "jp_name": "ウィッチクラフト・シード"
+  },
+  "100269038": {
+    "type": "Monster",
+    "cn_name": "异色眼超驭龙",
+    "en_name": "Odd-Eyes Override Dragon"
+  },
+  "100269215": {
+    "type": "Monster",
+    "cn_name": "疾行机人 达磨打落人",
+    "en_name": "Speedroid Darumaknocker"
+  },
+  "100269113": {
+    "type": "Monster",
+    "cn_name": "月光绯虎",
+    "en_name": "Lunalight Scarlet Tiger"
   },
   "42026772": {
     "type": "Monster",
