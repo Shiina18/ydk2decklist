@@ -101,6 +101,7 @@
   "71625222": {
     "type": "Monster",
     "cn_name": "时间魔术师",
+    "sc_name": "时间魔术师",
     "jp_name": "時の魔術師",
     "en_name": "Time Wizard"
   },
@@ -440,6 +441,7 @@
   "41462083": {
     "type": "Monster",
     "cn_name": "千年龙",
+    "sc_name": "千岁龙",
     "jp_name": "千年竜",
     "en_name": "Thousand Dragon"
   },
@@ -525,6 +527,7 @@
   "62121": {
     "type": "Monster",
     "cn_name": "暗晦之城",
+    "sc_name": "暗晦之城",
     "jp_name": "闇晦ましの城",
     "en_name": "Castle of Dark Illusions"
   },
@@ -602,6 +605,7 @@
   "20277860": {
     "type": "Monster",
     "cn_name": "铠武者僵尸",
+    "sc_name": "铠武者僵尸",
     "jp_name": "鎧武者ゾンビ",
     "en_name": "Armored Zombie"
   },
@@ -615,12 +619,14 @@
   "92667214": {
     "type": "Monster",
     "cn_name": "杀人小丑僵尸",
+    "sc_name": "夺命马戏团僵尸",
     "jp_name": "マーダーサーカス・ゾンビ",
     "en_name": "Clown Zombie"
   },
   "29155212": {
     "type": "Monster",
     "cn_name": "幽灵王-南瓜王-",
+    "sc_name": "鬼魂王－南瓜王－",
     "jp_name": "ゴースト王－パンプキング－",
     "en_name": "Pumpking the King of Ghosts"
   },
@@ -2005,6 +2011,7 @@
   "22702055": {
     "type": "Spell",
     "cn_name": "海",
+    "sc_name": "海",
     "jp_name": "海",
     "en_name": "Umi"
   },
@@ -2301,6 +2308,7 @@
   "59383041": {
     "type": "Monster",
     "cn_name": "卡通鳄鱼",
+    "sc_name": "卡通鳄鱼",
     "jp_name": "トゥーン・アリゲーター",
     "en_name": "Toon Alligator"
   },
@@ -3994,6 +4002,7 @@
   "82878489": {
     "type": "Spell",
     "cn_name": "光之城",
+    "sc_name": "闪光城堡",
     "jp_name": "シャイン・キャッスル",
     "en_name": "Shine Palace"
   },
@@ -4292,6 +4301,7 @@
   "38369349": {
     "type": "Monster",
     "cn_name": "卡通蛋龙",
+    "sc_name": "卡通龙蛋",
     "jp_name": "トゥーン・ドラゴン・エッガー",
     "en_name": "Manga Ryu-Ran"
   },
@@ -4409,6 +4419,7 @@
   "42035044": {
     "type": "Monster",
     "cn_name": "漆黑之豹战士",
+    "sc_name": "漆黑的豹战士",
     "jp_name": "漆黒の豹戦士パンサーウォリアー",
     "en_name": "Panther Warrior"
   },
@@ -4454,6 +4465,7 @@
   "77585513": {
     "type": "Monster",
     "cn_name": "人造人-念力震慑者",
+    "sc_name": "人造人－念力震慑者",
     "jp_name": "人造人間－サイコ・ショッカー",
     "en_name": "Jinzo"
   },
@@ -4652,6 +4664,7 @@
   "15259703": {
     "type": "Spell",
     "cn_name": "卡通世界",
+    "sc_name": "卡通世界",
     "jp_name": "トゥーン・ワールド",
     "en_name": "Toon World"
   },
@@ -4664,6 +4677,7 @@
   "88032456": {
     "type": "Spell",
     "cn_name": "复制猫",
+    "sc_name": "复制猫",
     "jp_name": "コピーキャット",
     "en_name": "Mimicat"
   },
@@ -4746,12 +4760,14 @@
   "74137509": {
     "type": "Spell",
     "cn_name": "天使的骰子",
+    "sc_name": "天使的骰子",
     "jp_name": "天使のサイコロ",
     "en_name": "Graceful Dice"
   },
   "126218": {
     "type": "Trap",
     "cn_name": "恶魔的骰子",
+    "sc_name": "魔鬼的骰子",
     "jp_name": "悪魔のサイコロ",
     "en_name": "Skull Dice"
   },
@@ -5400,6 +5416,7 @@
   "57839750": {
     "type": "Monster",
     "cn_name": "母灰熊",
+    "sc_name": "母灰熊",
     "jp_name": "グリズリーマザー",
     "en_name": "Mother Grizzly"
   },
@@ -5754,6 +5771,7 @@
   "61705417": {
     "type": "Trap",
     "cn_name": "盗墓者",
+    "sc_name": "盗墓者",
     "jp_name": "墓荒らし",
     "en_name": "Graverobber"
   },
@@ -5976,6 +5994,7 @@
   "17214465": {
     "type": "Monster",
     "cn_name": "海神的巫女",
+    "sc_name": "海神的巫女",
     "jp_name": "海神の巫女",
     "en_name": "Maiden of the Aqua"
   },
@@ -6164,6 +6183,7 @@
   "3643300": {
     "type": "Monster",
     "cn_name": "传说的渔人",
+    "sc_name": "传说的渔夫",
     "jp_name": "伝説のフィッシャーマン",
     "en_name": "The Legendary Fisherman"
   },
@@ -6334,6 +6354,7 @@
   "21598948": {
     "type": "Trap",
     "cn_name": "怪兽箱",
+    "sc_name": "怪兽箱",
     "jp_name": "モンスターBOX",
     "en_name": "Fairy Box"
   },
@@ -7713,6 +7734,7 @@
   "295517": {
     "type": "Spell",
     "cn_name": "传说之都 亚特兰蒂斯",
+    "sc_name": "传说之都 亚特兰蒂斯",
     "jp_name": "伝説の都 アトランティス",
     "en_name": "A Legendary Ocean"
   },
@@ -8122,6 +8144,7 @@
   "43509019": {
     "type": "Trap",
     "cn_name": "卡通防御",
+    "sc_name": "卡通防御",
     "jp_name": "トゥーン・ディフェンス",
     "en_name": "Toon Defense"
   },
@@ -8155,6 +8178,7 @@
   "15270885": {
     "type": "Monster",
     "cn_name": "卡通哥布林突击部队",
+    "sc_name": "卡通格布林突击部队",
     "jp_name": "トゥーン・ゴブリン突撃部隊",
     "en_name": "Toon Goblin Attack Force"
   },
@@ -10452,6 +10476,7 @@
   "37721209": {
     "type": "Monster",
     "cn_name": "海龙-泰达路斯",
+    "sc_name": "海龙－代达罗斯",
     "jp_name": "海竜－ダイダロス",
     "en_name": "Levia-Dragon - Daedalus"
   },
@@ -13129,6 +13154,7 @@
   "10485110": {
     "type": "Monster",
     "cn_name": "海龙神-尼奥泰达路斯",
+    "sc_name": "海龙神－超代达罗斯",
     "jp_name": "海竜神－ネオダイダロス",
     "en_name": "Ocean Dragon Lord - Neo-Daedalus"
   },
@@ -14634,6 +14660,7 @@
   "41613948": {
     "type": "Monster",
     "cn_name": "命运英雄 恶魔人",
+    "sc_name": "命运－英雄 恶劫魔侠",
     "jp_name": "D-HERO デビルガイ",
     "en_name": "Destiny HERO - Doom Lord"
   },
@@ -15205,6 +15232,7 @@
   "53527835": {
     "type": "Spell",
     "cn_name": "暗黑都市",
+    "sc_name": "黑暗城市",
     "jp_name": "ダーク・シティ",
     "en_name": "Dark City"
   },
@@ -16247,6 +16275,7 @@
   "35787450": {
     "type": "Trap",
     "cn_name": "无尽的恐惧",
+    "sc_name": "无尽恐惧",
     "jp_name": "エターナル・ドレッド",
     "en_name": "Eternal Dread"
   },
@@ -16969,6 +16998,7 @@
   "43797906": {
     "type": "Monster",
     "cn_name": "亚特兰蒂斯的战士",
+    "sc_name": "亚特兰蒂斯的战士",
     "jp_name": "アトランティスの戦士",
     "en_name": "Warrior of Atlantis"
   },
@@ -19721,6 +19751,7 @@
   "36625827": {
     "type": "Monster",
     "cn_name": "命运英雄 恐惧从者",
+    "sc_name": "命运－英雄 恐惧从者",
     "jp_name": "D-HERO ドレッドサーヴァント",
     "en_name": "Destiny HERO - Dread Servant"
   },
@@ -24333,6 +24364,7 @@
   "7935043": {
     "type": "Trap",
     "cn_name": "海龙神的加护",
+    "sc_name": "海龙神的加护",
     "jp_name": "海竜神の加護",
     "en_name": "Aegis of the Ocean Dragon Lord"
   },
@@ -25969,6 +26001,7 @@
   "65496056": {
     "type": "Monster",
     "cn_name": "科达路斯",
+    "sc_name": "小达罗斯",
     "jp_name": "コダロス",
     "en_name": "Codarus"
   },
@@ -37655,6 +37688,7 @@
   "33725002": {
     "type": "Monster",
     "cn_name": "V火精灵",
+    "sc_name": "V沙罗曼蛇",
     "jp_name": "Vサラマンダー",
     "en_name": "V Salamander"
   },
@@ -37715,18 +37749,21 @@
   "7152333": {
     "type": "Monster",
     "cn_name": "阴影食尸鬼",
+    "sc_name": "黑影・食尸鬼",
     "jp_name": "アンブラル・グール",
     "en_name": "Umbral Horror Ghoul"
   },
   "33551032": {
     "type": "Monster",
     "cn_name": "阴影无形鬼",
+    "sc_name": "黑影・无定形",
     "jp_name": "アンブラル・アンフォーム",
     "en_name": "Umbral Horror Unform"
   },
   "70546737": {
     "type": "Monster",
     "cn_name": "阴影鬼火",
+    "sc_name": "黑影・鬼火",
     "jp_name": "アンブラル・ウィル・オ・ザ・ウィスプ",
     "en_name": "Umbral Horror Will o' the Wisp"
   },
@@ -37984,6 +38021,7 @@
   "76067258": {
     "type": "Monster",
     "cn_name": "No.66 霸键甲虫",
+    "sc_name": "编号66 霸键甲虫 万能钥匙兜虫",
     "jp_name": "No.66 覇鍵甲虫マスター・キー・ビートル",
     "en_name": "Number 66: Master Key Beetle"
   },
@@ -38099,12 +38137,14 @@
   "67949763": {
     "type": "Trap",
     "cn_name": "罪键之法",
+    "sc_name": "罪键之法 蜃气律",
     "jp_name": "罪鍵の法－シン・キー・ロウ",
     "en_name": "Corrupted Keys"
   },
   "94933468": {
     "type": "Trap",
     "cn_name": "枉然-背叛的嘲笑",
+    "sc_name": "Vain－背叛的嘲笑",
     "jp_name": "Vain－裏切りの嘲笑",
     "en_name": "Vain Betrayer"
   },
@@ -39489,24 +39529,28 @@
   "37984162": {
     "type": "Monster",
     "cn_name": "蛇头石人",
+    "sc_name": "蛇魔・魔像",
     "jp_name": "ゴルゴニック・ゴーレム",
     "en_name": "Gorgonic Golem"
   },
   "64379261": {
     "type": "Monster",
     "cn_name": "蛇头石像怪",
+    "sc_name": "蛇魔・石像鬼",
     "jp_name": "ゴルゴニック・ガーゴイル",
     "en_name": "Gorgonic Gargoyle"
   },
   "90764875": {
     "type": "Monster",
     "cn_name": "蛇头食尸鬼",
+    "sc_name": "蛇魔・食尸鬼",
     "jp_name": "ゴルゴニック・グール",
     "en_name": "Gorgonic Ghoul"
   },
   "37168514": {
     "type": "Monster",
     "cn_name": "蛇头地狱犬",
+    "sc_name": "蛇魔・三头犬",
     "jp_name": "ゴルゴニック・ケルベロス",
     "en_name": "Gorgonic Cerberus"
   },
@@ -40347,6 +40391,7 @@
   "59708927": {
     "type": "Monster",
     "cn_name": "阴影幽鬼",
+    "sc_name": "黑影・鬼魂",
     "jp_name": "アンブラル・ゴースト",
     "en_name": "Umbral Horror Ghost"
   },
@@ -45887,36 +45932,42 @@
   "7171149": {
     "type": "Monster",
     "cn_name": "卡通古代的机械巨人",
+    "sc_name": "卡通古代机械齿轮巨人",
     "jp_name": "トゥーン・アンティーク・ギアゴーレム",
     "en_name": "Toon Ancient Gear Golem"
   },
   "43175858": {
     "type": "Spell",
     "cn_name": "卡通王国",
+    "sc_name": "卡通王国",
     "jp_name": "トゥーン・キングダム",
     "en_name": "Toon Kingdom"
   },
   "70560957": {
     "type": "Spell",
     "cn_name": "卡通倒带",
+    "sc_name": "卡通倒带",
     "jp_name": "トゥーン・ロールバック",
     "en_name": "Toon Rollback"
   },
   "6958551": {
     "type": "Spell",
     "cn_name": "影子卡通",
+    "sc_name": "影子卡通",
     "jp_name": "シャドー・トゥーン",
     "en_name": "Shadow Toon"
   },
   "33453260": {
     "type": "Spell",
     "cn_name": "漫画之手",
+    "sc_name": "漫画手",
     "jp_name": "コミックハンド",
     "en_name": "Comic Hand"
   },
   "79447365": {
     "type": "Trap",
     "cn_name": "卡通面具",
+    "sc_name": "卡通面具",
     "jp_name": "トゥーン・マスク",
     "en_name": "Toon Mask"
   },
@@ -46278,6 +46329,7 @@
   "44968687": {
     "type": "Monster",
     "cn_name": "传说的渔人三世",
+    "sc_name": "传说的渔夫三世",
     "jp_name": "伝説のフィッシャーマン三世",
     "en_name": "The Legendary Fisherman III"
   },
@@ -46417,6 +46469,7 @@
   "28112535": {
     "type": "Monster",
     "cn_name": "卡通左轮手枪龙",
+    "sc_name": "卡通左轮手枪龙",
     "jp_name": "トゥーン・リボルバー・ドラゴン",
     "en_name": "Toon Barrel Dragon"
   },
@@ -47475,6 +47528,7 @@
   "61190918": {
     "type": "Monster",
     "cn_name": "卡通破坏之剑士",
+    "sc_name": "卡通毁灭剑士",
     "jp_name": "トゥーン・バスター・ブレイダー",
     "en_name": "Toon Buster Blader"
   },
@@ -53980,6 +54034,7 @@
   "93657021": {
     "type": "Monster",
     "cn_name": "命运英雄 暮托邦人",
+    "sc_name": "命运－英雄 暮托邦魔侠",
     "jp_name": "D-HERO ダスクユートピアガイ",
     "en_name": "Destiny HERO - Dusktopia"
   },
@@ -54124,24 +54179,28 @@
   "19801646": {
     "type": "Monster",
     "cn_name": "传说的渔人二世",
+    "sc_name": "传说的渔夫二世",
     "jp_name": "伝説のフィッシャーマン二世",
     "en_name": "The Legendary Fisherman II"
   },
   "46290741": {
     "type": "Monster",
     "cn_name": "城塞鲸",
+    "sc_name": "城塞鲸",
     "jp_name": "城塞クジラ",
     "en_name": "Citadel Whale"
   },
   "82685480": {
     "type": "Spell",
     "cn_name": "海龙神之怒",
+    "sc_name": "利维坦的愤怒",
     "jp_name": "海竜神の怒り",
     "en_name": "Rage of Kairyu-Shin"
   },
   "19089195": {
     "type": "Trap",
     "cn_name": "潜海奇袭",
+    "sc_name": "潜海奇袭",
     "jp_name": "潜海奇襲",
     "en_name": "Sea Stealth Attack"
   },
@@ -67465,6 +67524,7 @@
   "98804359": {
     "type": "Spell",
     "cn_name": "海龙神的激昂",
+    "sc_name": "利维坦的激昂",
     "jp_name": "海竜神の激昂",
     "en_name": "Fury of Kairyu-Shin"
   },
@@ -68070,12 +68130,14 @@
   "90788081": {
     "type": "Monster",
     "cn_name": "百年龙",
+    "sc_name": "百岁龙",
     "jp_name": "百年竜",
     "en_name": "Hundred Dragon"
   },
   "26273196": {
     "type": "Monster",
     "cn_name": "时间魔导士",
+    "sc_name": "时间魔导士",
     "jp_name": "時の魔導士",
     "en_name": "Time Wizard of Tomorrow"
   },
@@ -68151,6 +68213,7 @@
   "27699122": {
     "type": "Spell",
     "cn_name": "卡通翻阅",
+    "sc_name": "卡通翻页",
     "jp_name": "トゥーン・フリップ",
     "en_name": "Toon Page-Flip"
   },
@@ -74146,42 +74209,49 @@
   "96546575": {
     "type": "Monster",
     "cn_name": "大要塞鲸",
+    "sc_name": "大要塞鲸",
     "jp_name": "大要塞クジラ",
     "en_name": "Mega Fortress Whale"
   },
   "23931679": {
     "type": "Monster",
     "cn_name": "海龙神-利维坦",
+    "sc_name": "海龙神－利维坦",
     "jp_name": "海竜神－リバイアサン",
     "en_name": "Ocean Dragon Lord - Kairyu-Shin"
   },
   "69436288": {
     "type": "Monster",
     "cn_name": "死亡乌贼",
+    "sc_name": "死亡克拉肯",
     "jp_name": "デス・クラーケン",
     "en_name": "Doom Kraken"
   },
   "95824983": {
     "type": "Monster",
     "cn_name": "电气水母",
+    "sc_name": "电气海月－僧帽水母－",
     "jp_name": "電気海月－フィサリア－",
     "en_name": "Electric Jellyfish"
   },
   "22819092": {
     "type": "Spell",
     "cn_name": "鱼群探知机",
+    "sc_name": "鱼群探知机",
     "jp_name": "魚群探知機",
     "en_name": "Fish Sonar"
   },
   "58203736": {
     "type": "Spell",
     "cn_name": "潜海奇袭II",
+    "sc_name": "潜海奇袭Ⅱ",
     "jp_name": "潜海奇襲Ⅱ",
     "en_name": "Sea Stealth II"
   },
   "95602345": {
     "type": "Trap",
     "cn_name": "暗岩的海龙神",
+    "sc_name": "暗岩之利维坦",
     "jp_name": "暗岩の海竜神",
     "en_name": "Kairyu-Shin's Dark Reef"
   },
@@ -74300,6 +74370,7 @@
   "57511992": {
     "type": "Monster",
     "cn_name": "海神的依代",
+    "sc_name": "海神的依代",
     "jp_name": "海神の依代",
     "en_name": "Yorishiro of the Aqua"
   },
@@ -91323,6 +91394,7 @@
   "19491080": {
     "type": "Monster",
     "cn_name": "道化一座 帽隐士小丑",
+    "sc_name": "小丑戏帮 哈特",
     "jp_name": "道化の一座 ハット"
   },
   "46985799": {
@@ -92037,11 +92109,13 @@
   "8315896": {
     "type": "Monster",
     "cn_name": "光幻兽 烛光多头龙",
+    "sc_name": "光幻兽 坎德拉特",
     "jp_name": "光幻獣 カンデラード"
   },
   "45700805": {
     "type": "Monster",
     "cn_name": "等离子战士 原子八雷王",
+    "sc_name": "等离子战士 原能",
     "jp_name": "プラズマ戦士エイトム"
   },
   "71108540": {
@@ -92067,6 +92141,7 @@
   "47471667": {
     "type": "Spell",
     "cn_name": "D-爆裂",
+    "sc_name": "D－爆破",
     "jp_name": "D－バースト"
   },
   "45536531": {
@@ -92293,401 +92368,481 @@
   "77482666": {
     "type": "Monster",
     "cn_name": "疾风之豹战士",
+    "sc_name": "疾风的豹战士",
     "jp_name": "疾風の豹戦士パンサーウォリアー"
   },
   "4881365": {
     "type": "Monster",
     "cn_name": "翼龙龙骑士",
+    "sc_name": "飞龙的龙骑士",
     "jp_name": "ワイバーンの竜騎士"
   },
   "40275470": {
     "type": "Monster",
     "cn_name": "人造人-念力能量震慑者",
+    "sc_name": "人造人－念力能量震慑者",
     "jp_name": "人造人間－サイコ・エナジー・ショッカー"
   },
   "76660178": {
     "type": "Monster",
     "cn_name": "大海的传说-渔人",
+    "sc_name": "大海的传说－渔夫",
     "jp_name": "大海の伝説－フィッシャーマン"
   },
   "3064783": {
     "type": "Monster",
     "cn_name": "闪光阴影",
+    "sc_name": "闪光・黑影",
     "jp_name": "シャイニング・アンブラル"
   },
   "39053882": {
     "type": "Monster",
     "cn_name": "V阴影",
+    "sc_name": "V黑影",
     "jp_name": "Vアンブラル"
   },
   "76548531": {
     "type": "Monster",
     "cn_name": "蛇头阴影",
+    "sc_name": "蛇魔・黑影",
     "jp_name": "ゴルゴニック・アンブラル"
   },
   "2932235": {
     "type": "Monster",
     "cn_name": "上千阴影",
+    "sc_name": "上千・黑影",
     "jp_name": "サウザンド・アンブラル"
   },
   "38331244": {
     "type": "Monster",
     "cn_name": "金神之战鬼 朱沙",
+    "sc_name": "金神之战艮鬼 赤沙",
     "jp_name": "金神の戦鬼 アカスナ"
   },
   "65325949": {
     "type": "Monster",
     "cn_name": "蛊神之色鬼 国栖八",
+    "sc_name": "蛊神之色艮鬼 葛叶",
     "jp_name": "蠱神の色鬼 クズハ"
   },
   "1710647": {
     "type": "Monster",
     "cn_name": "疫神之依鬼 夜亚",
+    "sc_name": "疫神之依艮鬼 夜亚",
     "jp_name": "疫神の依鬼 ヨア"
   },
   "38114652": {
     "type": "Monster",
     "cn_name": "封神之剑鬼 水子守",
+    "sc_name": "封神之剑艮鬼 水子守",
     "jp_name": "封神の剣鬼 ミクマリ"
   },
   "64603351": {
     "type": "Monster",
     "cn_name": "亚特兰蒂斯的龙神-泰达路斯",
+    "sc_name": "亚特兰蒂斯的龙神－代达罗斯",
     "jp_name": "アトランティスの竜神－ダイダロス"
   },
   "90098000": {
     "type": "Monster",
     "cn_name": "亚特兰蒂斯的战将",
+    "sc_name": "亚特兰蒂斯的战将",
     "jp_name": "アトランティスの戦将"
   },
   "37092104": {
     "type": "Monster",
     "cn_name": "亚特兰蒂斯的怪腕",
+    "sc_name": "亚特兰蒂斯的怪腕",
     "jp_name": "アトランティスの怪腕"
   },
   "63481713": {
     "type": "Monster",
     "cn_name": "亚特兰蒂斯的妖涡",
+    "sc_name": "亚特兰蒂斯的妖涡",
     "jp_name": "アトランティスの妖渦"
   },
   "90875418": {
     "type": "Monster",
     "cn_name": "预幻使 米底乌斯",
+    "sc_name": "预幻使 墨迪乌斯",
     "jp_name": "予幻使 メディウス"
   },
   "36270527": {
     "type": "Monster",
     "cn_name": "无限与有限之无垢大艺术",
+    "sc_name": "无限与有限之奥艺",
     "jp_name": "無限と有限のアルス＝マグナ"
   },
   "62368221": {
     "type": "Monster",
     "cn_name": "净化与腐败之无垢大艺术",
+    "sc_name": "净化与腐败之奥艺",
     "jp_name": "浄化と腐敗のアルス＝マグナ"
   },
   "99753860": {
     "type": "Monster",
     "cn_name": "结合与乖离之无垢大艺术",
+    "sc_name": "统合与乖离之奥艺",
     "jp_name": "結合と乖離のアルス＝マグナ"
   },
   "25158975": {
     "type": "Monster",
     "cn_name": "命运英雄 死亡教义人",
+    "sc_name": "命运－英雄 死亡教义魔侠",
     "jp_name": "D-HERO デスドグマガイ"
   },
   "62542673": {
     "type": "Monster",
     "cn_name": "命运英雄 恶魔主宰人",
+    "sc_name": "命运－英雄 恶劫主宰魔侠",
     "jp_name": "D-HERO デビルロードガイ"
   },
   "98931282": {
     "type": "Monster",
     "cn_name": "命运英雄 无惧从者",
+    "sc_name": "命运－英雄 无惧仆从",
     "jp_name": "D-HERO ドレッドノートサーヴァント"
   },
   "24925387": {
     "type": "Monster",
     "cn_name": "魔救之调律者",
+    "sc_name": "魔救调律者",
     "jp_name": "魔救の調律者"
   },
   "51420096": {
     "type": "Monster",
     "cn_name": "魔救之奇石-提亚玛特晶石",
+    "sc_name": "魔救奇石－提亚马特石",
     "jp_name": "魔救の奇石－ティアマイト"
   },
   "97818130": {
     "type": "Monster",
     "cn_name": "团结的恶魔龙 暗黑魔龙",
+    "sc_name": "团结之凶魔龙 黑恶魔龙",
     "jp_name": "結束の悪魔竜ブラック・デーモンズ・ドラゴン"
   },
   "24203749": {
     "type": "Monster",
     "cn_name": "天下独步之大义贼",
+    "sc_name": "天下独步之大义贼",
     "jp_name": "天下独歩の大義賊"
   },
   "50208444": {
     "type": "Monster",
     "cn_name": "精灵世妃 树精",
+    "sc_name": "精灵世妃 多里雅德",
     "jp_name": "精霊世妃 ドリアード"
   },
   "82692552": {
     "type": "Monster",
     "cn_name": "耀烂龙 珊瑚泳龙",
+    "sc_name": "耀烂龙 珊栖泳龙",
     "jp_name": "耀爛竜コラリアネクテス"
   },
   "29081251": {
     "type": "Monster",
     "cn_name": "死相之冥鉴 许布洛",
+    "sc_name": "死相之冥鉴 修布罗",
     "jp_name": "死相の冥鑑ヒュブロ"
   },
   "55585856": {
     "type": "Monster",
     "cn_name": "秘召水巫女士",
+    "sc_name": "秘召刻漏淑女",
     "jp_name": "ミズティックコール"
   },
   "82970905": {
     "type": "Monster",
     "cn_name": "父灰熊",
+    "sc_name": "公灰熊",
     "jp_name": "グリズリーファザー"
   },
   "28968609": {
     "type": "Monster",
     "cn_name": "垃圾石人",
+    "sc_name": "垃圾魔像",
     "jp_name": "ガーベージ・ゴーレム"
   },
   "55363218": {
     "type": "Monster",
     "cn_name": "阴暗漫画卡通",
+    "sc_name": "剪影卡通",
     "jp_name": "カートゥーン・シェード"
   },
   "81758313": {
     "type": "Monster",
     "cn_name": "一日万倍龙",
+    "sc_name": "一日万倍龙",
     "jp_name": "一日万倍龍"
   },
   "17242022": {
     "type": "Monster",
     "cn_name": "真红眼超越黑龙",
+    "sc_name": "真红眼超越黑龙",
     "jp_name": "真紅眼の超越黒竜"
   },
   "54641720": {
     "type": "Monster",
     "cn_name": "命运英雄 无惧人",
+    "sc_name": "命运－英雄 无惧魔侠",
     "jp_name": "D-HERO ドレッドノートガイ"
   },
   "80635735": {
     "type": "Monster",
     "cn_name": "召唤兽 迪·阿尼玛",
+    "sc_name": "召唤兽 迪・阿尼玛",
     "jp_name": "召喚獣ディー・アニマ"
   },
   "17020474": {
     "type": "Monster",
     "cn_name": "鬼神 朱沙之王",
+    "sc_name": "艮鬼神 朱沙之王",
     "jp_name": "鬼神 朱沙之王"
   },
   "43419178": {
     "type": "Monster",
     "cn_name": "鬼神 水子守命",
+    "sc_name": "艮鬼神 水子守命",
     "jp_name": "鬼神 水子守命"
   },
   "89813287": {
     "type": "Monster",
     "cn_name": "魔救之奇迹-提亚玛特晶石",
+    "sc_name": "魔救奇迹－提亚马特石",
     "jp_name": "魔救の奇跡－ティアマイト"
   },
   "16908882": {
     "type": "Monster",
     "cn_name": "No.104 假面魔蹈士 闪光V枉然",
+    "sc_name": "编号104 假面魔蹈士 闪光V",
     "jp_name": "No.104 仮面魔踏士シャイニングV"
   },
   "42396591": {
     "type": "Monster",
     "cn_name": "混沌No.104 假面魔蹈士 阴影·胜影",
+    "sc_name": "混沌编号104 假面魔蹈士 黑影・胜利",
     "jp_name": "CNo.104 仮面魔踏士アンブラル・ヴィクトリー"
   },
   "79791695": {
     "type": "Monster",
     "cn_name": "混沌超量 冀望皇龙 混沌异晶龙",
+    "sc_name": "混沌超量 冀望皇龙混沌巴利安龙",
     "jp_name": "CX 冀望皇龍カオス・バリアン・ドラゴン"
   },
   "15185344": {
     "type": "Monster",
     "cn_name": "灿冠乘骑 经典三冠海人马",
+    "sc_name": "灿冠乘骑 迅快拉维",
     "jp_name": "燦冠乗騎シックラヴィー"
   },
   "41570943": {
     "type": "Monster",
     "cn_name": "苍海龙神-尼奥泰达路斯·怒",
+    "sc_name": "苍海龙神－超代达罗斯・狂怒",
     "jp_name": "蒼海竜神－ネオダイダロス・レイジ"
   },
   "78579058": {
     "type": "Monster",
     "cn_name": "真海龙骑-泰达路斯",
+    "sc_name": "真海龙骑－代达罗斯",
     "jp_name": "真海竜騎－ダイダロス"
   },
   "4063756": {
     "type": "Monster",
     "cn_name": "幻狱神 米底丘利乌斯",
+    "sc_name": "幻狱神 墨迪克利乌斯",
     "jp_name": "幻獄神メディクリウス"
   },
   "41458361": {
     "type": "Monster",
     "cn_name": "魔救之辉迹",
+    "sc_name": "魔救辉迹",
     "jp_name": "魔救の輝跡"
   },
   "77856460": {
     "type": "Monster",
     "cn_name": "海中战型援助机器人",
+    "sc_name": "海中战型助手机器人",
     "jp_name": "海中戦型お手伝いロボ"
   },
   "3841104": {
     "type": "Monster",
     "cn_name": "解层龙 分层友谊丹波巨龙",
+    "sc_name": "解层龙 斯特拉提亚",
     "jp_name": "解層竜ストラティアエ"
   },
   "40235813": {
     "type": "Spell",
     "cn_name": "时间黑魔术师",
+    "sc_name": "时间黑魔术师",
     "jp_name": "時の黒魔術師"
   },
   "76630812": {
     "type": "Spell",
     "cn_name": "天使与恶魔的骰子",
+    "sc_name": "天使与魔鬼的骰子",
     "jp_name": "天使と悪魔のサイコロ"
   },
   "3129527": {
     "type": "Spell",
     "cn_name": "睡羊 替罪羊",
+    "sc_name": "眠羊 替罪山羊",
     "jp_name": "眠れる羊 スケープ・ゴート"
   },
   "39513225": {
     "type": "Spell",
     "cn_name": "七皇的冀望乡",
+    "sc_name": "巴利安之七皇冀望乡",
     "jp_name": "七皇の冀望郷"
   },
   "75518330": {
     "type": "Spell",
     "cn_name": "异晶人的希望",
+    "sc_name": "巴利安之希望",
     "jp_name": "バリアンズ・ホープ"
   },
   "2906939": {
     "type": "Spell",
     "cn_name": "艮神鬼门 三千世界",
+    "sc_name": "艮鬼神门 三千世界",
     "jp_name": "艮神鬼門 三千世界"
   },
   "38391684": {
     "type": "Spell",
     "cn_name": "龙都 亚特兰蒂斯",
+    "sc_name": "龙都 亚特兰蒂斯",
     "jp_name": "竜都アトランティス"
   },
   "65785782": {
     "type": "Spell",
     "cn_name": "呼应的传说之都",
+    "sc_name": "响应的亚特兰蒂斯",
     "jp_name": "呼応する伝説の都"
   },
   "1280391": {
     "type": "Spell",
     "cn_name": "显现的传说之都",
+    "sc_name": "显现的亚特兰蒂斯",
     "jp_name": "顕現する伝説の都"
   },
   "37279096": {
     "type": "Spell",
     "cn_name": "无垢大艺术-「黄昏之变幻」",
+    "sc_name": "无垢奥艺－“黄昏之变幻”",
     "jp_name": "無垢なる芸術－「黄昏の変幻」"
   },
   "4663194": {
     "type": "Spell",
     "cn_name": "幽狱之时计都市-暗黑都市",
+    "sc_name": "幽狱时钟都市－黑暗城市",
     "jp_name": "幽獄の時計都市－ダーク・シティ"
   },
   "30068809": {
     "type": "Spell",
     "cn_name": "魔救之合缘",
+    "sc_name": "魔救合缘",
     "jp_name": "魔救の合縁"
   },
   "77456448": {
     "type": "Spell",
     "cn_name": "魔法效果之剑",
+    "sc_name": "魔法效果之剑",
     "jp_name": "魔法効果の剣"
   },
   "3441553": {
     "type": "Spell",
     "cn_name": "三幻魔的天坏",
+    "sc_name": "三幻魔之天坏",
     "jp_name": "三幻魔の天壊"
   },
   "30945251": {
     "type": "Spell",
     "cn_name": "雷盟-过电压",
+    "sc_name": "雷盟－电压过载",
     "jp_name": "雷盟－オーバーボルテージ"
   },
   "76334960": {
     "type": "Spell",
     "cn_name": "召唤魔术-「杯」",
+    "sc_name": "召唤魔术－“杯”",
     "jp_name": "召喚魔術－「杯」"
   },
   "2729965": {
     "type": "Spell",
     "cn_name": "宇宙性飓风",
+    "sc_name": "宇宙性飓风",
     "jp_name": "宇宙的ハリケーン"
   },
   "39123673": {
     "type": "Spell",
     "cn_name": "魔力到达",
+    "sc_name": "魔力到达",
     "jp_name": "魔力到達"
   },
   "65118318": {
     "type": "Trap",
     "cn_name": "愚蠢的盗墓者",
+    "sc_name": "愚蠢的盗墓者",
     "jp_name": "おろかな墓荒らし"
   },
   "2606417": {
     "type": "Trap",
     "cn_name": "大逆转箱",
+    "sc_name": "大逆转箱",
     "jp_name": "大逆転BOX"
   },
   "38001022": {
     "type": "Trap",
     "cn_name": "异晶人的纹徽",
+    "sc_name": "巴利安之印",
     "jp_name": "バリアンズ・シール"
   },
   "64455720": {
     "type": "Trap",
     "cn_name": "色鬼之虫毒",
+    "sc_name": "色艮鬼之蛊毒",
     "jp_name": "色鬼の蟲毒"
   },
   "91444835": {
     "type": "Trap",
     "cn_name": "依鬼之咒咆",
+    "sc_name": "依艮鬼之咒咆",
     "jp_name": "依鬼の呪咆"
   },
   "37839434": {
     "type": "Trap",
     "cn_name": "剑鬼之神域",
+    "sc_name": "剑艮鬼之神域",
     "jp_name": "剣鬼の神域"
   },
   "64233143": {
     "type": "Trap",
     "cn_name": "海龙神的大涡",
+    "sc_name": "代达罗斯的大涡",
     "jp_name": "海竜神の大渦"
   },
   "90728287": {
     "type": "Trap",
     "cn_name": "无垢大艺术-「幻创之贤者」",
+    "sc_name": "无垢奥艺－“幻创之贤者”",
     "jp_name": "無垢なる芸術－「幻創の賢者」"
   },
   "26116996": {
     "type": "Trap",
     "cn_name": "祟纸报应",
+    "sc_name": "祟纸之报应",
     "jp_name": "祟リ紙ノ報イ"
   },
   "63111591": {
     "type": "Trap",
     "cn_name": "卖骸乌鸦",
+    "sc_name": "贩卖亡骸的乌鸦",
     "jp_name": "躯売りのカラス"
   },
   "99505609": {
     "type": "Trap",
     "cn_name": "宾果卡",
+    "sc_name": "宾果卡",
     "jp_name": "ビンゴカード"
   },
   "24056179": {
@@ -92732,7 +92887,7 @@
   },
   "100266002": {
     "type": "Trap",
-    "cn_name": "圣心防护罩 -心灵之力-",
+    "cn_name": "神圣心灵防护罩 -心灵境力-",
     "jp_name": "聖なる心のバリア －マインドフォース－"
   },
   "100266003": {
@@ -92752,7 +92907,7 @@
   },
   "100266006": {
     "type": "Monster",
-    "cn_name": "No.101 寂静荣誉方舟骑士-灵魂圣所",
+    "cn_name": "No.101 寂静荣誉方舟骑士-灵魂庇护",
     "jp_name": "No.101 S・H・Ark Knight－ソウル・アサイラム"
   },
   "100266007": {
