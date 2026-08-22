@@ -5841,7 +5841,7 @@
   },
   "10000010": {
     "type": "Monster",
-    "cn_name": "太阳神之翼神龙",
+    "cn_name": "拉之翼神龙",
     "sc_name": "拉之翼神龙",
     "jp_name": "ラーの翼神竜",
     "en_name": "The Winged Dragon of Ra"
@@ -41220,7 +41220,7 @@
   },
   "74875003": {
     "type": "Monster",
-    "cn_name": "太阳神的使徒",
+    "cn_name": "拉的使徒",
     "sc_name": "拉之使徒",
     "jp_name": "ラーの使徒",
     "en_name": "Ra's Disciple"
@@ -46102,7 +46102,7 @@
   },
   "10000080": {
     "type": "Monster",
-    "cn_name": "太阳神之翼神龙-球体形",
+    "cn_name": "拉之翼神龙-球体形",
     "sc_name": "拉之翼神龙－球体形",
     "jp_name": "ラーの翼神竜－球体形",
     "en_name": "The Winged Dragon of Ra - Sphere Mode"
@@ -48115,7 +48115,7 @@
   },
   "10000090": {
     "type": "Monster",
-    "cn_name": "太阳神之翼神龙-不死鸟",
+    "cn_name": "拉之翼神龙-不死鸟",
     "sc_name": "拉之翼神龙－不死鸟",
     "jp_name": "ラーの翼神竜－不死鳥",
     "en_name": "The Winged Dragon of Ra - Immortal Phoenix"
@@ -92114,7 +92114,7 @@
   },
   "45700805": {
     "type": "Monster",
-    "cn_name": "等离子战士 原子八雷王",
+    "cn_name": "等离子战士 原能",
     "sc_name": "等离子战士 原能",
     "jp_name": "プラズマ戦士エイトム"
   },
@@ -92855,17 +92855,17 @@
     "cn_name": "魔女术工匠·种子女巫",
     "jp_name": "ウィッチクラフト・シード"
   },
-  "100269038": {
+  "58083496": {
     "type": "Monster",
     "cn_name": "异色眼超驭龙",
     "en_name": "Odd-Eyes Override Dragon"
   },
-  "100269215": {
+  "85482105": {
     "type": "Monster",
     "cn_name": "疾行机人 达磨打落人",
     "en_name": "Speedroid Darumaknocker"
   },
-  "100269113": {
+  "11876803": {
     "type": "Monster",
     "cn_name": "月光绯虎",
     "en_name": "Lunalight Scarlet Tiger"
@@ -92880,47 +92880,47 @@
     "cn_name": "邪恶的魔王-佐克",
     "jp_name": "邪悪なる魔王－ゾーク"
   },
-  "100266001": {
+  "30752324": {
     "type": "Spell",
     "cn_name": "古之秘仪",
     "jp_name": "古の秘儀"
   },
-  "100266002": {
+  "66247039": {
     "type": "Trap",
-    "cn_name": "神圣心灵防护罩 -心灵境力-",
+    "cn_name": "神圣心灵防护罩 -心灵之力-",
     "jp_name": "聖なる心のバリア －マインドフォース－"
   },
-  "100266003": {
+  "3635138": {
     "type": "Monster",
     "cn_name": "来自冥府的使者",
     "jp_name": "冥府よりの使者"
   },
-  "100266004": {
+  "39030883": {
     "type": "Monster",
     "cn_name": "暗黑武装龙·击灭",
     "jp_name": "ダーク・アームド・ドラゴン・バニッシャー"
   },
-  "100266005": {
+  "65424481": {
     "type": "Monster",
-    "cn_name": "冰结界的龙胤 三千界龙",
+    "cn_name": "冰结界的龙胤 千枪龙",
     "jp_name": "氷結界の龍胤 エクハジャール"
   },
-  "100266006": {
+  "2419596": {
     "type": "Monster",
     "cn_name": "No.101 寂静荣誉方舟骑士-灵魂庇护",
     "jp_name": "No.101 S・H・Ark Knight－ソウル・アサイラム"
   },
-  "100266007": {
+  "38817295": {
     "type": "Spell",
     "cn_name": "月女神的至天",
     "jp_name": "月女神の至天"
   },
-  "100266008": {
+  "65302903": {
     "type": "Monster",
     "cn_name": "圣王女 罗丝帕梅拉",
     "jp_name": "聖王女ローズパメラ"
   },
-  "100200296": {
+  "48128081": {
     "type": "Spell",
     "cn_name": "宿命的决斗",
     "jp_name": "宿命の決闘"
