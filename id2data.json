@@ -90106,37 +90106,43 @@
     "type": "Monster",
     "cn_name": "破灭与终焉之支配者",
     "sc_name": "世界终灭支配者",
-    "jp_name": "破滅と終焉の支配者"
+    "jp_name": "破滅と終焉の支配者",
+    "en_name": "Ruler of the End of the World"
   },
   "30138615": {
     "type": "Monster",
     "cn_name": "幻惑眼纳祭神",
     "sc_name": "幻惑眼纳祭魔",
-    "jp_name": "ナイトメア・アイズ・サクリファイス"
+    "jp_name": "ナイトメア・アイズ・サクリファイス",
+    "en_name": "Nightmare-Eyes Restrict"
   },
   "66122213": {
     "type": "Monster",
     "cn_name": "地狱俯冲轰炸机",
     "sc_name": "地狱俯冲轰炸机",
-    "jp_name": "ヘル・ダイブ・ボンバー"
+    "jp_name": "ヘル・ダイブ・ボンバー",
+    "en_name": "Infernal Strike Fighter"
   },
   "92517928": {
     "type": "Monster",
     "cn_name": "银河眼反物质龙",
     "sc_name": "银河眼反物质龙",
-    "jp_name": "ギャラクシーアイズ・アンチマター・ドラゴン"
+    "jp_name": "ギャラクシーアイズ・アンチマター・ドラゴン",
+    "en_name": "Galaxy-Eyes Antimatter Dragon"
   },
   "39016067": {
     "type": "Monster",
     "cn_name": "龙剑士 风麒麟·平行",
     "sc_name": "龙剑士 乘风独角麒麟 别型",
-    "jp_name": "竜剣士ウィンドユニコーンP"
+    "jp_name": "竜剣士ウィンドユニコーンP",
+    "en_name": "Wind Unicorn Parallel, the Dracoslayer"
   },
   "65400671": {
     "type": "Monster",
     "cn_name": "水晶机巧-继承玻纤·棱镜",
     "sc_name": "水晶机巧－玻璃光纤 棱彩",
-    "jp_name": "水晶機巧－ハリファイバーP"
+    "jp_name": "水晶機巧－ハリファイバーP",
+    "en_name": "Crystron Halqifibrax Prism"
   },
   "86289475": {
     "type": "Monster",
@@ -91064,157 +91070,183 @@
     "type": "Monster",
     "cn_name": "王之仆人-黑魔术师",
     "sc_name": "王之仆从－黑魔导",
-    "jp_name": "王のしもべ－ブラック・マジシャン"
+    "jp_name": "王のしもべ－ブラック・マジシャン",
+    "en_name": "Dark Magician, the Pharaoh's Servant"
   },
   "14965712": {
     "type": "Monster",
     "cn_name": "增殖的栗子球！",
     "sc_name": "增殖的库里波！",
-    "jp_name": "増殖するクリボー！"
+    "jp_name": "増殖するクリボー！",
+    "en_name": "Kuriboh - Multiply!"
   },
   "41350417": {
     "type": "Spell",
     "cn_name": "黑魔导的幕帘",
     "sc_name": "黑之魔导的帘布",
-    "jp_name": "黒魔導のカーテン"
+    "jp_name": "黒魔導のカーテン",
+    "en_name": "Dark Magical Curtain"
   },
   "87758525": {
     "type": "Monster",
     "cn_name": "至爱英雄 闪光火焰翼侠",
     "sc_name": "至爱－英雄 闪耀光焰翼人",
-    "jp_name": "F・HERO シャイニング・フレア・ウィングマン"
+    "jp_name": "F・HERO シャイニング・フレア・ウィングマン",
+    "en_name": "Favorite HERO Shining Flare Wingman"
   },
   "13243124": {
     "type": "Monster",
     "cn_name": "至爱英雄 火焰翼侠",
     "sc_name": "至爱－英雄 火焰翼人",
-    "jp_name": "F・HERO フレイム・ウィングマン"
+    "jp_name": "F・HERO フレイム・ウィングマン",
+    "en_name": "Favorite HERO Flame Wingman"
   },
   "40237839": {
     "type": "Monster",
     "cn_name": "羽翼栗子球·萨巴希尔 LV10",
     "sc_name": "羽翼库里波・萨巴希尔 LV10",
-    "jp_name": "ハネクリボー・サバティエル LV１０"
+    "jp_name": "ハネクリボー・サバティエル LV１０",
+    "en_name": "Winged Kuriboh Sabatiel LV10"
   },
   "76636978": {
     "type": "Monster",
     "cn_name": "星尘龙-牺牲者的圣域",
     "sc_name": "星尘龙－牺牲者圣域",
-    "jp_name": "スターダスト・ドラゴン－ヴィクテム・サンクチュアリ"
+    "jp_name": "スターダスト・ドラゴン－ヴィクテム・サンクチュアリ",
+    "en_name": "Stardust Dragon - Victim Sanctuary"
   },
   "13021682": {
     "type": "Monster",
     "cn_name": "群星废品同调士",
     "sc_name": "星废品同步士",
-    "jp_name": "スタージャンク・シンクロン"
+    "jp_name": "スタージャンク・シンクロン",
+    "en_name": "Starjunk Synchron"
   },
   "49415281": {
     "type": "Trap",
     "cn_name": "同调紧急",
     "sc_name": "同步紧急",
-    "jp_name": "シンクロ・エマージェンシー"
+    "jp_name": "シンクロ・エマージェンシー",
+    "en_name": "Synchro Emergency"
   },
   "76504386": {
     "type": "Monster",
     "cn_name": "No.39 光之使者 希望皇 霍普",
     "sc_name": "编号39 光之使者 希望皇霍普",
-    "jp_name": "No.39 光の使者 希望皇ホープ"
+    "jp_name": "No.39 光の使者 希望皇ホープ",
+    "en_name": "Number 39: Utopia, Emissary of Light"
   },
   "12908094": {
     "type": "Monster",
     "cn_name": "我我我魔术师-我我我魔导",
     "sc_name": "我我我魔术师－我我我魔术",
-    "jp_name": "ガガガマジシャン－ガガガマジック"
+    "jp_name": "ガガガマジシャン－ガガガマジック",
+    "en_name": "Gagaga Magician - Gagaga Magic"
   },
   "48393693": {
     "type": "Monster",
     "cn_name": "我我我少女-零零通话",
     "sc_name": "我我我女孩－零零拨号",
-    "jp_name": "ガガガガール－ゼロゼロコール"
+    "jp_name": "ガガガガール－ゼロゼロコール",
+    "en_name": "Gagaga Girl - Cell Phone Subtraction"
   },
   "75787708": {
     "type": "Monster",
     "cn_name": "四天之龙 异色眼灵摆龙",
     "sc_name": "四天之龙 异色眼灵摆龙",
-    "jp_name": "四天の龍 オッドアイズ・ペンデュラム・ドラゴン"
+    "jp_name": "四天の龍 オッドアイズ・ペンデュラム・ドラゴン",
+    "en_name": "Odd-Eyes Pendulum Dragon, Four Heavenly Dragons"
   },
   "1186447": {
     "type": "Monster",
     "cn_name": "星读之魔术师-星占之魔术士",
     "sc_name": "星读的魔术师－天宫图魔术士",
-    "jp_name": "星読みの魔術師－ホロスコープ・マジシャン"
+    "jp_name": "星読みの魔術師－ホロスコープ・マジシャン",
+    "en_name": "Horoscope Sorcerer, the Stargazer Magician"
   },
   "48171151": {
     "type": "Monster",
     "cn_name": "星霜之魔术师-宙读之魔术士",
     "sc_name": "星霜的魔术师－宙读阵魔术士",
-    "jp_name": "星霜の魔術師－アストログラフ・マジシャン"
+    "jp_name": "星霜の魔術師－アストログラフ・マジシャン",
+    "en_name": "Astrograph Sorcerer, the Starfrost Magician"
   },
   "74665150": {
     "type": "Monster",
     "cn_name": "解码语者·集成",
     "sc_name": "解码语者・整合",
-    "jp_name": "デコード・トーカー・インテグレーション"
+    "jp_name": "デコード・トーカー・インテグレーション",
+    "en_name": "Decode Talker Integration"
   },
   "64865": {
     "type": "Monster",
     "cn_name": "电子界代码魔术师",
     "sc_name": "电子界代码魔术师",
-    "jp_name": "サイバース・コード・マジシャン"
+    "jp_name": "サイバース・コード・マジシャン",
+    "en_name": "Cyberse Code Magician"
   },
   "37458564": {
     "type": "Monster",
     "cn_name": "电子界契约魔女",
     "sc_name": "电子界契约女巫",
-    "jp_name": "サイバース・コントラクト・ウィッチ"
+    "jp_name": "サイバース・コントラクト・ウィッチ",
+    "en_name": "Cyberse Contract Witch"
   },
   "73443672": {
     "type": "Spell",
     "cn_name": "黄泉天轮",
     "sc_name": "黄泉天轮",
-    "jp_name": "黄泉天輪"
+    "jp_name": "黄泉天輪",
+    "en_name": "Underworld Circle"
   },
   "847217": {
     "type": "Spell",
     "cn_name": "山铜魔封剑",
     "sc_name": "奥利哈刚的魔封剑",
-    "jp_name": "オレイカルコスの魔封剣"
+    "jp_name": "オレイカルコスの魔封剣",
+    "en_name": "Orichalcos Sword of Sealing"
   },
   "32236916": {
     "type": "Spell",
     "cn_name": "虹桥 碧佛洛斯特",
     "sc_name": "虹之桥",
-    "jp_name": "虹の橋 ビフレスト"
+    "jp_name": "虹の橋 ビフレスト",
+    "en_name": "Rainbow Bridge Bifrost"
   },
   "68721020": {
     "type": "Trap",
     "cn_name": "罪 力量",
     "sc_name": "Sin 力量",
-    "jp_name": "Sin Force"
+    "jp_name": "Sin Force",
+    "en_name": "Malefic Force"
   },
   "5125629": {
     "type": "Trap",
     "cn_name": "罪 范式转移",
     "sc_name": "Sin 范式转变",
-    "jp_name": "Sin Paradigm Shift"
+    "jp_name": "Sin Paradigm Shift",
+    "en_name": "Malefic Paradigm Shift"
   },
   "31114334": {
     "type": "Monster",
     "cn_name": "强袭黑羽-丛云之草薙剑鸟",
     "sc_name": "强袭黑羽－丛云之草薙",
-    "jp_name": "A BF－叢雲のクサナギ"
+    "jp_name": "A BF－叢雲のクサナギ",
+    "en_name": "Assault Blackwing - Kusanagi the Gathering Storm"
   },
   "68508433": {
     "type": "Monster",
     "cn_name": "大精灵机巧军-灵摆支配者",
     "sc_name": "大精灵机巧军－灵摆统御者",
-    "jp_name": "大精霊機巧軍－ペンデュラム・ルーラー"
+    "jp_name": "大精霊機巧軍－ペンデュラム・ルーラー",
+    "en_name": "Master Spirit Tech Force - Pendulum Ruler"
   },
   "4993187": {
     "type": "Monster",
     "cn_name": "W：P变幻舞夜",
     "sc_name": "W：P变幻舞夜",
-    "jp_name": "W：Pファンシーボール"
+    "jp_name": "W：Pファンシーボール",
+    "en_name": "W:P Fancy Ball"
   },
   "30397786": {
     "type": "Monster",
