@@ -20605,6 +20605,7 @@
   "96782886": {
     "type": "Monster",
     "cn_name": "精神脑魔",
+    "sc_name": "心灵主宰",
     "jp_name": "メンタルマスター",
     "en_name": "Mind Master"
   },
@@ -37407,6 +37408,7 @@
   "68937720": {
     "type": "Trap",
     "cn_name": "精神抽取",
+    "sc_name": "心灵抽取",
     "jp_name": "メンタルドレイン",
     "en_name": "Mind Drain"
   },
@@ -41468,6 +41470,7 @@
   "17412721": {
     "type": "Monster",
     "cn_name": "旧神 诺登",
+    "sc_name": "旧神诺登",
     "jp_name": "旧神ノーデン",
     "en_name": "Elder Entity Norden"
   },
@@ -54265,6 +54268,7 @@
   "43017476": {
     "type": "Monster",
     "cn_name": "氘素龙",
+    "sc_name": "氘恐龙",
     "jp_name": "デューテリオン",
     "en_name": "Duoterion"
   },
@@ -80446,6 +80450,7 @@
   "47051709": {
     "type": "Monster",
     "cn_name": "光子三角翼飞机",
+    "sc_name": "光子三角翼",
     "jp_name": "フォトン・デルタ・ウィング",
     "en_name": "Photon Delta Wing"
   },
@@ -81543,12 +81548,14 @@
   "25131968": {
     "type": "Monster",
     "cn_name": "毘龙之谦",
+    "sc_name": "毗龙之谦",
     "jp_name": "毘龍之謙",
     "en_name": "Ken the Warrior Dragon"
   },
   "52126602": {
     "type": "Monster",
     "cn_name": "虎菱之玄",
+    "sc_name": "虎菱之玄",
     "jp_name": "虎菱之玄",
     "en_name": "Gen the Diamond Tiger"
   },
@@ -92915,46 +92922,219 @@
   "30752324": {
     "type": "Spell",
     "cn_name": "古之秘仪",
+    "sc_name": "古之秘仪",
     "jp_name": "古の秘儀"
   },
   "66247039": {
     "type": "Trap",
     "cn_name": "神圣心灵防护罩 -心灵之力-",
+    "sc_name": "神圣心护罩－心灵之力－",
     "jp_name": "聖なる心のバリア －マインドフォース－"
   },
   "3635138": {
     "type": "Monster",
     "cn_name": "来自冥府的使者",
+    "sc_name": "来自冥府的使者",
     "jp_name": "冥府よりの使者"
   },
   "39030883": {
     "type": "Monster",
     "cn_name": "暗黑武装龙·击灭",
+    "sc_name": "暗黑武装龙・湮灭",
     "jp_name": "ダーク・アームド・ドラゴン・バニッシャー"
   },
   "65424481": {
     "type": "Monster",
     "cn_name": "冰结界的龙胤 千枪龙",
+    "sc_name": "冰结界之龙胤 千枪龙",
     "jp_name": "氷結界の龍胤 エクハジャール"
   },
   "2419596": {
     "type": "Monster",
     "cn_name": "No.101 寂静荣誉方舟骑士-灵魂庇护",
+    "sc_name": "编号101 寂静荣耀方舟骑士－灵魂救济",
     "jp_name": "No.101 S・H・Ark Knight－ソウル・アサイラム"
   },
   "38817295": {
     "type": "Spell",
     "cn_name": "月女神的至天",
+    "sc_name": "月女神之至天",
     "jp_name": "月女神の至天"
   },
   "65302903": {
     "type": "Monster",
     "cn_name": "圣王女 罗丝帕梅拉",
+    "sc_name": "圣主王女 萝兹帕梅拉",
     "jp_name": "聖王女ローズパメラ"
   },
   "48128081": {
     "type": "Spell",
     "cn_name": "宿命的决斗",
     "jp_name": "宿命の決闘"
+  },
+  "100267001": {
+    "type": "Monster",
+    "cn_name": "归光之启示者-奈菲尔塔利",
+    "jp_name": "セネトの啓示者－ネフェルタリ"
+  },
+  "100267002": {
+    "type": "Monster",
+    "cn_name": "归光之启示者-阿蒙霍特普",
+    "jp_name": "セネトの啓示者－アメンホテプ"
+  },
+  "100267003": {
+    "type": "Monster",
+    "cn_name": "归光伟力·斯芬克斯",
+    "jp_name": "セネトナクト・スフィンクス"
+  },
+  "100267004": {
+    "type": "Monster",
+    "cn_name": "归光神爱·瓦吉特",
+    "jp_name": "タウセネト・アジャト"
+  },
+  "100267005": {
+    "type": "Monster",
+    "cn_name": "归光稚子·涅赫贝特",
+    "jp_name": "セネトメス・ネクベト"
+  },
+  "100267006": {
+    "type": "Spell",
+    "cn_name": "归光葬魂之仪",
+    "jp_name": "光帰葬魂の儀"
+  },
+  "100267007": {
+    "type": "Spell",
+    "cn_name": "归光之契",
+    "jp_name": "光帰への契り"
+  },
+  "100267008": {
+    "type": "Spell",
+    "cn_name": "归光之旅-『塞尼特』",
+    "jp_name": "光帰の旅－『セネト』"
+  },
+  "100267009": {
+    "type": "Trap",
+    "cn_name": "光器还魂之仪",
+    "jp_name": "光器還魂の儀"
+  },
+  "100267010": {
+    "type": "Trap",
+    "cn_name": "光器的瀑布",
+    "jp_name": "光器の瀑布"
+  },
+  "100267011": {
+    "type": "Trap",
+    "cn_name": "光器的降雷",
+    "jp_name": "光器の降雷"
+  },
+  "100267016": {
+    "type": "Monster",
+    "cn_name": "升辉月之帐 西耶洛",
+    "jp_name": "レイズ・ムーンの帳 シエロ"
+  },
+  "100267017": {
+    "type": "Monster",
+    "cn_name": "升辉月之雅 卡萝尔",
+    "jp_name": "レイズ・ムーンの雅 キャロル"
+  },
+  "100267018": {
+    "type": "Monster",
+    "cn_name": "升辉月之翼 菈比",
+    "jp_name": "レイズ・ムーンの翼 ラピ"
+  },
+  "100267019": {
+    "type": "Monster",
+    "cn_name": "升辉月之刃 莎娜",
+    "jp_name": "レイズ・ムーンの刃 シェーナ"
+  },
+  "100267020": {
+    "type": "Monster",
+    "cn_name": "升辉月之灯 珂尔谢",
+    "jp_name": "レイズ・ムーンの灯 クルーシェ"
+  },
+  "100267021": {
+    "type": "Monster",
+    "cn_name": "升辉月之朔 挤牌龟",
+    "jp_name": "レイズ・ムーンの朔 スクイーズ"
+  },
+  "100267022": {
+    "type": "Monster",
+    "cn_name": "升辉月之天 西耶洛-止注时刻",
+    "jp_name": "レイズ・ムーンの天 シエロ－ノーモアベット"
+  },
+  "100267023": {
+    "type": "Monster",
+    "cn_name": "升辉月之望 挤牌龟-头奖壶",
+    "jp_name": "レイズ・ムーンの望 スクイーズ－ジャックポット"
+  },
+  "100267024": {
+    "type": "Spell",
+    "cn_name": "升辉月的群星",
+    "jp_name": "レイズ・ムーンの星々"
+  },
+  "100267025": {
+    "type": "Spell",
+    "cn_name": "不夜城的『升辉月』",
+    "jp_name": "眠らない街の『レイズ・ムーン』"
+  },
+  "100267026": {
+    "type": "Trap",
+    "cn_name": "升辉月的辉煌",
+    "jp_name": "レイズ・ムーンの煌めき"
+  },
+  "100267031": {
+    "type": "Monster",
+    "cn_name": "虚之异解△欣嫩谷",
+    "jp_name": "虚ノ異解△ゲヘナ"
+  },
+  "100267032": {
+    "type": "Monster",
+    "cn_name": "天之异解△谢屋尔",
+    "jp_name": "天ノ異解△シェオル"
+  },
+  "100267033": {
+    "type": "Monster",
+    "cn_name": "碧之异解△图奥内拉",
+    "jp_name": "碧ノ異解△トゥオネラ"
+  },
+  "100267034": {
+    "type": "Monster",
+    "cn_name": "绯之异解△奈落",
+    "jp_name": "緋ノ異解△ナラカ"
+  },
+  "100267035": {
+    "type": "Monster",
+    "cn_name": "天霆异解△黄泉国",
+    "jp_name": "天霆異解△ヨミ"
+  },
+  "100267036": {
+    "type": "Monster",
+    "cn_name": "葬岭异解△战殒地",
+    "jp_name": "葬嶺異解△ヴェルヘイム"
+  },
+  "100267037": {
+    "type": "Monster",
+    "cn_name": "狂岚异解△冥神府",
+    "jp_name": "狂嵐異解△プルートニオン"
+  },
+  "100267038": {
+    "type": "Monster",
+    "cn_name": "虚蚀异解△多罪海",
+    "jp_name": "虚蝕異解△ジャハンナム"
+  },
+  "100267040": {
+    "type": "Spell",
+    "cn_name": "异解△福音",
+    "jp_name": "異解△福音"
+  },
+  "100267039": {
+    "type": "Spell",
+    "cn_name": "异解△领域-瓦尔波勒斯",
+    "jp_name": "異解△領域－ヴァルヴォルス"
+  },
+  "100267041": {
+    "type": "Trap",
+    "cn_name": "异解△审判",
+    "jp_name": "異解△審判"
   }
 }
