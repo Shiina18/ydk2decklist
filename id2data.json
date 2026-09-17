@@ -14550,6 +14550,16 @@
     "jp_name": "ミラーバリア",
     "en_name": "Mirror Barrier"
   },
+  "100200292": {
+    "type": "Monster",
+    "cn_name": "优秀精灵",
+    "jp_name": "サラブレッド・エルフ"
+  },
+  "100200293": {
+    "type": "Monster",
+    "cn_name": "强袭狮子",
+    "jp_name": "アサルト・リオン"
+  },
   "20065322": {
     "type": "Spell",
     "cn_name": "栗子球的呼唤笛",
@@ -14624,6 +14634,11 @@
     "sc_name": "武装转生",
     "jp_name": "武装転生",
     "en_name": "Armament Reincarnation"
+  },
+  "100200294": {
+    "type": "Spell",
+    "cn_name": "力量联结",
+    "jp_name": "パワーコネクション"
   },
   "89943723": {
     "type": "Monster",
@@ -93136,5 +93151,10 @@
     "type": "Trap",
     "cn_name": "异解△审判",
     "jp_name": "異解△審判"
+  },
+  "100200297": {
+    "type": "Monster",
+    "cn_name": "装甲魔导士 帕智",
+    "jp_name": "装甲魔導士パズー"
   }
 }
