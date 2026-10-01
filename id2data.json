@@ -6929,6 +6929,7 @@
   "15866454": {
     "type": "Spell",
     "cn_name": "喧闹的邪恶灵",
+    "sc_name": "骚灵",
     "jp_name": "ポルターガイスト",
     "en_name": "Spiritualism"
   },
@@ -8390,6 +8391,7 @@
   "26084285": {
     "type": "Monster",
     "cn_name": "守墓的监视者",
+    "sc_name": "守墓的监视者",
     "jp_name": "墓守の監視者",
     "en_name": "Gravekeeper's Watcher"
   },
@@ -15931,6 +15933,7 @@
   "19740112": {
     "type": "Monster",
     "cn_name": "干旱之结界像",
+    "sc_name": "干旱之结界像",
     "jp_name": "干ばつの結界像",
     "en_name": "Barrier Statue of the Drought"
   },
@@ -17524,6 +17527,7 @@
   "60606759": {
     "type": "Monster",
     "cn_name": "暗黑界的番兵 兰治",
+    "sc_name": "暗黑界之卫兵 橙雷吉",
     "jp_name": "暗黒界の番兵 レンジ",
     "en_name": "Renge, Gatekeeper of Dark World"
   },
@@ -18284,6 +18288,7 @@
   "99735427": {
     "type": "Trap",
     "cn_name": "吸入暗阴的魔镜",
+    "sc_name": "吸收黑暗之魔镜",
     "jp_name": "暗闇を吸い込むマジック・ミラー",
     "en_name": "Shadow-Imprisoning Mirror"
   },
@@ -29530,6 +29535,7 @@
   "66816282": {
     "type": "Monster",
     "cn_name": "核成墙人",
+    "sc_name": "核成・墙壁",
     "jp_name": "コアキメイル・ウォール",
     "en_name": "Koa'ki Meiru Wall"
   },
@@ -32530,6 +32536,7 @@
   "55271628": {
     "type": "Trap",
     "cn_name": "暴君的自暴自弃",
+    "sc_name": "暴君的自暴自弃",
     "jp_name": "暴君の自暴自棄",
     "en_name": "Tyrant's Throes"
   },
@@ -35176,6 +35183,7 @@
   "9161357": {
     "type": "Monster",
     "cn_name": "No.6 先史遗产 大西洲巨人",
+    "sc_name": "编号6 先史遗产 亚特兰塔",
     "jp_name": "No.6 先史遺産アトランタル",
     "en_name": "Number 6: Chronomaly Atlandis"
   },
@@ -40153,6 +40161,7 @@
   "8809344": {
     "type": "Monster",
     "cn_name": "外神 奈亚拉",
+    "sc_name": "外神奈亚拉",
     "jp_name": "外神ナイアルラ",
     "en_name": "Outer Entity Nyarla"
   },
@@ -42972,6 +42981,7 @@
   "49033797": {
     "type": "Spell",
     "cn_name": "禁断的偏方面体",
+    "sc_name": "禁断的偏方三八面体",
     "jp_name": "禁断のトラペゾヘドロン",
     "en_name": "Forbidden Trapezohedron"
   },
@@ -44434,6 +44444,7 @@
   "70913714": {
     "type": "Monster",
     "cn_name": "古神 哈斯塔",
+    "sc_name": "古神哈斯托尔",
     "jp_name": "古神ハストール",
     "en_name": "Old Entity Hastorr"
   },
@@ -62901,6 +62912,7 @@
   "46984349": {
     "type": "Trap",
     "cn_name": "救魔之奇石",
+    "sc_name": "救魔之奇石",
     "jp_name": "救魔の奇石",
     "en_name": "Dwimmered Glimmer"
   },
@@ -92729,7 +92741,8 @@
     "type": "Spell",
     "cn_name": "时间黑魔术师",
     "sc_name": "时间黑魔术师",
-    "jp_name": "時の黒魔術師"
+    "jp_name": "時の黒魔術師",
+    "en_name": "Dark Time Wizard"
   },
   "76630812": {
     "type": "Spell",
