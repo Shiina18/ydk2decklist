@@ -2847,6 +2847,7 @@
   "72869010": {
     "type": "Monster",
     "cn_name": "狩魂魔人",
+    "sc_name": "灵魂猎手",
     "jp_name": "ソウル・ハンター",
     "en_name": "Soul Hunter"
   },
@@ -4192,6 +4193,7 @@
   "2504891": {
     "type": "Monster",
     "cn_name": "骷髅祭司",
+    "sc_name": "骷髅主教",
     "jp_name": "スカルビショップ",
     "en_name": "Skull Knight"
   },
@@ -10245,6 +10247,7 @@
   "22589918": {
     "type": "Spell",
     "cn_name": "上膛",
+    "sc_name": "再填充",
     "jp_name": "リロード",
     "en_name": "Reload"
   },
@@ -18739,6 +18742,7 @@
   "6614221": {
     "type": "Monster",
     "cn_name": "雾之王",
+    "sc_name": "雾之王",
     "jp_name": "霧の王",
     "en_name": "Fog King"
   },
@@ -38399,6 +38403,7 @@
   "41147577": {
     "type": "Monster",
     "cn_name": "混沌超量 风纪大宫司 祭文",
+    "sc_name": "混沌超量 风纪大宫司 祭文",
     "jp_name": "CX 風紀大宮司サイモン",
     "en_name": "CXyz Simon the Great Moral Leader"
   },
@@ -40273,6 +40278,7 @@
   "6387204": {
     "type": "Monster",
     "cn_name": "混沌No.6 先史遗产 混沌大西洲巨人",
+    "sc_name": "混沌编号6 先史遗产 混沌亚特兰塔",
     "jp_name": "CNo.6 先史遺産カオス・アトランタル",
     "en_name": "Number C6: Chronomaly Chaos Atlandis"
   },
@@ -44412,6 +44418,7 @@
   "82257940": {
     "type": "Spell",
     "cn_name": "礼物交换",
+    "sc_name": "礼物交换",
     "jp_name": "プレゼント交換",
     "en_name": "Gift Exchange"
   },
@@ -73096,6 +73103,7 @@
   "76552147": {
     "type": "Trap",
     "cn_name": "异次元赛马",
+    "sc_name": "异次元赛马",
     "jp_name": "D・D・D",
     "en_name": "D.D.D. - Different Dimension Derby"
   },
@@ -92419,6 +92427,7 @@
   "42232157": {
     "type": "Trap",
     "cn_name": "命运之盘上",
+    "sc_name": "命运的盘面",
     "jp_name": "運命の盤上"
   },
   "79621896": {
@@ -93009,166 +93018,199 @@
   "84512726": {
     "type": "Monster",
     "cn_name": "塞尼特的启示者-奈菲尔塔利",
+    "sc_name": "塞尼特的启示者－奈菲尔塔利",
     "jp_name": "セネトの啓示者－ネフェルタリ"
   },
   "10007434": {
     "type": "Monster",
     "cn_name": "塞尼特的启示者-阿蒙霍特普",
+    "sc_name": "塞尼特的启示者－阿蒙霍特普",
     "jp_name": "セネトの啓示者－アメンホテプ"
   },
   "47095439": {
     "type": "Monster",
     "cn_name": "塞尼特纳赫特·斯芬克斯",
+    "sc_name": "塞尼特纳赫特・斯芬克斯",
     "jp_name": "セネトナクト・スフィンクス"
   },
   "73490148": {
     "type": "Monster",
     "cn_name": "塔乌塞尼特·阿贾特",
+    "sc_name": "塔乌塞尼特・阿贾特",
     "jp_name": "タウセネト・アジャト"
   },
   "10884847": {
     "type": "Monster",
     "cn_name": "塞尼特摩斯·尼库贝特",
+    "sc_name": "塞尼特摩斯・尼库贝特",
     "jp_name": "セネトメス・ネクベト"
   },
   "46273941": {
     "type": "Spell",
     "cn_name": "归光葬魂之仪",
+    "sc_name": "塞尼特・归光葬魂之仪",
     "jp_name": "光帰葬魂の儀"
   },
   "72278590": {
     "type": "Spell",
     "cn_name": "归光之契",
+    "sc_name": "塞尼特・归光之契",
     "jp_name": "光帰への契り"
   },
   "9762295": {
     "type": "Spell",
     "cn_name": "归光之旅-『塞尼特』",
+    "sc_name": "归光之旅－『塞尼特』",
     "jp_name": "光帰の旅－『セネト』"
   },
   "45151304": {
     "type": "Trap",
     "cn_name": "光器还魂之仪",
+    "sc_name": "塞尼特・光器还魂之仪",
     "jp_name": "光器還魂の儀"
   },
   "12555008": {
     "type": "Trap",
     "cn_name": "光器之瀑布",
+    "sc_name": "塞尼特・光器之瀑布",
     "jp_name": "光器の瀑布"
   },
   "48940617": {
     "type": "Trap",
     "cn_name": "光器之降雷",
+    "sc_name": "塞尼特・光器之降雷",
     "jp_name": "光器の降雷"
   },
   "75934716": {
     "type": "Monster",
     "cn_name": "盈彩月夜之帐 西艾萝",
+    "sc_name": "盈彩月夜之帐 西艾萝",
     "jp_name": "レイズ・ムーンの帳 シエロ"
   },
   "11333460": {
     "type": "Monster",
     "cn_name": "盈彩月夜之雅 卡萝尔",
+    "sc_name": "盈彩月夜之雅 卡萝尔",
     "jp_name": "レイズ・ムーンの雅 キャロル"
   },
   "47828069": {
     "type": "Monster",
     "cn_name": "盈彩月夜之翼 菈碧",
+    "sc_name": "盈彩月夜之翼 菈碧",
     "jp_name": "レイズ・ムーンの翼 ラピ"
   },
   "74212164": {
     "type": "Monster",
     "cn_name": "盈彩月夜之刃 希耶娜",
+    "sc_name": "盈彩月夜之刃 希耶娜",
     "jp_name": "レイズ・ムーンの刃 シェーナ"
   },
   "10611873": {
     "type": "Monster",
     "cn_name": "盈彩月夜之灯 库露雪",
+    "sc_name": "盈彩月夜之灯 库露雪",
     "jp_name": "レイズ・ムーンの灯 クルーシェ"
   },
   "47605577": {
     "type": "Monster",
     "cn_name": "盈彩月夜之朔 斯奎兹",
+    "sc_name": "盈彩月夜之朔 斯奎兹",
     "jp_name": "レイズ・ムーンの朔 スクイーズ"
   },
   "73090586": {
     "type": "Monster",
     "cn_name": "盈彩月夜之天 西艾萝-一掷乾坤",
+    "sc_name": "盈彩月夜之天 西艾萝－一掷乾坤",
     "jp_name": "レイズ・ムーンの天 シエロ－ノーモアベット"
   },
   "9484285": {
     "type": "Monster",
     "cn_name": "盈彩月夜之望 斯奎兹-千金大奖",
+    "sc_name": "盈彩月夜之望 斯奎兹－千金大奖",
     "jp_name": "レイズ・ムーンの望 スクイーズ－ジャックポット"
   },
   "46983930": {
     "type": "Spell",
     "cn_name": "盈彩月夜之群星",
+    "sc_name": "盈彩月夜之群星",
     "jp_name": "レイズ・ムーンの星々"
   },
   "72978038": {
     "type": "Spell",
     "cn_name": "未眠之城的『盈彩月夜』",
+    "sc_name": "未眠之城的『盈彩月夜』",
     "jp_name": "眠らない街の『レイズ・ムーン』"
   },
   "9362643": {
     "type": "Trap",
     "cn_name": "盈彩月夜之辉煌",
+    "sc_name": "盈彩月夜之辉煌",
     "jp_name": "レイズ・ムーンの煌めき"
   },
   "35761342": {
     "type": "Monster",
     "cn_name": "虚之异解△盖赫纳",
+    "sc_name": "虚之异解△盖赫纳",
     "jp_name": "虚ノ異解△ゲヘナ"
   },
   "71155456": {
     "type": "Monster",
     "cn_name": "天之异解△邪奥尔",
+    "sc_name": "天之异解△邪奥尔",
     "jp_name": "天ノ異解△シェオル"
   },
   "8540055": {
     "type": "Monster",
     "cn_name": "碧之异解△屠奥内拉",
+    "sc_name": "碧之异解△屠奥内拉",
     "jp_name": "碧ノ異解△トゥオネラ"
   },
   "34645790": {
     "type": "Monster",
     "cn_name": "绯之异解△奈落迦",
+    "sc_name": "绯之异解△奈落迦",
     "jp_name": "緋ノ異解△ナラカ"
   },
   "61033809": {
     "type": "Monster",
     "cn_name": "天霆异解△幽谜",
+    "sc_name": "天霆异解△幽谜",
     "jp_name": "天霆異解△ヨミ"
   },
   "7428507": {
     "type": "Monster",
     "cn_name": "葬岭异解△危尔海姆",
+    "sc_name": "葬岭异解△危尔海姆",
     "jp_name": "葬嶺異解△ヴェルヘイム"
   },
   "33822112": {
     "type": "Monster",
     "cn_name": "狂岚异解△普戮托尼翁",
+    "sc_name": "狂岚异解△普戮托尼翁",
     "jp_name": "狂嵐異解△プルートニオン"
   },
   "60811211": {
     "type": "Monster",
     "cn_name": "虚蚀异解△灾罕纳姆",
+    "sc_name": "虚蚀异解△灾罕纳姆",
     "jp_name": "虚蝕異解△ジャハンナム"
   },
   "96205925": {
     "type": "Spell",
     "cn_name": "异解△福音",
+    "sc_name": "异解△福音",
     "jp_name": "異解△福音"
   },
   "33700664": {
     "type": "Spell",
     "cn_name": "异解△领域-瓦尔涡罗斯",
+    "sc_name": "异解△领域－瓦尔涡罗斯",
     "jp_name": "異解△領域－ヴァルヴォルス"
   },
   "65195679": {
     "type": "Trap",
     "cn_name": "异解△审判",
+    "sc_name": "异解△审判",
     "jp_name": "異解△審判"
   },
   "100268001": {
